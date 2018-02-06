@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/german_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Tue, 06 Feb 2018 20:54:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24.1–27.9%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15.4–18.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13.5–16.6%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8.7–11.4%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.7–12.5%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.1–14.0%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.8–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.png"
+        length="200022"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 19:36:48 +0100</pubDate>
+      <dc:date>2018-02-06T19:36:48.366018+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa for Stern and RTL, 29 January–2 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-02-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 26.0–30.1%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.3–19.8%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11.6–14.6%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.6–14.6%&lt;/li&gt;&lt;li&gt;CSU (EPP): 4.1–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-02-Forsa.png"
+        length="199326"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 19:43:41 +0100</pubDate>
+      <dc:date>2018-02-06T19:43:41.837391+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 30 January–1 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24.0–28.8%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.9–21.2%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12.2–16.0%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 5.7–8.5%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.4–12.8%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 12.2–16.0%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.7–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.png"
+        length="207972"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 20:54:30 +0100</pubDate>
+      <dc:date>2018-02-06T20:54:30.640179+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 29–31 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Infratestdimap.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25.8–30.4%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12.3–15.8%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8.6–11.6%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.5–12.7%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.5–12.7%&lt;/li&gt;&lt;li&gt;CSU (EPP): 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Infratestdimap.png"
+        length="206489"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 19:57:28 +0100</pubDate>
+      <dc:date>2018-02-06T19:57:28.336573+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid for Bild am Sonntag, 25–31 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25.6–30.6%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 17.8–22.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11.2–15.0%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7.5–10.7%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 8.5–11.8%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.4–12.8%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.9–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.png"
+        length="208588"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 20:05:47 +0100</pubDate>
+      <dc:date>2018-02-06T20:05:47.854679+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 26–29 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25.1–28.9%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.1–19.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12.7–15.7%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7.9–10.4%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.8–12.5%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.8–12.5%&lt;/li&gt;&lt;li&gt;CSU (EPP): 5.8–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.png"
+        length="202392"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 20:20:12 +0100</pubDate>
+      <dc:date>2018-02-06T20:20:12.415136+01:00</dc:date>
+    </item>
+    <dc:date>2018-02-06T20:54:30.640179+01:00</dc:date>
+  </channel>
+</rss>
