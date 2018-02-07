@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 8 | 8 | 8–10 | 7–10 |
+| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 
 ### Probability Mass Function
 
@@ -73,9 +73,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 7% | 99.5% |  |
 | 7 | 12% | 92% |  |
 | 8 | 20% | 80% |  |
-| 9 | 33% | 61% | Median |
-| 10 | 23% | 27% |  |
-| 11 | 5% | 5% |  |
+| 9 | 34% | 61% | Median |
+| 10 | 22% | 27% |  |
+| 11 | 4% | 5% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
