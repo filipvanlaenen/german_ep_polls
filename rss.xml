@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 07 Feb 2018 09:52:26 +0100</pubDate>
+    <pubDate>Wed, 07 Feb 2018 11:45:43 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 23–27 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13–16 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8–11 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11–13 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov-seats.png"
+        length="148997"
+        type="image/png"/>
+      <pubDate>Wed, 07 Feb 2018 10:19:32 +0100</pubDate>
+      <dc:date>2018-02-07T10:19:32.293668+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.png"
         length="200022"
         type="image/png"/>
-      <pubDate>Wed, 07 Feb 2018 09:52:26 +0100</pubDate>
-      <dc:date>2018-02-07T09:52:26.126884+01:00</dc:date>
+      <pubDate>Wed, 07 Feb 2018 10:19:32 +0100</pubDate>
+      <dc:date>2018-02-07T10:19:32.293668+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa for Stern and RTL, 29 January–2 February 2018 – Seat Projections</title>
@@ -80,14 +90,34 @@
       <dc:date>2018-02-07T07:35:44.186959+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Emnid for Bild am Sonntag, 25–31 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24–29 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11–14 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7–10 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9–12 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid-seats.png"
+        length="162016"
+        type="image/png"/>
+      <pubDate>Wed, 07 Feb 2018 11:45:43 +0100</pubDate>
+      <dc:date>2018-02-07T11:45:43.272457+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 25–31 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25.6–30.6%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 17.8–22.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11.2–15.0%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7.5–10.7%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 8.5–11.8%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.4–12.8%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.9–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.png"
         length="208588"
         type="image/png"/>
-      <pubDate>Tue, 06 Feb 2018 22:38:59 +0100</pubDate>
-      <dc:date>2018-02-06T22:38:59.823081+01:00</dc:date>
+      <pubDate>Wed, 07 Feb 2018 11:45:43 +0100</pubDate>
+      <dc:date>2018-02-07T11:45:43.272457+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 26–29 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24–28 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12–15 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8–10 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9–12 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 6–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov-seats.png"
+        length="163408"
+        type="image/png"/>
+      <pubDate>Wed, 07 Feb 2018 11:15:25 +0100</pubDate>
+      <dc:date>2018-02-07T11:15:25.070908+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 26–29 January 2018 – Voting Intentions</title>
@@ -96,9 +126,9 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.png"
         length="202392"
         type="image/png"/>
-      <pubDate>Tue, 06 Feb 2018 20:20:12 +0100</pubDate>
-      <dc:date>2018-02-06T20:20:12.415136+01:00</dc:date>
+      <pubDate>Wed, 07 Feb 2018 11:15:25 +0100</pubDate>
+      <dc:date>2018-02-07T11:15:25.070908+01:00</dc:date>
     </item>
-    <dc:date>2018-02-07T09:52:26.126884+01:00</dc:date>
+    <dc:date>2018-02-07T11:45:43.272457+01:00</dc:date>
   </channel>
 </rss>
