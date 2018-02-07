@@ -68,12 +68,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 23–28 | 22–29 |
-| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–26 | 22–27 | 22–27 | 22–28 |
-| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28 | 28 | 27–28 | 25–28 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
+| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
+| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
-| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 26 | 26–27 | 26–27 | 24–27 |
-| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27 | 27–28 | 25–29 | 25–30 |
+| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
+| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 27 | 25–27 | 24–27 | 24–27 | 24–27 |
 
 ### Probability Mass Function
@@ -106,15 +106,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 1.3% | 100% |  |
-| 23 | 3% | 98.7% |  |
-| 24 | 15% | 96% |  |
-| 25 | 10% | 81% |  |
-| 26 | 27% | 71% | Median |
-| 27 | 23% | 44% |  |
-| 28 | 20% | 21% |  |
-| 29 | 0.8% | 1.1% |  |
-| 30 | 0.3% | 0.3% |  |
-| 31 | 0% | 0% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 3% | 99.7% |  |
+| 24 | 11% | 97% |  |
+| 25 | 22% | 86% |  |
+| 26 | 24% | 64% | Median |
+| 27 | 23% | 40% |  |
+| 28 | 14% | 17% |  |
+| 29 | 3% | 4% |  |
+| 30 | 0.5% | 0.6% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 
