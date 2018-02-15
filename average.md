@@ -283,14 +283,14 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
+| 21 | 0.3% | 100% |  |
 | 22 | 2% | 99.7% |  |
 | 23 | 8% | 97% |  |
 | 24 | 15% | 89% |  |
 | 25 | 21% | 73% |  |
 | 26 | 22% | 53% | Median |
-| 27 | 17% | 31% |  |
-| 28 | 10% | 14% |  |
+| 27 | 18% | 31% |  |
+| 28 | 10% | 13% |  |
 | 29 | 3% | 3% |  |
 | 30 | 0.5% | 0.5% |  |
 | 31 | 0% | 0.1% |  |
@@ -320,9 +320,9 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0.4% | 100% |  |
 | 15 | 5% | 99.6% |  |
-| 16 | 19% | 95% |  |
+| 16 | 18% | 95% |  |
 | 17 | 28% | 76% | Median |
-| 18 | 24% | 48% |  |
+| 18 | 24% | 49% |  |
 | 19 | 16% | 24% |  |
 | 20 | 7% | 9% |  |
 | 21 | 2% | 2% |  |
@@ -424,7 +424,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 3% | 99.9% |  |
 | 10 | 14% | 97% |  |
 | 11 | 22% | 83% |  |
-| 12 | 26% | 61% | Median |
+| 12 | 27% | 61% | Median |
 | 13 | 21% | 34% |  |
 | 14 | 10% | 13% |  |
 | 15 | 3% | 3% |  |
@@ -445,7 +445,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 2% | 100% |  |
 | 4 | 31% | 98% |  |
 | 5 | 49% | 68% | Median |
-| 6 | 17% | 19% |  |
+| 6 | 17% | 18% |  |
 | 7 | 1.2% | 1.2% |  |
 | 8 | 0% | 0% |  |
 
@@ -500,11 +500,10 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 23% | 71% |  |
 | 31 | 21% | 48% | Median |
 | 32 | 16% | 27% |  |
-| 33 | 9% | 11% |  |
+| 33 | 8% | 11% |  |
 | 34 | 2% | 3% |  |
-| 35 | 0.4% | 0.5% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 35 | 0.4% | 0.4% |  |
+| 36 | 0% | 0% |  |
 
 ### SPD (S&D)
 
@@ -526,9 +525,9 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0.4% | 100% |  |
 | 15 | 5% | 99.6% |  |
-| 16 | 19% | 95% |  |
+| 16 | 18% | 95% |  |
 | 17 | 28% | 76% | Median |
-| 18 | 24% | 48% |  |
+| 18 | 24% | 49% |  |
 | 19 | 16% | 24% |  |
 | 20 | 7% | 9% |  |
 | 21 | 2% | 2% |  |
