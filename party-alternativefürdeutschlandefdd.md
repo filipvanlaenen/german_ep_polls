@@ -56,15 +56,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [1–7 February 2018](2018-02-07-GMS.html) | GMS | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 11–16 | 11–16 |
+| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [1–7 February 2018](2018-02-07-GMS.html) | GMS | 14 | 13–16 | 13–16 | 12–16 | 11–16 |
+| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 14–15 | 13–16 | 12–16 |
+| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12 | 12 | 12 | 12–14 |
+| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 13–15 | 12–15 | 12–15 | 11–15 |
+| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 13 | 13 | 12–13 | 12–14 |
+| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 11 | 11 | 11–14 | 11–14 |
+| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 14–15 | 13–15 | 13–15 |
 
 ### Probability Mass Function
 
@@ -84,14 +84,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.6% | 100% |  |
-| 11 | 6% | 99.4% |  |
-| 12 | 19% | 94% |  |
-| 13 | 33% | 75% | Median |
-| 14 | 27% | 42% |  |
-| 15 | 12% | 14% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.1% | 0.1% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 17% | 99.9% |  |
+| 12 | 12% | 83% |  |
+| 13 | 24% | 70% | Median |
+| 14 | 26% | 47% |  |
+| 15 | 18% | 21% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 
