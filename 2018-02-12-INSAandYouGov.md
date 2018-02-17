@@ -1,0 +1,58 @@
+# Opinion Poll by INSA and YouGov for Bild, 9–12 February 2018
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2018-02-12-INSAandYouGov.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| CDU (EPP) | 0.0% | 24.1% | N/A |N/A |N/A |N/A |
+| SPD (S&D) | 0.0% | 16.5% | N/A |N/A |N/A |N/A |
+| Alternative für Deutschland (EFDD) | 0.0% | 15.0% | N/A |N/A |N/A |N/A |
+| BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | 0.0% | 13.0% | N/A |N/A |N/A |N/A |
+| DIE LINKE (GUE/NGL) | 0.0% | 11.5% | N/A |N/A |N/A |N/A |
+| FDP (ALDE) | 0.0% | 10.5% | N/A |N/A |N/A |N/A |
+| CSU (EPP) | 0.0% | 5.4% | N/A |N/A |N/A |N/A |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
+
+## Seats
+
+![Graph with seats not yet produced](2018-02-12-INSAandYouGov-seats.png "Seats")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#cdu-(epp)">CDU (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#spd-(s&d)">SPD (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#bÜndnis-90/die-grÜnen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#fdp-(alde)">FDP (ALDE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#csu-(epp)">CSU (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2018-02-12-INSAandYouGov-coalitions-seats.png "Coalitions Seats")
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** INSA and YouGov
++ **Commissioner(s):** Bild
++ **Fieldwork period:** 9–12 February 2018
+
+### Calculations
+
++ **Sample size:** 2608
++ **Simulations done:** 0
++ **Error estimate:** 100.00%
+
