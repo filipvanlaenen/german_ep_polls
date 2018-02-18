@@ -10,7 +10,7 @@ The table below lists all polls registered and analyzed so far.
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 24–29% <br> 23–28 | 16–21% <br> 15–20 | 11–15% <br> 11–14 | 8–12% <br> 8–11 | 11–15% <br> 11–15 | 4–6% <br> 3–6 | 8–12% <br> 8–11 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 25–30% <br> 23–28 | 16–20% <br> 15–19 | 11–15% <br> 10–14 | 7–11% <br> 7–10 | 12–16% <br> 12–16 | 4–6% <br> 4–5 | 7–11% <br> 7–11 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 26–31% <br> 26–30 | 18–22% <br> 17–23 | 9–13% <br> 9–12 | 7–11% <br> 7–11 | 10–14% <br> 10–14 | 4–7% <br> 4–6 | 7–11% <br> 8–10 |
-| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23–27% <br> 22–26 | 15–19% <br> 14–18 | 11–14% <br> 10–14 | 10–12% <br> 9–12 | 14–17% <br> 13–16 | 5–7% <br> 4–7 | 9–11% <br> 8–11 |
+| [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23–27% <br> 22–25 | 15–19% <br> 15–18 | 11–14% <br> 11–13 | 10–12% <br> 9–12 | 14–17% <br> 13–16 | 5–7% <br> 5–7 | 9–11% <br> 8–11 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 26–30% <br> 27–28 | 16–20% <br> 16–17 | 12–15% <br> 12–13 | 8–10% <br> 9 | 12–15% <br> 12 | 4–6% <br> 5–6 | 8–10% <br> 8–9 |
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24–29% <br> 23–28 | 17–21% <br> 16–20 | 12–16% <br> 12–15 | 9–13% <br> 9–12 | 12–16% <br> 12–15 | 4–6% <br> 4–6 | 6–9% <br> 5–8 |
 | [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 26–30% <br> 26–27 | 16–20% <br> 15–17 | 9–13% <br> 10–11 | 9–13% <br> 11–12 | 12–16% <br> 12–13 | 4–6% <br> 5–6 | 9–12% <br> 9–11 |
