@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **3.4%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
@@ -29,10 +29,7 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% | Last Result |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 4% | 99.8% |  |
@@ -48,14 +45,14 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **3** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 6–11 | 6–11 | 6–11 |
-| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 7–10 | 7–10 | 7–10 | 7–10 |
+| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11 | 11 | 10–11 | 10–11 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 8 | 7–9 | 7–9 | 7–11 | 7–11 |
@@ -75,16 +72,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
+| 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 6% | 99.6% |  |
-| 7 | 26% | 94% |  |
-| 8 | 14% | 68% |  |
-| 9 | 25% | 54% | Median |
+| 7 | 13% | 94% |  |
+| 8 | 20% | 80% |  |
+| 9 | 31% | 60% | Median |
 | 10 | 10% | 29% |  |
 | 11 | 19% | 20% |  |
 | 12 | 0.4% | 0.5% |  |

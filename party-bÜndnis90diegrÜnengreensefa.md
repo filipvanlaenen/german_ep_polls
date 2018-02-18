@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **10.7%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
@@ -29,18 +29,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.7% | 100% |  |
 | 9.5–10.5% | 4% | 99.3% |  |
-| 10.5–11.5% | 11% | 95% |  |
+| 10.5–11.5% | 11% | 95% | Last Result |
 | 11.5–12.5% | 21% | 84% |  |
 | 12.5–13.5% | 33% | 63% | Median |
 | 13.5–14.5% | 22% | 31% |  |
@@ -52,14 +44,14 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **11** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 9–15 | 9–15 |
-| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 11 | 10–14 | 10–14 | 10–14 | 10–15 |
@@ -79,22 +71,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
 | 9 | 3% | 99.9% |  |
 | 10 | 11% | 97% |  |
-| 11 | 21% | 86% |  |
-| 12 | 24% | 65% | Median |
-| 13 | 24% | 41% |  |
-| 14 | 14% | 17% |  |
-| 15 | 2% | 3% |  |
+| 11 | 11% | 86% | Last Result |
+| 12 | 30% | 75% | Median |
+| 13 | 26% | 45% |  |
+| 14 | 16% | 19% |  |
+| 15 | 3% | 3% |  |
 | 16 | 0.3% | 0.3% |  |
 | 17 | 0% | 0% |  |
 

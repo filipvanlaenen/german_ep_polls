@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **5.3%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
@@ -29,12 +29,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 1.0% | 100% |  |
 | 3.5–4.5% | 23% | 99.0% |  |
-| 4.5–5.5% | 53% | 76% | Median |
+| 4.5–5.5% | 53% | 76% | Last Result, Median |
 | 5.5–6.5% | 21% | 22% |  |
 | 6.5–7.5% | 1.3% | 1.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -42,14 +40,14 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **5** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5 | 5 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5 | 5 | 5 | 5 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -69,14 +67,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 1.3% | 100% |  |
-| 4 | 30% | 98.7% |  |
-| 5 | 65% | 69% | Median |
-| 6 | 4% | 4% |  |
-| 7 | 0.1% | 0.1% |  |
+| 3 | 1.5% | 100% |  |
+| 4 | 35% | 98.5% |  |
+| 5 | 58% | 64% | Last Result, Median |
+| 6 | 6% | 6% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 
