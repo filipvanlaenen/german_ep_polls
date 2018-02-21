@@ -52,7 +52,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
+| [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -74,10 +74,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 2% | 99.9% |  |
 | 10 | 7% | 98% |  |
-| 11 | 14% | 91% | Last Result |
-| 12 | 30% | 77% | Median |
-| 13 | 31% | 47% |  |
-| 14 | 12% | 15% |  |
+| 11 | 15% | 91% | Last Result |
+| 12 | 30% | 76% | Median |
+| 13 | 29% | 46% |  |
+| 14 | 13% | 16% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0.3% | 0.4% |  |
 | 17 | 0% | 0% |  |

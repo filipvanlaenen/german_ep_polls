@@ -53,9 +53,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
+| N/A | [Poll Average](average.html) | 26 | 23–28 | 23–29 | 22–29 | 22–30 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–28 | 25–29 | 24–30 | 23–30 |
-| [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 23 | 23 | 23 | 22–23 |
+| [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–24 | 22–25 | 22–25 | 21–25 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.7% | 99.9% |  |
-| 23 | 19% | 99.2% |  |
-| 24 | 9% | 80% |  |
-| 25 | 18% | 71% |  |
+| 21 | 0.5% | 100% |  |
+| 22 | 4% | 99.5% |  |
+| 23 | 11% | 96% |  |
+| 24 | 13% | 85% |  |
+| 25 | 18% | 72% |  |
 | 26 | 20% | 53% | Median |
 | 27 | 16% | 34% |  |
 | 28 | 11% | 17% |  |
