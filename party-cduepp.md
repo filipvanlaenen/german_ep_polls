@@ -10,8 +10,14 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.9% | 24.1–29.4% | 23.6–30.0% | 23.2–30.6% | 22.5–31.6% |
+| N/A | [Poll Average](average.html) | 27.8% | 25.3–29.7% | 24.7–30.3% | 24.2–30.7% | 23.4–31.7% |
+| [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28.0% | 26.5–29.6% | 26.1–30.1% | 25.7–30.5% | 25.0–31.2% |
+| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 28.9% | 27.1–30.7% | 26.7–31.3% | 26.2–31.7% | 25.4–32.6% |
+| [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.2% | 24.0–26.5% | 23.6–26.8% | 23.4–27.1% | 22.8–27.7% |
+| [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 28.9% | 27.6–30.2% | 27.2–30.6% | 26.9–31.0% | 26.3–31.6% |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 28.0% | 26.2–29.8% | 25.7–30.4% | 25.3–30.8% | 24.4–31.7% |
+| [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 27.1% | 25.6–28.8% | 25.1–29.3% | 24.8–29.7% | 24.0–30.5% |
+| [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 28.0% | 26.6–29.6% | 26.1–30.0% | 25.8–30.4% | 25.1–31.1% |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24.1% | 23.1–25.2% | 22.8–25.5% | 22.5–25.8% | 22.0–26.3% |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.9–30.0% |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 27.2% | 25.5–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
@@ -29,18 +35,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.5% | 100% |  |
-| 22.5–23.5% | 4% | 99.5% |  |
-| 23.5–24.5% | 10% | 95% |  |
-| 24.5–25.5% | 12% | 85% |  |
-| 25.5–26.5% | 16% | 73% |  |
-| 26.5–27.5% | 19% | 57% | Median |
-| 27.5–28.5% | 17% | 37% |  |
-| 28.5–29.5% | 12% | 21% |  |
-| 29.5–30.5% | 6% | 9% | Last Result |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.4% | 0.5% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.6% | 100% |  |
+| 23.5–24.5% | 4% | 99.4% |  |
+| 24.5–25.5% | 8% | 96% |  |
+| 25.5–26.5% | 13% | 87% |  |
+| 26.5–27.5% | 19% | 74% |  |
+| 27.5–28.5% | 23% | 55% | Median |
+| 28.5–29.5% | 19% | 32% |  |
+| 29.5–30.5% | 9% | 13% | Last Result |
+| 30.5–31.5% | 3% | 3% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -53,8 +58,14 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–28 | 23–29 | 22–29 | 22–30 |
+| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–29 | 24–29 | 23–30 |
+| [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
+| [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
+| [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 24–25 | 24–25 | 24–25 | 23–26 |
+| [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–28 | 25–29 | 24–30 | 23–30 |
+| [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
+| [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–24 | 22–25 | 22–25 | 21–25 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
@@ -74,17 +85,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.5% | 100% |  |
-| 22 | 4% | 99.5% |  |
-| 23 | 11% | 96% |  |
-| 24 | 13% | 85% |  |
-| 25 | 18% | 72% |  |
-| 26 | 20% | 53% | Median |
-| 27 | 16% | 34% |  |
-| 28 | 11% | 17% |  |
-| 29 | 4% | 6% | Last Result |
-| 30 | 1.5% | 2% |  |
-| 31 | 0.2% | 0.3% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.7% | 99.8% |  |
+| 24 | 15% | 99.2% |  |
+| 25 | 13% | 84% |  |
+| 26 | 21% | 71% |  |
+| 27 | 23% | 50% | Median |
+| 28 | 17% | 27% |  |
+| 29 | 8% | 10% | Last Result |
+| 30 | 2% | 2% |  |
+| 31 | 0.3% | 0.3% |  |
 | 32 | 0% | 0% |  |
 
 
