@@ -63,14 +63,14 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–30 | 24–30 | 23–30 |
-| [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 27 | 27 | 27 | 27 | 25–27 |
-| [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 28 | 28 | 26–29 | 26–30 | 26–30 |
+| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–29 | 24–30 | 23–30 |
+| [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
+| [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 28 | 26–29 | 26–30 | 25–30 | 25–31 |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 29 | 27–30 | 27–30 | 27–30 | 26–31 |
+| [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 28 | 27–30 | 27–30 | 26–31 | 26–31 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
-| [15–21 February 2018](2018-02-21-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 24–30 | 24–30 | 24–30 | 23–31 |
+| [15–21 February 2018](2018-02-21-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–28 | 25–28 | 25–29 | 24–29 |
 | [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–29 | 24–29 | 24–29 | 23–30 |
@@ -96,15 +96,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
-| 23 | 1.3% | 99.8% |  |
-| 24 | 6% | 98.6% |  |
-| 25 | 11% | 93% |  |
-| 26 | 20% | 82% |  |
-| 27 | 26% | 62% | Median |
-| 28 | 21% | 36% |  |
-| 29 | 10% | 15% | Last Result |
-| 30 | 5% | 5% |  |
-| 31 | 0.4% | 0.4% |  |
+| 23 | 1.2% | 99.8% |  |
+| 24 | 5% | 98.6% |  |
+| 25 | 15% | 93% |  |
+| 26 | 25% | 78% |  |
+| 27 | 25% | 54% | Median |
+| 28 | 18% | 29% |  |
+| 29 | 8% | 11% | Last Result |
+| 30 | 3% | 3% |  |
+| 31 | 0.4% | 0.5% |  |
 | 32 | 0% | 0% |  |
 
 
