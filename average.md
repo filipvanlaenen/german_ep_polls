@@ -219,7 +219,7 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 18% | 29% |  |
 | 29 | 8% | 11% | Last Result |
 | 30 | 3% | 3% |  |
-| 31 | 0.4% | 0.5% |  |
+| 31 | 0.4% | 0.4% |  |
 | 32 | 0% | 0% |  |
 
 ### SPD (S&D)
@@ -298,9 +298,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 3% | 99.8% |  |
 | 12 | 14% | 96% |  |
 | 13 | 22% | 82% |  |
-| 14 | 24% | 60% | Median |
-| 15 | 22% | 36% |  |
-| 16 | 11% | 14% |  |
+| 14 | 25% | 60% | Median |
+| 15 | 22% | 35% |  |
+| 16 | 10% | 13% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
@@ -364,11 +364,11 @@ Only polls for which at least the sample size has been published are included in
 | 29 | 7% | 98% |  |
 | 30 | 16% | 91% |  |
 | 31 | 24% | 76% |  |
-| 32 | 22% | 51% | Median |
-| 33 | 17% | 29% |  |
+| 32 | 23% | 51% | Median |
+| 33 | 16% | 29% |  |
 | 34 | 9% | 12% | Last Result |
 | 35 | 3% | 3% |  |
-| 36 | 0.6% | 0.7% |  |
+| 36 | 0.6% | 0.6% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
 
@@ -404,9 +404,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 3% | 99.8% |  |
 | 12 | 14% | 96% |  |
 | 13 | 22% | 82% |  |
-| 14 | 24% | 60% | Median |
-| 15 | 22% | 36% |  |
-| 16 | 11% | 14% |  |
+| 14 | 25% | 60% | Median |
+| 15 | 22% | 35% |  |
+| 16 | 10% | 13% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
