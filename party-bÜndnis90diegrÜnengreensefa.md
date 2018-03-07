@@ -68,7 +68,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
-| [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
+| [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
@@ -80,7 +80,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -99,9 +99,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 2% | 100% |  |
-| 10 | 14% | 98% |  |
-| 11 | 35% | 84% | Last Result, Median |
-| 12 | 33% | 49% |  |
+| 10 | 13% | 98% |  |
+| 11 | 35% | 85% | Last Result, Median |
+| 12 | 34% | 50% |  |
 | 13 | 13% | 16% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.4% | 0.4% |  |
