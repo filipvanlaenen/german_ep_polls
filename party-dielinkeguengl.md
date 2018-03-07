@@ -10,9 +10,12 @@ Last result: **7.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 8.5–12.4% | 8.2–12.9% | 7.9–13.3% | 7.4–14.0% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.5–12.4% | 8.1–12.9% | 7.8–13.3% | 7.3–14.0% |
+| [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.5–10.8% | 7.0–11.4% |
+| [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.5–13.7% | 10.0–14.2% |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.1% |
+| [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 11.0% | 10.1–12.0% | 9.9–12.3% | 9.7–12.5% | 9.3–13.0% |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.1% | 9.7–14.8% |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.4% |
@@ -41,12 +44,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.8% | 100% | Last Result |
-| 7.5–8.5% | 10% | 99.2% |  |
-| 8.5–9.5% | 24% | 89% |  |
-| 9.5–10.5% | 20% | 65% | Median |
-| 10.5–11.5% | 21% | 45% |  |
-| 11.5–12.5% | 16% | 24% |  |
+| 6.5–7.5% | 1.1% | 100% | Last Result |
+| 7.5–8.5% | 10% | 98.9% |  |
+| 8.5–9.5% | 23% | 89% |  |
+| 9.5–10.5% | 20% | 66% | Median |
+| 10.5–11.5% | 21% | 46% |  |
+| 11.5–12.5% | 16% | 25% |  |
 | 12.5–13.5% | 7% | 8% |  |
 | 13.5–14.5% | 1.3% | 1.5% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
@@ -61,9 +64,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–13 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 7–13 |
+| [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 11 | 11–12 | 10–13 | 10–13 | 10–14 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
@@ -94,12 +100,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 2% | 99.9% | Last Result |
-| 8 | 16% | 98% |  |
-| 9 | 25% | 82% |  |
-| 10 | 21% | 57% | Median |
-| 11 | 21% | 36% |  |
-| 12 | 12% | 15% |  |
+| 7 | 3% | 99.9% | Last Result |
+| 8 | 16% | 97% |  |
+| 9 | 24% | 82% |  |
+| 10 | 22% | 58% | Median |
+| 11 | 20% | 36% |  |
+| 12 | 12% | 16% |  |
 | 13 | 3% | 3% |  |
 | 14 | 0.4% | 0.5% |  |
 | 15 | 0% | 0% |  |
