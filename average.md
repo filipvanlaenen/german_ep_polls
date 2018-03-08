@@ -217,7 +217,7 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 27% | 78% |  |
 | 27 | 26% | 51% | Median |
 | 28 | 17% | 25% |  |
-| 29 | 6% | 8% | Last Result |
+| 29 | 7% | 8% | Last Result |
 | 30 | 2% | 2% |  |
 | 31 | 0.3% | 0.3% |  |
 | 32 | 0% | 0% |  |
@@ -275,7 +275,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 100% |  |
 | 7 | 3% | 99.9% | Last Result |
 | 8 | 16% | 97% |  |
-| 9 | 24% | 82% |  |
+| 9 | 24% | 81% |  |
 | 10 | 21% | 58% | Median |
 | 11 | 21% | 36% |  |
 | 12 | 12% | 15% |  |
@@ -297,7 +297,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0.4% | 100% |  |
 | 11 | 4% | 99.6% |  |
 | 12 | 13% | 96% |  |
-| 13 | 21% | 82% |  |
+| 13 | 22% | 82% |  |
 | 14 | 25% | 61% | Median |
 | 15 | 22% | 35% |  |
 | 16 | 10% | 14% |  |
@@ -315,7 +315,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.6% | 100% |  |
 | 4 | 26% | 99.4% |  |
-| 5 | 56% | 73% | Last Result, Median |
+| 5 | 57% | 74% | Last Result, Median |
 | 6 | 16% | 17% |  |
 | 7 | 1.4% | 1.5% |  |
 | 8 | 0.1% | 0.1% |  |
@@ -334,7 +334,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0.9% | 100% |  |
 | 7 | 13% | 99.1% |  |
-| 8 | 34% | 86% |  |
+| 8 | 35% | 87% |  |
 | 9 | 32% | 52% | Median |
 | 10 | 13% | 20% |  |
 | 11 | 6% | 8% |  |
@@ -365,7 +365,7 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 17% | 91% |  |
 | 31 | 26% | 75% |  |
 | 32 | 24% | 48% | Median |
-| 33 | 16% | 24% |  |
+| 33 | 15% | 24% |  |
 | 34 | 7% | 9% | Last Result |
 | 35 | 2% | 2% |  |
 | 36 | 0.4% | 0.4% |  |
@@ -402,7 +402,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0.4% | 100% |  |
 | 11 | 4% | 99.6% |  |
 | 12 | 13% | 96% |  |
-| 13 | 21% | 82% |  |
+| 13 | 22% | 82% |  |
 | 14 | 25% | 61% | Median |
 | 15 | 22% | 35% |  |
 | 16 | 10% | 14% |  |
