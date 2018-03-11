@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-03-08T15:42:58.357623+01:00</updated>
+  <updated>2018-03-11T10:33:09.416337+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.9–31.3%, 25–30 seats</li><li>SPD (S&amp;D): 13.0–17.3%, 12–17 seats</li><li>Alternative für Deutschland (EFDD): 13.0–17.3%, 12–17 seats</li><li>FDP (ALDE): 8.3–11.9%, 8–11 seats</li><li>DIE LINKE (GUE/NGL): 10.2–14.1%, 10–13 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.2–14.1%, 10–13 seats</li><li>CSU (EPP): 3.4–5.9%, 3–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-05-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-03-05-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov for Bild, 5 March 2018</title>
+    <updated>2018-03-11T10:33:09.416337+01:00</updated>
+    <dc:date>2018-03-11T10:33:09.416337+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.3–31.6%, 25–30 seats</li><li>SPD (S&amp;D): 16.8–21.4%, 16–20 seats</li><li>Alternative für Deutschland (EFDD): 11.1–15.1%, 11–14 seats</li><li>FDP (ALDE): 7.5–10.8%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 7.5–10.8%, 7–10 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.2–14.0%, 10–13 seats</li><li>CSU (EPP): 4.0–6.6%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-05-Forsa.html</id>
@@ -207,5 +215,5 @@
     <updated>2018-03-08T15:42:58.357623+01:00</updated>
     <dc:date>2018-03-08T15:42:58.357623+01:00</dc:date>
   </entry>
-  <dc:date>2018-03-08T15:42:58.357623+01:00</dc:date>
+  <dc:date>2018-03-11T10:33:09.416337+01:00</dc:date>
 </feed>
