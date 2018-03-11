@@ -10,7 +10,8 @@ Last result: **3.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.7–10.7% | 7.4–11.3% | 7.1–11.8% | 6.6–12.7% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.7–10.9% | 7.4–11.5% | 7.1–11.9% | 6.7–12.7% |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.3–11.9% | 7.8–12.6% |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.5–10.8% | 7.0–11.4% |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
@@ -48,13 +49,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.3% | 100% |  |
 | 6.5–7.5% | 7% | 99.7% |  |
-| 7.5–8.5% | 28% | 93% |  |
-| 8.5–9.5% | 35% | 65% | Median |
-| 9.5–10.5% | 18% | 29% |  |
-| 10.5–11.5% | 8% | 12% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.6% | 0.6% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 7.5–8.5% | 25% | 93% |  |
+| 8.5–9.5% | 33% | 68% | Median |
+| 9.5–10.5% | 20% | 34% |  |
+| 10.5–11.5% | 10% | 15% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
+| 13.5–14.5% | 0% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -67,6 +68,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
@@ -105,11 +107,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.9% | 100% |  |
-| 7 | 13% | 99.1% |  |
-| 8 | 35% | 87% |  |
-| 9 | 32% | 52% | Median |
-| 10 | 13% | 20% |  |
-| 11 | 6% | 8% |  |
+| 7 | 12% | 99.1% |  |
+| 8 | 31% | 87% |  |
+| 9 | 31% | 56% | Median |
+| 10 | 15% | 25% |  |
+| 11 | 7% | 9% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |

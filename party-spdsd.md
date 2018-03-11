@@ -10,7 +10,8 @@ Last result: **27.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 15.2–19.2% | 14.8–19.8% | 14.4–20.3% | 13.6–21.3% |
+| N/A | [Poll Average](average.html) | 17.1% | 15.1–19.2% | 14.5–19.8% | 14.1–20.3% | 13.2–21.3% |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.9–19.2% | 16.6–19.5% | 16.3–19.8% | 15.8–20.4% |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16.0% | 14.9–17.3% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
@@ -43,13 +44,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.4% | 100% |  |
-| 13.5–14.5% | 3% | 99.6% |  |
-| 14.5–15.5% | 12% | 97% |  |
-| 15.5–16.5% | 22% | 85% |  |
-| 16.5–17.5% | 24% | 63% | Median |
-| 17.5–18.5% | 20% | 40% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 0.9% | 99.9% |  |
+| 13.5–14.5% | 4% | 99.0% |  |
+| 14.5–15.5% | 12% | 95% |  |
+| 15.5–16.5% | 21% | 83% |  |
+| 16.5–17.5% | 23% | 62% | Median |
+| 17.5–18.5% | 20% | 39% |  |
 | 18.5–19.5% | 12% | 19% |  |
 | 19.5–20.5% | 5% | 7% |  |
 | 20.5–21.5% | 1.4% | 2% |  |
@@ -69,7 +71,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -104,12 +107,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 1.5% | 99.9% |  |
-| 14 | 8% | 98% |  |
-| 15 | 20% | 91% |  |
-| 16 | 26% | 71% | Median |
-| 17 | 22% | 46% |  |
+| 12 | 0.4% | 100% |  |
+| 13 | 2% | 99.6% |  |
+| 14 | 8% | 97% |  |
+| 15 | 19% | 89% |  |
+| 16 | 24% | 69% | Median |
+| 17 | 22% | 45% |  |
 | 18 | 15% | 23% |  |
 | 19 | 6% | 8% |  |
 | 20 | 2% | 2% |  |
