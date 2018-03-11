@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26–31% <br> 25–30 | 13–17% <br> 12–17 | 10–14% <br> 10–13 | 10–14% <br> 10–13 | 13–17% <br> 12–17 | 3–6% <br> 3–6 | 8–12% <br> 8–11 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 26–32% <br> 25–30 | 17–21% <br> 16–20 | 10–14% <br> 10–13 | 7–11% <br> 7–10 | 11–15% <br> 11–14 | 4–7% <br> 4–6 | 7–11% <br> 7–10 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 28–32% <br> 26–30 | 16–20% <br> 16–19 | 11–14% <br> 10–13 | 8–10% <br> 7–10 | 12–15% <br> 11–14 | 4–6% <br> 4–6 | 8–10% <br> 7–10 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 25–29% <br> 24–28 | 14–18% <br> 14–17 | 10–14% <br> 10–13 | 10–14% <br> 10–13 | 14–18% <br> 14–17 | 4–6% <br> 4–6 | 7–9% <br> 6–9 |
