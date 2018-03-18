@@ -10,7 +10,12 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.4–31.8% |
+| N/A | [Poll Average](average.html) | 27.6% | 25.9–29.4% | 25.4–29.9% | 25.0–30.4% | 24.2–31.3% |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.2% | 25.6–28.9% | 25.1–29.4% | 24.8–29.8% | 24.0–30.6% |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 28.0% | 26.7–29.4% | 26.4–29.7% | 26.1–30.1% | 25.5–30.7% |
+| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.9% | 24.7–27.3% | 24.3–27.6% | 24.0–28.0% | 23.5–28.5% |
+| [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 28.9% | N/A | N/A | N/A | N/A |
+| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 28.0% | N/A | N/A | N/A | N/A |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 28.5% | 26.8–30.4% | 26.3–30.9% | 25.9–31.3% | 25.0–32.2% |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 28.9% | 27.2–30.7% | 26.7–31.2% | 26.3–31.6% | 25.5–32.5% |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 29.7% | 28.4–31.1% | 28.0–31.5% | 27.7–31.8% | 27.0–32.5% |
@@ -46,17 +51,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.6% | 99.9% |  |
-| 24.5–25.5% | 3% | 99.3% |  |
-| 25.5–26.5% | 11% | 96% |  |
-| 26.5–27.5% | 23% | 85% |  |
-| 27.5–28.5% | 27% | 62% | Median |
-| 28.5–29.5% | 21% | 35% |  |
-| 29.5–30.5% | 10% | 14% | Last Result |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 0.7% | 0.8% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 23.5–24.5% | 1.0% | 99.9% |  |
+| 24.5–25.5% | 5% | 98.9% |  |
+| 25.5–26.5% | 15% | 94% |  |
+| 26.5–27.5% | 27% | 79% |  |
+| 27.5–28.5% | 27% | 52% | Median |
+| 28.5–29.5% | 17% | 25% |  |
+| 29.5–30.5% | 6% | 8% | Last Result |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.2% | 0.3% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,7 +71,12 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–29 | 25–29 | 24–30 | 23–30 |
+| N/A | [Poll Average](average.html) | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 26–27 | 24–27 | 24–27 | 22–29 |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27 | 27 | 27 | 25–29 |
+| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 28 | 27–30 | 27–30 | 26–30 | 26–31 |
@@ -103,16 +112,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.7% | 99.9% |  |
-| 24 | 4% | 99.2% |  |
-| 25 | 13% | 95% |  |
-| 26 | 26% | 82% |  |
-| 27 | 28% | 57% | Median |
-| 28 | 19% | 29% |  |
-| 29 | 8% | 10% | Last Result |
-| 30 | 2% | 3% |  |
-| 31 | 0.4% | 0.4% |  |
+| 22 | 0.5% | 100% |  |
+| 23 | 1.0% | 99.5% |  |
+| 24 | 7% | 98.5% |  |
+| 25 | 14% | 92% |  |
+| 26 | 32% | 77% | Median |
+| 27 | 28% | 45% |  |
+| 28 | 12% | 17% |  |
+| 29 | 5% | 6% | Last Result |
+| 30 | 1.1% | 1.3% |  |
+| 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 
 
