@@ -71,9 +71,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–29 | 24–29 | 23–29 | 23–31 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 24–29 | 23–29 | 23–31 |
 | [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 26–27 | 24–27 | 24–27 | 22–29 |
-| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27 | 27 | 27 | 25–29 |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–28 | 25–28 | 25–29 | 24–29 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–24 | 23–28 | 23–28 | 22–28 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 29 | 29 | 29–31 | 29–31 | 27–31 |
 | [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–28 | 25–28 | 25–28 | 24–29 |
@@ -115,11 +115,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.4% | 100% |  |
 | 23 | 3% | 99.6% |  |
 | 24 | 14% | 97% |  |
-| 25 | 9% | 83% |  |
-| 26 | 20% | 74% |  |
-| 27 | 30% | 54% | Median |
-| 28 | 8% | 24% |  |
-| 29 | 14% | 16% | Last Result |
+| 25 | 10% | 83% |  |
+| 26 | 24% | 73% | Median |
+| 27 | 22% | 49% |  |
+| 28 | 11% | 27% |  |
+| 29 | 15% | 16% | Last Result |
 | 30 | 0.8% | 2% |  |
 | 31 | 0.8% | 0.8% |  |
 | 32 | 0% | 0% |  |
