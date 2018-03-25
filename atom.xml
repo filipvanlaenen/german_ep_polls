@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-03-23T10:10:03.950184+01:00</updated>
+  <updated>2018-03-25T16:01:47.039512+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 24.8–29.8%, 24–28 seats</li><li>SPD (S&amp;D): 16.9–21.3%, 16–20 seats</li><li>Alternative für Deutschland (EFDD): 11.2–15.0%, 11–14 seats</li><li>FDP (ALDE): 7.5–10.7%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 9.4–12.9%, 9–12 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.3–14.0%, 10–13 seats</li><li>CSU (EPP): 3.8–6.2%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-15-ForschungsgruppeWahlen.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 March 2018</title>
     <updated>2018-03-20T21:10:52.383821+01:00</updated>
     <dc:date>2018-03-20T21:10:52.383821+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.9–31.0%, 26–30 seats</li><li>SPD (S&amp;D): 16.3–19.8%, 16–19 seats</li><li>Alternative für Deutschland (EFDD): 10.6–13.6%, 10–13 seats</li><li>FDP (ALDE): 7.8–10.3%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 8.7–11.5%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.6–14.6%, 11–14 seats</li><li>CSU (EPP): 4.2–6.2%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-09-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-03-09-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 5–9 March 2018</title>
+    <updated>2018-03-25T16:01:47.039512+02:00</updated>
+    <dc:date>2018-03-25T16:01:47.039512+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.0–30.1%, 25–29 seats</li><li>SPD (S&amp;D): 17.3–20.9%, 17–20 seats</li><li>Alternative für Deutschland (EFDD): 11.6–14.6%, 11–14 seats</li><li>FDP (ALDE): 6.9–9.4%, 7–9 seats</li><li>DIE LINKE (GUE/NGL): 8.7–11.5%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.6–13.5%, 10–13 seats</li><li>CSU (EPP): 4.1–6.1%, 4–6 seats</li></ul></div></content>
@@ -239,5 +247,5 @@
     <updated>2018-03-08T15:42:58.357623+01:00</updated>
     <dc:date>2018-03-08T15:42:58.357623+01:00</dc:date>
   </entry>
-  <dc:date>2018-03-23T10:10:03.950184+01:00</dc:date>
+  <dc:date>2018-03-25T16:01:47.039512+02:00</dc:date>
 </feed>
