@@ -111,15 +111,15 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
-| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–12 | 8–12 | 8–12 |
+| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 7–11 | 7–11 | 7–11 | 7–11 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9 | 9 | 9 | 8–9 |
-| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
-| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
-| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
+| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 12 | 11–12 | 11–12 | 10–12 |
+| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10 | 9–10 | 9–10 | 9–12 |
+| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–11 | 10–12 | 10–12 | 10–12 |
 
 ### Probability Mass Function
 

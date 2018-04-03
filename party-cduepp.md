@@ -114,15 +114,15 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 25–27 | 23–28 | 23–28 | 22–29 |
 | [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–28 | 24–28 | 24–30 | 23–31 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 23 | 23 | 23 | 22–23 |
-| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 23–29 | 23–29 | 23–29 | 22–29 |
+| [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 28 | 23–28 | 23–28 | 23–28 | 23–28 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 27–29 | 27–29 | 26–30 | 26–30 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 23–26 | 22–26 | 22–26 | 22–26 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28 | 28 | 27–28 | 25–28 |
-| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
-| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
-| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
-| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 25–27 | 24–27 | 24–28 | 23–28 |
+| [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 23–27 | 23–27 | 22–27 | 22–28 |
+| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 26 | 26–27 | 26–27 | 24–27 |
+| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27 | 27–28 | 25–29 | 25–30 |
+| [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 27 | 25–27 | 24–27 | 24–27 | 24–27 |
 
 ### Probability Mass Function
 
