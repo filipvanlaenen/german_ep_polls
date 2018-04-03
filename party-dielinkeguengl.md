@@ -94,20 +94,20 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11 | 11–12 | 11–12 | 11–13 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 10 | 10 | 9–10 | 9–10 | 8–11 |
 | [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–11 | 9–11 | 9–12 | 9–12 |
-| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 10–12 | 9–12 | 9–13 | 9–13 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 11 | 11 | 11 | 11 | 10–11 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 8 | 8–10 | 8–10 | 8–10 |
 | [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–11 | 9–11 | 9–13 | 9–13 |
-| [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–14 | 10–14 | 10–14 | 10–14 |
+| [23–26 February 2018](2018-02-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [19–23 February 2018](2018-02-23-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [20–22 February 2018](2018-02-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [20–21 February 2018](2018-02-21-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–11 | 9–11 | 9–11 | 8–13 |
 | [15–21 February 2018](2018-02-21-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–12 | 9–12 | 9–12 | 9–14 |
 | [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10 | 10 | 10 | 9–12 |
 | [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–10 | 9–10 | 9–11 | 9–11 |
-| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 12 | 11–12 | 9–12 | 9–12 |
+| [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
