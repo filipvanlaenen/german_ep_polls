@@ -81,9 +81,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–28 | 24–30 | 23–30 | 23–30 |
+| N/A | [Poll Average](average.html) | 27 | 25–28 | 24–30 | 24–30 | 23–30 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27–28 | 27–28 | 27–28 | 26–31 |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 26 | 25–30 | 25–30 | 25–30 | 25–30 |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 25–27 | 24–27 | 24–28 | 24–29 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 27–30 | 25–30 | 24–30 | 23–30 |
@@ -132,16 +132,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 3% | 99.8% |  |
-| 24 | 5% | 97% |  |
-| 25 | 23% | 92% |  |
-| 26 | 16% | 69% |  |
-| 27 | 28% | 53% | Median |
-| 28 | 18% | 26% |  |
-| 29 | 2% | 8% | Last Result |
-| 30 | 6% | 6% |  |
-| 31 | 0.1% | 0.2% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 0.7% | 99.7% |  |
+| 24 | 4% | 99.0% |  |
+| 25 | 17% | 95% |  |
+| 26 | 18% | 78% |  |
+| 27 | 29% | 60% | Median |
+| 28 | 22% | 30% |  |
+| 29 | 3% | 8% | Last Result |
+| 30 | 5% | 5% |  |
+| 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 
 
