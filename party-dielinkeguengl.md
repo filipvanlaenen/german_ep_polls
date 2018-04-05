@@ -82,12 +82,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–13 | 10–13 | 9–13 | 8–13 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–12 | 11–13 | 10–13 | 10–14 |
-| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–11 | 9–11 | 9–11 | 9–13 |
+| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 10 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 9–10 | 9–11 | 9–12 | 8–12 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 9 | 8–9 | 8–9 | 8–9 | 8–11 |
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
-| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11 | 11–13 | 11–13 | 10–13 |
-| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–11 | 9–11 | 8–11 | 8–11 |
+| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
 | [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–12 | 10–12 | 10–12 | 8–12 |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10 | 10 | 9–10 | 9–10 |
