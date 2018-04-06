@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 27–31% <br> 27–28 | 16–20% <br> 16–19 | 11–14% <br> 10–13 | 10–12% <br> 9–13 | 11–14% <br> 10–14 | 4–6% <br> 4–7 | 7–9% <br> 7–9 |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 27–31% <br> 26–30 | 16–20% <br> 16–19 | 11–14% <br> 10–13 | 10–12% <br> 9–12 | 11–14% <br> 10–13 | 4–6% <br> 4–6 | 7–9% <br> 7–9 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 27–31% <br> 26–30 | 15–19% <br> 15–18 | 10–13% <br> 9–12 | 10–13% <br> 9–12 | 13–17% <br> 13–16 | 4–6% <br> 4–6 | 7–9% <br> 6–9 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25–29% <br> 24–28 | 15–19% <br> 14–18 | 9–12% <br> 9–11 | 11–13% <br> 10–13 | 14–17% <br> 13–16 | 5–7% <br> 5–6 | 9–11% <br> 9–11 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 24–28% <br> 23–27 | 17–21% <br> 17–20 | 11–14% <br> 10–13 | 10–12% <br> 9–12 | 13–16% <br> 12–15 | 4–6% <br> 4–5 | 8–10% <br> 7–10 |
