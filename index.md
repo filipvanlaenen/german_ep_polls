@@ -12,7 +12,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 24–28% <br> 23–27 | 17–21% <br> 17–20 | 11–14% <br> 10–13 | 10–12% <br> 9–12 | 13–16% <br> 12–15 | 4–6% <br> 4–5 | 8–10% <br> 7–10 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 25–31% <br> 24–29 | 17–21% <br> 16–21 | 10–14% <br> 10–14 | 8–12% <br> 8–11 | 11–15% <br> 11–14 | 4–7% <br> 4–6 | 7–11% <br> 7–10 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 25–31% <br> 25–28 | 16–21% <br> 15–19 | 9–13% <br> 8–12 | 8–12% <br> 8–9 | 11–15% <br> 13–14 | 4–7% <br> 4–6 | 8–12% <br> 8–12 |
-| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25–30% <br> 24–29 | 17–21% <br> 16–21 | 10–14% <br> 10–13 | 9–13% <br> 9–12 | 11–15% <br> 11–14 | 4–6% <br> 4–6 | 7–11% <br> 7–10 |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25–30% <br> 24–28 | 17–21% <br> 16–20 | 10–14% <br> 10–13 | 9–13% <br> 9–12 | 11–15% <br> 11–14 | 4–6% <br> 4–6 | 7–11% <br> 7–10 |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26–31% <br> 25–30 | 17–21% <br> 16–20 | 9–13% <br> 9–12 | 8–12% <br> 8–11 | 11–14% <br> 10–14 | 4–7% <br> 4–6 | 8–12% <br> 8–11 |
 | 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 |
 
