@@ -85,9 +85,9 @@ Last result: **7** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 13 | 10–15 | 10–15 | 10–15 | 10–16 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 13–15 | 13–16 | 13–16 | 13–16 |
+| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 10–13 | 10–13 | 10–15 | 10–15 |
+| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
@@ -136,14 +136,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% | Last Result |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 17% | 99.9% |  |
-| 11 | 7% | 83% |  |
-| 12 | 19% | 77% |  |
-| 13 | 32% | 58% | Median |
-| 14 | 16% | 26% |  |
-| 15 | 8% | 10% |  |
+| 10 | 13% | 99.9% |  |
+| 11 | 8% | 87% |  |
+| 12 | 23% | 79% |  |
+| 13 | 22% | 56% | Median |
+| 14 | 22% | 35% |  |
+| 15 | 10% | 12% |  |
 | 16 | 2% | 2% |  |
-| 17 | 0.1% | 0.1% |  |
+| 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
 
