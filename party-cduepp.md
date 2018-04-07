@@ -91,12 +91,12 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 22–25 | 22–26 | 22–26 |
 | [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
-| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 24–28 | 24–28 | 24–28 | 23–29 |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 28 | 26–29 | 26–29 | 25–30 | 25–31 |
 | [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27 | 27 | 27 | 25–29 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
-| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–28 | 25–28 | 25–28 | 24–29 |
+| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 28 | 27–30 | 27–30 | 26–30 | 26–31 |
@@ -135,11 +135,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.1% | 100% |  |
 | 23 | 0.9% | 99.9% |  |
 | 24 | 5% | 99.1% |  |
-| 25 | 17% | 94% |  |
-| 26 | 26% | 77% |  |
-| 27 | 25% | 51% | Median |
+| 25 | 16% | 94% |  |
+| 26 | 27% | 77% |  |
+| 27 | 24% | 50% | Median |
 | 28 | 17% | 27% |  |
-| 29 | 8% | 10% | Last Result |
+| 29 | 8% | 9% | Last Result |
 | 30 | 2% | 2% |  |
 | 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
