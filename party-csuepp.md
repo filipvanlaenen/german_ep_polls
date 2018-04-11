@@ -116,12 +116,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 
 ### Probability Mass Function
@@ -132,10 +132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.7% | 100% |  |
-| 4 | 24% | 99.3% |  |
-| 5 | 59% | 75% | Last Result, Median |
-| 6 | 16% | 17% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 24% | 99.4% |  |
+| 5 | 59% | 76% | Last Result, Median |
+| 6 | 16% | 16% |  |
 | 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 

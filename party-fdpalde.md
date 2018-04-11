@@ -85,7 +85,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
@@ -122,9 +122,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
+| [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 9–10 | 9–11 | 8–11 | 8–12 |
+| [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 
@@ -141,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
 | 7 | 13% | 99.4% |  |
-| 8 | 28% | 87% |  |
-| 9 | 31% | 59% | Median |
+| 8 | 29% | 87% |  |
+| 9 | 30% | 58% | Median |
 | 10 | 21% | 28% |  |
 | 11 | 6% | 7% |  |
 | 12 | 0.9% | 0.9% |  |
