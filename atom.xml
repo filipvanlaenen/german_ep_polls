@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-04-10T19:23:00.690533+02:00</updated>
+  <updated>2018-04-11T19:07:43.19547+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 24.2–29.5%, 23–28 seats</li><li>SPD (S&amp;D): 15.8–20.4%, 15–19 seats</li><li>Alternative für Deutschland (EFDD): 13.0–17.3%, 12–16 seats</li><li>FDP (ALDE): 8.3–11.9%, 8–11 seats</li><li>DIE LINKE (GUE/NGL): 10.2–14.1%, 10–13 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 8.3–11.9%, 8–11 seats</li><li>CSU (EPP): 4.1–6.8%, 4–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-31-INSAandYouGov.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by INSA and YouGov for Bild, 29–31 March 2018</title>
     <updated>2018-04-10T19:23:00.690533+02:00</updated>
     <dc:date>2018-04-10T19:23:00.690533+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.8–30.3%, 25–29 seats</li><li>SPD (S&amp;D): 16.2–20.0%, 15–19 seats</li><li>Alternative für Deutschland (EFDD): 11.4–14.8%, 11–14 seats</li><li>FDP (ALDE): 7.7–10.6%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 8.6–11.6%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.5–13.7%, 10–13 seats</li><li>CSU (EPP): 4.0–6.2%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-03-29-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-03-29-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 26–29 March 2018</title>
+    <updated>2018-04-10T23:03:29.699247+02:00</updated>
+    <dc:date>2018-04-10T23:03:29.699247+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.9–30.9%, 26–30 seats</li><li>SPD (S&amp;D): 16.4–19.8%, 16–19 seats</li><li>Alternative für Deutschland (EFDD): 10.6–13.5%, 10–13 seats</li><li>FDP (ALDE): 6.9–9.3%, 7–9 seats</li><li>DIE LINKE (GUE/NGL): 9.7–12.5%, 9–12 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.6–13.5%, 10–13 seats</li><li>CSU (EPP): 4.3–6.2%, 4–6 seats</li></ul></div></content>
@@ -200,6 +208,38 @@
     <dc:date>2018-04-09T21:03:25.110821+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.4–31.5%, 25–30 seats</li><li>SPD (S&amp;D): 17.8–22.3%, 17–21 seats</li><li>Alternative für Deutschland (EFDD): 10.3–13.9%, 10–13 seats</li><li>FDP (ALDE): 7.5–10.7%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 7.5–10.7%, 7–10 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.4–12.9%, 9–12 seats</li><li>CSU (EPP): 4.0–6.5%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-02-07-Emnid.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-02-07-Emnid.html"/>
+    <title>Opinion Poll by Emnid for Bild am Sonntag, 1–7 February 2018</title>
+    <updated>2018-04-11T16:46:22.504259+02:00</updated>
+    <dc:date>2018-04-11T16:46:22.504259+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.0–30.1%, 25–29 seats</li><li>SPD (S&amp;D): 16.3–19.8%, 16–19 seats</li><li>Alternative für Deutschland (EFDD): 11.6–14.6%, 11–14 seats</li><li>FDP (ALDE): 7.8–10.3%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 7.8–10.3%, 7–10 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.6–14.6%, 11–14 seats</li><li>CSU (EPP): 4.1–6.1%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-02-02-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-02-02-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 29 January–2 February 2018</title>
+    <updated>2018-04-11T13:02:35.676761+02:00</updated>
+    <dc:date>2018-04-11T13:02:35.676761+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.8–30.4%, 25–29 seats</li><li>SPD (S&amp;D): 16.1–20.0%, 15–19 seats</li><li>Alternative für Deutschland (EFDD): 12.3–15.8%, 12–15 seats</li><li>FDP (ALDE): 8.6–11.6%, 8–11 seats</li><li>DIE LINKE (GUE/NGL): 9.5–12.7%, 9–12 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.5–12.7%, 9–12 seats</li><li>CSU (EPP): 4.0–6.2%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Infratestdimap.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Infratestdimap.html"/>
+    <title>Opinion Poll by Infratest dimap for ARD, 29–31 January 2018</title>
+    <updated>2018-04-11T19:07:43.19547+02:00</updated>
+    <dc:date>2018-04-11T19:07:43.19547+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.6–30.6%, 24–29 seats</li><li>SPD (S&amp;D): 17.8–22.3%, 17–21 seats</li><li>Alternative für Deutschland (EFDD): 11.2–15.0%, 11–14 seats</li><li>FDP (ALDE): 7.5–10.7%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 8.5–11.8%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.4–12.8%, 9–12 seats</li><li>CSU (EPP): 3.9–6.3%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-01-31-Emnid.html"/>
+    <title>Opinion Poll by Emnid for Bild am Sonntag, 25–31 January 2018</title>
+    <updated>2018-04-11T18:07:31.906269+02:00</updated>
+    <dc:date>2018-04-11T18:07:31.906269+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.1–28.9%, 24–28 seats</li><li>SPD (S&amp;D): 16.1–19.4%, 15–19 seats</li><li>Alternative für Deutschland (EFDD): 12.7–15.7%, 12–15 seats</li><li>FDP (ALDE): 7.9–10.4%, 8–10 seats</li><li>DIE LINKE (GUE/NGL): 9.8–12.5%, 9–12 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.8–12.5%, 9–12 seats</li><li>CSU (EPP): 5.8–8.0%, 6–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.html</id>
     <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-01-29-INSAandYouGov.html"/>
@@ -207,5 +247,5 @@
     <updated>2018-04-10T15:31:44.351561+02:00</updated>
     <dc:date>2018-04-10T15:31:44.351561+02:00</dc:date>
   </entry>
-  <dc:date>2018-04-10T19:23:00.690533+02:00</dc:date>
+  <dc:date>2018-04-11T19:07:43.19547+02:00</dc:date>
 </feed>
