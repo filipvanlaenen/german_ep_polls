@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Apr 2018 20:05:56 +0200</pubDate>
+    <pubDate>Wed, 11 Apr 2018 22:52:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 29–31 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-03-31-INSAandYouGov.html#seats</link>
@@ -580,14 +580,34 @@
       <dc:date>2018-04-08T16:51:32.20797+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 26–28 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25–30 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13–16 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7–10 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 7–10 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9–12 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap-seats.png"
+        length="174074"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 20:32:49 +0200</pubDate>
+      <dc:date>2018-04-11T20:32:49.826747+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 26–28 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap-coalitions-seats.png"
+        length="145156"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 20:32:49 +0200</pubDate>
+      <dc:date>2018-04-11T20:32:49.826747+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Infratest dimap for ARD, 26–28 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 26.7–31.2%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13.3–16.9%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 7.6–10.5%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 7.6–10.5%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.5–12.7%&lt;/li&gt;&lt;li&gt;CSU (EPP): 4.1–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-28-Infratestdimap.png"
         length="216501"
         type="image/png"/>
-      <pubDate>Wed, 11 Apr 2018 20:05:56 +0200</pubDate>
-      <dc:date>2018-04-11T20:05:56.125781+02:00</dc:date>
+      <pubDate>Wed, 11 Apr 2018 20:32:49 +0200</pubDate>
+      <dc:date>2018-04-11T20:32:49.826747+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 22–28 February 2018 – Seat Projections</title>
@@ -786,8 +806,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach.png"
         length="225002"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 13:04:43 +0200</pubDate>
-      <dc:date>2018-04-08T13:04:43.018528+02:00</dc:date>
+      <pubDate>Wed, 11 Apr 2018 22:52:02 +0200</pubDate>
+      <dc:date>2018-04-11T22:52:02.594329+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 February 2018 – Voting Intentions</title>
@@ -1039,6 +1059,6 @@
       <pubDate>Tue, 10 Apr 2018 15:31:44 +0200</pubDate>
       <dc:date>2018-04-10T15:31:44.351561+02:00</dc:date>
     </item>
-    <dc:date>2018-04-11T20:05:56.125781+02:00</dc:date>
+    <dc:date>2018-04-11T22:52:02.594329+02:00</dc:date>
   </channel>
 </rss>
