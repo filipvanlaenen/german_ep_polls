@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Apr 2018 23:08:43 +0200</pubDate>
+    <pubDate>Fri, 13 Apr 2018 16:15:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 29–31 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-03-31-INSAandYouGov.html#seats</link>
@@ -760,14 +760,34 @@
       <dc:date>2018-04-12T13:41:34.929015+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 20–22 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25–29 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12–15 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 6–9 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10–13 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen-seats.png"
+        length="163128"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 15:34:43 +0200</pubDate>
+      <dc:date>2018-04-13T15:34:43.023128+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 20–22 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen-coalitions-seats.png"
+        length="143416"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 15:34:43 +0200</pubDate>
+      <dc:date>2018-04-13T15:34:43.023128+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 20–22 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 25.7–30.5%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15.1–19.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12.2–15.9%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 6.7–9.6%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.5–12.8%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.4–13.8%&lt;/li&gt;&lt;li&gt;CSU (EPP): 4.0–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-22-ForschungsgruppeWahlen.png"
         length="221504"
         type="image/png"/>
-      <pubDate>Mon, 09 Apr 2018 22:48:50 +0200</pubDate>
-      <dc:date>2018-04-09T22:48:50.919592+02:00</dc:date>
+      <pubDate>Fri, 13 Apr 2018 15:34:43 +0200</pubDate>
+      <dc:date>2018-04-13T15:34:43.023128+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 20–21 February 2018 – Seat Projections</title>
@@ -920,14 +940,34 @@
       <dc:date>2018-04-03T19:22:52.707446+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 2–15 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24–28 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11–14 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 9–12 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10–13 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach-seats.png"
+        length="163326"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 16:15:10 +0200</pubDate>
+      <dc:date>2018-04-13T16:15:10.783961+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 2–15 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach-coalitions-seats.png"
+        length="142679"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 16:15:10 +0200</pubDate>
+      <dc:date>2018-04-13T16:15:10.783961+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 2–15 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24.8–29.7%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15.5–19.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 11.2–15.0%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 9.4–12.9%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 8.0–11.3%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.3–13.9%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.7–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-15-Allensbach.png"
         length="225002"
         type="image/png"/>
-      <pubDate>Wed, 11 Apr 2018 22:52:02 +0200</pubDate>
-      <dc:date>2018-04-11T22:52:02.594329+02:00</dc:date>
+      <pubDate>Fri, 13 Apr 2018 16:15:10 +0200</pubDate>
+      <dc:date>2018-04-13T16:15:10.783961+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 February 2018 – Seat Projections</title>
@@ -1080,14 +1120,34 @@
       <dc:date>2018-04-11T16:46:22.504259+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 22–25 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13–16 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8–11 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11–13 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov-seats.png"
+        length="151920"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 12:00:36 +0200</pubDate>
+      <dc:date>2018-04-13T12:00:36.67809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov-coalitions-seats.png"
+        length="132636"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 12:00:36 +0200</pubDate>
+      <dc:date>2018-04-13T12:00:36.67809+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov for Bild, 2–5 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 22.8–26.5%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 15.4–18.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 13.5–16.6%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 8.7–11.4%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.7–12.5%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.1–14.0%&lt;/li&gt;&lt;li&gt;CSU (EPP): 5.0–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-05-INSAandYouGov.png"
         length="212172"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 11:49:47 +0200</pubDate>
-      <dc:date>2018-04-08T11:49:47.782093+02:00</dc:date>
+      <pubDate>Fri, 13 Apr 2018 12:00:36 +0200</pubDate>
+      <dc:date>2018-04-13T12:00:36.67809+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa for Stern and RTL, 29 January–2 February 2018 – Seat Projections</title>
@@ -1120,14 +1180,34 @@
       <dc:date>2018-04-11T13:02:35.676761+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 30 January–1 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 23–28 seats&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12–15 seats&lt;/li&gt;&lt;li&gt;FDP (ALDE): 5–8 seats&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 12–15 seats&lt;/li&gt;&lt;li&gt;CSU (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen-seats.png"
+        length="164312"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 13:40:24 +0200</pubDate>
+      <dc:date>2018-04-13T13:40:24.332983+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 30 January–1 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen-coalitions-seats.png"
+        length="143964"
+        type="image/png"/>
+      <pubDate>Fri, 13 Apr 2018 13:40:24 +0200</pubDate>
+      <dc:date>2018-04-13T13:40:24.332983+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 30 January–1 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.html</link>
       <description>&lt;ul&gt;&lt;li&gt;CDU (EPP): 24.0–28.8%&lt;/li&gt;&lt;li&gt;SPD (S&amp;amp;D): 16.9–21.2%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EFDD): 12.2–16.0%&lt;/li&gt;&lt;li&gt;FDP (ALDE): 5.7–8.5%&lt;/li&gt;&lt;li&gt;DIE LINKE (GUE/NGL): 9.4–12.8%&lt;/li&gt;&lt;li&gt;BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 12.2–16.0%&lt;/li&gt;&lt;li&gt;CSU (EPP): 3.7–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2018-02-01-ForschungsgruppeWahlen.png"
         length="223978"
         type="image/png"/>
-      <pubDate>Tue, 03 Apr 2018 21:15:16 +0200</pubDate>
-      <dc:date>2018-04-03T21:15:16.380611+02:00</dc:date>
+      <pubDate>Fri, 13 Apr 2018 13:40:24 +0200</pubDate>
+      <dc:date>2018-04-13T13:40:24.332983+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 29–31 January 2018 – Seat Projections</title>
@@ -1219,6 +1299,6 @@
       <pubDate>Tue, 10 Apr 2018 15:31:44 +0200</pubDate>
       <dc:date>2018-04-10T15:31:44.351561+02:00</dc:date>
     </item>
-    <dc:date>2018-04-12T23:08:43.038533+02:00</dc:date>
+    <dc:date>2018-04-13T16:15:10.783961+02:00</dc:date>
   </channel>
 </rss>
