@@ -91,13 +91,13 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
-| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
-| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
+| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
@@ -151,14 +151,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 1.0% | 100% |  |
-| 9 | 9% | 99.0% |  |
-| 10 | 31% | 90% |  |
-| 11 | 35% | 59% | Last Result, Median |
-| 12 | 14% | 24% |  |
-| 13 | 3% | 10% |  |
-| 14 | 6% | 7% |  |
-| 15 | 0.8% | 1.0% |  |
-| 16 | 0.1% | 0.2% |  |
+| 9 | 10% | 99.0% |  |
+| 10 | 30% | 89% |  |
+| 11 | 34% | 59% | Last Result, Median |
+| 12 | 14% | 26% |  |
+| 13 | 6% | 12% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.9% | 1.2% |  |
+| 16 | 0.2% | 0.3% |  |
 | 17 | 0% | 0% |  |
 
 

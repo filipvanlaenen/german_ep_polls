@@ -87,11 +87,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -145,10 +145,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.0% | 100% |  |
-| 4 | 33% | 99.0% |  |
-| 5 | 54% | 66% | Last Result, Median |
-| 6 | 11% | 12% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 33% | 98.8% |  |
+| 5 | 55% | 66% | Last Result, Median |
+| 6 | 10% | 11% |  |
 | 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
