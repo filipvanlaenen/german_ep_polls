@@ -2,20 +2,20 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 |
-| N/A | [Poll Average](average.html) | 24–31% <br> 23–29 | 16–21% <br> 15–20 | 9–15% <br> 9–14 | 8–13% <br> 8–12 | 11–16% <br> 11–16 | 4–6% <br> 4–6 | 7–11% <br> 7–11 |
-| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26–31% <br> 24–29 | 17–21% <br> 16–20 | 12–16% <br> 11–15 | 7–11% <br> 7–10 | 11–15% <br> 11–14 | 4–6% <br> 4–6 | 7–10% <br> 6–9 |
-| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 26–30% <br> 25–29 | 16–20% <br> 16–19 | 10–13% <br> 9–12 | 10–13% <br> 9–12 | 12–16% <br> 12–15 | 4–6% <br> 4–6 | 8–10% <br> 7–10 |
-| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25–29% <br> 24–28 | 16–19% <br> 15–18 | 10–13% <br> 10–12 | 11–14% <br> 10–13 | 14–17% <br> 13–16 | 4–5% <br> 4–5 | 8–10% <br> 7–10 |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 25–29% <br> 24–28 | 18–22% <br> 17–21 | 10–13% <br> 9–12 | 9–12% <br> 8–11 | 11–15% <br> 11–14 | 4–6% <br> 4–6 | 8–11% <br> 7–10 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 23–28% <br> 22–27 | 17–21% <br> 16–20 | 9–12% <br> 8–11 | 9–13% <br> 9–12 | 13–17% <br> 13–16 | 4–6% <br> 3–6 | 9–12% <br> 8–11 |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 26–30% <br> 25–29 | 16–20% <br> 15–19 | 10–14% <br> 10–13 | 9–12% <br> 8–11 | 12–16% <br> 12–15 | 4–6% <br> 4–6 | 8–11% <br> 7–10 |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 27–31% <br> 26–30 | 15–19% <br> 15–18 | 10–13% <br> 9–12 | 10–13% <br> 9–12 | 13–17% <br> 13–16 | 4–6% <br> 4–6 | 7–9% <br> 6–9 |
-| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 25–31% <br> 24–30 | 16–21% <br> 15–20 | 9–13% <br> 9–12 | 8–12% <br> 8–11 | 11–15% <br> 10–14 | 4–7% <br> 4–6 | 8–12% <br> 8–11 |
-| [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26–31% <br> 25–30 | 17–21% <br> 16–20 | 9–13% <br> 9–12 | 8–12% <br> 8–11 | 11–14% <br> 10–14 | 4–7% <br> 4–6 | 8–12% <br> 8–11 |
-| 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 |
+| Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | ÖDP | PARTEI |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 | 1.5% <br> 1 | 0.6% <br> 1 | 0.6% <br> 1 |
+| N/A | [Poll Average](average.html) | 24–31% <br> 23–29 | 16–21% <br> 15–20 | 9–15% <br> 9–13 | 8–13% <br> 8–12 | 11–16% <br> 11–16 | 4–6% <br> 4–6 | 7–11% <br> 7–11 | 1–3% <br> 1–3 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26–31% <br> 24–26 | 17–21% <br> 18–20 | 12–16% <br> 12–14 | 7–11% <br> 7–10 | 11–15% <br> 11–13 | 4–6% <br> 5 | 7–10% <br> 7–10 | 1–3% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 1 |
+| [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 26–30% <br> 24–28 | 16–20% <br> 15–20 | 10–13% <br> 9–11 | 10–13% <br> 10–12 | 12–16% <br> 12–16 | 4–6% <br> 4–6 | 8–10% <br> 8–10 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25–29% <br> 26–27 | 16–19% <br> 15–18 | 10–13% <br> 10–11 | 11–14% <br> 12–13 | 14–17% <br> 13–16 | 4–5% <br> 4–5 | 8–10% <br> 7–9 | 1–2% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0–1 |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 25–29% <br> 24–28 | 18–22% <br> 17–21 | 9–13% <br> 9–12 | 9–12% <br> 8–11 | 11–15% <br> 11–14 | 4–6% <br> 4–6 | 8–11% <br> 7–10 | 1–3% <br> N/A | 0–1% <br> N/A | 0–2% <br> N/A |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 23–28% <br> 22–27 | 17–21% <br> 16–20 | 9–12% <br> 8–11 | 9–13% <br> 9–12 | 13–17% <br> 13–16 | 4–6% <br> 3–6 | 9–12% <br> 8–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 26–30% <br> 25–29 | 16–20% <br> 15–19 | 10–14% <br> 10–13 | 9–12% <br> 8–11 | 12–16% <br> 12–15 | 4–6% <br> 4–6 | 8–11% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 27–31% <br> 26–30 | 15–19% <br> 15–18 | 10–13% <br> 9–12 | 10–13% <br> 9–12 | 13–17% <br> 13–16 | 4–6% <br> 4–6 | 7–9% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 25–31% <br> 24–30 | 16–21% <br> 15–20 | 9–13% <br> 9–12 | 8–12% <br> 8–11 | 11–15% <br> 10–14 | 4–7% <br> 4–6 | 8–12% <br> 8–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26–31% <br> 25–30 | 17–21% <br> 16–20 | 9–13% <br> 9–12 | 8–12% <br> 8–11 | 11–14% <br> 10–14 | 4–7% <br> 4–6 | 8–12% <br> 8–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 | 1.5% <br> 1 | 0.6% <br> 1 | 0.6% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -29,6 +29,9 @@ Only polls for which at least the sample size has been published are included in
 + **AfD:** Alternative für Deutschland (EFDD)
 + **CSU:** CSU (EPP)
 + **FDP:** FDP (ALDE)
++ **FW:** FREIE WÄHLER (ALDE)
++ **ÖDP:** ÖDP (Greens/EFA)
++ **PARTEI:** Die PARTEI (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
