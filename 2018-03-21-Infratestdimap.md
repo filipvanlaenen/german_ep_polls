@@ -17,6 +17,9 @@
 | DIE LINKE (GUE/NGL) | 7.4% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | FDP (ALDE) | 3.4% | 9.0% | 7.9–10.2% |7.6–10.5% |7.4–10.9% |6.9–11.5% |
 | CSU (EPP) | 5.3% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.5–7.0% |
+| FREIE WÄHLER (ALDE) | 1.5% | 1.6% | N/A |N/A |N/A |N/A |
+| Die PARTEI (NI) | 0.6% | 0.7% | N/A |N/A |N/A |N/A |
+| ÖDP (Greens/EFA) | 0.6% | 0.5% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,6 +38,9 @@
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 10 | 8–11 |8–11 |8–11 |8–12 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 9 | 8–10 |7–10 |7–10 |7–11 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–6 |4–6 |4–6 |3–7 |
+| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 
 ### CDU (EPP)
 
@@ -179,6 +185,7 @@
 | CDU (EPP) – CSU (EPP) | 34 | 32 | 0% | 30–34 | 29–34 | 29–35 | 28–35 |
 | SPD (S&D) | 27 | 18 | 0% | 17–20 | 16–20 | 16–21 | 15–21 |
 | Alternative für Deutschland (EFDD) | 7 | 12 | 0% | 11–14 | 11–14 | 11–14 | 10–15 |
+| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 9 | 0% | 8–10 | 7–10 | 7–10 | 7–11 |
 
 ### CDU (EPP) – CSU (EPP)
 
@@ -230,6 +237,21 @@
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
+### FDP (ALDE) – FREIE WÄHLER (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 9% | 99.6% |  |
+| 8 | 35% | 91% |  |
+| 9 | 40% | 55% | Median |
+| 10 | 13% | 15% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
+
 
 ## Technical Information
 
@@ -242,6 +264,6 @@
 ### Calculations
 
 + **Sample size:** 1038
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.01%
++ **Simulations done:** 0
++ **Error estimate:** 100.00%
 

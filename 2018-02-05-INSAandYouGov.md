@@ -17,6 +17,9 @@
 | DIE LINKE (GUE/NGL) | 7.4% | 11.0% | 10.2–11.9% |9.9–12.2% |9.7–12.5% |9.3–12.9% |
 | FDP (ALDE) | 3.4% | 10.0% | 9.2–10.9% |8.9–11.1% |8.7–11.4% |8.4–11.8% |
 | CSU (EPP) | 5.3% | 5.9% | 5.3–6.6% |5.1–6.8% |5.0–7.0% |4.7–7.4% |
+| FREIE WÄHLER (ALDE) | 1.5% | 1.7% | N/A |N/A |N/A |N/A |
+| Die PARTEI (NI) | 0.6% | 0.7% | N/A |N/A |N/A |N/A |
+| ÖDP (Greens/EFA) | 0.6% | 0.5% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,6 +38,9 @@
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 10 | 10–12 |10–12 |9–12 |9–12 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 10 | 9–10 |9–11 |8–11 |8–11 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 6 | 5–6 |5–7 |5–7 |4–7 |
+| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 
 ### CDU (EPP)
 
@@ -176,6 +182,7 @@
 | CDU (EPP) – CSU (EPP) | 34 | 29 | 0% | 28–31 | 28–31 | 27–31 | 27–32 |
 | SPD (S&D) | 27 | 16 | 0% | 15–17 | 15–18 | 15–18 | 14–18 |
 | Alternative für Deutschland (EFDD) | 7 | 14 | 0% | 13–15 | 13–16 | 13–16 | 12–16 |
+| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 10 | 0% | 9–10 | 9–11 | 8–11 | 8–11 |
 
 ### CDU (EPP) – CSU (EPP)
 
@@ -226,6 +233,21 @@
 | 16 | 7% | 7% |  |
 | 17 | 0.4% | 0.4% |  |
 | 18 | 0% | 0% |  |
+
+### FDP (ALDE) – FREIE WÄHLER (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 4% | 100% |  |
+| 9 | 41% | 96% |  |
+| 10 | 47% | 55% | Median |
+| 11 | 8% | 8% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 
 ## Technical Information

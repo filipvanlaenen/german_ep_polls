@@ -17,6 +17,9 @@
 | FDP (ALDE) | 3.4% | 11.0% | 10.0–12.2% |9.7–12.6% |9.4–12.9% |8.9–13.5% |
 | DIE LINKE (GUE/NGL) | 7.4% | 9.5% | 8.5–10.7% |8.3–11.0% |8.0–11.3% |7.6–11.8% |
 | CSU (EPP) | 5.3% | 4.8% | 4.1–5.7% |3.9–5.9% |3.7–6.1% |3.4–6.6% |
+| FREIE WÄHLER (ALDE) | 1.5% | 2.0% | N/A |N/A |N/A |N/A |
+| Die PARTEI (NI) | 0.6% | 0.9% | N/A |N/A |N/A |N/A |
+| ÖDP (Greens/EFA) | 0.6% | 0.6% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,6 +38,9 @@
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 11 | 10–12 |9–12 |9–12 |8–13 |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 9 | 8–10 |8–11 |8–11 |7–11 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–5 |4–6 |4–6 |3–6 |
+| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 
 ### CDU (EPP)
 
@@ -180,6 +186,7 @@
 | CDU (EPP) – CSU (EPP) | 34 | 31 | 0% | 29–32 | 29–33 | 28–33 | 27–34 |
 | SPD (S&D) | 27 | 17 | 0% | 15–18 | 15–18 | 15–19 | 14–19 |
 | Alternative für Deutschland (EFDD) | 7 | 12 | 0% | 11–14 | 11–14 | 11–14 | 10–15 |
+| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 11 | 0% | 10–12 | 9–12 | 9–12 | 8–13 |
 
 ### CDU (EPP) – CSU (EPP)
 
@@ -230,6 +237,23 @@
 | 15 | 1.4% | 2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
+
+### FDP (ALDE) – FREIE WÄHLER (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 9% | 99.5% |  |
+| 10 | 37% | 90% |  |
+| 11 | 40% | 54% | Median |
+| 12 | 13% | 14% |  |
+| 13 | 1.2% | 1.3% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
 ## Technical Information

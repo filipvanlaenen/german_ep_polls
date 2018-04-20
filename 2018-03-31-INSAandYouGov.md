@@ -17,6 +17,9 @@
 | FDP (ALDE) | 3.4% | 10.0% | 8.9–11.2% |8.6–11.6% |8.3–11.9% |7.8–12.5% |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | 10.7% | 10.0% | 8.9–11.2% |8.6–11.6% |8.3–11.9% |7.8–12.5% |
 | CSU (EPP) | 5.3% | 5.3% | 4.5–6.3% |4.3–6.6% |4.1–6.8% |3.8–7.3% |
+| FREIE WÄHLER (ALDE) | 1.5% | 1.2% | N/A |N/A |N/A |N/A |
+| Die PARTEI (NI) | 0.6% | 0.6% | N/A |N/A |N/A |N/A |
+| ÖDP (Greens/EFA) | 0.6% | 0.4% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,6 +38,9 @@
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 10 | 9–11 |8–11 |8–11 |8–12 |
 | <a href="#bÜndnis-90/die-grÜnen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 10 | 8–11 |8–11 |8–11 |7–12 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–6 |4–6 |4–7 |4–7 |
+| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 
 ### CDU (EPP)
 
@@ -186,6 +192,7 @@
 | CDU (EPP) – CSU (EPP) | 34 | 31 | 0% | 29–33 | 28–33 | 28–33 | 27–34 |
 | SPD (S&D) | 27 | 17 | 0% | 16–19 | 15–19 | 15–19 | 14–20 |
 | Alternative für Deutschland (EFDD) | 7 | 14 | 0% | 13–16 | 13–16 | 12–16 | 12–17 |
+| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 10 | 0% | 9–11 | 8–11 | 8–11 | 8–12 |
 
 ### CDU (EPP) – CSU (EPP)
 
@@ -240,6 +247,22 @@
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
+### FDP (ALDE) – FREIE WÄHLER (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 9% | 99.5% |  |
+| 9 | 33% | 91% |  |
+| 10 | 40% | 57% | Median |
+| 11 | 15% | 18% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
+
 
 ## Technical Information
 
@@ -252,6 +275,6 @@
 ### Calculations
 
 + **Sample size:** 1074
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.54%
++ **Simulations done:** 0
++ **Error estimate:** 100.00%
 
