@@ -10,19 +10,19 @@ Last result: **0.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% | 0.3–1.6% |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.4% | 0.3–1.6% |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.2% | 0.5–1.4% | 0.5–1.5% | 0.4–1.6% |
-| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | N/A | N/A | N/A | N/A |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 0.9% | N/A | N/A | N/A | N/A |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0.7% | N/A | N/A | N/A | N/A |
-| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | N/A | N/A | N/A | N/A |
-| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | N/A | N/A | N/A | N/A |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 0.9% | N/A | N/A | N/A | N/A |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.7% | N/A | N/A | N/A | N/A |
-| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.5% | N/A | N/A | N/A | N/A |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
+| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
+| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
+| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 0.9% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.2% | 0.3–1.4% |
+| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.5% | 0.4–0.8% | 0.4–1.2% | 0.4–1.2% | 0.0–1.2% |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 0.7% | N/A | N/A | N/A | N/A |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 0.7% | N/A | N/A | N/A | N/A |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 0.9% | N/A | N/A | N/A | N/A |
@@ -68,9 +68,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 22% | 100% |  |
-| 0.5–1.5% | 78% | 78% | Last Result, Median |
-| 1.5–2.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 19% | 100% |  |
+| 0.5–1.5% | 81% | 81% | Last Result, Median |
+| 1.5–2.5% | 0.6% | 0.6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -86,14 +86,14 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1 | 1 | 1 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix |  |  |  |  |  |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–1 |
+| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 1 | 1 | 1 | 1 | 1 |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1 | 0–1 |
+| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 0–1 | 0–2 |
+| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1 |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 1 | 1 | 1 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
@@ -142,8 +142,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% |  |
-| 1 | 80% | 80% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 0 | 10% | 100% |  |
+| 1 | 90% | 90% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
