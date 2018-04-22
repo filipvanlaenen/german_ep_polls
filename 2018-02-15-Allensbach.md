@@ -17,9 +17,9 @@
 | FDP (ALDE) | 3.4% | 11.0% | 10.0–12.2% |9.7–12.6% |9.4–12.9% |8.9–13.5% |
 | DIE LINKE (GUE/NGL) | 7.4% | 9.5% | 8.5–10.7% |8.3–11.0% |8.0–11.3% |7.6–11.8% |
 | CSU (EPP) | 5.3% | 4.8% | 4.1–5.7% |3.9–5.9% |3.7–6.1% |3.4–6.6% |
-| FREIE WÄHLER (ALDE) | 1.5% | 2.0% | N/A |N/A |N/A |N/A |
+| FREIE WÄHLER (ALDE) | 1.5% | 1.0% | N/A |N/A |N/A |N/A |
 | Die PARTEI (NI) | 0.6% | 0.9% | N/A |N/A |N/A |N/A |
-| ÖDP (Greens/EFA) | 0.6% | 0.6% | N/A |N/A |N/A |N/A |
+| Partei Mensch Umwelt Tierschutz (GUE/NGL) | 1.2% | 0.8% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -40,7 +40,7 @@
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–5 |4–6 |4–6 |3–6 |
 | <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | N/A | N/A |N/A |N/A |N/A |
 
 ### CDU (EPP)
 
