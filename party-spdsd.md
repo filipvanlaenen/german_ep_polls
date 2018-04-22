@@ -10,13 +10,13 @@ Last result: **27.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 16.7–20.3% | 16.3–20.8% | 16.0–21.2% | 15.3–22.0% |
+| N/A | [Poll Average](average.html) | 18.4% | 16.7–20.2% | 16.3–20.8% | 16.0–21.2% | 15.3–22.0% |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.8–21.4% | 16.2–22.1% |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | 16.8–19.2% | 16.5–19.5% | 16.2–19.8% | 15.7–20.4% |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17.5% | 16.4–18.6% | 16.1–18.9% | 15.9–19.2% | 15.4–19.7% |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 20.0% | 18.7–21.4% | 18.4–21.7% | 18.1–22.1% | 17.5–22.8% |
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 17.0% | 15.7–18.3% | 15.4–18.7% | 15.1–19.0% | 14.5–19.7% |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 19.0% | 17.6–20.4% | 17.3–20.8% | 17.0–21.2% | 16.4–21.9% |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.1% | 16.4–21.8% |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 18.0% | 16.8–19.4% | 16.5–19.7% | 16.2–20.1% | 15.6–20.7% |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18.0% | 16.5–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.8–19.3% | 16.5–19.7% | 16.2–20.0% | 15.6–20.7% |
@@ -71,11 +71,11 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0.1% | 100% |  |
 | 14.5–15.5% | 0.9% | 99.9% |  |
 | 15.5–16.5% | 7% | 99.0% |  |
-| 16.5–17.5% | 20% | 92% |  |
+| 16.5–17.5% | 19% | 92% |  |
 | 17.5–18.5% | 28% | 73% | Median |
-| 18.5–19.5% | 25% | 45% |  |
-| 19.5–20.5% | 13% | 20% |  |
-| 20.5–21.5% | 5% | 7% |  |
+| 18.5–19.5% | 24% | 45% |  |
+| 19.5–20.5% | 14% | 21% |  |
+| 20.5–21.5% | 6% | 7% |  |
 | 21.5–22.5% | 1.2% | 1.3% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
@@ -92,30 +92,30 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–17 | 15–17 | 14–17 | 14–17 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 17 | 17 | 17 | 17–18 | 17–21 |
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 17–19 | 15–19 | 15–19 | 15–19 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 19 | 18–19 | 18–19 | 18–19 | 18–19 |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 15–18 | 15–19 | 15–19 | 15–19 |
-| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 15–18 | 15–18 | 15–19 | 15–20 |
-| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 17 | 17 | 17–18 | 17–18 | 15–18 |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19 | 18–19 | 16–19 | 16–19 |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 16–19 | 16–19 | 16–19 | 14–19 |
-| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17 | 17–19 | 14–19 | 14–19 |
-| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 17 | 17–20 | 17–20 | 17–20 | 15–20 |
-| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 19 | 19 | 18–19 | 17–19 |
-| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 18 | 16–19 | 15–20 | 15–20 | 15–20 |
-| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16–18 | 16–18 | 16–18 | 16–18 |
-| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 15–19 | 15–19 | 15–19 | 15–19 |
-| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–18 | 17–18 | 17–20 | 16–20 |
-| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 18 | 17–18 | 17–18 | 17–18 |
-| [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
-| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20 | 20 | 20 | 20 |
-| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 17–19 | 17–19 | 16–19 | 15–19 |
-| [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 19 | 17–19 | 17–19 | 17–19 | 17–19 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 18 | 18 | 18 | 18 | 16–18 |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 16–18 | 16–18 | 16–18 | 16–21 |
+| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14 | 14 | 14–17 | 14–19 |
+| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18 | 18 | 18 | 18 |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16 | 16 | 16 | 16–18 |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17 | 15–17 | 15–17 | 15–18 |
+| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 19 | 19 | 17–19 | 17–21 | 17–21 |
+| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 17 | 17–19 | 17–19 | 17–19 |
+| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 18 | 18 | 18 | 18 | 15–18 |
+| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17 | 17 | 17 | 17 |
+| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 18–19 | 18–19 | 16–19 | 15–19 |
+| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18–19 | 17–19 | 15–19 | 15–20 |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 16–19 | 16–19 | 16–19 | 16–19 |
+| [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–19 | 17–20 | 17–21 |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20 | 20 | 19–20 | 18–20 |
+| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 16 | 16 | 16 | 15–16 |
+| [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–18 | 17–18 | 17–19 | 17–20 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14 | 14 | 14 | 14 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 18 | 16–18 | 16–18 | 16–18 | 16–21 |
@@ -152,16 +152,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.5% | 99.9% |  |
-| 15 | 7% | 99.5% |  |
-| 16 | 11% | 93% |  |
-| 17 | 38% | 81% | Median |
-| 18 | 21% | 43% |  |
-| 19 | 19% | 22% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.3% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
+| 14 | 2% | 100% |  |
+| 15 | 7% | 98% |  |
+| 16 | 8% | 91% |  |
+| 17 | 37% | 83% | Median |
+| 18 | 40% | 46% |  |
+| 19 | 5% | 6% |  |
+| 20 | 0.4% | 0.9% |  |
+| 21 | 0.5% | 0.5% |  |
+| 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
