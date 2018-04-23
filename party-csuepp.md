@@ -91,28 +91,28 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5 | 5–6 | 4–6 | 4–6 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5 | 4–6 | 4–6 | 4–7 |
-| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
+| [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–28 February 2018](2018-02-28-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -145,11 +145,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.4% | 100% |  |
-| 4 | 31% | 98.6% |  |
-| 5 | 57% | 68% | Last Result, Median |
-| 6 | 11% | 11% |  |
-| 7 | 0.4% | 0.4% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 30% | 98.8% |  |
+| 5 | 57% | 69% | Last Result, Median |
+| 6 | 11% | 12% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 
