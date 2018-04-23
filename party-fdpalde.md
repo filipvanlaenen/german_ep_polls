@@ -90,8 +90,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–12 | 6–12 |
-| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 7–9 | 6–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–9 | 7–10 | 7–10 | 7–11 |
@@ -105,7 +105,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 9 | 8–12 | 8–12 | 8–12 | 7–12 |
+| [16–21 March 2018](2018-03-21-GMS.html) | GMS | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -115,8 +115,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–10 | 8–10 | 8–11 | 8–12 |
-| [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–9 | 7–10 | 7–11 | 7–11 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [26–28 February 2018](2018-02-28-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
@@ -153,13 +153,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 1.4% | 100% |  |
-| 7 | 11% | 98.6% |  |
-| 8 | 34% | 88% |  |
-| 9 | 27% | 54% | Median |
-| 10 | 21% | 27% |  |
-| 11 | 4% | 6% |  |
-| 12 | 2% | 3% |  |
+| 6 | 1.0% | 100% |  |
+| 7 | 9% | 99.0% |  |
+| 8 | 33% | 90% |  |
+| 9 | 29% | 57% | Median |
+| 10 | 22% | 27% |  |
+| 11 | 4% | 5% |  |
+| 12 | 1.3% | 1.3% |  |
 | 13 | 0% | 0% |  |
 
 
