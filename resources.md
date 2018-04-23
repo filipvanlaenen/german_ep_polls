@@ -29,4 +29,5 @@ The following websites provide similar information to this website:
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
 + [Icelandic Polls](https://filipvanlaenen.github.io/icelandic_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
++ [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
