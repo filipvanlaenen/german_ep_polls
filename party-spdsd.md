@@ -92,15 +92,15 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
-| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 15–18 | 14–19 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 16–18 | 15–18 | 15–19 | 15–20 |
-| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–18 | 16–18 | 16–18 | 15–19 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
@@ -156,8 +156,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 3% | 99.5% |  |
 | 16 | 22% | 97% |  |
 | 17 | 28% | 75% | Median |
-| 18 | 27% | 47% |  |
-| 19 | 15% | 20% |  |
+| 18 | 28% | 47% |  |
+| 19 | 14% | 19% |  |
 | 20 | 4% | 5% |  |
 | 21 | 1.2% | 1.3% |  |
 | 22 | 0.1% | 0.1% |  |
