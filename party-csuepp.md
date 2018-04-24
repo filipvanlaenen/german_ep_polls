@@ -90,7 +90,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5 | 5–6 | 4–6 | 4–6 |
+| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
@@ -99,7 +99,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -146,9 +146,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.7% | 100% |  |
-| 4 | 32% | 99.3% |  |
-| 5 | 56% | 68% | Last Result, Median |
-| 6 | 11% | 11% |  |
+| 4 | 30% | 99.3% |  |
+| 5 | 59% | 70% | Last Result, Median |
+| 6 | 10% | 11% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
