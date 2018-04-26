@@ -10,7 +10,10 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 25.7–29.7% | 25.1–30.2% | 24.5–30.7% | 23.5–31.6% |
+| N/A | [Poll Average](average.html) | 28.0% | 25.5–29.9% | 24.9–30.4% | 24.4–30.8% | 23.5–31.6% |
+| [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26.0% | 24.8–27.3% | 24.5–27.6% | 24.2–28.0% | 23.6–28.6% |
+| [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.2% | 24.0–26.5% | 23.7–26.8% | 23.4–27.1% | 22.8–27.8% |
+| [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 28.9% | 27.6–30.2% | 27.2–30.6% | 26.9–30.9% | 26.3–31.6% |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28.0% | 26.4–29.8% | 25.9–30.3% | 25.5–30.7% | 24.8–31.6% |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 28.0% | 26.7–29.4% | 26.3–29.8% | 26.0–30.1% | 25.3–30.8% |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
@@ -70,15 +73,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0.1% | 100% |  |
 | 22.5–23.5% | 0.5% | 99.9% |  |
-| 23.5–24.5% | 2% | 99.5% |  |
-| 24.5–25.5% | 6% | 97% |  |
-| 25.5–26.5% | 13% | 92% |  |
-| 26.5–27.5% | 23% | 79% |  |
-| 27.5–28.5% | 25% | 56% | Median |
-| 28.5–29.5% | 19% | 31% |  |
-| 29.5–30.5% | 9% | 12% | Last Result |
-| 30.5–31.5% | 3% | 3% |  |
-| 31.5–32.5% | 0.5% | 0.5% |  |
+| 23.5–24.5% | 3% | 99.4% |  |
+| 24.5–25.5% | 7% | 97% |  |
+| 25.5–26.5% | 12% | 90% |  |
+| 26.5–27.5% | 18% | 78% |  |
+| 27.5–28.5% | 24% | 59% | Median |
+| 28.5–29.5% | 21% | 36% |  |
+| 29.5–30.5% | 11% | 14% | Last Result |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -91,7 +94,10 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–29 | 23–29 | 22–30 |
+| N/A | [Poll Average](average.html) | 27 | 25–28 | 24–29 | 23–29 | 22–30 |
+| [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 24–26 | 23–26 | 23–26 | 22–27 |
+| [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 23–25 | 23–25 | 22–26 | 22–26 |
+| [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–29 | 26–29 | 25–29 | 25–31 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–29 | 25–29 | 24–29 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
@@ -99,7 +105,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–28 | 26–29 | 25–30 | 25–30 |
 | [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 26–28 | 25–28 | 25–29 | 24–29 |
-| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 23–27 | 23–28 | 23–28 | 22–28 |
+| [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 24–27 | 23–28 | 23–28 | 22–30 |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
 | [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 28 | 26–29 | 26–29 | 25–29 | 25–31 |
@@ -151,16 +157,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.5% | 100% |  |
-| 23 | 2% | 99.4% |  |
-| 24 | 8% | 97% |  |
-| 25 | 13% | 90% |  |
-| 26 | 24% | 77% |  |
-| 27 | 29% | 52% | Median |
-| 28 | 17% | 23% |  |
-| 29 | 6% | 7% | Last Result |
-| 30 | 0.8% | 1.2% |  |
-| 31 | 0.4% | 0.4% |  |
+| 22 | 0.6% | 100% |  |
+| 23 | 2% | 99.3% |  |
+| 24 | 7% | 97% |  |
+| 25 | 16% | 90% |  |
+| 26 | 22% | 74% |  |
+| 27 | 25% | 52% | Median |
+| 28 | 19% | 28% |  |
+| 29 | 7% | 9% | Last Result |
+| 30 | 0.9% | 1.4% |  |
+| 31 | 0.4% | 0.5% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
