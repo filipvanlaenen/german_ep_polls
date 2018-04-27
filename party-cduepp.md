@@ -100,9 +100,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 23–26 | 23–26 | 22–27 | 22–28 |
-| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
+| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–29 | 25–29 | 25–30 | 25–30 |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 24–27 | 24–28 | 23–29 | 23–29 |
-| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–28 | 25–29 | 25–29 |
+| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–28 | 25–28 | 25–28 | 24–29 |
 | [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 28 | 26–29 | 26–30 | 25–30 | 24–30 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 23–26 | 22–26 | 22–26 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–29 | 26–29 | 26–30 | 25–30 |
@@ -168,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.8% | 100% |  |
 | 23 | 3% | 99.1% |  |
 | 24 | 9% | 96% |  |
-| 25 | 17% | 87% |  |
-| 26 | 24% | 70% | Median |
-| 27 | 22% | 46% |  |
+| 25 | 15% | 87% |  |
+| 26 | 24% | 71% | Median |
+| 27 | 24% | 48% |  |
 | 28 | 15% | 23% |  |
 | 29 | 6% | 8% | Last Result |
 | 30 | 1.4% | 2% |  |
