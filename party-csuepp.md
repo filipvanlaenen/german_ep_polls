@@ -95,9 +95,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5 | 5 | 5 | 5–6 | 4–7 |
+| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -159,10 +159,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 23% | 99.4% |  |
-| 5 | 64% | 77% | Last Result, Median |
-| 6 | 12% | 13% |  |
+| 3 | 0.7% | 100% |  |
+| 4 | 27% | 99.3% |  |
+| 5 | 57% | 73% | Last Result, Median |
+| 6 | 15% | 15% |  |
 | 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 

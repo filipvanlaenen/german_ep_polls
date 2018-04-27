@@ -89,11 +89,11 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -156,9 +156,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 80% | 81% | Last Result, Median |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 22% | 100% |  |
+| 1 | 78% | 78% | Last Result, Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 

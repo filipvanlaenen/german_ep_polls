@@ -100,12 +100,12 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–20 | 15–21 | 15–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–20 | 15–21 | 14–22 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 15–18 | 14–18 | 14–18 | 13–20 |
-| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21 | 19–21 | 19–21 | 18–21 | 17–22 |
+| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 15–18 | 15–18 | 14–18 | 13–19 |
+| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
@@ -168,15 +168,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.7% | 99.9% |  |
-| 15 | 5% | 99.2% |  |
-| 16 | 21% | 94% |  |
-| 17 | 30% | 73% | Median |
-| 18 | 22% | 43% |  |
-| 19 | 9% | 20% |  |
-| 20 | 4% | 11% |  |
-| 21 | 7% | 7% |  |
-| 22 | 0.2% | 0.2% |  |
+| 14 | 0.9% | 99.9% |  |
+| 15 | 4% | 99.0% |  |
+| 16 | 21% | 95% |  |
+| 17 | 33% | 74% | Median |
+| 18 | 22% | 41% |  |
+| 19 | 9% | 18% |  |
+| 20 | 5% | 9% |  |
+| 21 | 3% | 4% |  |
+| 22 | 0.8% | 0.8% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
