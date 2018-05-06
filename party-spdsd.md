@@ -15,7 +15,7 @@ Last result: **27.3%** (General Election of 25 May 2014)
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 17.0% | 15.9–18.1% | 15.6–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20.0% | 18.6–21.5% | 18.2–21.9% | 17.9–22.3% | 17.3–23.0% |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | N/A | N/A | N/A | N/A |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 18.0% | 17.0–19.1% | 16.7–19.4% | 16.5–19.6% | 16.0–20.1% |
 | [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 18.0% | 16.8–19.3% | 16.5–19.7% | 16.2–20.0% | 15.6–20.6% |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.2% |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.3–19.8% | 15.8–20.3% |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 12% | 97% |  |
 | 16.5–17.5% | 24% | 85% |  |
 | 17.5–18.5% | 24% | 61% | Median |
-| 18.5–19.5% | 17% | 38% |  |
+| 18.5–19.5% | 16% | 38% |  |
 | 19.5–20.5% | 11% | 21% |  |
 | 20.5–21.5% | 7% | 10% |  |
 | 21.5–22.5% | 3% | 3% |  |
@@ -106,13 +106,13 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–20 | 15–21 | 14–22 |
-| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17 | 17 | 17 | 14–17 |
-| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16 | 16 | 16 | 16 |
-| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 17 | 17 | 17 | 15–17 | 14–17 |
-| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 19 | 17–19 | 17–19 | 17–19 | 17–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–20 | 15–21 | 15–21 | 14–22 |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
+| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–21 | 17–21 | 17–21 | 17–22 |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 15–18 | 15–18 | 14–18 | 13–19 |
@@ -180,15 +180,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.8% | 99.9% |  |
-| 15 | 2% | 99.1% |  |
-| 16 | 17% | 97% |  |
-| 17 | 35% | 80% | Median |
-| 18 | 19% | 44% |  |
-| 19 | 17% | 25% |  |
-| 20 | 5% | 9% |  |
-| 21 | 3% | 4% |  |
-| 22 | 0.8% | 0.9% |  |
+| 14 | 2% | 99.9% |  |
+| 15 | 8% | 98% |  |
+| 16 | 22% | 90% |  |
+| 17 | 27% | 68% | Median |
+| 18 | 19% | 41% |  |
+| 19 | 10% | 22% |  |
+| 20 | 6% | 12% |  |
+| 21 | 5% | 6% |  |
+| 22 | 0.9% | 0.9% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

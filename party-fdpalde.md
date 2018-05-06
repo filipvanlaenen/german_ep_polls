@@ -15,7 +15,7 @@ Last result: **3.4%** (General Election of 25 May 2014)
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.5–10.8% |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
 | [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.3–9.8% | 8.1–10.1% | 7.9–10.3% | 7.6–10.7% |
 | [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.1% |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.9% | 8.0–11.3% |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 3% | 99.9% |  |
 | 6.5–7.5% | 7% | 97% |  |
 | 7.5–8.5% | 16% | 91% |  |
-| 8.5–9.5% | 39% | 75% | Median |
+| 8.5–9.5% | 38% | 75% | Median |
 | 9.5–10.5% | 26% | 37% |  |
 | 10.5–11.5% | 9% | 11% |  |
 | 11.5–12.5% | 2% | 2% |  |
@@ -103,13 +103,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
-| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 7 | 7 | 7 | 7–10 |
-| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8 | 8 | 8 | 8 |
-| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 8 | 8 | 8 | 8 | 8–9 |
-| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 8 | 8 | 8 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 9 | 8–9 | 7–10 | 7–10 | 6–11 |
+| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–11 | 8–11 | 8–12 | 8–12 |
@@ -178,14 +178,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 1.4% | 99.9% |  |
-| 7 | 24% | 98.6% |  |
-| 8 | 41% | 75% | Median |
-| 9 | 16% | 34% |  |
-| 10 | 13% | 18% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 2% | 99.7% |  |
+| 7 | 11% | 98% |  |
+| 8 | 26% | 87% |  |
+| 9 | 41% | 61% | Median |
+| 10 | 16% | 20% |  |
 | 11 | 4% | 4% |  |
-| 12 | 0.7% | 0.7% |  |
+| 12 | 0.6% | 0.6% |  |
 | 13 | 0% | 0% |  |
 
 
