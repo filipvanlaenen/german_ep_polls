@@ -10,7 +10,13 @@ Last result: **5.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% | 3.5–6.8% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.3–6.2% | 4.0–6.5% | 3.9–6.8% | 3.5–7.3% |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6.3% | 5.7–7.0% | 5.5–7.2% | 5.3–7.4% | 5.0–7.8% |
+| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.2% | 3.9–6.5% |
+| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.1% | 4.4–6.0% | 4.2–6.3% | 4.1–6.5% | 3.7–6.9% |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 4.9% | N/A | N/A | N/A | N/A |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.9–6.0% | 3.6–6.4% |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 5.1% | 4.5–5.8% | 4.4–6.0% | 4.2–6.2% | 4.0–6.6% |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 4.8% | 4.1–5.8% | 3.8–6.1% | 3.7–6.3% | 3.3–6.8% |
@@ -77,11 +83,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 19% | 99.4% |  |
-| 4.5–5.5% | 57% | 80% | Last Result, Median |
-| 5.5–6.5% | 22% | 23% |  |
-| 6.5–7.5% | 1.2% | 1.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 3.5–4.5% | 21% | 99.4% |  |
+| 4.5–5.5% | 52% | 79% | Last Result, Median |
+| 5.5–6.5% | 22% | 27% |  |
+| 6.5–7.5% | 4% | 5% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -92,7 +99,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 6 | 6 | 6 | 5–6 |
+| [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 5 | 5 | 5 | 5 | 5 |
+| [20–26 April 2018](2018-04-26-GMS.html) | GMS | 7 | 7 | 7 | 6–7 | 5–7 |
+| [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4 | 4 | 4 | 3–5 |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 5 | 5 | 4–5 | 4–5 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -159,11 +172,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 30% | 99.4% |  |
-| 5 | 54% | 70% | Last Result, Median |
-| 6 | 15% | 16% |  |
-| 7 | 0.6% | 0.6% |  |
+| 3 | 0.7% | 100% |  |
+| 4 | 26% | 99.3% |  |
+| 5 | 45% | 73% | Last Result, Median |
+| 6 | 16% | 29% |  |
+| 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
 
