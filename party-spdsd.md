@@ -11,6 +11,9 @@ Last result: **27.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 16.3–20.6% | 15.8–21.2% | 15.5–21.7% | 14.7–22.6% |
+| [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.5–20.7% |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.8–19.3% | 16.5–19.7% | 16.2–20.0% | 15.6–20.6% |
+| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.6–19.6% |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 15.0–19.2% |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 17.0% | 15.9–18.1% | 15.6–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
@@ -107,6 +110,9 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 16–20 | 15–21 | 15–21 | 14–22 |
+| [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–18 | 15–19 | 15–20 |
+| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 16 | 15–18 | 15–18 | 14–19 | 13–19 |

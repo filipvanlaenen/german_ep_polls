@@ -11,6 +11,9 @@ Last result: **10.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.9% | 10.3–13.4% | 9.8–13.9% | 9.4–14.2% | 8.7–14.9% |
+| [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.4–14.8% | 10.9–15.4% |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
+| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.5–13.8% | 10.0–14.3% |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11.5% | 10.6–12.4% | 10.4–12.7% | 10.2–12.9% | 9.8–13.4% |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 12.0% | 10.8–13.5% | 10.5–13.9% | 10.2–14.2% | 9.6–14.9% |
@@ -103,6 +106,9 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
+| [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
