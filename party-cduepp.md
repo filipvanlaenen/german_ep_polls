@@ -11,7 +11,14 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.6% | 25.6–29.7% | 25.0–30.3% | 24.4–30.7% | 23.5–31.6% |
+| [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.4–30.9% | 24.5–31.8% |
+| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
+| [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26.9% | 25.7–28.2% | 25.3–28.5% | 25.0–28.9% | 24.4–29.4% |
+| [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 28.8% | N/A | N/A | N/A | N/A |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 27.1% | 25.7–28.7% | 25.3–29.1% | 25.0–29.4% | 24.3–30.2% |
+| [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 28.0% | N/A | N/A | N/A | N/A |
+| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 28.9% | N/A | N/A | N/A | N/A |
+| [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.3% | N/A | N/A | N/A | N/A |
 | [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 28.9% | 27.5–30.4% | 27.1–30.8% | 26.7–31.2% | 26.0–31.9% |
 | [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 28.9% | 27.4–30.4% | 27.0–30.8% | 26.6–31.2% | 25.9–32.0% |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26.7% | 25.5–28.0% | 25.1–28.3% | 24.8–28.7% | 24.3–29.3% |
@@ -108,7 +115,14 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
+| [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 25–29 | 25–29 | 25–29 | 25–29 |
+| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 28 | 28 | 28 | 28 | 27–29 |
+| [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 24–28 | 24–28 | 23–29 |
+| [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 28 | 27–29 | 26–30 | 25–30 | 24–30 |
 | [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–29 | 26–30 | 25–30 | 25–30 |
 | [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 25–27 | 24–27 | 24–27 | 23–28 |

@@ -1,34 +1,34 @@
-# Die PARTEI (NI)
+# FREIE WÄHLER (ALDE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **0.6%** (General Election of 25 May 2014)
+Last result: **1.5%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [11–16 May 2018](2018-05-16-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.9% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.5–1.6% |
+| [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | N/A | N/A | N/A | N/A |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | N/A | N/A | N/A | N/A |
 | [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.9% | N/A | N/A | N/A | N/A |
 | [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.9% | N/A | N/A | N/A | N/A |
-| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
-| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.1% | 0.3–1.3% |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.1% | 0.5–1.2% | 0.4–1.4% |
-| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.5% |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.6–1.2% | 0.5–1.3% | 0.4–1.4% |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–0.9% | 0.4–0.9% | 0.3–1.0% | 0.3–1.2% |
-| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
+| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.2% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.1% | 0.5–1.2% | 0.4–1.4% |
 | [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% | 0.3–1.6% |
@@ -43,21 +43,21 @@ Last result: **0.6%** (General Election of 25 May 2014)
 | [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.5% |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.5–1.8% |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.3–1.2% |
 | [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
+| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–0.9% | 0.4–0.9% | 0.3–1.0% | 0.3–1.2% |
-| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
-| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
+| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.4–1.8% |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.4% | 0.3–1.6% |
-| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.2% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.3–1.2% |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
-| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
@@ -72,7 +72,7 @@ Last result: **0.6%** (General Election of 25 May 2014)
 | [16–19 February 2018](2018-02-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.7% | N/A | N/A | N/A | N/A |
 | [12–16 February 2018](2018-02-16-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2018](2018-02-15-Infratestdimap.html) | Infratest dimap <br> ARD | 0.6% | N/A | N/A | N/A | N/A |
-| [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.9% | N/A | N/A | N/A | N/A |
+| [2–15 February 2018](2018-02-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1.0% | N/A | N/A | N/A | N/A |
 | [8–14 February 2018](2018-02-14-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | N/A | N/A | N/A | N/A |
 | [9–12 February 2018](2018-02-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.8% | N/A | N/A | N/A | N/A |
 | [7–8 February 2018](2018-02-08-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | N/A | N/A | N/A | N/A |
@@ -87,12 +87,12 @@ Last result: **0.6%** (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Die PARTEI (NI).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for FREIE WÄHLER (ALDE).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% |  |
-| 0.5–1.5% | 87% | 89% | Last Result, Median |
+| 0.0–0.5% | 9% | 100% |  |
+| 0.5–1.5% | 89% | 91% | Last Result, Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -106,54 +106,54 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–3 |
+| [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–16 May 2018](2018-05-16-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
 | [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1–2 | 0–2 |
 | [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
 | [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1–2 |
-| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 0–2 |
-| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [27–30 April 2018](2018-04-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [23–27 April 2018](2018-04-27-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1–2 |
 | [20–26 April 2018](2018-04-26-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [24–26 April 2018](2018-04-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [19–25 April 2018](2018-04-25-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [20–24 April 2018](2018-04-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 1 | 0–1 | 0–1 |
 | [20–23 April 2018](2018-04-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 0–1 | 0–2 |
-| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [16–20 April 2018](2018-04-20-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–1 |
+| [16–18 April 2018](2018-04-18-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [12–18 April 2018](2018-04-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [3–17 April 2018](2018-04-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 April 2018](2018-04-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–13 April 2018](2018-04-13-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–12 April 2018](2018-04-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [5–11 April 2018](2018-04-11-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–1 |
 | [6–9 April 2018](2018-04-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
-| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 1 | 1 | 1 | 1–2 | 1–2 |
-| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [3–6 April 2018](2018-04-06-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [29 March–5 April 2018](2018-04-05-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 0–2 |
+| [23 March–4 April 2018](2018-04-04-pollytix.html) | pollytix | 1 | 1 | 1 | 1–2 | 0–2 |
+| [3–4 April 2018](2018-04-04-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [29–31 March 2018](2018-03-31-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 March 2018](2018-03-29-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 0–2 |
-| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–2 |
-| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [22–28 March 2018](2018-03-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 1–2 |
+| [23–27 March 2018](2018-03-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 1 | 1 | 0–2 |
 | [23–26 March 2018](2018-03-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19–23 March 2018](2018-03-23-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–2 |
 | [20–21 March 2018](2018-03-21-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [16–21 March 2018](2018-03-21-GMS.html) | GMS | 1 | 1 | 1 | 1–2 | 0–2 |
-| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [15–21 March 2018](2018-03-21-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–1 |
 | [16–19 March 2018](2018-03-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 0–2 |
-| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [12–16 March 2018](2018-03-16-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 0–2 |
+| [13–15 March 2018](2018-03-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1 | 0–1 | 0–2 |
 | [2–15 March 2018](2018-03-15-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–1 |
+| [8–14 March 2018](2018-03-14-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [9–12 March 2018](2018-03-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–9 March 2018](2018-03-09-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–7 March 2018](2018-03-07-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
-| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5 March 2018](2018-03-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [4–5 March 2018](2018-03-05-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–2 |
 | [26 February–2 March 2018](2018-03-02-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26–28 February 2018](2018-02-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland |  |  |  |  |  |
@@ -182,14 +182,14 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-dieparteini.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-freiewähleralde.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Die PARTEI (NI).
+The following table shows the probability mass function per seat for the [poll average](average.html) for FREIE WÄHLER (ALDE).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
-| 1 | 91% | 93% | Last Result, Median |
+| 1 | 92% | 93% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

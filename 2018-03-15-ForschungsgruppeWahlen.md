@@ -34,11 +34,11 @@
 | <a href="#cdu-(epp)">CDU (EPP)</a> | 29 | 26 | 24–27 |24–28 |24–28 |23–29 |
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 18 | 17–20 |17–20 |16–20 |16–21 |
 | <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 13 | 11–13 |11–14 |11–14 |10–15 |
-| <a href="#bÜndnis-90/die-grÜnen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 12 | 10–12 |10–13 |10–13 |9–14 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 12 | 10–12 |10–13 |10–13 |9–14 |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 10 | 9–12 |9–12 |9–13 |9–13 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 9 | 8–9 |7–10 |7–10 |7–11 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–6 |4–6 |4–6 |3–6 |
-| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
+| <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 
@@ -105,9 +105,9 @@
 
 ### BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 
-*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bÜndnis90diegrÜnengreensefa.html) page.*
+*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-03-15-ForschungsgruppeWahlen-seats-pmf-bÜndnis90diegrÜnengreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-03-15-ForschungsgruppeWahlen-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -174,9 +174,9 @@
 
 ### FREIE WÄHLER (ALDE)
 
-*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewÄhleralde.html) page.*
+*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewähleralde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-03-15-ForschungsgruppeWahlen-seats-pmf-freiewÄhleralde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-03-15-ForschungsgruppeWahlen-seats-pmf-freiewähleralde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
