@@ -50,14 +50,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#cdu-(epp)">CDU (EPP)</a> | 30.0% | 27.6% | 25.6–29.7% |25.0–30.3% | 24.4–30.7% | 23.5–31.6% |
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27.3% | 18.0% | 16.3–20.6% |15.8–21.2% | 15.5–21.7% | 14.7–22.6% |
-| <a href="#bÜndnis-90/die-grÜnen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 10.7% | 11.9% | 10.3–13.4% |9.8–13.9% | 9.4–14.2% | 8.7–14.9% |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 10.7% | 11.9% | 10.3–13.4% |9.8–13.9% | 9.4–14.2% | 8.7–14.9% |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7.4% | 10.4% | 9.0–11.6% |8.6–12.0% | 8.3–12.3% | 7.7–13.0% |
 | <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7.0% | 14.0% | 11.7–15.9% |11.3–16.3% | 11.0–16.7% | 10.4–17.4% |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5.3% | 5.1% | 4.3–6.2% |4.0–6.5% | 3.9–6.8% | 3.5–7.3% |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3.4% | 9.2% | 7.6–10.6% |6.9–11.0% | 6.5–11.4% | 5.9–12.0% |
-| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1.5% | 0.9% | 0.6–1.3% |0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1.5% | 0.9% | 0.6–1.3% |0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1.2% | 0.7% | 0.4–1.1% |0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
-| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 0.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 0.6% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 0.6% | 0.8% | 0.5–1.3% |0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 
 ### CDU (EPP)
@@ -104,7 +104,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 
-*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bÜndnis90diegrÜnengreensefa.html) page.*
+*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -193,7 +193,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### FREIE WÄHLER (ALDE)
 
-*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewÄhleralde.html) page.*
+*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewähleralde.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -235,14 +235,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#cdu-(epp)">CDU (EPP)</a> | 29 | 26 | 24–28 |24–29 | 23–29 | 22–30 |
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 17 | 16–20 |15–21 | 15–21 | 14–22 |
-| <a href="#bÜndnis-90/die-grÜnen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 11 | 10–13 |9–13 | 9–14 | 8–14 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 11 | 10–13 |9–13 | 9–14 | 8–14 |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 10 | 9–11 |8–12 | 8–12 | 7–12 |
 | <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 13 | 11–15 |11–16 | 10–16 | 10–17 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–6 |4–6 | 4–7 | 3–7 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 9 | 7–10 |7–10 | 7–11 | 6–12 |
-| <a href="#freie-wÄhler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–2 |
+| <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–2 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#Ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ödp-(greens/efa)">ÖDP (Greens/EFA)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–2 |
 
 ### CDU (EPP)
@@ -291,9 +291,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 
-*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bÜndnis90diegrÜnengreensefa.html) page.*
+*For a full overview of the results for this party, see the [BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-bÜndnis90diegrÜnengreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -382,9 +382,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### FREIE WÄHLER (ALDE)
 
-*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewÄhleralde.html) page.*
+*For a full overview of the results for this party, see the [FREIE WÄHLER (ALDE)](party-freiewähleralde.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-freiewÄhleralde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-freiewähleralde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
