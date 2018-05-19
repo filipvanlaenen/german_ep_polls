@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-05-18T22:28:38.869217+02:00</updated>
+  <updated>2018-05-19T15:07:10.889329+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.4–30.9%, 24–29 seats</li><li>SPD (S&amp;D): 14.8–19.5%, 14–18 seats</li><li>Alternative für Deutschland (EFDD): 12.0–16.3%, 11–15 seats</li><li>FDP (ALDE): 6.5–9.9%, 6–9 seats</li><li>DIE LINKE (GUE/NGL): 8.3–12.0%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 11.1–15.2%, 10–14 seats</li><li>CSU (EPP): 3.8–6.5%, 4–6 seats</li><li>FREIE WÄHLER (ALDE): 0.5–1.8%, 0–2 seats</li><li>Die PARTEI (NI): 0.5–1.8%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.6%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2018-05-16-Infratestdimap.html</id>
@@ -54,6 +54,14 @@
     <title>Opinion Poll by Emnid for Bild am Sonntag, 3–8 May 2018</title>
     <updated>2018-05-18T18:40:03.808214+02:00</updated>
     <dc:date>2018-05-18T18:40:03.808214+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 26.4–31.5%, 25–30 seats</li><li>SPD (S&amp;D): 17.9–22.3%, 17–21 seats</li><li>Alternative für Deutschland (EFDD): 9.8–13.4%, 9–13 seats</li><li>FDP (ALDE): 7.5–10.7%, 7–11 seats</li><li>DIE LINKE (GUE/NGL): 8.4–11.8%, 8–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 9.4–12.9%, 9–12 seats</li><li>CSU (EPP): 4.0–6.5%, 4–6 seats</li><li>FREIE WÄHLER (ALDE): 0.5–1.6%, 0–2 seats</li><li>Die PARTEI (NI): 0.5–1.6%, 0–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.4%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2018-05-08-Allensbach.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2018-05-08-Allensbach.html"/>
+    <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 24 April–8 May 2018</title>
+    <updated>2018-05-19T15:07:10.889329+02:00</updated>
+    <dc:date>2018-05-19T15:07:10.889329+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 23.4–27.2%, 22–26 seats</li><li>SPD (S&amp;D): 15.4–18.7%, 15–18 seats</li><li>Alternative für Deutschland (EFDD): 14.0–17.1%, 13–17 seats</li><li>FDP (ALDE): 7.4–9.8%, 7–9 seats</li><li>DIE LINKE (GUE/NGL): 9.3–11.9%, 9–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 10.2–12.9%, 10–12 seats</li><li>CSU (EPP): 6.2–8.4%, 6–8 seats</li><li>FREIE WÄHLER (ALDE): 0.6–1.4%, 1 seats</li><li>Die PARTEI (NI): 0.5–1.4%, 1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%, 0–1 seats</li></ul></div></content>
@@ -583,5 +591,5 @@
     <updated>2018-04-10T15:31:44.351561+02:00</updated>
     <dc:date>2018-04-10T15:31:44.351561+02:00</dc:date>
   </entry>
-  <dc:date>2018-05-18T22:28:38.869217+02:00</dc:date>
+  <dc:date>2018-05-19T15:07:10.889329+02:00</dc:date>
 </feed>
