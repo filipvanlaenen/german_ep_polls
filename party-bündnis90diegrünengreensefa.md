@@ -112,14 +112,14 @@ Last result: **11** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–14 |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [11–16 May 2018](2018-05-16-GMS.html) | GMS | 11 | 10–13 | 10–13 | 9–14 | 9–14 |
 | [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
-| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 10 | 10–11 | 10–11 | 8–12 | 8–13 |
+| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 11–12 | 10–13 | 10–13 | 9–14 |
@@ -195,11 +195,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 1.1% | 100% |  |
-| 9 | 3% | 98.9% |  |
-| 10 | 18% | 95% |  |
+| 8 | 0.9% | 100% |  |
+| 9 | 5% | 99.0% |  |
+| 10 | 17% | 94% |  |
 | 11 | 32% | 77% | Last Result, Median |
-| 12 | 27% | 45% |  |
+| 12 | 28% | 46% |  |
 | 13 | 12% | 18% |  |
 | 14 | 5% | 6% |  |
 | 15 | 0.3% | 0.3% |  |

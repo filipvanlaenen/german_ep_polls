@@ -121,7 +121,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 13 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [3–8 May 2018](2018-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [24 April–8 May 2018](2018-05-08-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
 | [4–7 May 2018](2018-05-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [30 April–4 May 2018](2018-05-04-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [26 April–2 May 2018](2018-05-02-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -199,10 +199,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 8% | 97% |  |
-| 12 | 20% | 89% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 3% | 99.6% |  |
+| 11 | 9% | 97% |  |
+| 12 | 19% | 88% |  |
 | 13 | 26% | 69% | Median |
 | 14 | 22% | 43% |  |
 | 15 | 16% | 21% |  |
