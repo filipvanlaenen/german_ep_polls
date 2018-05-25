@@ -118,7 +118,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [15–17 May 2018](2018-05-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [11–16 May 2018](2018-05-16-GMS.html) | GMS | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [9–16 May 2018](2018-05-16-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [9–16 May 2018](2018-05-16-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [11–14 May 2018](2018-05-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [7–11 May 2018](2018-05-11-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–12 |
 | [7–8 May 2018](2018-05-08-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
@@ -201,9 +201,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% | Last Result |
 | 8 | 13% | 98% |  |
-| 9 | 38% | 85% | Median |
-| 10 | 26% | 47% |  |
-| 11 | 18% | 21% |  |
+| 9 | 36% | 85% | Median |
+| 10 | 27% | 49% |  |
+| 11 | 19% | 22% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
