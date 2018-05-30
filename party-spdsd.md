@@ -11,6 +11,8 @@ Last result: **27.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.9% | 16.0–20.4% | 15.4–21.0% | 15.0–21.5% | 14.1–22.4% |
+| [22–25 May 2018](2018-05-25-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.6–20.7% |
+| [17–23 May 2018](2018-05-23-Emnid.html) | Emnid <br> Bild am Sonntag | 17.0% | 16.0–18.2% | 15.7–18.5% | 15.4–18.7% | 14.9–19.3% |
 | [14–18 May 2018](2018-05-18-Forsa.html) | Forsa <br> Stern and RTL | 18.0% | 16.9–19.2% | 16.6–19.5% | 16.4–19.8% | 15.8–20.4% |
 | [15–17 May 2018](2018-05-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 17.0% | 15.6–18.7% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
@@ -101,7 +103,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 13% | 94% |  |
 | 16.5–17.5% | 23% | 81% |  |
 | 17.5–18.5% | 22% | 59% | Median |
-| 18.5–19.5% | 17% | 36% |  |
+| 18.5–19.5% | 17% | 37% |  |
 | 19.5–20.5% | 11% | 20% |  |
 | 20.5–21.5% | 6% | 8% |  |
 | 21.5–22.5% | 2% | 2% |  |
@@ -121,6 +123,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [22–25 May 2018](2018-05-25-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [17–23 May 2018](2018-05-23-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [14–18 May 2018](2018-05-18-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [15–17 May 2018](2018-05-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
@@ -209,11 +213,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
 | 14 | 4% | 99.3% |  |
-| 15 | 11% | 95% |  |
-| 16 | 24% | 85% |  |
-| 17 | 22% | 61% | Median |
-| 18 | 20% | 39% |  |
-| 19 | 11% | 19% |  |
+| 15 | 9% | 95% |  |
+| 16 | 27% | 86% |  |
+| 17 | 23% | 59% | Median |
+| 18 | 17% | 37% |  |
+| 19 | 11% | 20% |  |
 | 20 | 6% | 8% |  |
 | 21 | 1.5% | 2% |  |
 | 22 | 0.4% | 0.4% |  |
