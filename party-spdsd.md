@@ -128,10 +128,10 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
-| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
-| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
-| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 15–18 | 15–19 | 15–19 | 15–20 |
-| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–17 | 15–17 | 15–17 | 15–19 |
+| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [22–25 May 2018](2018-05-25-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [17–23 May 2018](2018-05-23-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [18–22 May 2018](2018-05-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -224,12 +224,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.6% | 99.9% |  |
 | 14 | 4% | 99.3% |  |
 | 15 | 10% | 95% |  |
-| 16 | 19% | 85% |  |
-| 17 | 31% | 66% | Median |
-| 18 | 16% | 35% |  |
+| 16 | 21% | 85% |  |
+| 17 | 27% | 64% | Median |
+| 18 | 17% | 37% |  |
 | 19 | 11% | 19% |  |
 | 20 | 6% | 8% |  |
-| 21 | 1.5% | 2% |  |
+| 21 | 2% | 2% |  |
 | 22 | 0.4% | 0.4% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |

@@ -115,11 +115,11 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
+| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–2 |
+| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–25 May 2018](2018-05-25-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 0–2 |
 | [17–23 May 2018](2018-05-23-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [18–22 May 2018](2018-05-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 1–2 |
@@ -208,8 +208,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 83% | 87% | Last Result, Median |
+| 0 | 9% | 100% |  |
+| 1 | 87% | 91% | Last Result, Median |
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 

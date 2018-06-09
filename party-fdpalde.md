@@ -122,14 +122,14 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
-| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
-| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
-| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [25–28 May 2018](2018-05-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [22–25 May 2018](2018-05-25-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [17–23 May 2018](2018-05-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [18–22 May 2018](2018-05-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [18–22 May 2018](2018-05-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [14–18 May 2018](2018-05-18-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [15–17 May 2018](2018-05-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [14–16 May 2018](2018-05-16-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -217,12 +217,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 6% | 99.8% |  |
-| 7 | 24% | 94% |  |
-| 8 | 33% | 70% | Median |
-| 9 | 27% | 37% |  |
-| 10 | 8% | 11% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 5% | 99.4% |  |
+| 7 | 23% | 94% |  |
+| 8 | 33% | 71% | Median |
+| 9 | 28% | 37% |  |
+| 10 | 7% | 10% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
