@@ -127,7 +127,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
-| [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
+| [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 8–10 | 8–10 | 8–10 | 8–12 |
 | [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10 | 10 | 10 | 10–11 |
