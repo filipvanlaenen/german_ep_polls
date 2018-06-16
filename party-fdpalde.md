@@ -11,6 +11,11 @@ Last result: **3.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 7.1–10.0% | 6.7–10.5% | 6.4–10.9% | 5.9–11.6% |
+| [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
+| [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.6–9.6% | 6.2–10.2% |
+| [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
 | [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
 | [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
@@ -123,6 +128,11 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–11 | 8–12 | 7–12 |
+| [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–10 | 6–10 | 6–10 | 6–10 |
+| [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
