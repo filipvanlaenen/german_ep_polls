@@ -129,10 +129,10 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
+| [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
-| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–11 | 10–11 | 10–12 | 10–12 |
+| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
@@ -226,11 +226,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.9% | 100% |  |
-| 9 | 5% | 99.0% |  |
-| 10 | 27% | 94% |  |
-| 11 | 36% | 67% | Last Result, Median |
-| 12 | 21% | 31% |  |
-| 13 | 7% | 10% |  |
+| 9 | 7% | 99.0% |  |
+| 10 | 23% | 92% |  |
+| 11 | 41% | 69% | Last Result, Median |
+| 12 | 17% | 28% |  |
+| 13 | 8% | 11% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
