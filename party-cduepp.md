@@ -132,9 +132,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 26 | 25–28 | 25–28 | 25–28 | 24–29 |
-| [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–29 | 25–29 | 24–30 | 24–30 |
-| [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–27 | 24–27 | 24–28 | 24–29 |
-| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 24–27 | 24–28 | 24–28 | 23–28 |
+| [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
+| [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–27 | 24–27 | 24–28 | 23–29 |
+| [1–4 June 2018](2018-06-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 25–27 | 24–27 | 24–27 | 23–28 |
 | [28 May–1 June 2018](2018-06-01-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [25–29 May 2018](2018-05-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 26 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [24–29 May 2018](2018-05-29-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
@@ -229,14 +229,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.6% | 100% |  |
 | 23 | 2% | 99.4% |  |
-| 24 | 11% | 97% |  |
-| 25 | 17% | 86% |  |
-| 26 | 30% | 70% | Median |
-| 27 | 19% | 40% |  |
+| 24 | 9% | 97% |  |
+| 25 | 18% | 87% |  |
+| 26 | 29% | 70% | Median |
+| 27 | 20% | 40% |  |
 | 28 | 13% | 21% |  |
-| 29 | 5% | 8% | Last Result |
+| 29 | 5% | 7% | Last Result |
 | 30 | 2% | 2% |  |
-| 31 | 0.2% | 0.2% |  |
+| 31 | 0.2% | 0.3% |  |
 | 32 | 0% | 0% |  |
 
 
