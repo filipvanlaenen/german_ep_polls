@@ -142,18 +142,18 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
-| [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
-| [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–17 | 14–17 | 14–17 | 13–17 |
-| [18–22 June 2018](2018-06-22-Forsa.html) | Forsa <br> Stern and RTL | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
-| [14–20 June 2018](2018-06-20-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15–16 | 14–17 | 14–17 | 14–18 |
+| [18–22 June 2018](2018-06-22-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [14–20 June 2018](2018-06-20-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–17 | 14–17 | 14–18 |
 | [14–15 June 2018](2018-06-15-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–16 | 12–16 | 12–16 | 11–18 |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [11–13 June 2018](2018-06-13-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–14 | 11–14 | 11–14 | 10–16 |
-| [7–13 June 2018](2018-06-13-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [11–13 June 2018](2018-06-13-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [7–13 June 2018](2018-06-13-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [1–13 June 2018](2018-06-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [8–11 June 2018](2018-06-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [8–11 June 2018](2018-06-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [4–8 June 2018](2018-06-08-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [5–7 June 2018](2018-06-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [30 May–6 June 2018](2018-06-06-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
@@ -257,11 +257,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 4% | 99.5% |  |
 | 12 | 14% | 96% |  |
 | 13 | 15% | 82% |  |
-| 14 | 27% | 67% | Median |
-| 15 | 20% | 40% |  |
-| 16 | 15% | 20% |  |
-| 17 | 4% | 5% |  |
-| 18 | 0.2% | 0.2% |  |
+| 14 | 29% | 66% | Median |
+| 15 | 20% | 37% |  |
+| 16 | 15% | 17% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
