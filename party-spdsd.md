@@ -10,7 +10,8 @@ Last result: **27.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 16.1–21.0% | 15.6–21.6% | 15.0–22.1% | 14.1–23.1% |
+| N/A | [Poll Average](average.html) | 18.2% | 16.1–20.7% | 15.5–21.4% | 15.0–22.0% | 14.1–23.1% |
+| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.4–20.9% |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17.0% | 15.8–18.3% | 15.5–18.6% | 15.2–19.0% | 14.6–19.6% |
 | [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19.5% | 18.4–20.7% | 18.1–21.0% | 17.8–21.3% | 17.3–21.9% |
@@ -121,14 +122,14 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.1% | 100% |  |
 | 13.5–14.5% | 1.0% | 99.8% |  |
 | 14.5–15.5% | 4% | 98.8% |  |
-| 15.5–16.5% | 10% | 95% |  |
-| 16.5–17.5% | 16% | 85% |  |
-| 17.5–18.5% | 19% | 69% |  |
-| 18.5–19.5% | 19% | 50% | Median |
-| 19.5–20.5% | 16% | 31% |  |
-| 20.5–21.5% | 9% | 15% |  |
-| 21.5–22.5% | 4% | 5% |  |
-| 22.5–23.5% | 1.1% | 1.3% |  |
+| 15.5–16.5% | 11% | 95% |  |
+| 16.5–17.5% | 19% | 84% |  |
+| 17.5–18.5% | 22% | 65% | Median |
+| 18.5–19.5% | 19% | 43% |  |
+| 19.5–20.5% | 13% | 24% |  |
+| 20.5–21.5% | 7% | 11% |  |
+| 21.5–22.5% | 3% | 4% |  |
+| 22.5–23.5% | 1.0% | 1.1% |  |
 | 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -143,7 +144,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 15–21 | 14–21 | 13–22 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 14–21 | 13–22 |
+| [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 15–19 | 14–19 | 14–20 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [25–26 June 2018](2018-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
 | [22–25 June 2018](2018-06-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 17–20 | 17–20 | 17–21 |
@@ -254,14 +256,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
-| 14 | 3% | 99.3% |  |
+| 14 | 4% | 99.3% |  |
 | 15 | 6% | 96% |  |
-| 16 | 21% | 90% |  |
-| 17 | 16% | 68% |  |
-| 18 | 25% | 52% | Median |
-| 19 | 11% | 28% |  |
-| 20 | 10% | 17% |  |
-| 21 | 4% | 6% |  |
+| 16 | 23% | 89% |  |
+| 17 | 20% | 66% | Median |
+| 18 | 25% | 46% |  |
+| 19 | 9% | 21% |  |
+| 20 | 7% | 12% |  |
+| 21 | 3% | 5% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
