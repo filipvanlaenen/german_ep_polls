@@ -153,7 +153,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [15–18 June 2018](2018-06-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 20–23 | 20–24 | 20–24 |
 | [14–15 June 2018](2018-06-15-Forsa.html) | Forsa <br> Stern and RTL | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
 | [11–13 June 2018](2018-06-13-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
-| [11–13 June 2018](2018-06-13-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–29 | 26–30 | 25–30 | 25–31 |
+| [11–13 June 2018](2018-06-13-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
 | [7–13 June 2018](2018-06-13-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [1–13 June 2018](2018-06-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [8–11 June 2018](2018-06-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 22–25 | 22–25 | 21–25 | 21–26 |
