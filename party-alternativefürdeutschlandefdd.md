@@ -149,11 +149,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
-| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 15 | 15 | 14–16 | 14–17 | 14–17 |
-| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
-| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 15–16 | 14–16 | 14–17 | 14–18 |
-| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–15 | 13–16 | 13–16 | 13–16 |
+| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [21–28 June 2018](2018-06-28-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
@@ -270,9 +270,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 3% | 99.8% |  |
 | 12 | 13% | 97% |  |
-| 13 | 24% | 84% |  |
-| 14 | 29% | 61% | Median |
-| 15 | 17% | 31% |  |
+| 13 | 23% | 84% |  |
+| 14 | 30% | 61% | Median |
+| 15 | 16% | 31% |  |
 | 16 | 12% | 15% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.1% | 0.1% |  |

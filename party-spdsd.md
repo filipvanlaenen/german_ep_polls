@@ -151,11 +151,11 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 15–20 | 14–21 | 13–22 |
-| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 18–19 | 17–19 | 17–19 | 16–20 |
-| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 15 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 15–19 | 14–19 | 14–20 |
 | [21–28 June 2018](2018-06-28-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
@@ -269,9 +269,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
 | 14 | 4% | 99.3% |  |
-| 15 | 12% | 96% |  |
-| 16 | 15% | 84% |  |
-| 17 | 18% | 69% |  |
+| 15 | 10% | 96% |  |
+| 16 | 15% | 86% |  |
+| 17 | 20% | 70% |  |
 | 18 | 26% | 51% | Median |
 | 19 | 13% | 25% |  |
 | 20 | 7% | 12% |  |

@@ -149,12 +149,12 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 22–28 | 22–28 | 21–29 | 21–30 |
-| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 24–26 | 23–26 | 23–26 | 22–27 |
-| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 22–26 | 22–26 | 22–27 | 22–27 |
-| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 24–25 | 23–26 | 23–26 | 22–27 |
-| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–22 | 21–23 | 21–23 | 19–24 |
-| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–26 | 24–26 | 23–27 | 23–27 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 22–28 | 21–29 | 21–30 |
+| [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
+| [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
+| [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
+| [29 June–2 July 2018](2018-07-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 19–25 |
+| [25–29 June 2018](2018-06-29-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [25–28 June 2018](2018-06-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 24–27 | 24–28 | 24–29 | 22–29 |
 | [21–28 June 2018](2018-06-28-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 24–27 | 24–28 | 24–28 | 24–28 |
 | [22–26 June 2018](2018-06-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24 | 23–26 | 23–26 | 22–26 | 21–27 |
@@ -269,9 +269,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 4% | 99.5% |  |
 | 22 | 6% | 96% |  |
 | 23 | 8% | 90% |  |
-| 24 | 14% | 82% |  |
-| 25 | 18% | 68% |  |
-| 26 | 28% | 50% | Median |
+| 24 | 14% | 81% |  |
+| 25 | 19% | 67% | Median |
+| 26 | 26% | 49% |  |
 | 27 | 12% | 22% |  |
 | 28 | 6% | 10% |  |
 | 29 | 2% | 4% | Last Result |
