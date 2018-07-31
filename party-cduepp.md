@@ -160,21 +160,21 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–26 | 21–27 | 21–27 | 21–28 |
+| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 21–27 | 20–28 |
 | [23–27 July 2018](2018-07-27-Forsa.html) | Forsa <br> Stern and RTL | 25 | 25–27 | 25–27 | 24–28 | 23–29 |
-| [24–25 July 2018](2018-07-25-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 21–26 | 21–26 | 21–28 |
+| [24–25 July 2018](2018-07-25-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 22–27 | 21–27 | 21–27 |
 | [19–25 July 2018](2018-07-25-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
-| [20–24 July 2018](2018-07-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 25 | 22–26 | 22–26 | 22–26 | 21–27 |
-| [20–23 July 2018](2018-07-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 21–22 | 21–22 | 21–22 | 21–22 |
+| [20–24 July 2018](2018-07-24-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [20–23 July 2018](2018-07-23-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 20–24 | 20–25 | 20–25 | 20–25 |
 | [16–20 July 2018](2018-07-20-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–26 | 24–26 | 24–26 | 23–27 |
 | [12–18 July 2018](2018-07-18-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 23–26 | 23–26 | 23–26 |
 | [13–16 July 2018](2018-07-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [9–13 July 2018](2018-07-13-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 24–27 | 24–27 | 23–27 |
-| [9–12 July 2018](2018-07-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 23–27 | 22–28 | 22–28 |
-| [1–12 July 2018](2018-07-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 25 | 24–27 | 23–27 | 22–27 | 22–28 |
-| [5–11 July 2018](2018-07-11-GMS.html) | GMS | 25 | 23–25 | 23–25 | 22–25 | 21–28 |
-| [5–11 July 2018](2018-07-11-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 24 | 24 | 24 | 24 |
-| [6–9 July 2018](2018-07-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
+| [9–12 July 2018](2018-07-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
+| [1–12 July 2018](2018-07-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
+| [5–11 July 2018](2018-07-11-GMS.html) | GMS | 25 | 23–25 | 23–26 | 22–26 | 21–27 |
+| [5–11 July 2018](2018-07-11-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–26 | 23–26 | 22–27 |
+| [6–9 July 2018](2018-07-09-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [2–6 July 2018](2018-07-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [3–4 July 2018](2018-07-04-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [28 June–4 July 2018](2018-07-04-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
@@ -290,14 +290,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 10% | 100% |  |
-| 22 | 9% | 90% |  |
-| 23 | 14% | 81% |  |
-| 24 | 15% | 68% |  |
-| 25 | 33% | 53% | Median |
-| 26 | 11% | 20% |  |
-| 27 | 8% | 9% |  |
-| 28 | 1.3% | 2% |  |
+| 20 | 1.4% | 100% |  |
+| 21 | 1.3% | 98.6% |  |
+| 22 | 6% | 97% |  |
+| 23 | 21% | 91% |  |
+| 24 | 21% | 70% | Median |
+| 25 | 30% | 49% |  |
+| 26 | 12% | 19% |  |
+| 27 | 6% | 7% |  |
+| 28 | 0.9% | 1.1% |  |
 | 29 | 0.2% | 0.2% | Last Result |
 | 30 | 0% | 0% |  |
 
