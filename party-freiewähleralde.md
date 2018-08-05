@@ -155,7 +155,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
-| [25–31 July 2018](2018-07-31-GMS.html) | GMS | 1 | 1 | 1 | 1 | 0–2 |
+| [25–31 July 2018](2018-07-31-GMS.html) | GMS | 1 | 1 | 1 | 0–1 | 0–2 |
 | [27–30 July 2018](2018-07-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 0–1 |
 | [23–27 July 2018](2018-07-27-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1–2 |
 | [24–25 July 2018](2018-07-25-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1–2 | 1–2 | 0–2 |
