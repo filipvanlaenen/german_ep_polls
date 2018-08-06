@@ -172,7 +172,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [16–20 July 2018](2018-07-20-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [12–18 July 2018](2018-07-18-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [13–16 July 2018](2018-07-16-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [9–13 July 2018](2018-07-13-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–9 | 7–10 | 7–10 | 7–11 |
+| [9–13 July 2018](2018-07-13-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [9–12 July 2018](2018-07-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [1–12 July 2018](2018-07-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [5–11 July 2018](2018-07-11-GMS.html) | GMS | 9 | 9–11 | 8–11 | 8–12 | 8–12 |
