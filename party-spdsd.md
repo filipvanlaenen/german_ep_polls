@@ -179,13 +179,13 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–18 | 16–18 | 15–18 | 15–20 |
+| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 18–20 | 18–20 | 18–20 | 17–22 |
 | [2–8 August 2018](2018-08-08-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 15–18 | 14–18 | 13–18 |
+| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–18 | 14–18 | 14–18 | 14–18 |
 | [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [30 July–1 August 2018](2018-08-01-Infratestdimap.html) | Infratest dimap <br> ARD | 17 | 16–18 | 16–18 | 15–19 | 15–20 |
-| [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17–18 | 16–18 | 16–18 | 15–19 |
+| [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [25–31 July 2018](2018-07-31-GMS.html) | GMS | 16 | 15–18 | 14–19 | 14–19 | 13–19 |
 | [27–30 July 2018](2018-07-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [23–27 July 2018](2018-07-27-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -319,11 +319,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
 | 14 | 1.1% | 99.8% |  |
-| 15 | 9% | 98.8% |  |
-| 16 | 31% | 90% |  |
-| 17 | 27% | 59% | Median |
+| 15 | 9% | 98.7% |  |
+| 16 | 29% | 90% |  |
+| 17 | 29% | 61% | Median |
 | 18 | 17% | 32% |  |
-| 19 | 13% | 15% |  |
+| 19 | 14% | 16% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0.1% |  |

@@ -169,14 +169,14 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–7 | 4–7 | 3–8 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–7 | 3–7 | 3–8 |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [2–8 August 2018](2018-08-08-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [30 July–1 August 2018](2018-08-01-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -311,10 +311,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% |  |
-| 4 | 48% | 98% | Median |
-| 5 | 35% | 49% | Last Result |
-| 6 | 6% | 14% |  |
+| 3 | 3% | 100% |  |
+| 4 | 52% | 97% | Median |
+| 5 | 31% | 45% | Last Result |
+| 6 | 7% | 14% |  |
 | 7 | 7% | 8% |  |
 | 8 | 0.5% | 0.6% |  |
 | 9 | 0.1% | 0.1% |  |

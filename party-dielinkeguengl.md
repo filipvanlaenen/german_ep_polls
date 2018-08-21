@@ -173,13 +173,13 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [2–8 August 2018](2018-08-08-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
-| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [30 July–1 August 2018](2018-08-01-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
-| [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [25–31 July 2018](2018-07-31-GMS.html) | GMS | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [27–30 July 2018](2018-07-30-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [23–27 July 2018](2018-07-27-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
@@ -311,10 +311,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 5% | 100% | Last Result |
-| 8 | 25% | 95% |  |
-| 9 | 36% | 70% | Median |
-| 10 | 22% | 34% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 5% | 99.9% | Last Result |
+| 8 | 24% | 95% |  |
+| 9 | 36% | 71% | Median |
+| 10 | 23% | 35% |  |
 | 11 | 10% | 12% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
