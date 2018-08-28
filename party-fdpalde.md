@@ -10,7 +10,12 @@ Last result: **3.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.3–10.4% | 6.8–10.8% | 6.5–11.2% | 6.0–11.9% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.6–10.4% | 7.2–10.7% | 7.0–11.1% | 6.5–11.9% |
+| [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.8% |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.1–10.0% | 8.0–10.2% | 7.7–10.4% | 7.4–10.8% |
+| [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.3–10.7% | 9.2–10.9% | 9.0–11.1% | 8.7–11.5% |
+| [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.4–9.7% | 8.2–9.9% | 8.0–10.1% | 7.7–10.5% |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.4% | 8.6–10.3% | 8.4–10.6% | 8.2–10.8% | 7.9–11.2% |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 10.0% | 9.1–10.9% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
@@ -152,14 +157,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% | Last Result |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 3% | 99.9% |  |
-| 6.5–7.5% | 10% | 97% |  |
-| 7.5–8.5% | 19% | 87% |  |
-| 8.5–9.5% | 36% | 69% | Median |
-| 9.5–10.5% | 25% | 33% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.0% | 1.1% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.6% | 100% |  |
+| 6.5–7.5% | 9% | 99.4% |  |
+| 7.5–8.5% | 28% | 90% |  |
+| 8.5–9.5% | 33% | 63% | Median |
+| 9.5–10.5% | 22% | 29% |  |
+| 10.5–11.5% | 6% | 7% |  |
+| 11.5–12.5% | 0.9% | 1.0% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -172,7 +177,12 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–11 | 7–12 | 6–12 |
+| [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 7 | 7 | 7–8 | 7–8 | 7–10 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–12 | 10–12 | 9–12 | 9–12 |
+| [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
@@ -316,14 +326,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 3% | 99.5% |  |
-| 7 | 15% | 96% |  |
-| 8 | 30% | 81% |  |
-| 9 | 32% | 51% | Median |
-| 10 | 17% | 19% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.2% | 0.2% |  |
+| 5 | 0% | 100% |  |
+| 6 | 1.2% | 100% |  |
+| 7 | 31% | 98.8% |  |
+| 8 | 22% | 68% | Median |
+| 9 | 21% | 45% |  |
+| 10 | 18% | 24% |  |
+| 11 | 2% | 7% |  |
+| 12 | 5% | 5% |  |
 | 13 | 0% | 0% |  |
 
 
