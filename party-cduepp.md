@@ -13,7 +13,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25.4% | 22.5–27.2% | 21.8–27.7% | 21.4–28.2% | 20.7–29.0% |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 25.4% | 24.2–26.8% | 23.8–27.2% | 23.5–27.5% | 22.9–28.1% |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 24.6% | 23.0–26.4% | 22.5–26.9% | 22.1–27.3% | 21.4–28.2% |
-| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.1–26.9% | 23.9–27.3% | 23.5–27.6% | 22.9–28.3% |
+| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.2–26.8% | 23.9–27.2% | 23.6–27.5% | 23.0–28.2% |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.0% | 21.0–23.0% | 20.8–23.2% | 20.6–23.5% | 20.1–24.0% |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 25.5% | 24.2–26.8% | 23.9–27.2% | 23.5–27.5% | 23.0–28.2% |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.4–26.5% | 24.2–26.8% | 23.9–27.1% | 23.4–27.6% |
@@ -162,7 +162,7 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 6% | 89% |  |
 | 23.5–24.5% | 13% | 83% |  |
 | 24.5–25.5% | 24% | 70% | Median |
-| 25.5–26.5% | 26% | 46% |  |
+| 25.5–26.5% | 25% | 46% |  |
 | 26.5–27.5% | 14% | 21% |  |
 | 27.5–28.5% | 5% | 6% |  |
 | 28.5–29.5% | 1.1% | 1.3% |  |
@@ -181,7 +181,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 24 | 21–28 | 21–28 | 20–28 | 20–28 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 24 | 21–24 | 21–24 | 21–24 | 21–27 |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 28 | 21–28 | 21–28 | 21–28 | 21–28 |
-| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 22–26 | 22–26 | 22–26 | 22–26 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–24 | 20–24 | 20–24 | 19–24 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 24–26 | 24–26 | 23–26 |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–26 | 23–26 | 23–26 |
@@ -327,15 +327,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.3% | 100% |  |
 | 20 | 3% | 99.7% |  |
-| 21 | 12% | 96% |  |
-| 22 | 3% | 84% |  |
-| 23 | 9% | 81% |  |
-| 24 | 27% | 72% | Median |
-| 25 | 18% | 45% |  |
-| 26 | 13% | 27% |  |
-| 27 | 3% | 14% |  |
-| 28 | 11% | 11% |  |
-| 29 | 0% | 0.1% | Last Result |
-| 30 | 0% | 0% |  |
+| 21 | 11% | 97% |  |
+| 22 | 4% | 86% |  |
+| 23 | 11% | 82% |  |
+| 24 | 26% | 71% | Median |
+| 25 | 20% | 45% |  |
+| 26 | 13% | 25% |  |
+| 27 | 2% | 12% |  |
+| 28 | 10% | 10% |  |
+| 29 | 0% | 0% | Last Result |
 
 
