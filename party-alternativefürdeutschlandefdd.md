@@ -10,7 +10,10 @@ Last result: **7.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.7% | 13.6–17.6% | 13.2–18.1% | 12.9–18.5% | 12.4–19.4% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.6–17.8% | 13.2–18.3% | 12.9–18.7% | 12.4–19.5% |
+| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.3% | 14.4–20.0% |
+| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17.0% | 15.8–18.3% | 15.5–18.6% | 15.2–18.9% | 14.6–19.6% |
+| [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16.5% | 15.5–17.6% | 15.2–17.9% | 15.0–18.2% | 14.5–18.7% |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.8–19.4% | 14.2–20.2% |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.7% | 12.1–16.2% |
@@ -162,13 +165,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.9% | 100% |  |
 | 12.5–13.5% | 8% | 99.1% |  |
-| 13.5–14.5% | 18% | 91% |  |
-| 14.5–15.5% | 20% | 73% |  |
-| 15.5–16.5% | 25% | 53% | Median |
-| 16.5–17.5% | 18% | 28% |  |
-| 17.5–18.5% | 8% | 10% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 17% | 91% |  |
+| 14.5–15.5% | 17% | 74% |  |
+| 15.5–16.5% | 21% | 57% | Median |
+| 16.5–17.5% | 21% | 36% |  |
+| 17.5–18.5% | 11% | 15% |  |
+| 18.5–19.5% | 3% | 3% |  |
+| 19.5–20.5% | 0.4% | 0.5% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -180,7 +183,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–16 | 12–17 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 16 | 12–16 | 12–16 | 12–17 | 11–18 |
+| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 16 | 16 | 16 | 14–16 | 14–16 |
+| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 16–17 | 16–17 | 16–17 | 16–17 |
+| [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 16 | 16 | 15–17 | 13–17 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 13–16 | 13–18 | 13–18 | 13–18 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 11–14 | 11–15 | 11–15 | 11–15 |
@@ -334,12 +340,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 100% |  |
 | 12 | 9% | 98% |  |
 | 13 | 14% | 90% |  |
-| 14 | 22% | 75% |  |
-| 15 | 25% | 53% | Median |
-| 16 | 20% | 28% |  |
-| 17 | 6% | 8% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 14 | 14% | 76% |  |
+| 15 | 11% | 62% |  |
+| 16 | 47% | 51% | Median |
+| 17 | 3% | 5% |  |
+| 18 | 1.1% | 1.1% |  |
+| 19 | 0% | 0% |  |
 
 
