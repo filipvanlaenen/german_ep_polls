@@ -180,11 +180,11 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 13 | 13 | 13 | 12–17 |
+| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 13 | 13 | 11–13 | 11–13 | 11–13 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14 | 13–14 | 13–14 | 12–14 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–16 | 14–16 | 12–16 |
-| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–15 | 11–15 | 11–16 | 11–16 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 12–15 | 12–15 | 12–17 | 12–17 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–16 | 14–16 | 13–16 |
@@ -330,12 +330,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.5% | 100% |  |
-| 11 | 5% | 99.5% | Last Result |
-| 12 | 12% | 94% |  |
-| 13 | 43% | 82% | Median |
-| 14 | 20% | 39% |  |
-| 15 | 16% | 19% |  |
-| 16 | 2% | 3% |  |
+| 11 | 6% | 99.4% | Last Result |
+| 12 | 13% | 94% |  |
+| 13 | 37% | 80% | Median |
+| 14 | 23% | 44% |  |
+| 15 | 18% | 21% |  |
+| 16 | 3% | 3% |  |
 | 17 | 0.6% | 0.6% |  |
 | 18 | 0% | 0% |  |
 

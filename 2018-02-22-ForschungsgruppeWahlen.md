@@ -188,6 +188,8 @@
 
 ### CDU (EPP) – CSU (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-02-22-ForschungsgruppeWahlen-coalitions-seats-pmf-cdu–csu.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.5% | 100% |  |
@@ -202,6 +204,8 @@
 | 37 | 0% | 0% |  |
 
 ### SPD (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-02-22-ForschungsgruppeWahlen-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -223,6 +227,8 @@
 
 ### Alternative für Deutschland (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-02-22-ForschungsgruppeWahlen-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -239,6 +245,8 @@
 | 18 | 0% | 0% |  |
 
 ### FDP (ALDE) – FREIE WÄHLER (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-02-22-ForschungsgruppeWahlen-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
