@@ -181,10 +181,10 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
+| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–15 | 11–15 | 11–16 | 11–16 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
@@ -330,11 +330,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.6% | 100% |  |
-| 11 | 9% | 99.4% | Last Result |
-| 12 | 20% | 91% |  |
-| 13 | 30% | 70% | Median |
+| 11 | 7% | 99.4% | Last Result |
+| 12 | 22% | 92% |  |
+| 13 | 31% | 71% | Median |
 | 14 | 27% | 40% |  |
-| 15 | 8% | 13% |  |
+| 15 | 9% | 13% |  |
 | 16 | 4% | 4% |  |
 | 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |

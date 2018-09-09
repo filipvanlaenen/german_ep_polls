@@ -180,10 +180,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
+| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
-| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 7–9 | 7–10 | 7–10 | 6–12 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
@@ -328,13 +328,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
+| 6 | 2% | 100% |  |
 | 7 | 10% | 97% | Last Result |
-| 8 | 16% | 87% |  |
-| 9 | 35% | 72% | Median |
-| 10 | 24% | 37% |  |
-| 11 | 11% | 13% |  |
-| 12 | 1.1% | 1.3% |  |
+| 8 | 19% | 87% |  |
+| 9 | 29% | 68% | Median |
+| 10 | 26% | 40% |  |
+| 11 | 12% | 14% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 

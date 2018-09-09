@@ -177,10 +177,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -326,8 +326,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 6% | 100% |  |
-| 4 | 48% | 94% | Median |
-| 5 | 43% | 46% | Last Result |
+| 4 | 49% | 94% | Median |
+| 5 | 42% | 45% | Last Result |
 | 6 | 3% | 3% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
