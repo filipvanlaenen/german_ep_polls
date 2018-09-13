@@ -10,10 +10,10 @@ Last result: **10.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 12.1–15.8% | 11.7–16.4% | 11.4–16.8% | 10.8–17.6% |
+| N/A | [Poll Average](average.html) | 13.7% | 12.2–15.7% | 11.8–16.3% | 11.4–16.8% | 10.8–17.6% |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 16.0% | 14.9–17.1% | 14.6–17.4% | 14.4–17.7% | 13.9–18.3% |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.4–15.7% | 12.1–16.0% | 11.6–16.7% |
-| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | 13.1–15.0% | 12.9–15.3% | 12.7–15.5% | 12.3–16.0% |
+| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | 13.1–15.0% | 12.9–15.2% | 12.7–15.5% | 12.3–15.9% |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13.5% | 12.6–14.5% | 12.3–14.8% | 12.1–15.1% | 11.7–15.6% |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.3% |
@@ -161,15 +161,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 3% | 99.7% | Last Result |
-| 11.5–12.5% | 15% | 96% |  |
-| 12.5–13.5% | 30% | 81% |  |
-| 13.5–14.5% | 26% | 52% | Median |
-| 14.5–15.5% | 13% | 26% |  |
-| 15.5–16.5% | 9% | 13% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 3% | 99.8% | Last Result |
+| 11.5–12.5% | 13% | 97% |  |
+| 12.5–13.5% | 29% | 84% |  |
+| 13.5–14.5% | 29% | 55% | Median |
+| 14.5–15.5% | 14% | 26% |  |
+| 15.5–16.5% | 8% | 11% |  |
 | 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.5% | 0.5% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -184,7 +184,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 15 | 15–16 | 14–16 | 14–17 | 13–17 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
@@ -333,14 +333,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 8% | 99.3% | Last Result |
-| 12 | 22% | 91% |  |
-| 13 | 34% | 69% | Median |
-| 14 | 17% | 34% |  |
-| 15 | 13% | 17% |  |
-| 16 | 4% | 4% |  |
-| 17 | 0.6% | 0.6% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 7% | 99.4% | Last Result |
+| 12 | 20% | 92% |  |
+| 13 | 35% | 72% | Median |
+| 14 | 22% | 37% |  |
+| 15 | 11% | 15% |  |
+| 16 | 3% | 4% |  |
+| 17 | 0.5% | 0.5% |  |
 | 18 | 0% | 0% |  |
 
 
