@@ -182,8 +182,8 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 15 | 15–16 | 14–16 | 14–17 | 13–17 |
-| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
+| [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
@@ -196,7 +196,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [6–10 August 2018](2018-08-10-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [7–9 August 2018](2018-08-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [2–8 August 2018](2018-08-08-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 13–15 | 13–16 | 13–16 |
 | [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–13 | 12–14 | 11–14 | 11–14 |
@@ -333,14 +333,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% |  |
-| 11 | 7% | 99.4% | Last Result |
-| 12 | 20% | 92% |  |
-| 13 | 35% | 72% | Median |
-| 14 | 22% | 37% |  |
+| 10 | 0.9% | 100% |  |
+| 11 | 9% | 99.1% | Last Result |
+| 12 | 19% | 91% |  |
+| 13 | 34% | 72% | Median |
+| 14 | 22% | 38% |  |
 | 15 | 11% | 15% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.5% | 0.5% |  |
-| 18 | 0% | 0% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0.5% | 0.6% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
