@@ -185,10 +185,10 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
-| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 23–25 | 22–25 | 22–26 |
+| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 23–25 | 22–26 | 22–27 |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 23 | 21–24 | 21–25 | 21–25 | 20–25 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 20–23 | 20–24 | 20–24 |
-| [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–26 | 23–26 | 22–26 | 22–28 |
+| [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 25 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–22 | 20–22 | 20–22 | 19–23 |
@@ -200,7 +200,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [27 July–9 August 2018](2018-08-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
 | [2–8 August 2018](2018-08-08-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [3–6 August 2018](2018-08-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–24 | 21–25 | 21–25 | 21–25 |
-| [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–26 | 24–26 | 23–27 | 23–27 |
+| [30 July–3 August 2018](2018-08-03-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
 | [30 July–1 August 2018](2018-08-01-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [26 July–1 August 2018](2018-08-01-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–25 | 23–26 | 22–26 |
 | [25–31 July 2018](2018-07-31-GMS.html) | GMS | 24 | 22–26 | 22–26 | 22–27 | 21–27 |
@@ -337,11 +337,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 1.1% | 100% |  |
 | 21 | 6% | 98.8% |  |
 | 22 | 14% | 93% |  |
-| 23 | 23% | 79% |  |
-| 24 | 23% | 56% | Median |
-| 25 | 18% | 33% |  |
-| 26 | 10% | 14% |  |
-| 27 | 3% | 4% |  |
+| 23 | 21% | 79% |  |
+| 24 | 24% | 58% | Median |
+| 25 | 19% | 34% |  |
+| 26 | 10% | 15% |  |
+| 27 | 4% | 4% |  |
 | 28 | 0.6% | 0.7% |  |
 | 29 | 0.1% | 0.1% | Last Result |
 | 30 | 0% | 0% |  |
