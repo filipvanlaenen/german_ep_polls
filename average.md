@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 22–28% <br> 21–27 | 15–21% <br> 15–20 | 11–17% <br> 11–16 | 7–12% <br> 7–11 | 14–19% <br> 13–18 | 4–6% <br> 3–6 | 7–11% <br> 7–11 | 0–2% <br> 0–2 | 0–1% <br> 0–1 | N/A <br> N/A | 0–2% <br> 1–2 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 24–28% <br> 22–26 | 15–19% <br> 15–18 | 14–18% <br> 14–17 | 7–9% <br> 7–9 | 14–18% <br> 14–17 | 4–6% <br> 4–5 | 7–9% <br> 7–9 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24–29% <br> 23–28 | 16–20% <br> 15–20 | 12–16% <br> 12–15 | 7–10% <br> 6–9 | 15–19% <br> 14–18 | 4–6% <br> 3–6 | 7–10% <br> 6–9 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0–2 |
-| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 24–27% <br> 22–25 | 17–21% <br> 17–19 | 13–15% <br> 12–14 | 8–10% <br> 8–9 | 14–17% <br> 13–15 | 4–5% <br> 4–5 | 8–10% <br> 8–9 | 1% <br> 1 | 0–1% <br> 1 | N/A <br> N/A | 1% <br> 1 |
+| [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 24–27% <br> 22–26 | 17–21% <br> 17–20 | 13–15% <br> 12–15 | 8–10% <br> 8–10 | 14–17% <br> 13–16 | 4–5% <br> 4–5 | 8–10% <br> 7–10 | 1% <br> 1 | 0–1% <br> 0–1 | N/A <br> N/A | 1% <br> 1 |
 | [24–28 August 2018](2018-08-28-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 22–26% <br> 21–25 | 15–19% <br> 14–18 | 11–15% <br> 11–14 | 10–13% <br> 9–12 | 15–19% <br> 15–18 | 3–5% <br> 3–5 | 8–11% <br> 7–10 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1–2 |
 | [24–27 August 2018](2018-08-27-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> 20–24 | 15–18% <br> 15–17 | 12–15% <br> 11–14 | 9–12% <br> 9–11 | 15–18% <br> 14–17 | 4–6% <br> 4–6 | 9–11% <br> 8–11 | 1–2% <br> 1 | 1% <br> 1 | N/A <br> N/A | 1% <br> 1 |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 22–27% <br> 21–26 | 16–20% <br> 15–19 | 12–16% <br> 11–16 | 7–11% <br> 7–10 | 15–19% <br> 14–19 | 3–6% <br> 3–6 | 7–10% <br> 6–9 | 1–2% <br> 1–2 | 0–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1–2 |
@@ -255,11 +255,11 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 1.1% | 100% |  |
 | 21 | 6% | 98.8% |  |
 | 22 | 14% | 93% |  |
-| 23 | 23% | 79% |  |
-| 24 | 23% | 56% | Median |
-| 25 | 18% | 33% |  |
-| 26 | 10% | 14% |  |
-| 27 | 3% | 4% |  |
+| 23 | 21% | 79% |  |
+| 24 | 24% | 58% | Median |
+| 25 | 19% | 34% |  |
+| 26 | 10% | 15% |  |
+| 27 | 4% | 4% |  |
 | 28 | 0.6% | 0.7% |  |
 | 29 | 0.1% | 0.1% | Last Result |
 | 30 | 0% | 0% |  |
@@ -277,8 +277,8 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 98% |  |
 | 16 | 28% | 85% |  |
 | 17 | 17% | 57% | Median |
-| 18 | 20% | 40% |  |
-| 19 | 14% | 19% |  |
+| 18 | 18% | 39% |  |
+| 19 | 15% | 21% |  |
 | 20 | 4% | 6% |  |
 | 21 | 1.3% | 1.4% |  |
 | 22 | 0.1% | 0.1% |  |
@@ -299,10 +299,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0.9% | 100% |  |
 | 11 | 9% | 99.1% | Last Result |
 | 12 | 19% | 91% |  |
-| 13 | 34% | 72% | Median |
-| 14 | 22% | 38% |  |
-| 15 | 11% | 15% |  |
-| 16 | 4% | 4% |  |
+| 13 | 35% | 71% | Median |
+| 14 | 21% | 37% |  |
+| 15 | 11% | 16% |  |
+| 16 | 4% | 5% |  |
 | 17 | 0.5% | 0.6% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.4% | 100% |  |
 | 7 | 18% | 98.6% | Last Result |
-| 8 | 23% | 81% |  |
-| 9 | 27% | 58% | Median |
+| 8 | 24% | 81% |  |
+| 9 | 26% | 57% | Median |
 | 10 | 20% | 31% |  |
 | 11 | 9% | 11% |  |
 | 12 | 2% | 2% |  |
@@ -338,11 +338,11 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 6% | 99.1% |  |
-| 14 | 21% | 94% |  |
-| 15 | 30% | 72% | Median |
-| 16 | 25% | 42% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 7% | 99.1% |  |
+| 14 | 18% | 92% |  |
+| 15 | 31% | 74% | Median |
+| 16 | 25% | 43% |  |
 | 17 | 12% | 18% |  |
 | 18 | 5% | 5% |  |
 | 19 | 0.7% | 0.8% |  |
@@ -358,8 +358,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 45% | 96% |  |
-| 5 | 47% | 51% | Last Result, Median |
+| 4 | 46% | 96% |  |
+| 5 | 46% | 50% | Last Result, Median |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -377,8 +377,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 16% | 98% |  |
-| 8 | 33% | 82% | Median |
-| 9 | 32% | 49% |  |
+| 8 | 34% | 82% | Median |
+| 9 | 30% | 47% |  |
 | 10 | 14% | 17% |  |
 | 11 | 3% | 3% |  |
 | 12 | 0.1% | 0.2% |  |
@@ -405,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 88% | 89% | Last Result, Median |
+| 0 | 12% | 100% |  |
+| 1 | 87% | 88% | Last Result, Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
@@ -446,11 +446,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.5% | 100% |  |
 | 25 | 3% | 99.5% |  |
-| 26 | 11% | 96% |  |
-| 27 | 19% | 86% |  |
+| 26 | 10% | 96% |  |
+| 27 | 18% | 86% |  |
 | 28 | 20% | 67% |  |
-| 29 | 23% | 46% | Median |
-| 30 | 14% | 23% |  |
+| 29 | 23% | 47% | Median |
+| 30 | 15% | 24% |  |
 | 31 | 7% | 9% |  |
 | 32 | 2% | 3% |  |
 | 33 | 0.3% | 0.4% |  |
@@ -467,8 +467,8 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 98% |  |
 | 16 | 28% | 85% |  |
 | 17 | 17% | 57% | Median |
-| 18 | 20% | 40% |  |
-| 19 | 14% | 19% |  |
+| 18 | 18% | 39% |  |
+| 19 | 15% | 21% |  |
 | 20 | 4% | 6% |  |
 | 21 | 1.3% | 1.4% |  |
 | 22 | 0.1% | 0.1% |  |
@@ -489,11 +489,11 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 6% | 99.1% |  |
-| 14 | 21% | 94% |  |
-| 15 | 30% | 72% | Median |
-| 16 | 25% | 42% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 7% | 99.1% |  |
+| 14 | 18% | 92% |  |
+| 15 | 31% | 74% | Median |
+| 16 | 25% | 43% |  |
 | 17 | 12% | 18% |  |
 | 18 | 5% | 5% |  |
 | 19 | 0.7% | 0.8% |  |
@@ -511,8 +511,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 100% |  |
 | 7 | 2% | 99.9% |  |
 | 8 | 16% | 98% |  |
-| 9 | 33% | 82% | Median |
-| 10 | 32% | 49% |  |
+| 9 | 34% | 82% | Median |
+| 10 | 30% | 48% |  |
 | 11 | 14% | 17% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
@@ -533,6 +533,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 7,471,104
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 2.30%
