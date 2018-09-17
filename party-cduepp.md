@@ -191,7 +191,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [20–24 August 2018](2018-08-24-Forsa.html) | Forsa <br> Stern and RTL | 25 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [20–22 August 2018](2018-08-22-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [16–22 August 2018](2018-08-22-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
-| [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–22 | 20–22 | 19–22 | 19–23 |
+| [16–20 August 2018](2018-08-20-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
 | [13–17 August 2018](2018-08-17-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [9–15 August 2018](2018-08-15-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–26 | 23–26 | 23–26 |
 | [10–13 August 2018](2018-08-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
