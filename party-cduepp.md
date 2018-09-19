@@ -11,6 +11,15 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.2% | 22.9–27.1% | 22.4–27.7% | 22.0–28.1% | 21.3–29.1% |
+| [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 25.5% | 24.2–26.8% | 23.9–27.2% | 23.5–27.5% | 23.0–28.2% |
+| [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.5% | 24.0–27.0% | 23.6–27.5% | 23.2–27.9% | 22.5–28.6% |
+| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.2–26.8% | 23.9–27.1% | 23.6–27.5% | 23.0–28.1% |
+| [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.8–23.4% |
+| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 24.6% | 22.9–26.4% | 22.5–26.9% | 22.1–27.4% | 21.3–28.3% |
+| [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 26.3% | 25.0–27.7% | 24.7–28.1% | 24.4–28.4% | 23.8–29.1% |
+| [3–5 September 2018](2018-09-05-Infratestdimap.html) | Infratest dimap <br> ARD | 24.6% | 23.2–26.1% | 22.8–26.5% | 22.5–26.9% | 21.9–27.6% |
+| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 24.6% | 23.5–25.8% | 23.2–26.1% | 23.0–26.4% | 22.5–26.9% |
+| [31 August–3 September 2018](2018-09-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.7% | 21.6–23.9% | 21.2–24.3% | 21.0–24.6% | 20.4–25.2% |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 25.5% | 24.2–26.8% | 23.8–27.2% | 23.5–27.5% | 22.9–28.2% |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26.3% | 24.7–28.0% | 24.3–28.5% | 23.9–28.9% | 23.2–29.7% |
 | [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.4–26.7% | 24.0–27.0% | 23.8–27.3% | 23.2–27.8% |
@@ -183,6 +192,15 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
+| [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–26 | 23–26 | 22–27 | 22–27 |
+| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
+| [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
+| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 23 | 23–24 | 21–25 | 21–26 | 20–27 |
+| [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 23–28 | 23–28 |
+| [3–5 September 2018](2018-09-05-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 22–25 | 22–25 | 22–26 | 21–27 |
+| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 22–25 | 22–25 | 22–26 |
+| [31 August–3 September 2018](2018-09-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 22–23 | 21–23 | 21–23 | 20–24 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [23–29 August 2018](2018-08-29-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 23–25 | 22–26 | 22–27 |
