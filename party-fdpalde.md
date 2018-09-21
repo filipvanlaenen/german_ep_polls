@@ -196,7 +196,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
-| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
 | [3–5 September 2018](2018-09-05-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
