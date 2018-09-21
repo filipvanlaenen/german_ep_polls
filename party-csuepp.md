@@ -189,12 +189,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [4–10 September 2018](2018-09-10-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [3–5 September 2018](2018-09-05-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [31 August–3 September 2018](2018-09-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–6 | 3–6 | 3–6 |

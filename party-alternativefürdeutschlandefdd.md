@@ -197,12 +197,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 14–15 | 13–15 | 13–16 | 12–17 |
-| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 12–16 | 12–16 | 12–16 | 12–16 |
+| [6–12 September 2018](2018-09-12-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [7–10 September 2018](2018-09-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 16–17 | 15–18 | 15–18 | 15–19 |
 | [4–10 September 2018](2018-09-10-GMS.html) | GMS | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [3–7 September 2018](2018-09-07-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–15 | 12–15 | 12–15 | 11–15 |
 | [3–5 September 2018](2018-09-05-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 13–15 | 13–15 | 12–16 |
+| [30 August–5 September 2018](2018-09-05-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [31 August–3 September 2018](2018-09-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [27–31 August 2018](2018-08-31-Forsa.html) | Forsa <br> Stern and RTL | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [28–30 August 2018](2018-08-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
