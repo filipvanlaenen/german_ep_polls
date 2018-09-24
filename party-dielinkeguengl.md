@@ -195,10 +195,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
-| [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [13–19 September 2018](2018-09-19-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
-| [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
+| [13–19 September 2018](2018-09-19-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
+| [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–11 | 9–11 | 8–11 | 8–12 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [1–13 September 2018](2018-09-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 7–10 | 7–10 | 7–10 | 7–11 |

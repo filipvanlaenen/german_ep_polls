@@ -200,10 +200,10 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
-| [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16–17 | 15–18 | 15–18 | 14–19 |
+| [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–17 | 15–17 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 15–17 | 15–18 | 14–18 | 13–19 |
-| [13–19 September 2018](2018-09-19-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16 | 15–17 | 15–18 | 15–18 |
-| [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 15–18 | 15–18 | 14–18 |
+| [13–19 September 2018](2018-09-19-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [14–17 September 2018](2018-09-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 16–18 | 15–18 | 15–18 | 14–18 |
 | [10–14 September 2018](2018-09-14-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [11–13 September 2018](2018-09-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [1–13 September 2018](2018-09-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
