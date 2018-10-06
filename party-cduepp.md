@@ -228,7 +228,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–28 |
 | [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19–21 | 19–21 | 19–21 | 19–21 |
-| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 24 | 22–24 | 22–24 | 22–24 | 22–26 |
+| [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 22–25 | 21–25 | 20–25 |
 | [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS | 22 | 20–24 | 20–24 | 19–24 | 18–25 |
 | [20–26 September 2018](2018-09-26-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 21–23 | 20–23 | 20–23 | 19–24 |
@@ -393,22 +393,22 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [25–31 January 2018](2018-01-31-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 26 | 25–27 | 24–27 | 24–28 | 23–28 |
 | [22–26 January 2018](2018-01-26-Forsa.html) | Forsa <br> Stern and RTL | 27 | 27–28 | 27–28 | 27–29 | 27–29 |
-| [22–24 January 2018](2018-01-24-Infratestdimap.html) | Infratest dimap <br> ARD | 29 | 26–29 | 26–29 | 25–29 | 24–30 |
+| [22–24 January 2018](2018-01-24-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 26–28 | 26–28 | 25–28 | 24–29 |
 | [18–24 January 2018](2018-01-24-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 26–28 | 26–28 | 26–28 | 26–31 |
 | [19–23 January 2018](2018-01-23-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 27 | 27 | 27 | 27 | 27 |
 | [22 January 2018](2018-01-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 25 | 25 | 23–25 | 23–28 |
-| [22 January 2018](2018-01-22-Forsa.html) | Forsa <br> Stern and RTL | 27 | 25–27 | 25–27 | 25–28 | 24–29 |
+| [22 January 2018](2018-01-22-Forsa.html) | Forsa <br> Stern and RTL | 26 | 26–28 | 26–28 | 26–29 | 24–32 |
 | [15–19 January 2018](2018-01-19-Forsa.html) | Forsa <br> Stern and RTL | 26 | 26 | 26 | 26–27 | 26–28 |
-| [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 24–27 | 24–30 | 24–31 | 23–31 |
+| [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 24–29 |
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 28 | 27–28 | 27–28 | 27–30 | 27–30 |
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 27 | 27 | 27 | 27 | 27 |
-| [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 24–26 | 24–27 | 24–29 | 23–30 |
+| [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–28 | 24–28 | 24–29 | 24–30 |
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–24 | 23–24 | 23–25 | 23–27 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28 | 28 | 27–28 | 27–28 |
-| [4–10 January 2018](2018-01-10-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 25–28 | 25–28 | 25–28 | 25–29 |
+| [4–10 January 2018](2018-01-10-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 25 | 25 | 25 | 24–27 |
-| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 31 | 27–31 | 27–31 | 27–31 | 26–31 |
-| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 29 | 26–29 | 26–29 | 26–29 | 24–29 |
+| [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
+| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 27–29 | 27–29 | 27–29 | 26–29 |
 | [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 24–26 | 24–28 | 23–28 | 23–28 |
 
@@ -423,11 +423,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 0.7% | 99.9% |  |
 | 20 | 3% | 99.2% |  |
-| 21 | 15% | 96% |  |
-| 22 | 30% | 81% |  |
-| 23 | 23% | 51% | Median |
-| 24 | 18% | 29% |  |
-| 25 | 5% | 11% |  |
+| 21 | 16% | 96% |  |
+| 22 | 27% | 81% |  |
+| 23 | 31% | 53% | Median |
+| 24 | 11% | 22% |  |
+| 25 | 6% | 11% |  |
 | 26 | 3% | 5% |  |
 | 27 | 1.2% | 2% |  |
 | 28 | 0.6% | 0.8% |  |
