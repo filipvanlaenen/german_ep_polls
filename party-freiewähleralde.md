@@ -384,7 +384,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [22–26 January 2018](2018-01-26-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1–2 |
 | [22–24 January 2018](2018-01-24-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [18–24 January 2018](2018-01-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18–24 January 2018](2018-01-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 0–2 |
 | [19–23 January 2018](2018-01-23-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 January 2018](2018-01-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 January 2018](2018-01-22-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |

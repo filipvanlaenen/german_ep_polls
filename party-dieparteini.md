@@ -217,7 +217,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1 | 1 | 0–1 |
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -384,7 +384,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [26–29 January 2018](2018-01-29-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [22–26 January 2018](2018-01-26-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–24 January 2018](2018-01-24-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [18–24 January 2018](2018-01-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18–24 January 2018](2018-01-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 0–2 |
 | [19–23 January 2018](2018-01-23-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [22 January 2018](2018-01-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [22 January 2018](2018-01-22-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -398,7 +398,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [4–10 January 2018](2018-01-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 1 |
 | [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 1–2 |
 | [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 0–1 |
 
