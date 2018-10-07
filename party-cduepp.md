@@ -233,7 +233,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS | 22 | 20–24 | 20–24 | 19–24 | 18–25 |
 | [20–26 September 2018](2018-09-26-Emnid.html) | Emnid <br> Bild am Sonntag | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [21–25 September 2018](2018-09-25-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 22 | 20–23 | 20–23 | 20–24 | 19–25 |
-| [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–22 | 21–23 | 20–23 | 20–24 |
+| [21–24 September 2018](2018-09-24-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [17–21 September 2018](2018-09-21-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [17–19 September 2018](2018-09-19-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [19 September 2018](2018-09-19-INSA.html) | INSA <br> Focus | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
@@ -421,11 +421,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 0.7% | 99.9% |  |
-| 20 | 6% | 99.2% |  |
-| 21 | 14% | 93% |  |
-| 22 | 31% | 79% | Median |
-| 23 | 24% | 48% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 5% | 99.1% |  |
+| 21 | 16% | 94% |  |
+| 22 | 29% | 78% | Median |
+| 23 | 25% | 49% |  |
 | 24 | 13% | 24% |  |
 | 25 | 6% | 11% |  |
 | 26 | 3% | 5% |  |
