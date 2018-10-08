@@ -402,8 +402,8 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 24–29 |
 | [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 27 | 27–28 | 26–29 | 26–30 | 25–31 |
-| [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–28 | 24–28 | 24–29 | 24–30 |
-| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–26 | 22–26 | 22–27 | 22–27 |
+| [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 27 | 25–29 | 24–29 | 24–29 | 24–30 |
+| [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 27 | 26–27 | 25–28 | 25–28 | 25–29 |
 | [4–10 January 2018](2018-01-10-Emnid.html) | Emnid <br> Bild am Sonntag | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 22–25 | 22–25 | 22–26 |
