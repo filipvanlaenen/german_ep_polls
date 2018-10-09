@@ -402,8 +402,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [22 January 2018](2018-01-22-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [15–19 January 2018](2018-01-19-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [16–18 January 2018](2018-01-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
-| [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 20 | 19–21 | 18–22 | 18–22 | 17–24 |
-| [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 16 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [5–18 January 2018](2018-01-18-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
+| [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
