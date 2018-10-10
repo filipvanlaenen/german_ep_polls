@@ -385,7 +385,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [1–7 February 2018](2018-02-07-GMS.html) | GMS | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [1–7 February 2018](2018-02-07-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [2–5 February 2018](2018-02-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [27 December 2017–2 February 2018](2018-02-02-GMS.html) | GMS | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [27 December 2017–2 February 2018](2018-02-02-GMS.html) | GMS | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [29 January–2 February 2018](2018-02-02-Forsa.html) | Forsa <br> Stern and RTL | 13 | 11–13 | 11–14 | 11–14 | 11–15 |
 | [30 January–1 February 2018](2018-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [29–31 January 2018](2018-01-31-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
@@ -403,12 +403,12 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [15–17 January 2018](2018-01-17-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [11–17 January 2018](2018-01-17-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [12–15 January 2018](2018-01-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
-| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
+| [8–12 January 2018](2018-01-12-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [4–10 January 2018](2018-01-10-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
-| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
+| [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
-| [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
+| [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–11 | 8–11 | 8–11 | 8–11 |
 
 ### Probability Mass Function
