@@ -412,7 +412,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [5–8 January 2018](2018-01-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–13 | 12–14 | 12–14 | 11–15 |
 | [2–5 January 2018](2018-01-05-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [2–3 January 2018](2018-01-03-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 12–13 | 11–14 | 11–14 | 10–14 |
-| [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
+| [21 December 2017–3 January 2018](2018-01-03-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
 | [29 December 2017–2 January 2018](2018-01-02-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 
 ### Probability Mass Function
