@@ -235,10 +235,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
-| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 16–18 | 16–19 | 15–19 | 15–19 |
-| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
+| [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [27 September–2 October 2018](2018-10-02-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–19 | 16–19 | 16–20 | 16–20 |
 | [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 14 | 14–15 | 13–16 | 13–16 | 12–16 |
