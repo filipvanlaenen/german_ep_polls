@@ -241,11 +241,11 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
-| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
-| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 13–18 | 12–19 | 12–20 |
+| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
@@ -446,16 +446,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.9% | 100% |  |
-| 12 | 5% | 99.0% |  |
-| 13 | 11% | 94% |  |
-| 14 | 14% | 84% |  |
-| 15 | 27% | 69% | Median |
-| 16 | 16% | 42% |  |
-| 17 | 15% | 25% |  |
-| 18 | 6% | 10% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 3% | 99.5% |  |
+| 13 | 8% | 97% |  |
+| 14 | 16% | 89% |  |
+| 15 | 31% | 73% | Median |
+| 16 | 15% | 42% |  |
+| 17 | 16% | 26% |  |
+| 18 | 7% | 11% |  |
 | 19 | 3% | 4% |  |
-| 20 | 1.1% | 1.2% |  |
+| 20 | 0.6% | 0.7% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

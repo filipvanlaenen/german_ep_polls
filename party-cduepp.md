@@ -237,11 +237,11 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–24 | 18–25 | 18–26 |
-| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 20–24 | 20–25 | 20–25 | 19–25 |
-| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
-| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 20 | 19–22 | 18–23 | 18–23 |
-| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 22–24 | 22–25 | 21–25 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 19–25 | 18–25 |
+| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
+| [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 20–21 | 19–22 | 18–22 | 18–23 |
+| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 19–21 | 19–21 | 19–22 | 18–23 |
+| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 22 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
@@ -442,17 +442,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 3% | 99.9% |  |
-| 19 | 3% | 97% |  |
-| 20 | 16% | 94% |  |
-| 21 | 21% | 78% |  |
-| 22 | 23% | 57% | Median |
-| 23 | 22% | 34% |  |
-| 24 | 8% | 12% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0.5% | 0.5% |  |
-| 27 | 0.1% | 0.1% |  |
+| 18 | 0.9% | 100% |  |
+| 19 | 3% | 99.1% |  |
+| 20 | 18% | 96% |  |
+| 21 | 24% | 78% |  |
+| 22 | 23% | 54% | Median |
+| 23 | 20% | 31% |  |
+| 24 | 8% | 11% |  |
+| 25 | 3% | 3% |  |
+| 26 | 0.3% | 0.3% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% | Last Result |
 
