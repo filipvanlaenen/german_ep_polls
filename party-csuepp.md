@@ -231,12 +231,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
-| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
-| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
-| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | [4–10 October 2018](2018-10-10-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4 | 4–5 | 3–5 | 3–5 |
@@ -436,12 +436,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.8% | 100% |  |
-| 3 | 23% | 99.2% |  |
-| 4 | 51% | 77% | Median |
-| 5 | 18% | 25% | Last Result |
-| 6 | 7% | 8% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 2 | 0.7% | 100% |  |
+| 3 | 20% | 99.3% |  |
+| 4 | 54% | 80% | Median |
+| 5 | 25% | 26% | Last Result |
+| 6 | 1.3% | 1.3% |  |
+| 7 | 0% | 0% |  |
 
 
