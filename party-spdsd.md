@@ -249,7 +249,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [4–10 October 2018](2018-10-10-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–17 | 15–17 | 15–18 | 15–19 |
+| [4–10 October 2018](2018-10-10-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [27 September–2 October 2018](2018-10-02-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
@@ -446,13 +446,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% |  |
-| 12 | 3% | 99.5% |  |
-| 13 | 8% | 97% |  |
-| 14 | 16% | 89% |  |
-| 15 | 31% | 73% | Median |
-| 16 | 15% | 42% |  |
-| 17 | 16% | 26% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 3% | 99.6% |  |
+| 13 | 13% | 97% |  |
+| 14 | 17% | 84% |  |
+| 15 | 26% | 67% | Median |
+| 16 | 18% | 41% |  |
+| 17 | 12% | 22% |  |
 | 18 | 7% | 11% |  |
 | 19 | 3% | 4% |  |
 | 20 | 0.6% | 0.7% |  |
