@@ -240,11 +240,11 @@ Last result: **11** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–20 | 13–20 | 13–20 | 12–21 |
-| [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–20 | 19–20 | 19–20 | 19–21 |
+| N/A | [Poll Average](average.html) | 16 | 13–20 | 13–21 | 13–21 | 12–22 |
+| [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–19 | 17–20 | 16–20 | 15–21 |
-| [11–17 October 2018](2018-10-17-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
+| [11–17 October 2018](2018-10-17-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 19 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 15 | 13–15 | 13–16 | 12–16 | 12–17 |
@@ -453,12 +453,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 15% | 88% |  |
 | 15 | 12% | 72% |  |
 | 16 | 13% | 60% | Median |
-| 17 | 11% | 47% |  |
-| 18 | 12% | 35% |  |
-| 19 | 9% | 24% |  |
-| 20 | 13% | 14% |  |
-| 21 | 1.0% | 1.3% |  |
-| 22 | 0.3% | 0.3% |  |
+| 17 | 8% | 47% |  |
+| 18 | 14% | 38% |  |
+| 19 | 11% | 24% |  |
+| 20 | 7% | 13% |  |
+| 21 | 6% | 6% |  |
+| 22 | 0.6% | 0.6% |  |
 | 23 | 0% | 0% |  |
 
 

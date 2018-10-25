@@ -242,10 +242,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–18 | 13–18 | 13–19 | 12–19 |
-| [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [11–17 October 2018](2018-10-17-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [11–17 October 2018](2018-10-17-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [12–15 October 2018](2018-10-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [8–12 October 2018](2018-10-12-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–14 | 12–15 | 12–15 | 11–16 |
 | [28 September–11 October 2018](2018-10-11-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -453,11 +453,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.9% | 100% |  |
-| 13 | 5% | 99.1% |  |
-| 14 | 19% | 94% |  |
-| 15 | 27% | 75% | Median |
-| 16 | 18% | 48% |  |
+| 12 | 0.6% | 100% |  |
+| 13 | 5% | 99.4% |  |
+| 14 | 21% | 94% |  |
+| 15 | 25% | 73% | Median |
+| 16 | 19% | 49% |  |
 | 17 | 14% | 30% |  |
 | 18 | 12% | 15% |  |
 | 19 | 3% | 3% |  |
