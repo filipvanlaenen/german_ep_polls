@@ -10,7 +10,9 @@ Last result: **7.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.6–11.5% | 8.2–11.9% | 7.9–12.2% | 7.4–12.9% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.6–11.4% | 8.2–11.9% | 7.9–12.2% | 7.4–12.9% |
+| [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.5% | 8.4–11.9% |
+| [19–22 October 2018](2018-10-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.5% | 9.6–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.3% |
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10.0% | 8.9–11.3% | 8.7–11.6% | 8.4–11.9% | 7.9–12.6% |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
@@ -219,9 +221,9 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.8% | 100% | Last Result |
 | 7.5–8.5% | 9% | 99.2% |  |
 | 8.5–9.5% | 26% | 90% |  |
-| 9.5–10.5% | 33% | 64% | Median |
+| 9.5–10.5% | 33% | 65% | Median |
 | 10.5–11.5% | 23% | 32% |  |
-| 11.5–12.5% | 7% | 9% |  |
+| 11.5–12.5% | 7% | 8% |  |
 | 12.5–13.5% | 1.2% | 1.3% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -236,6 +238,8 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
+| [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [19–22 October 2018](2018-10-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–9 | 8–10 | 8–10 | 7–11 |
@@ -443,10 +447,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 1.3% | 100% | Last Result |
-| 8 | 11% | 98.6% |  |
-| 9 | 41% | 87% | Median |
-| 10 | 32% | 47% |  |
-| 11 | 12% | 15% |  |
+| 8 | 13% | 98.6% |  |
+| 9 | 39% | 86% | Median |
+| 10 | 28% | 46% |  |
+| 11 | 15% | 19% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
