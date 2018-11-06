@@ -241,9 +241,9 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
-| [29 October–2 November 2018](2018-11-02-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [29 October–2 November 2018](2018-11-02-Forsa.html) | Forsa <br> Stern and RTL | 8 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [26–29 October 2018](2018-10-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
-| [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
+| [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [19–22 October 2018](2018-10-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
@@ -454,8 +454,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 1.0% | 100% | Last Result |
 | 8 | 7% | 99.0% |  |
-| 9 | 39% | 92% |  |
-| 10 | 35% | 53% | Median |
+| 9 | 37% | 92% |  |
+| 10 | 37% | 54% | Median |
 | 11 | 14% | 17% |  |
 | 12 | 4% | 4% |  |
 | 13 | 0.2% | 0.2% |  |
