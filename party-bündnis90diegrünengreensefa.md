@@ -10,8 +10,16 @@ Last result: **10.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 14.0–21.1% | 13.5–21.6% | 13.1–22.0% | 12.4–22.7% |
+| N/A | [Poll Average](average.html) | 18.6% | 14.0–21.4% | 13.5–21.8% | 13.1–22.2% | 12.4–22.9% |
+| [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 23.0% | 21.6–24.4% | 21.2–24.8% | 20.9–25.2% | 20.3–25.9% |
+| [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.6% |
+| [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 23.0% | 21.8–24.2% | 21.4–24.6% | 21.1–24.9% | 20.6–25.5% |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
+| [5–7 November 2018](2018-11-07-Emnid.html) | Emnid <br> Bild am Sonntag | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.4–24.9% |
+| [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19.3% | 18.4–20.2% | 18.1–20.5% | 17.9–20.7% | 17.5–21.2% |
+| [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 21.0% | 19.7–22.4% | 19.4–22.8% | 19.1–23.1% | 18.4–23.8% |
 | [29 October–2 November 2018](2018-11-02-Forsa.html) | Forsa <br> Stern and RTL | 24.0% | 22.7–25.3% | 22.4–25.6% | 22.1–26.0% | 21.5–26.6% |
+| [25–31 October 2018](2018-10-31-Emnid.html) | Emnid <br> Bild am Sonntag | 21.0% | 19.8–22.3% | 19.5–22.6% | 19.2–22.9% | 18.6–23.5% |
 | [26–29 October 2018](2018-10-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.3% |
 | [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 21.0% | 20.0–22.1% | 19.7–22.4% | 19.4–22.6% | 19.0–23.2% |
 | [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
@@ -227,13 +235,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 13% | 82% |  |
 | 15.5–16.5% | 9% | 69% |  |
 | 16.5–17.5% | 5% | 60% |  |
-| 17.5–18.5% | 6% | 55% |  |
-| 18.5–19.5% | 13% | 50% | Median |
-| 19.5–20.5% | 18% | 37% |  |
-| 20.5–21.5% | 14% | 19% |  |
-| 21.5–22.5% | 5% | 5% |  |
-| 22.5–23.5% | 0.6% | 0.7% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 17.5–18.5% | 5% | 56% |  |
+| 18.5–19.5% | 10% | 50% | Median |
+| 19.5–20.5% | 16% | 40% |  |
+| 20.5–21.5% | 16% | 24% |  |
+| 21.5–22.5% | 7% | 8% |  |
+| 22.5–23.5% | 1.1% | 1.2% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -244,8 +253,16 @@ Last result: **11** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 13–20 | 13–21 | 13–21 | 12–22 |
+| N/A | [Poll Average](average.html) | 18 | 13–21 | 13–21 | 13–21 | 12–22 |
+| [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 22–23 | 22–23 | 20–23 | 20–24 |
+| [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17–18 | 17–18 | 17–20 | 17–20 |
+| [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 23 | 23–24 | 23–25 | 23–25 | 20–25 |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 20–21 | 20–21 | 20–21 | 20–21 |
+| [5–7 November 2018](2018-11-07-Emnid.html) | Emnid <br> Bild am Sonntag | 22 | 22–23 | 21–23 | 21–23 | 20–23 |
+| [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19 | 19 | 19 | 18–19 |
+| [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 19 | 19–21 | 19–21 | 19–21 | 19–21 |
 | [29 October–2 November 2018](2018-11-02-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
+| [25–31 October 2018](2018-10-31-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21 | 21 | 19–21 | 19–22 |
 | [26–29 October 2018](2018-10-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
@@ -463,10 +480,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 11% | 72% |  |
 | 16 | 5% | 61% |  |
 | 17 | 5% | 56% |  |
-| 18 | 14% | 51% | Median |
-| 19 | 15% | 37% |  |
-| 20 | 14% | 22% |  |
-| 21 | 6% | 7% |  |
+| 18 | 12% | 51% | Median |
+| 19 | 11% | 39% |  |
+| 20 | 11% | 28% |  |
+| 21 | 16% | 17% |  |
 | 22 | 1.5% | 1.5% |  |
 | 23 | 0% | 0% |  |
 
