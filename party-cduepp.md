@@ -254,15 +254,15 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–25 | 17–25 |
-| [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21 | 20–22 | 19–22 | 18–22 |
-| [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19–20 | 19–21 | 19–21 | 19–21 |
-| [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 24 | 22–24 | 22–24 | 22–24 | 22–24 |
-| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–23 | 22–23 | 22–23 | 22–23 |
-| [5–7 November 2018](2018-11-07-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20–21 | 18–21 | 18–21 | 18–22 |
-| [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 20 | 20 | 20 | 15–20 |
-| [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 21 | 17–22 | 17–22 | 17–22 | 17–22 |
+| [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 20–23 | 19–23 | 18–24 | 18–24 |
+| [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
+| [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–22 | 21–23 | 21–23 | 20–24 |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 20–23 | 20–24 | 20–24 | 19–25 |
+| [5–7 November 2018](2018-11-07-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
+| [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [29 October–2 November 2018](2018-11-02-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–23 | 20–24 | 20–24 | 20–24 |
-| [25–31 October 2018](2018-10-31-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21 | 20–21 | 18–21 | 18–23 |
+| [25–31 October 2018](2018-10-31-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
 | [26–29 October 2018](2018-10-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 21 | 20–22 | 20–23 | 20–23 | 19–23 |
 | [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
@@ -476,10 +476,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.2% | 100% |  |
 | 17 | 2% | 99.8% |  |
 | 18 | 7% | 98% |  |
-| 19 | 4% | 91% |  |
-| 20 | 13% | 87% |  |
-| 21 | 28% | 73% | Median |
-| 22 | 19% | 45% |  |
+| 19 | 6% | 91% |  |
+| 20 | 19% | 85% |  |
+| 21 | 21% | 66% | Median |
+| 22 | 20% | 46% |  |
 | 23 | 18% | 26% |  |
 | 24 | 5% | 8% |  |
 | 25 | 3% | 3% |  |
