@@ -257,7 +257,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 21–23 | 20–23 | 20–24 | 19–25 |
 | [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 22 | 22–23 | 21–23 | 21–23 | 20–25 |
-| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
+| [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 20–22 | 19–23 | 19–23 | 18–24 |
 | [5–7 November 2018](2018-11-07-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–23 | 19–23 | 19–23 | 19–24 |
 | [2–5 November 2018](2018-11-05-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 17–19 | 17–19 | 17–20 | 17–20 |
 | [28 October–4 November 2018](2018-11-04-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 20 | 19–21 | 18–22 | 18–22 | 18–22 |
