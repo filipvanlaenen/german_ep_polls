@@ -270,12 +270,12 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14 | 14–15 | 14–15 | 13–15 | 13–16 |
 | [23–26 November 2018](2018-11-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [19–23 November 2018](2018-11-23-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [20–22 November 2018](2018-11-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [20–22 November 2018](2018-11-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [15–21 November 2018](2018-11-21-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 14–16 | 13–16 | 12–16 |
 | [16–19 November 2018](2018-11-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [12–16 November 2018](2018-11-16-Forsa.html) | Forsa <br> Stern and RTL | 14 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [8–14 November 2018](2018-11-14-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [8–14 November 2018](2018-11-14-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 13–15 | 12–15 | 12–15 | 12–15 |
 | [5–9 November 2018](2018-11-09-Forsa.html) | Forsa <br> Stern and RTL | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [6–8 November 2018](2018-11-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
@@ -494,10 +494,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.6% | 100% |  |
-| 12 | 9% | 99.4% |  |
-| 13 | 21% | 91% |  |
-| 14 | 30% | 70% | Median |
+| 11 | 0.7% | 100% |  |
+| 12 | 8% | 99.3% |  |
+| 13 | 19% | 91% |  |
+| 14 | 33% | 73% | Median |
 | 15 | 19% | 39% |  |
 | 16 | 7% | 21% |  |
 | 17 | 4% | 14% |  |
