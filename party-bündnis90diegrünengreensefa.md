@@ -266,13 +266,13 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 14–22 | 13–22 | 13–23 | 12–24 |
 | [27–28 November 2018](2018-11-28-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 20 | 19–20 | 18–21 | 18–21 | 18–22 |
+| [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [23–26 November 2018](2018-11-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [19–23 November 2018](2018-11-23-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–23 | 20–24 | 20–24 | 20–24 |
 | [20–22 November 2018](2018-11-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
-| [15–21 November 2018](2018-11-21-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
+| [15–21 November 2018](2018-11-21-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [16–19 November 2018](2018-11-19-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
-| [12–16 November 2018](2018-11-16-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [12–16 November 2018](2018-11-16-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [12–14 November 2018](2018-11-14-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 21–23 | 20–23 | 20–24 | 19–25 |
 | [8–14 November 2018](2018-11-14-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [9–12 November 2018](2018-11-12-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
@@ -500,10 +500,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 10% | 83% |  |
 | 16 | 5% | 72% |  |
 | 17 | 4% | 68% |  |
-| 18 | 7% | 64% |  |
-| 19 | 10% | 57% | Median |
-| 20 | 22% | 47% |  |
-| 21 | 12% | 25% |  |
+| 18 | 8% | 64% |  |
+| 19 | 9% | 55% | Median |
+| 20 | 16% | 46% |  |
+| 21 | 16% | 29% |  |
 | 22 | 8% | 13% |  |
 | 23 | 4% | 5% |  |
 | 24 | 0.8% | 0.9% |  |
