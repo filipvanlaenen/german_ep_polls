@@ -276,7 +276,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [26–30 November 2018](2018-11-30-Forsa.html) | Forsa <br> Stern and RTL | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [27–28 November 2018](2018-11-28-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
-| [22–28 November 2018](2018-11-28-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [22–28 November 2018](2018-11-28-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [23–27 November 2018](2018-11-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [23–26 November 2018](2018-11-26-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 12–15 | 12–15 | 12–15 | 11–15 |
 | [19–23 November 2018](2018-11-23-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
@@ -507,9 +507,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.7% | 100% |  |
 | 12 | 7% | 99.3% |  |
 | 13 | 20% | 92% |  |
-| 14 | 33% | 73% | Median |
-| 15 | 18% | 39% |  |
-| 16 | 8% | 21% |  |
+| 14 | 32% | 72% | Median |
+| 15 | 19% | 41% |  |
+| 16 | 8% | 22% |  |
 | 17 | 4% | 14% |  |
 | 18 | 6% | 10% |  |
 | 19 | 3% | 3% |  |
