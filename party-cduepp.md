@@ -273,12 +273,12 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
-| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–26 | 23–26 | 22–26 | 21–27 |
-| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–25 | 23–27 | 23–27 | 22–28 |
-| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 25 | 23–25 | 22–26 | 22–26 | 22–28 |
+| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 22–27 | 21–27 |
+| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
+| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 21–23 | 20–23 |
-| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–29 | 24–29 | 23–29 | 23–29 |
+| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–29 | 23–30 |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–24 | 23–25 | 22–26 | 21–26 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 23–27 | 22–27 | 22–27 |
 | [29 November–5 December 2018](2018-12-05-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 22–25 | 22–25 | 22–25 | 22–26 |

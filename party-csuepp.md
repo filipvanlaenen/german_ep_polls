@@ -267,12 +267,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
-| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| [6–12 December 2018](2018-12-12-GMS.html) | GMS | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [29 November–5 December 2018](2018-12-05-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
