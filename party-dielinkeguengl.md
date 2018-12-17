@@ -274,10 +274,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
+| [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [29 November–5 December 2018](2018-12-05-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10–12 | 10–12 | 9–12 | 9–12 |

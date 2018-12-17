@@ -277,9 +277,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
-| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 21–23 | 20–23 |
+| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–29 | 23–30 |
-| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–24 | 23–25 | 22–26 | 21–26 |
+| [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 23–25 | 22–25 | 21–26 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 23–27 | 22–27 | 22–27 |
 | [29 November–5 December 2018](2018-12-05-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 22–25 | 22–25 | 22–25 | 22–26 |
 | [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
