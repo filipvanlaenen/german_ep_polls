@@ -10,7 +10,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.2% | 21.6–25.1% | 21.2–25.6% | 20.8–26.1% | 20.1–27.0% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.5–27.3% | 22.0–28.0% | 21.5–28.6% | 20.8–29.6% |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.5% | 23.9–27.1% | 23.5–27.6% | 23.2–28.0% | 22.4–28.7% |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 26.3% | 24.6–28.1% | 24.2–28.7% | 23.7–29.1% | 23.0–30.0% |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
@@ -249,19 +249,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 1.3% | 99.9% |  |
-| 20.5–21.5% | 8% | 98.6% |  |
-| 21.5–22.5% | 21% | 91% |  |
-| 22.5–23.5% | 29% | 69% | Median |
-| 23.5–24.5% | 23% | 41% |  |
-| 24.5–25.5% | 12% | 17% |  |
-| 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 1.0% | 1.2% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
-| 28.5–29.5% | 0% | 0% |  |
-| 29.5–30.5% | 0% | 0% | Last Result |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.3% | 100% |  |
+| 20.5–21.5% | 2% | 99.7% |  |
+| 21.5–22.5% | 8% | 97% |  |
+| 22.5–23.5% | 15% | 89% |  |
+| 23.5–24.5% | 17% | 74% |  |
+| 24.5–25.5% | 19% | 57% | Median |
+| 25.5–26.5% | 18% | 38% |  |
+| 26.5–27.5% | 12% | 20% |  |
+| 27.5–28.5% | 6% | 8% |  |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.5% | 0.6% | Last Result |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -272,7 +273,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
+| N/A | [Poll Average](average.html) | 24 | 21–26 | 21–26 | 21–27 | 20–28 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
@@ -513,17 +514,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
-| 19 | 1.4% | 99.9% |  |
-| 20 | 8% | 98.5% |  |
-| 21 | 24% | 91% |  |
-| 22 | 26% | 67% | Median |
-| 23 | 26% | 41% |  |
-| 24 | 11% | 15% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% | Last Result |
+| 19 | 0.1% | 100% |  |
+| 20 | 2% | 99.8% |  |
+| 21 | 9% | 98% |  |
+| 22 | 17% | 89% |  |
+| 23 | 22% | 73% |  |
+| 24 | 18% | 51% | Median |
+| 25 | 18% | 33% |  |
+| 26 | 11% | 15% |  |
+| 27 | 3% | 4% |  |
+| 28 | 1.2% | 2% |  |
+| 29 | 0.3% | 0.4% | Last Result |
+| 30 | 0.1% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 

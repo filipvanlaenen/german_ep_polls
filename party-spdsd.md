@@ -10,7 +10,7 @@ Last result: **27.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.8% | 13.3–18.1% | 12.9–19.2% | 12.6–19.9% | 12.0–20.9% |
+| N/A | [Poll Average](average.html) | 15.1% | 13.6–18.1% | 13.1–19.2% | 12.7–19.9% | 12.0–20.9% |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15.0% | 13.8–16.3% | 13.4–16.7% | 13.1–17.1% | 12.6–17.7% |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 15.0% | 13.6–16.5% | 13.3–16.9% | 12.9–17.3% | 12.3–18.0% |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 14.0% | 12.7–15.5% | 12.3–16.0% | 12.0–16.3% | 11.4–17.1% |
@@ -252,11 +252,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 13% | 98% |  |
-| 13.5–14.5% | 28% | 85% |  |
-| 14.5–15.5% | 25% | 57% | Median |
-| 15.5–16.5% | 13% | 33% |  |
-| 16.5–17.5% | 6% | 19% |  |
+| 12.5–13.5% | 8% | 98% |  |
+| 13.5–14.5% | 22% | 90% |  |
+| 14.5–15.5% | 30% | 68% | Median |
+| 15.5–16.5% | 18% | 38% |  |
+| 16.5–17.5% | 7% | 20% |  |
 | 17.5–18.5% | 5% | 13% |  |
 | 18.5–19.5% | 4% | 8% |  |
 | 19.5–20.5% | 3% | 4% |  |
@@ -518,11 +518,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.7% | 100% |  |
-| 12 | 7% | 99.3% |  |
-| 13 | 20% | 92% |  |
-| 14 | 32% | 72% | Median |
-| 15 | 19% | 41% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 5% | 99.1% |  |
+| 13 | 14% | 94% |  |
+| 14 | 33% | 80% | Median |
+| 15 | 25% | 47% |  |
 | 16 | 8% | 22% |  |
 | 17 | 4% | 14% |  |
 | 18 | 6% | 10% |  |
