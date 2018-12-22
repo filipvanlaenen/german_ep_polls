@@ -275,9 +275,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–28 | 21–28 | 21–28 | 20–29 |
-| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–23 | 21–25 | 21–25 | 21–25 |
-| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28–29 | 23–29 | 23–29 | 23–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–22 | 21–23 | 20–24 | 20–25 |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–28 | 23–28 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
@@ -520,16 +520,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
-| 20 | 1.2% | 99.9% |  |
-| 21 | 8% | 98.6% |  |
-| 22 | 10% | 90% |  |
-| 23 | 27% | 80% |  |
-| 24 | 19% | 53% | Median |
-| 25 | 14% | 34% |  |
-| 26 | 8% | 20% |  |
-| 27 | 2% | 13% |  |
-| 28 | 9% | 11% |  |
-| 29 | 2% | 2% | Last Result |
+| 20 | 2% | 99.8% |  |
+| 21 | 8% | 98% |  |
+| 22 | 17% | 90% |  |
+| 23 | 20% | 73% |  |
+| 24 | 20% | 53% | Median |
+| 25 | 17% | 32% |  |
+| 26 | 12% | 15% |  |
+| 27 | 2% | 3% |  |
+| 28 | 1.2% | 1.3% |  |
+| 29 | 0.1% | 0.1% | Last Result |
 | 30 | 0% | 0% |  |
 
 

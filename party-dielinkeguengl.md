@@ -273,9 +273,9 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–11 | 6–11 | 6–12 |
-| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 6 | 6–7 | 6–7 | 6–7 | 6–10 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 8–10 | 8–11 |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
@@ -517,11 +517,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 10% | 100% |  |
-| 7 | 15% | 90% | Last Result |
-| 8 | 22% | 75% |  |
-| 9 | 31% | 53% | Median |
-| 10 | 16% | 22% |  |
+| 6 | 1.1% | 100% |  |
+| 7 | 19% | 98.9% | Last Result |
+| 8 | 28% | 79% |  |
+| 9 | 32% | 52% | Median |
+| 10 | 15% | 20% |  |
 | 11 | 3% | 5% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
