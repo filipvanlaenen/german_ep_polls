@@ -268,7 +268,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–2 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 1 | 1 | 0–1 | 0–2 | 0–2 |
