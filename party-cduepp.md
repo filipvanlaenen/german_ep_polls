@@ -10,11 +10,14 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 22.5–27.3% | 22.0–28.0% | 21.5–28.6% | 20.8–29.6% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.5–27.3% | 22.0–27.9% | 21.5–28.4% | 20.8–29.3% |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 21.9–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 27.2% | 25.9–28.5% | 25.5–28.9% | 25.2–29.2% | 24.6–29.9% |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.5% | 23.9–27.1% | 23.5–27.6% | 23.2–28.0% | 22.4–28.7% |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 26.3% | 24.6–28.1% | 24.2–28.7% | 23.7–29.1% | 23.0–30.0% |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.3–26.8% | 23.9–27.1% | 23.6–27.5% | 23.0–28.1% |
+| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.6% | 23.1–26.2% | 22.7–26.7% | 22.4–27.1% | 21.7–27.8% |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 27.1% | 25.5–28.9% | 25.1–29.4% | 24.7–29.8% | 23.9–30.6% |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | 23.4–25.9% | 23.1–26.3% | 22.8–26.6% | 22.2–27.2% |
@@ -259,10 +262,9 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 18% | 38% |  |
 | 26.5–27.5% | 12% | 20% |  |
 | 27.5–28.5% | 6% | 8% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.5% | 0.6% | Last Result |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.3% | 0.3% | Last Result |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -273,11 +275,14 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–26 | 21–26 | 21–27 | 20–28 |
+| N/A | [Poll Average](average.html) | 24 | 22–28 | 21–28 | 21–28 | 20–29 |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–23 | 21–25 | 21–25 | 21–25 |
+| [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28–29 | 23–29 | 23–29 | 23–29 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 22–24 | 22–25 | 22–25 | 22–27 |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–29 | 23–30 |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
@@ -515,17 +520,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
-| 20 | 2% | 99.8% |  |
-| 21 | 9% | 98% |  |
-| 22 | 17% | 89% |  |
-| 23 | 22% | 73% |  |
-| 24 | 18% | 51% | Median |
-| 25 | 18% | 33% |  |
-| 26 | 11% | 15% |  |
-| 27 | 3% | 4% |  |
-| 28 | 1.2% | 2% |  |
-| 29 | 0.3% | 0.4% | Last Result |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 20 | 1.2% | 99.9% |  |
+| 21 | 8% | 98.6% |  |
+| 22 | 10% | 90% |  |
+| 23 | 27% | 80% |  |
+| 24 | 19% | 53% | Median |
+| 25 | 14% | 34% |  |
+| 26 | 8% | 20% |  |
+| 27 | 2% | 13% |  |
+| 28 | 9% | 11% |  |
+| 29 | 2% | 2% | Last Result |
+| 30 | 0% | 0% |  |
 
 
