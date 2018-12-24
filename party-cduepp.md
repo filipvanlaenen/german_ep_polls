@@ -275,14 +275,14 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–22 | 21–23 | 20–24 | 20–25 |
+| N/A | [Poll Average](average.html) | 24 | 21–26 | 21–27 | 21–27 | 20–28 |
+| [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [10–14 December 2018](2018-12-14-Forsa.html) | Forsa <br> Stern and RTL | 26 | 25–27 | 24–28 | 24–28 | 23–28 |
 | [11–13 December 2018](2018-12-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [11–12 December 2018](2018-12-12-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
-| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 22–24 | 22–25 | 22–25 | 22–27 |
+| [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–29 | 23–30 |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
@@ -519,14 +519,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
+| 19 | 0.2% | 100% |  |
 | 20 | 2% | 99.8% |  |
 | 21 | 8% | 98% |  |
 | 22 | 17% | 90% |  |
 | 23 | 20% | 73% |  |
-| 24 | 20% | 53% | Median |
-| 25 | 15% | 33% |  |
-| 26 | 12% | 18% |  |
+| 24 | 19% | 53% | Median |
+| 25 | 16% | 34% |  |
+| 26 | 13% | 18% |  |
 | 27 | 4% | 5% |  |
 | 28 | 1.3% | 1.4% |  |
 | 29 | 0.1% | 0.1% | Last Result |
