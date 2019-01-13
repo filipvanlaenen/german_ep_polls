@@ -287,7 +287,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 22–25 | 21–25 | 21–26 |
-| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
