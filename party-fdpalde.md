@@ -283,7 +283,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
-| [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
+| [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -540,8 +540,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.3% | 100% |  |
 | 6 | 4% | 99.7% |  |
 | 7 | 29% | 96% |  |
-| 8 | 34% | 68% | Median |
-| 9 | 27% | 34% |  |
+| 8 | 36% | 67% | Median |
+| 9 | 24% | 31% |  |
 | 10 | 6% | 7% |  |
 | 11 | 0.4% | 0.5% |  |
 | 12 | 0% | 0% |  |

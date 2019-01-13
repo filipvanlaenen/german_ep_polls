@@ -287,12 +287,12 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
-| [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
+| [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
-| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 15–17 | 15–17 | 14–17 | 14–17 |
+| [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
-| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [13–19 December 2018](2018-12-19-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
@@ -543,11 +543,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 4% | 99.4% |  |
-| 17 | 19% | 95% |  |
-| 18 | 29% | 76% | Median |
-| 19 | 30% | 47% |  |
+| 15 | 0.7% | 100% |  |
+| 16 | 5% | 99.3% |  |
+| 17 | 17% | 95% |  |
+| 18 | 30% | 78% | Median |
+| 19 | 31% | 48% |  |
 | 20 | 13% | 17% |  |
 | 21 | 3% | 3% |  |
 | 22 | 0.4% | 0.4% |  |
