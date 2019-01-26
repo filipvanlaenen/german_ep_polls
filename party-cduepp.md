@@ -10,9 +10,19 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 22.7–27.1% | 22.1–27.8% | 21.6–28.4% | 20.8–29.5% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.8–27.8% | 23.2–28.3% | 22.6–28.8% | 21.6–29.6% |
+| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26.3% | 24.8–27.9% | 24.3–28.4% | 24.0–28.8% | 23.2–29.6% |
+| [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 23.8% | 22.2–25.5% | 21.7–26.0% | 21.3–26.5% | 20.5–27.3% |
+| [16–23 January 2019](2019-01-23-GMS.html) | GMS | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.9–30.0% |
+| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.0% | 23.8–26.3% | 23.5–26.6% | 23.2–26.9% | 22.6–27.5% |
+| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 27.2% | 25.9–28.5% | 25.5–28.9% | 25.2–29.2% | 24.6–29.9% |
+| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26.7% | 25.2–28.4% | 24.7–28.9% | 24.4–29.3% | 23.6–30.1% |
+| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.1–27.0% | 23.6–27.4% | 23.3–27.8% | 22.6–28.5% |
+| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.5% | 21.3–23.7% | 21.0–24.1% | 20.7–24.4% | 20.2–25.0% |
+| [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 27.2% | 25.9–28.5% | 25.5–28.9% | 25.2–29.2% | 24.6–29.9% |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.6% | 23.1–26.2% | 22.7–26.7% | 22.3–27.1% | 21.6–27.9% |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24.7% | 23.3–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
+| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 26.3% | N/A | N/A | N/A | N/A |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.4% | 21.2–23.6% | 20.9–23.9% | 20.6–24.2% | 20.1–24.8% |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 27.1% | 25.5–28.9% | 25.0–29.4% | 24.6–29.8% | 23.9–30.7% |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.6–25.7% | 19.8–26.6% |
@@ -261,18 +271,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 2% | 99.7% |  |
-| 21.5–22.5% | 6% | 98% |  |
-| 22.5–23.5% | 12% | 91% |  |
-| 23.5–24.5% | 21% | 79% |  |
-| 24.5–25.5% | 25% | 59% | Median |
-| 25.5–26.5% | 18% | 34% |  |
-| 26.5–27.5% | 9% | 16% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% | Last Result |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.4% | 99.9% |  |
+| 21.5–22.5% | 2% | 99.5% |  |
+| 22.5–23.5% | 5% | 98% |  |
+| 23.5–24.5% | 13% | 93% |  |
+| 24.5–25.5% | 22% | 80% |  |
+| 25.5–26.5% | 25% | 58% | Median |
+| 26.5–27.5% | 19% | 33% |  |
+| 27.5–28.5% | 10% | 13% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.5% | 0.6% | Last Result |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -285,9 +294,19 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–28 | 20–28 |
+| N/A | [Poll Average](average.html) | 25 | 23–26 | 22–26 | 21–27 | 21–29 |
+| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–25 | 23–28 | 22–28 | 21–28 |
+| [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–23 | 21–23 | 21–23 | 21–23 |
+| [16–23 January 2019](2019-01-23-GMS.html) | GMS | 25 | 25 | 25 | 23–25 | 23–27 |
+| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 25 | 25 | 24–25 | 24–25 |
+| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 26 | 26 | 26–27 | 26–27 | 26–29 |
+| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 26 | 26 | 26 | 26–29 |
+| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–25 | 21–29 | 20–29 | 20–29 |
+| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–21 | 20–22 | 20–24 | 20–24 |
+| [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28 | 28 | 26–28 | 23–28 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 22–25 | 21–25 | 21–26 |
+| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
@@ -538,17 +557,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
-| 20 | 2% | 99.9% |  |
-| 21 | 5% | 98% |  |
-| 22 | 14% | 93% |  |
-| 23 | 21% | 78% |  |
-| 24 | 26% | 58% | Median |
-| 25 | 17% | 31% |  |
-| 26 | 7% | 14% |  |
-| 27 | 4% | 7% |  |
-| 28 | 3% | 3% |  |
-| 29 | 0.3% | 0.4% | Last Result |
+| 20 | 0.4% | 100% |  |
+| 21 | 4% | 99.6% |  |
+| 22 | 4% | 95% |  |
+| 23 | 21% | 91% |  |
+| 24 | 7% | 71% |  |
+| 25 | 36% | 64% | Median |
+| 26 | 26% | 28% |  |
+| 27 | 1.0% | 3% |  |
+| 28 | 0.8% | 2% |  |
+| 29 | 0.9% | 0.9% | Last Result |
 | 30 | 0% | 0% |  |
 
 
