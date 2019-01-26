@@ -10,7 +10,7 @@ Last result: **27.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.9% | 13.3–16.7% | 12.9–17.2% | 12.6–17.7% | 11.9–18.5% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.7% | 12.0–18.5% |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 15.0% | 13.9–16.3% | 13.6–16.6% | 13.3–16.9% | 12.8–17.5% |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.3% | 13.4–15.3% | 13.1–15.6% | 12.8–15.9% | 12.4–16.4% |
@@ -262,12 +262,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 2% | 99.8% |  |
-| 12.5–13.5% | 11% | 98% |  |
-| 13.5–14.5% | 25% | 86% |  |
-| 14.5–15.5% | 28% | 61% | Median |
-| 15.5–16.5% | 20% | 33% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 2% | 99.9% |  |
+| 12.5–13.5% | 10% | 98% |  |
+| 13.5–14.5% | 25% | 88% |  |
+| 14.5–15.5% | 30% | 63% | Median |
+| 15.5–16.5% | 21% | 33% |  |
 | 16.5–17.5% | 9% | 12% |  |
 | 17.5–18.5% | 3% | 3% |  |
 | 18.5–19.5% | 0.4% | 0.4% |  |
@@ -542,11 +542,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 1.2% | 100% |  |
-| 12 | 7% | 98.8% |  |
-| 13 | 22% | 92% |  |
-| 14 | 37% | 69% | Median |
-| 15 | 21% | 33% |  |
+| 11 | 0.9% | 100% |  |
+| 12 | 7% | 99.0% |  |
+| 13 | 19% | 92% |  |
+| 14 | 40% | 74% | Median |
+| 15 | 22% | 33% |  |
 | 16 | 7% | 11% |  |
 | 17 | 3% | 4% |  |
 | 18 | 0.7% | 0.8% |  |
