@@ -22,7 +22,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 27.2% | 25.9–28.5% | 25.5–28.9% | 25.2–29.2% | 24.6–29.9% |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.6% | 23.1–26.2% | 22.7–26.7% | 22.3–27.1% | 21.6–27.9% |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24.7% | 23.3–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
-| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 26.3% | N/A | N/A | N/A | N/A |
+| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 26.3% | 25.1–27.6% | 24.7–28.0% | 24.4–28.3% | 23.8–29.0% |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.4% | 21.2–23.6% | 20.9–23.9% | 20.6–24.2% | 20.1–24.8% |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 27.1% | 25.5–28.9% | 25.0–29.4% | 24.6–29.8% | 23.9–30.7% |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.6–25.7% | 19.8–26.6% |
@@ -306,7 +306,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 28 | 28 | 28 | 26–28 | 23–28 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 22–25 | 21–25 | 21–26 |
-| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 24 | 24 | 24 | 24 |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
