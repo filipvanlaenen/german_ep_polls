@@ -295,13 +295,13 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 11–16 | 10–16 |
-| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
+| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
-| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14 | 13–14 | 12–15 | 12–16 |
+| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -561,11 +561,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
-| 11 | 18% | 98% |  |
-| 12 | 27% | 80% |  |
-| 13 | 18% | 53% | Median |
-| 14 | 26% | 34% |  |
-| 15 | 5% | 8% |  |
+| 11 | 16% | 98% |  |
+| 12 | 30% | 82% |  |
+| 13 | 22% | 52% | Median |
+| 14 | 21% | 31% |  |
+| 15 | 6% | 9% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
