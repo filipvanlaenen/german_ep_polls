@@ -296,19 +296,19 @@ Last result: **11** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
-| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 17–21 | 16–23 | 15–24 |
-| [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 16–21 | 16–21 | 16–21 | 16–21 |
-| [16–23 January 2019](2019-01-23-GMS.html) | GMS | 19 | 15–19 | 15–19 | 15–19 | 15–19 |
-| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 18 | 18 | 18 | 18–20 |
-| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–20 | 19–20 | 18–20 | 17–20 |
-| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 18–19 | 18–19 | 15–19 | 14–19 |
-| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17–21 | 15–21 | 14–21 | 14–21 |
-| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18 | 18 | 16–18 | 16–20 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
+| [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| [16–23 January 2019](2019-01-23-GMS.html) | GMS | 18 | 17–19 | 17–20 | 16–21 | 15–22 |
+| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 18 | 16–19 | 16–20 | 16–20 | 16–20 |
+| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17–18 | 17–19 | 16–19 | 16–20 |
+| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
+| [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18–20 | 17–20 | 17–20 | 16–20 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
-| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17 | 17 | 17 | 17 |
+| [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
@@ -562,17 +562,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% | Last Result |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.6% | 100% |  |
-| 15 | 3% | 99.4% |  |
-| 16 | 11% | 96% |  |
-| 17 | 12% | 86% |  |
-| 18 | 28% | 74% | Median |
-| 19 | 27% | 46% |  |
-| 20 | 12% | 19% |  |
-| 21 | 7% | 7% |  |
-| 22 | 0% | 0.5% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0.9% | 100% |  |
+| 16 | 9% | 99.1% |  |
+| 17 | 23% | 90% |  |
+| 18 | 33% | 67% | Median |
+| 19 | 22% | 35% |  |
+| 20 | 9% | 13% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.4% | 0.4% |  |
+| 23 | 0% | 0% |  |
 
 
