@@ -303,7 +303,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–13 | 12–14 | 12–14 | 11–15 |
+| [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 16 | 14–17 | 14–17 | 14–18 | 14–18 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -562,10 +562,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% |  |
-| 12 | 10% | 99.5% |  |
-| 13 | 23% | 89% |  |
-| 14 | 31% | 67% | Median |
+| 11 | 1.0% | 100% |  |
+| 12 | 10% | 98.9% |  |
+| 13 | 20% | 89% |  |
+| 14 | 33% | 68% | Median |
 | 15 | 20% | 36% |  |
 | 16 | 11% | 16% |  |
 | 17 | 4% | 5% |  |
