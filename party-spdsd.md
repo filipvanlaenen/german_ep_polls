@@ -307,7 +307,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 16 | 14–17 | 14–17 | 14–18 | 14–18 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–15 | 13–16 | 13–16 | 13–17 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
