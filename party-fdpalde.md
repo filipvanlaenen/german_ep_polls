@@ -301,12 +301,12 @@ Last result: **3** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [21–25 January 2019](2019-01-25-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
-| [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–8 | 7–9 | 7–10 | 6–10 |
@@ -570,11 +570,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
-| 7 | 18% | 99.4% |  |
-| 8 | 26% | 82% |  |
-| 9 | 35% | 55% | Median |
-| 10 | 16% | 20% |  |
-| 11 | 4% | 4% |  |
+| 7 | 17% | 99.4% |  |
+| 8 | 30% | 82% |  |
+| 9 | 31% | 51% | Median |
+| 10 | 15% | 20% |  |
+| 11 | 4% | 5% |  |
 | 12 | 0.6% | 0.6% |  |
 | 13 | 0% | 0% |  |
 

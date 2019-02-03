@@ -302,14 +302,14 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 16–18 | 16–18 | 16–18 | 15–20 |
+| [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [21–25 January 2019](2019-01-25-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18–19 | 18–20 | 17–21 | 17–21 |
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [22–23 January 2019](2019-01-23-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
-| [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 18–19 | 17–19 | 16–20 | 16–21 |
+| [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
@@ -572,12 +572,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% | Last Result |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 1.3% | 100% |  |
-| 16 | 14% | 98.7% |  |
-| 17 | 24% | 85% |  |
-| 18 | 31% | 61% | Median |
-| 19 | 21% | 30% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 1.5% | 99.9% |  |
+| 16 | 13% | 98% |  |
+| 17 | 27% | 86% |  |
+| 18 | 28% | 59% | Median |
+| 19 | 21% | 31% |  |
 | 20 | 7% | 9% |  |
 | 21 | 2% | 2% |  |
 | 22 | 0.3% | 0.4% |  |
