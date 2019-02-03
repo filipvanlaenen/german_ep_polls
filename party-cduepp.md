@@ -300,9 +300,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–27 | 21–27 | 20–28 |
-| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 21–24 | 21–24 | 21–25 | 21–25 |
-| [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–27 | 21–27 | 20–28 |
+| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 21–24 | 21–25 | 21–26 |
+| [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
 | [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 22–23 | 22–24 | 21–24 | 21–25 |
 | [21–25 January 2019](2019-01-25-Forsa.html) | Forsa <br> Stern and RTL | 25 | 25–27 | 25–27 | 24–28 | 24–28 |
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
@@ -570,15 +570,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
 | 20 | 0.7% | 99.9% |  |
-| 21 | 5% | 99.2% |  |
-| 22 | 16% | 95% |  |
-| 23 | 11% | 79% |  |
-| 24 | 13% | 68% |  |
-| 25 | 25% | 54% | Median |
-| 26 | 16% | 29% |  |
-| 27 | 13% | 14% |  |
-| 28 | 0.8% | 1.0% |  |
-| 29 | 0.2% | 0.2% | Last Result |
+| 21 | 3% | 99.2% |  |
+| 22 | 14% | 97% |  |
+| 23 | 14% | 82% |  |
+| 24 | 14% | 69% |  |
+| 25 | 26% | 55% | Median |
+| 26 | 17% | 29% |  |
+| 27 | 11% | 12% |  |
+| 28 | 1.2% | 2% |  |
+| 29 | 0.4% | 0.4% | Last Result |
 | 30 | 0% | 0% |  |
 
 

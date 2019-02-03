@@ -305,8 +305,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 12–18 |
-| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 14 | 14–15 | 14–16 | 13–16 | 13–16 |
+| [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–16 | 14–16 | 14–17 | 13–17 |
+| [25–29 January 2019](2019-01-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
 | [25–28 January 2019](2019-01-28-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14–15 | 13–15 | 13–15 | 13–16 |
 | [21–25 January 2019](2019-01-25-Forsa.html) | Forsa <br> Stern and RTL | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [22–24 January 2019](2019-01-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -575,11 +575,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.4% | 100% |  |
 | 12 | 6% | 99.6% |  |
 | 13 | 21% | 94% |  |
-| 14 | 36% | 73% | Median |
-| 15 | 21% | 37% |  |
-| 16 | 11% | 16% |  |
+| 14 | 32% | 72% | Median |
+| 15 | 21% | 41% |  |
+| 16 | 16% | 20% |  |
 | 17 | 4% | 4% |  |
-| 18 | 0.7% | 0.7% |  |
+| 18 | 0.6% | 0.7% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
