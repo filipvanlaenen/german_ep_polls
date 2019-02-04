@@ -311,7 +311,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 26 | 25–27 | 24–28 | 24–28 | 23–28 |
-| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 23–27 | 23–27 | 23–28 | 22–29 |
+| [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [7–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
@@ -573,11 +573,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 2% | 99.2% |  |
 | 22 | 9% | 97% |  |
 | 23 | 17% | 87% |  |
-| 24 | 15% | 70% |  |
+| 24 | 15% | 71% |  |
 | 25 | 21% | 55% | Median |
 | 26 | 22% | 34% |  |
 | 27 | 10% | 12% |  |
-| 28 | 1.4% | 2% |  |
+| 28 | 1.5% | 2% |  |
 | 29 | 0.4% | 0.4% | Last Result |
 | 30 | 0% | 0% |  |
 
