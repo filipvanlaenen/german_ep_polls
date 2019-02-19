@@ -296,7 +296,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -567,10 +567,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
-| 4 | 44% | 95% |  |
-| 5 | 39% | 51% | Last Result, Median |
-| 6 | 12% | 12% |  |
-| 7 | 0.5% | 0.5% |  |
+| 4 | 43% | 95% |  |
+| 5 | 40% | 52% | Last Result, Median |
+| 6 | 11% | 12% |  |
+| 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 
 

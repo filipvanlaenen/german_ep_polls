@@ -10,7 +10,7 @@ Last result: **3.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.7–10.4% | 7.3–10.8% | 7.1–11.2% | 6.6–11.9% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.6–10.4% | 7.3–10.8% | 7.1–11.2% | 6.6–11.9% |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8.5% | 7.8–9.4% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.0–11.1% | 8.7–11.4% | 8.5–11.6% | 8.1–12.2% |
@@ -282,10 +282,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 7% | 99.6% |  |
-| 7.5–8.5% | 27% | 92% |  |
-| 8.5–9.5% | 36% | 65% | Median |
-| 9.5–10.5% | 21% | 29% |  |
+| 6.5–7.5% | 8% | 99.6% |  |
+| 7.5–8.5% | 30% | 92% |  |
+| 8.5–9.5% | 34% | 61% | Median |
+| 9.5–10.5% | 19% | 27% |  |
 | 10.5–11.5% | 7% | 8% |  |
 | 11.5–12.5% | 1.1% | 1.2% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
@@ -300,7 +300,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
@@ -574,9 +574,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.7% | 100% |  |
-| 7 | 17% | 99.3% |  |
-| 8 | 29% | 82% |  |
-| 9 | 32% | 53% | Median |
+| 7 | 19% | 99.3% |  |
+| 8 | 34% | 80% | Median |
+| 9 | 25% | 46% |  |
 | 10 | 16% | 21% |  |
 | 11 | 4% | 5% |  |
 | 12 | 0.6% | 0.6% |  |

@@ -10,7 +10,7 @@ Last result: **0.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% | 0.4–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.8% |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
@@ -280,7 +280,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 6% | 100% |  |
 | 0.5–1.5% | 91% | 94% | Last Result, Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -563,7 +563,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
-| 1 | 94% | 97% | Last Result, Median |
+| 1 | 95% | 97% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
