@@ -315,7 +315,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 26–27 | 26–27 | 25–27 | 24–27 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 25 | 25 | 25 | 25 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
-| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 20–23 | 20–23 | 20–23 | 20–25 |
+| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–23 | 22–24 | 21–24 | 21–24 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 26 | 26 | 26 | 26 | 26 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 24–25 | 24–25 | 23–25 | 23–25 |
 | [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–25 | 24–25 | 24–27 | 24–28 |
@@ -334,7 +334,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 26 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
-| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 30 | 28–30 | 28–30 | 28–30 | 26–30 |
+| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 29 | 27–30 | 26–31 | 26–31 | 25–31 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–26 | 24–27 | 23–27 | 23–28 |

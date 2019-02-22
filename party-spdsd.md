@@ -321,7 +321,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 15–16 | 15–16 | 15–16 | 15–20 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 17 | 17–18 | 16–19 | 14–19 | 14–19 |
-| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
+| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 14–16 | 14–16 | 13–16 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 15 | 15 | 15 | 15 | 15 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
 | [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 16–18 | 16–18 | 16–18 | 14–18 |
@@ -340,7 +340,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–15 | 14–15 | 14–15 | 14–16 |
+| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–16 | 13–16 | 13–16 | 12–16 |

@@ -313,7 +313,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10 | 10 | 10 | 9–10 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 6–9 | 6–9 | 6–11 |
-| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10 | 10 | 9–10 | 9–11 |
+| [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10 | 9–11 | 9–11 | 9–12 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 7 | 7 | 7 | 7 | 7 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 7–9 | 7–9 | 7–11 |
@@ -332,7 +332,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [9–11 January 2019](2019-01-11-Forsa.html) | Forsa <br> Stern and RTL | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [8–10 January 2019](2019-01-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
