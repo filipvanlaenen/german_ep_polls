@@ -312,7 +312,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 23–25 | 23–25 | 23–25 | 21–25 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 25 | 23–25 | 23–25 | 23–25 | 22–25 |
-| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 26–27 | 26–27 | 25–27 | 24–27 |
+| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 26–28 | 26–28 | 25–28 | 24–29 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 25 | 25 | 25 | 25 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–23 | 22–24 | 21–24 | 21–24 |
@@ -342,7 +342,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 26 | 26–28 | 23–28 | 23–28 | 23–29 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–23 | 21–23 | 21–23 | 21–23 |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 19–24 | 19–24 | 19–24 | 17–26 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
 | [13–19 December 2018](2018-12-19-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–23 | 21–25 | 21–25 | 21–25 |
@@ -357,7 +357,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 23–27 | 22–27 | 22–27 |
 | [29 November–5 December 2018](2018-12-05-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 22–25 | 22–25 | 22–25 | 22–26 |
-| [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19 | 19 | 19–22 | 19–23 |
+| [30 November–3 December 2018](2018-12-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 20–21 | 19–22 | 19–22 | 18–23 |
 | [26–30 November 2018](2018-11-30-Forsa.html) | Forsa <br> Stern and RTL | 22 | 21–23 | 20–24 | 20–24 | 20–24 |
 | [27–28 November 2018](2018-11-28-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [22–28 November 2018](2018-11-28-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
@@ -593,10 +593,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 8% | 95% |  |
 | 24 | 19% | 87% |  |
 | 25 | 44% | 69% | Median |
-| 26 | 14% | 24% |  |
-| 27 | 9% | 10% |  |
-| 28 | 0.7% | 0.9% |  |
-| 29 | 0.3% | 0.3% | Last Result |
+| 26 | 11% | 24% |  |
+| 27 | 11% | 13% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.4% | 0.4% | Last Result |
 | 30 | 0% | 0% |  |
 
 
