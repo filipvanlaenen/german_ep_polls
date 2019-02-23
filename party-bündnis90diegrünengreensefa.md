@@ -312,14 +312,14 @@ Last result: **11** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–20 | 14–20 | 13–20 | 13–21 |
-| [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
+| N/A | [Poll Average](average.html) | 18 | 14–20 | 14–20 | 14–20 | 13–21 |
+| [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–16 | 13–17 | 12–17 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 19 | 19–20 | 19–20 | 19–20 | 19–21 |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–20 | 18–20 | 17–20 | 16–20 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14 | 14 | 14 | 14–15 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 17 | 17 | 17 | 17 | 17 |
+| [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 19–20 | 19–20 | 19–21 | 19–21 |
 | [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15–17 | 15–17 | 13–17 | 13–17 |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
@@ -333,7 +333,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [16–23 January 2019](2019-01-23-GMS.html) | GMS | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [17–23 January 2019](2019-01-23-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [18–21 January 2019](2019-01-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–19 | 17–20 | 17–20 | 17–21 |
-| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–20 | 19–20 | 18–20 | 17–20 |
+| [14–18 January 2019](2019-01-18-Forsa.html) | Forsa <br> Stern and RTL | 18 | 16–19 | 16–20 | 16–20 | 16–20 |
 | [5–17 January 2019](2019-01-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [10–16 January 2019](2019-01-16-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [11–14 January 2019](2019-01-14-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -342,7 +342,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [7–9 January 2019](2019-01-09-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
 | [3–9 January 2019](2019-01-09-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [5–7 January 2019](2019-01-07-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
-| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 19 | 19–21 | 18–21 | 17–21 | 17–21 |
+| [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 16–20 | 15–20 | 15–21 | 15–21 |
@@ -384,7 +384,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [26–29 October 2018](2018-10-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [22–26 October 2018](2018-10-26-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [18–24 October 2018](2018-10-24-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
-| [19–22 October 2018](2018-10-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19–20 | 19–20 | 19–20 | 19–20 |
+| [19–22 October 2018](2018-10-22-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 18–20 | 18–20 | 17–21 | 17–22 |
 | [15–19 October 2018](2018-10-19-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [16–18 October 2018](2018-10-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [16–17 October 2018](2018-10-17-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–19 | 17–20 | 16–20 | 15–21 |
@@ -592,12 +592,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0% | 100% | Last Result |
-| 12 | 0% | 100% |  |
-| 13 | 4% | 100% |  |
-| 14 | 20% | 96% |  |
-| 15 | 2% | 76% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 2% | 99.8% |  |
+| 14 | 18% | 98% |  |
+| 15 | 5% | 81% |  |
 | 16 | 4% | 75% |  |
-| 17 | 11% | 71% |  |
+| 17 | 12% | 71% |  |
 | 18 | 22% | 60% | Median |
 | 19 | 27% | 38% |  |
 | 20 | 11% | 11% |  |
