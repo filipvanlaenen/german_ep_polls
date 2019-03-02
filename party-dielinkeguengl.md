@@ -307,11 +307,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–10 | 5–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–10 | 5–10 | 5–11 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 10 | 10 | 10 | 9–10 |
+| [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10 | 9–11 | 9–11 | 9–12 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 7 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -591,9 +591,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 8% | 85% |  |
 | 7 | 8% | 77% | Last Result |
 | 8 | 24% | 68% | Median |
-| 9 | 23% | 45% |  |
-| 10 | 21% | 21% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0% |  |
+| 9 | 25% | 45% |  |
+| 10 | 18% | 19% |  |
+| 11 | 1.3% | 1.3% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

@@ -313,7 +313,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
-| [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 12 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–12 | 10–13 | 10–14 |
@@ -592,10 +592,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.2% | 100% |  |
 | 9 | 8% | 99.8% |  |
 | 10 | 7% | 92% |  |
-| 11 | 18% | 85% |  |
-| 12 | 29% | 67% | Median |
-| 13 | 22% | 38% |  |
-| 14 | 12% | 16% |  |
+| 11 | 20% | 85% |  |
+| 12 | 27% | 66% | Median |
+| 13 | 15% | 38% |  |
+| 14 | 19% | 23% |  |
 | 15 | 4% | 4% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
