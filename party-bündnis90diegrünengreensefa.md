@@ -320,7 +320,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 19–20 | 19–20 | 19–21 | 19–21 |
+| [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–20 | 17–20 | 17–22 |
 | [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15–17 | 15–17 | 13–17 | 13–17 |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -395,7 +395,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [8–10 October 2018](2018-10-10-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [4–10 October 2018](2018-10-10-GMS.html) | GMS | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [4–10 October 2018](2018-10-10-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
-| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
+| [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [27 September–2 October 2018](2018-10-02-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–15 | 13–15 | 13–15 | 12–15 |
@@ -598,9 +598,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 5% | 81% |  |
 | 16 | 4% | 75% |  |
 | 17 | 12% | 71% |  |
-| 18 | 22% | 60% | Median |
-| 19 | 18% | 38% |  |
-| 20 | 14% | 20% |  |
+| 18 | 25% | 59% | Median |
+| 19 | 18% | 34% |  |
+| 20 | 10% | 16% |  |
 | 21 | 2% | 6% |  |
 | 22 | 4% | 4% |  |
 | 23 | 0% | 0.1% |  |
