@@ -318,7 +318,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–23 | 22–24 | 21–24 | 21–24 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 24–26 | 23–27 | 23–27 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–26 | 23–27 | 23–27 | 22–27 |
-| [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–25 | 24–25 | 24–27 | 24–28 |
+| [31 January–6 February 2019](2019-02-06-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–25 | 23–25 | 22–26 | 22–27 |
 | [1–4 February 2019](2019-02-04-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 21–24 | 21–25 | 21–25 | 20–25 |
 | [28 January–1 February 2019](2019-02-01-Forsa.html) | Forsa <br> Stern and RTL | 26 | 24–27 | 24–28 | 24–28 | 23–28 |
 | [24–30 January 2019](2019-01-30-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
@@ -395,7 +395,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [5–8 October 2018](2018-10-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 20 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [1–5 October 2018](2018-10-05-Forsa.html) | Forsa <br> Stern and RTL | 22 | 22–24 | 21–24 | 21–25 | 20–26 |
 | [27 September–2 October 2018](2018-10-02-Emnid.html) | Emnid <br> Bild am Sonntag | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
-| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 19–21 | 19–21 | 19–21 | 19–21 |
+| [28 September–1 October 2018](2018-10-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [24–28 September 2018](2018-09-28-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [25–27 September 2018](2018-09-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [20–26 September 2018](2018-09-26-GMS.html) | GMS | 22 | 20–24 | 20–24 | 19–24 | 18–25 |
