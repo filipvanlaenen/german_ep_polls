@@ -315,13 +315,13 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 9–15 |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 13 | 11–15 | 11–15 | 11–15 | 11–17 |
+| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–14 | 9–15 | 9–16 |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 12 | 11–16 | 11–16 | 11–16 | 11–17 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 12 | 12 | 12–13 | 12–13 | 12–14 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14 | 13–14 | 13–14 | 11–16 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
-| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 9–11 | 9–13 | 9–13 | 8–13 |
-| [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 12 | 12–13 | 12–14 | 12–14 |
+| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
+| [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–13 | 11–14 | 11–14 | 11–15 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
@@ -601,16 +601,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
-| 8 | 0.3% | 100% |  |
-| 9 | 9% | 99.7% |  |
-| 10 | 8% | 91% |  |
-| 11 | 13% | 82% |  |
-| 12 | 44% | 70% | Median |
-| 13 | 9% | 25% |  |
-| 14 | 13% | 16% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.3% | 0.5% |  |
-| 17 | 0.2% | 0.2% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 13% | 99.5% |  |
+| 10 | 10% | 86% |  |
+| 11 | 6% | 76% |  |
+| 12 | 38% | 69% | Median |
+| 13 | 12% | 31% |  |
+| 14 | 15% | 19% |  |
+| 15 | 1.4% | 4% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 

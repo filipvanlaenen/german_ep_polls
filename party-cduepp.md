@@ -317,13 +317,13 @@ Last result: **29** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–28 | 22–28 | 22–28 | 21–29 |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 26 | 25–28 | 23–28 | 23–28 | 23–29 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–28 | 22–28 | 21–28 |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 26 | 23–27 | 23–27 | 23–27 | 21–28 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 25 | 25 | 24–25 | 24–25 | 23–25 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 22 | 22–23 | 22–23 | 21–24 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 24 | 24 | 24–25 | 24–25 | 21–25 |
-| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28 | 25–28 | 25–29 | 25–29 | 25–30 |
-| [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 24 | 22–24 | 21–24 | 21–24 |
+| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 26–28 | 26–28 | 25–28 | 25–29 |
+| [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 22–26 | 21–26 | 21–26 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
 | [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 26–28 | 26–28 | 25–28 | 24–29 |
@@ -602,17 +602,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.8% | 100% |  |
-| 22 | 13% | 99.2% |  |
-| 23 | 8% | 86% |  |
-| 24 | 26% | 78% |  |
-| 25 | 19% | 52% | Median |
-| 26 | 9% | 32% |  |
-| 27 | 9% | 23% |  |
-| 28 | 13% | 15% |  |
-| 29 | 1.1% | 1.2% | Last Result |
-| 30 | 0% | 0.1% |  |
-| 31 | 0% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 21 | 0.5% | 100% |  |
+| 22 | 14% | 99.5% |  |
+| 23 | 17% | 86% |  |
+| 24 | 18% | 68% |  |
+| 25 | 19% | 50% | Median |
+| 26 | 7% | 31% |  |
+| 27 | 19% | 24% |  |
+| 28 | 5% | 5% |  |
+| 29 | 0.3% | 0.4% | Last Result |
+| 30 | 0% | 0% |  |
 
 
