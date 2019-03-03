@@ -313,11 +313,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9 | 8–9 | 8–10 | 7–11 | 7–11 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 9 | 8–9 | 8–9 | 8–9 |
-| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 10 | 9–10 | 8–10 | 8–11 |
-| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 6 | 6–7 | 6–9 | 6–9 | 6–9 |
+| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -600,12 +600,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
 | 5 | 8% | 99.7% |  |
-| 6 | 14% | 92% |  |
-| 7 | 8% | 78% | Last Result |
-| 8 | 29% | 70% | Median |
-| 9 | 27% | 41% |  |
-| 10 | 13% | 14% |  |
-| 11 | 0.6% | 0.6% |  |
+| 6 | 6% | 92% |  |
+| 7 | 16% | 86% | Last Result |
+| 8 | 32% | 70% | Median |
+| 9 | 34% | 38% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.5% | 0.5% |  |
 | 12 | 0% | 0% |  |
 
 

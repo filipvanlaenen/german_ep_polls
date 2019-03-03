@@ -314,11 +314,11 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 5–10 | 5–10 |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 8 | 8–9 | 8–9 | 8–10 |
-| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 8 | 8 | 8–9 | 8–9 |
-| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
+| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 8–10 | 7–11 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 7–10 | 7–10 | 7–11 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
@@ -603,11 +603,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 5% | 99.9% |  |
 | 6 | 9% | 95% |  |
-| 7 | 24% | 86% |  |
-| 8 | 44% | 61% | Median |
-| 9 | 13% | 18% |  |
-| 10 | 5% | 5% |  |
-| 11 | 0.1% | 0.2% |  |
+| 7 | 13% | 86% |  |
+| 8 | 35% | 72% | Median |
+| 9 | 30% | 38% |  |
+| 10 | 7% | 8% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
