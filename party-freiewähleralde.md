@@ -309,7 +309,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1 | 1 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -346,7 +346,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [2–4 January 2019](2019-01-04-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
 | [2–3 January 2019](2019-01-03-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 0–1 | 0–2 |
 | [21–27 December 2018](2018-12-27-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [20–21 December 2018](2018-12-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 1–2 | 0–2 |
 | [17–21 December 2018](2018-12-21-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 December 2018](2018-12-19-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
 | [14–17 December 2018](2018-12-17-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -592,8 +592,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 83% | 91% | Last Result, Median |
+| 0 | 8% | 100% |  |
+| 1 | 83% | 92% | Last Result, Median |
 | 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
