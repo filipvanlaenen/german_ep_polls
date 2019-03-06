@@ -10,8 +10,11 @@ Last result: **7.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 6.3–9.7% | 5.8–10.0% | 5.5–10.3% | 5.0–10.9% |
+| N/A | [Poll Average](average.html) | 8.4% | 6.3–10.0% | 5.8–10.5% | 5.5–10.8% | 5.0–11.5% |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.4–10.6% | 9.2–10.8% | 9.1–11.0% | 8.8–11.3% |
+| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
+| [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.5–11.7% | 8.1–12.2% |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
@@ -296,12 +299,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 10% | 97% |  |
-| 6.5–7.5% | 17% | 87% | Last Result |
-| 7.5–8.5% | 27% | 70% | Median |
-| 8.5–9.5% | 31% | 44% |  |
-| 9.5–10.5% | 11% | 13% |  |
-| 10.5–11.5% | 1.3% | 1.4% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 16% | 87% | Last Result |
+| 7.5–8.5% | 24% | 71% | Median |
+| 8.5–9.5% | 28% | 47% |  |
+| 9.5–10.5% | 14% | 19% |  |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.5% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -313,8 +316,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
-| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9 | 8–9 | 8–10 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–10 | 5–10 | 5–11 |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
+| [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 8–10 | 7–11 | 7–11 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -602,10 +608,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 8% | 99.7% |  |
 | 6 | 6% | 92% |  |
 | 7 | 17% | 86% | Last Result |
-| 8 | 34% | 69% | Median |
-| 9 | 31% | 35% |  |
-| 10 | 4% | 4% |  |
-| 11 | 1.0% | 1.0% |  |
+| 8 | 28% | 69% | Median |
+| 9 | 32% | 41% |  |
+| 10 | 7% | 9% |  |
+| 11 | 1.5% | 2% |  |
 | 12 | 0% | 0% |  |
 
 
