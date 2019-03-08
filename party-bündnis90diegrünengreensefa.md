@@ -12,6 +12,7 @@ Last result: **10.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 15.4–20.2% | 15.0–20.7% | 14.6–21.1% | 14.0–21.9% |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15.5% | 14.8–16.3% | 14.6–16.5% | 14.4–16.7% | 14.1–17.0% |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 15.0% | 14.3–15.8% | 14.1–16.0% | 13.9–16.1% | 13.6–16.5% |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 20.0% | 19.0–21.0% | 18.7–21.3% | 18.5–21.6% | 18.0–22.1% |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.1–21.3% |
 | [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | 14.8–17.3% | 14.4–17.7% | 14.2–18.0% | 13.6–18.6% |
@@ -322,10 +323,11 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–20 | 14–20 | 14–21 | 13–21 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
-| [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 14–17 | 14–18 | 14–18 | 14–19 |
+| [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 20 | 18–21 | 18–21 | 17–21 | 17–21 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–18 | 16–19 | 16–19 | 16–21 |
@@ -610,11 +612,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0% | 100% | Last Result |
 | 12 | 0% | 100% |  |
-| 13 | 0.8% | 100% |  |
-| 14 | 6% | 99.2% |  |
-| 15 | 16% | 93% |  |
-| 16 | 18% | 77% |  |
-| 17 | 13% | 59% | Median |
+| 13 | 0.9% | 100% |  |
+| 14 | 5% | 99.0% |  |
+| 15 | 13% | 94% |  |
+| 16 | 19% | 81% |  |
+| 17 | 16% | 62% | Median |
 | 18 | 27% | 46% |  |
 | 19 | 9% | 19% |  |
 | 20 | 7% | 10% |  |
