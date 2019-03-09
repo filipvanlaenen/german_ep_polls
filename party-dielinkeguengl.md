@@ -319,12 +319,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
-| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
@@ -609,11 +609,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.3% | 100% |  |
 | 5 | 8% | 99.7% |  |
 | 6 | 6% | 92% |  |
-| 7 | 17% | 86% | Last Result |
-| 8 | 30% | 69% | Median |
+| 7 | 18% | 86% | Last Result |
+| 8 | 29% | 68% | Median |
 | 9 | 28% | 39% |  |
 | 10 | 10% | 11% |  |
-| 11 | 1.4% | 1.5% |  |
+| 11 | 1.4% | 1.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
