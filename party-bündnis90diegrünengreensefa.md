@@ -329,14 +329,14 @@ Last result: **11** seats (General Election of 25 May 2014)
 | [21–27 February 2019](2019-02-27-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14–15 | 14–16 | 14–16 | 13–17 |
-| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
+| [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 17–21 | 17–21 | 17–21 |
 | [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 16–18 | 16–19 | 16–20 | 16–21 |
 | [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 14–16 | 14–17 | 14–18 | 13–18 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 13–15 | 13–16 | 13–17 | 12–17 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
-| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–20 | 18–20 | 17–20 | 16–20 |
+| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–19 | 18–20 | 17–20 | 16–21 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 14–16 | 13–16 | 12–16 |
-| [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
+| [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–20 | 18–20 | 17–20 | 17–22 |
@@ -616,11 +616,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 11% | 99.5% |  |
 | 15 | 12% | 89% |  |
 | 16 | 16% | 77% |  |
-| 17 | 16% | 61% | Median |
-| 18 | 25% | 45% |  |
-| 19 | 12% | 20% |  |
-| 20 | 6% | 7% |  |
-| 21 | 1.3% | 1.3% |  |
+| 17 | 19% | 61% | Median |
+| 18 | 21% | 41% |  |
+| 19 | 14% | 20% |  |
+| 20 | 5% | 7% |  |
+| 21 | 1.1% | 1.2% |  |
 | 22 | 0% | 0% |  |
 
 
