@@ -330,13 +330,13 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [22–26 February 2019](2019-02-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 24 | 23–26 | 22–26 | 22–27 | 22–27 |
 | [22–25 February 2019](2019-02-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
 | [18–22 February 2019](2019-02-22-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
-| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 26–28 | 26–29 | 25–29 | 24–30 |
+| [19–21 February 2019](2019-02-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [14–20 February 2019](2019-02-20-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [15–18 February 2019](2019-02-18-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 22–26 | 21–26 | 21–26 |
 | [11–15 February 2019](2019-02-15-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
-| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 26–28 | 25–28 | 25–28 | 24–29 |
+| [11–13 February 2019](2019-02-13-Infratestdimap.html) | Infratest dimap <br> ARD | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [7–13 February 2019](2019-02-13-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 24–25 | 24–26 | 23–26 | 22–26 |
-| [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 23–25 | 22–25 | 22–26 | 22–26 |
+| [1–13 February 2019](2019-02-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [8–11 February 2019](2019-02-11-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–23 | 22–24 | 21–24 | 21–24 |
 | [4–8 February 2019](2019-02-08-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–26 | 24–26 | 23–27 | 23–27 |
 | [5–7 February 2019](2019-02-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–26 | 23–27 | 23–27 | 22–27 |
@@ -612,15 +612,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
-| 22 | 11% | 98% |  |
-| 23 | 20% | 87% |  |
-| 24 | 17% | 67% |  |
-| 25 | 14% | 50% | Median |
-| 26 | 14% | 37% |  |
-| 27 | 15% | 22% |  |
-| 28 | 6% | 7% |  |
-| 29 | 0.8% | 1.1% | Last Result |
-| 30 | 0.3% | 0.3% |  |
+| 22 | 12% | 98% |  |
+| 23 | 16% | 86% |  |
+| 24 | 20% | 70% |  |
+| 25 | 15% | 50% | Median |
+| 26 | 15% | 35% |  |
+| 27 | 12% | 20% |  |
+| 28 | 6% | 8% |  |
+| 29 | 1.4% | 2% | Last Result |
+| 30 | 0.4% | 0.4% |  |
 | 31 | 0% | 0% |  |
 
 
