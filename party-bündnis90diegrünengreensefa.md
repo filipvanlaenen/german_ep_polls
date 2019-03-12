@@ -324,8 +324,8 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
-| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 17 | 17–19 | 17–19 | 17–20 | 17–20 |
-| [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 14–17 | 14–17 | 14–18 | 13–18 |
+| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–19 | 17–19 | 17–20 | 16–20 |
+| [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
