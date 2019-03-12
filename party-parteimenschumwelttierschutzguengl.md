@@ -11,6 +11,8 @@ Last result: **1.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
+| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.6% | 0.5–0.9% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.4% | 0.5–1.6% |
@@ -312,6 +314,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1 |
+| [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 1–2 |
