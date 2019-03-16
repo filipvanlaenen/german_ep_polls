@@ -13,7 +13,7 @@ Last result: **5.3%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4.8% | 4.0–5.9% | 3.8–6.3% | 3.6–6.5% | 3.3–7.0% |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 4.7% | 4.1–5.4% | 3.9–5.6% | 3.8–5.7% | 3.6–6.1% |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 4.7% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.6–6.1% |
-| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6.0% | 5.5–6.5% | 5.4–6.7% | 5.3–6.8% | 5.1–7.0% |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4.4% | 5.5–6.5% | 5.4–6.7% | 5.3–6.8% | 5.1–7.0% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.8–5.4% | 3.5–5.7% |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |

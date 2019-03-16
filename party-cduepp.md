@@ -13,7 +13,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25.8% | 23.5–28.4% | 23.0–29.1% | 22.6–29.6% | 21.8–30.6% |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 26.3% | 25.0–27.6% | 24.7–28.0% | 24.4–28.3% | 23.8–29.0% |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 26.3% | 25.1–27.7% | 24.7–28.0% | 24.4–28.4% | 23.8–29.0% |
-| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.0% | 22.2–23.9% | 21.9–24.1% | 21.7–24.3% | 21.3–24.8% |
+| [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24.6% | 22.2–23.9% | 21.9–24.1% | 21.7–24.3% | 21.3–24.8% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 24.6% | 23.8–25.5% | 23.5–25.8% | 23.3–26.0% | 22.9–26.4% |
 | [25 February–1 March 2019](2019-03-01-Forsa.html) | Forsa <br> Stern and RTL | 25.5% | 24.4–26.6% | 24.1–26.9% | 23.8–27.2% | 23.3–27.8% |
 | [21–27 February 2019](2019-02-27-GMS.html) | GMS | 26.3% | 24.5–28.1% | 24.1–28.6% | 23.6–29.1% | 22.8–30.0% |
@@ -378,7 +378,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [6–12 December 2018](2018-12-12-GMS.html) | GMS | 24 | 23–26 | 22–26 | 21–27 | 21–28 |
 | [6–12 December 2018](2018-12-12-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [1–12 December 2018](2018-12-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
-| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25 | 23–25 | 22–26 | 22–26 | 22–27 |
+| [8–10 December 2018](2018-12-10-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [7–9 December 2018](2018-12-09-Forsa.html) | Forsa <br> Stern and RTL | 25 | 24–27 | 24–28 | 24–29 | 23–30 |
 | [3–6 December 2018](2018-12-06-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [3–5 December 2018](2018-12-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 23–27 | 22–27 | 22–27 |
