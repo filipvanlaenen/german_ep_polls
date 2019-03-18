@@ -31,16 +31,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#cdu-(epp)">CDU (EPP)</a> | 29 | 29 | 29 |29 |29 |27–29 |
-| <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 17 | 17 |17 |17 |17 |
-| <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 18 | 18 |18 |18 |17–18 |
-| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 9 | 9 |9 |9 |9–11 |
-| <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 6 | 6 |6 |6 |6 |
-| <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 5 | 5 |5 |5 |5–6 |
-| <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 5 |5 |5 |4–5 |
-| <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 2 | 2 |2 |2 |2 |
-| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
+| <a href="#cdu-(epp)">CDU (EPP)</a> | 29 | 26 | 25–27 |25–27 |24–28 |23–29 |
+| <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 19 | 17–20 |16–20 |16–20 |16–20 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 16 | 16–18 |16–20 |16–20 |15–20 |
+| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 11 | 9–11 |9–11 |9–12 |9–12 |
+| <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 7 | 6–8 |5–8 |5–8 |5–9 |
+| <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 5 | 5–7 |5–7 |5–7 |4–7 |
+| <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–5 |4–5 |4–6 |3–6 |
+| <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
 
 ### CDU (EPP)
 
@@ -50,12 +50,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.3% | 100% |  |
-| 26 | 0.1% | 99.7% |  |
-| 27 | 0.4% | 99.6% |  |
-| 28 | 0% | 99.2% |  |
-| 29 | 99.1% | 99.1% | Last Result, Median |
-| 30 | 0% | 0% |  |
+| 23 | 0.6% | 100% |  |
+| 24 | 3% | 99.4% |  |
+| 25 | 35% | 96% |  |
+| 26 | 15% | 61% | Median |
+| 27 | 43% | 46% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.9% | 1.1% | Last Result |
+| 30 | 0.2% | 0.2% |  |
+| 31 | 0% | 0% |  |
 
 ### SPD (S&D)
 
@@ -65,13 +68,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 99.5% | 99.9% | Median |
-| 18 | 0.3% | 0.4% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 7% | 99.8% |  |
+| 17 | 10% | 93% |  |
+| 18 | 27% | 83% |  |
+| 19 | 42% | 56% | Median |
+| 20 | 13% | 13% |  |
+| 21 | 0.2% | 0.4% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -89,13 +93,15 @@
 | 11 | 0% | 100% | Last Result |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0% | 99.9% |  |
-| 17 | 0.7% | 99.9% |  |
-| 18 | 99.1% | 99.2% | Median |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 2% | 99.8% |  |
+| 16 | 49% | 98% | Median |
+| 17 | 16% | 49% |  |
+| 18 | 24% | 33% |  |
+| 19 | 3% | 10% |  |
+| 20 | 6% | 6% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Alternative für Deutschland (EFDD)
 
@@ -106,13 +112,14 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
-| 8 | 0% | 100% |  |
-| 9 | 99.2% | 100% | Median |
-| 10 | 0% | 0.8% |  |
-| 11 | 0.4% | 0.8% |  |
-| 12 | 0% | 0.4% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 14% | 99.8% |  |
+| 10 | 25% | 86% |  |
+| 11 | 57% | 60% | Median |
+| 12 | 3% | 4% |  |
 | 13 | 0.4% | 0.4% |  |
-| 14 | 0% | 0% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### DIE LINKE (GUE/NGL)
 
@@ -122,10 +129,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 99.6% | 100% | Median |
-| 7 | 0.3% | 0.4% | Last Result |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 5 | 6% | 100% |  |
+| 6 | 14% | 94% |  |
+| 7 | 56% | 80% | Last Result, Median |
+| 8 | 24% | 25% |  |
+| 9 | 0.5% | 0.5% |  |
+| 10 | 0% | 0% |  |
 
 ### FDP (ALDE)
 
@@ -136,11 +145,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 0% | 100% |  |
-| 5 | 99.2% | 100% | Median |
-| 6 | 0.7% | 0.8% |  |
-| 7 | 0% | 0.1% |  |
-| 8 | 0.1% | 0.1% |  |
+| 4 | 2% | 100% |  |
+| 5 | 59% | 98% | Median |
+| 6 | 24% | 39% |  |
+| 7 | 14% | 15% |  |
+| 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 
 ### CSU (EPP)
@@ -151,10 +160,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 0.4% | 99.6% |  |
-| 5 | 99.2% | 99.2% | Last Result, Median |
-| 6 | 0.1% | 0.1% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 40% | 98.8% |  |
+| 5 | 56% | 59% | Last Result, Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
 ### FREIE WÄHLER (ALDE)
@@ -165,9 +174,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% | Last Result |
-| 2 | 99.6% | 99.6% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 88% | 100% | Last Result, Median |
+| 2 | 11% | 12% |  |
+| 3 | 1.0% | 1.0% |  |
+| 4 | 0% | 0% |  |
 
 ### Die PARTEI (NI)
 
@@ -177,9 +187,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 1 | 36% | 100% | Last Result |
+| 2 | 63% | 64% | Median |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
 
@@ -189,9 +200,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 99.2% | 99.7% | Last Result, Median |
-| 2 | 0.5% | 0.5% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 75% | 99.9% | Last Result, Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -203,11 +214,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| CDU (EPP) – CSU (EPP) | 34 | 34 | 0% | 34 | 34 | 34 | 30–34 |
-| SPD (S&D) | 27 | 17 | 0% | 17 | 17 | 17 | 17 |
-| Alternative für Deutschland (EFDD) | 7 | 9 | 0% | 9 | 9 | 9 | 9–11 |
-| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 7 | 0% | 7 | 7 | 7 | 7 |
-| Die PARTEI (NI) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
+| CDU (EPP) – CSU (EPP) | 34 | 31 | 0% | 30–32 | 30–32 | 29–32 | 28–34 |
+| SPD (S&D) | 27 | 19 | 0% | 17–20 | 16–20 | 16–20 | 16–20 |
+| Alternative für Deutschland (EFDD) | 7 | 11 | 0% | 9–11 | 9–11 | 9–12 | 9–12 |
+| FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 6 | 0% | 6–8 | 6–8 | 6–9 | 5–9 |
+| Die PARTEI (NI) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 
 ### CDU (EPP) – CSU (EPP)
 
@@ -215,12 +226,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.3% | 100% |  |
-| 30 | 0.4% | 99.7% |  |
-| 31 | 0% | 99.2% |  |
-| 32 | 0.1% | 99.2% |  |
-| 33 | 0% | 99.1% |  |
-| 34 | 99.1% | 99.1% | Last Result, Median |
+| 27 | 0.1% | 100% |  |
+| 28 | 2% | 99.9% |  |
+| 29 | 2% | 98% |  |
+| 30 | 43% | 95% |  |
+| 31 | 31% | 52% | Median |
+| 32 | 19% | 21% |  |
+| 33 | 0.6% | 2% |  |
+| 34 | 0.9% | 1.0% | Last Result |
 | 35 | 0% | 0% |  |
 
 ### SPD (S&D)
@@ -229,13 +242,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 99.5% | 99.9% | Median |
-| 18 | 0.3% | 0.4% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 7% | 99.8% |  |
+| 17 | 10% | 93% |  |
+| 18 | 27% | 83% |  |
+| 19 | 42% | 56% | Median |
+| 20 | 13% | 13% |  |
+| 21 | 0.2% | 0.4% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -249,13 +263,14 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
-| 8 | 0% | 100% |  |
-| 9 | 99.2% | 100% | Median |
-| 10 | 0% | 0.8% |  |
-| 11 | 0.4% | 0.8% |  |
-| 12 | 0% | 0.4% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 14% | 99.8% |  |
+| 10 | 25% | 86% |  |
+| 11 | 57% | 60% | Median |
+| 12 | 3% | 4% |  |
 | 13 | 0.4% | 0.4% |  |
-| 14 | 0% | 0% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### FDP (ALDE) – FREIE WÄHLER (ALDE)
 
@@ -264,11 +279,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 99.5% | 100% | Median |
-| 8 | 0.4% | 0.5% |  |
-| 9 | 0% | 0.1% |  |
+| 5 | 0.7% | 100% |  |
+| 6 | 55% | 99.3% | Median |
+| 7 | 26% | 45% |  |
+| 8 | 16% | 18% |  |
+| 9 | 3% | 3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
@@ -278,9 +293,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 1 | 36% | 100% | Last Result |
+| 2 | 63% | 64% | Median |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -294,6 +310,6 @@
 ### Calculations
 
 + **Sample size:** 1508
-+ **Simulations done:** 1,024
-+ **Error estimate:** 3.06%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.85%
 
