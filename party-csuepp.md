@@ -324,15 +324,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
-| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5 | 5 | 5 | 4–5 |
+| [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4 | 4 | 4 | 4–7 |
 | [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5 | 4–6 | 4–7 | 4–7 |
 | [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4 | 4 | 4 | 4 |
+| [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -624,9 +624,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 43% | 96% |  |
-| 5 | 42% | 53% | Last Result, Median |
-| 6 | 11% | 11% |  |
+| 4 | 50% | 96% | Median |
+| 5 | 35% | 46% | Last Result |
+| 6 | 11% | 12% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

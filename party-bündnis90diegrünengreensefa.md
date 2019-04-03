@@ -332,14 +332,14 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
-| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 15–19 | 15–21 |
+| [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 20 | 18–20 | 18–20 | 17–21 | 17–22 |
 | [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 17–20 | 17–20 | 17–20 | 15–20 |
-| [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19 | 19 | 15–19 | 15–19 |
+| [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18 | 18 | 18–19 | 18–20 |
 | [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 16–18 | 16–20 | 16–20 | 15–20 |
-| [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16 | 16 | 16 | 16 |
+| [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–19 | 17–19 | 17–20 | 16–20 |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [27 February–1 March 2019](2019-03-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
@@ -633,13 +633,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% | Last Result |
 | 12 | 0% | 100% |  |
 | 13 | 2% | 100% |  |
-| 14 | 6% | 98% |  |
-| 15 | 15% | 92% |  |
-| 16 | 20% | 77% |  |
-| 17 | 18% | 57% | Median |
-| 18 | 11% | 39% |  |
-| 19 | 19% | 28% |  |
-| 20 | 8% | 9% |  |
+| 14 | 7% | 98% |  |
+| 15 | 16% | 91% |  |
+| 16 | 25% | 75% |  |
+| 17 | 18% | 51% | Median |
+| 18 | 14% | 32% |  |
+| 19 | 10% | 18% |  |
+| 20 | 8% | 8% |  |
 | 21 | 0.6% | 0.7% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
