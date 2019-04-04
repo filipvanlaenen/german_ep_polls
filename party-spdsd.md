@@ -312,7 +312,7 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 1.0% | 100% |  |
+| 13.5–14.5% | 1.1% | 100% |  |
 | 14.5–15.5% | 9% | 98.9% |  |
 | 15.5–16.5% | 19% | 90% |  |
 | 16.5–17.5% | 20% | 72% |  |
@@ -336,9 +336,9 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
-| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [21–27 March 2019](2019-03-27-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15–17 | 14–17 | 14–17 | 13–17 |
 | [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 17 | 17–18 | 15–18 | 15–19 |
@@ -639,13 +639,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.4% | 100% |  |
-| 14 | 2% | 99.6% |  |
-| 15 | 16% | 98% |  |
-| 16 | 10% | 82% |  |
-| 17 | 37% | 73% | Median |
-| 18 | 20% | 36% |  |
-| 19 | 13% | 16% |  |
+| 13 | 0.9% | 100% |  |
+| 14 | 4% | 99.1% |  |
+| 15 | 20% | 95% |  |
+| 16 | 13% | 75% |  |
+| 17 | 32% | 62% | Median |
+| 18 | 17% | 30% |  |
+| 19 | 10% | 13% |  |
 | 20 | 3% | 3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
