@@ -332,14 +332,14 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [21–27 March 2019](2019-03-27-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [21–27 March 2019](2019-03-27-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5 | 4–6 | 4–7 | 4–7 |
-| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -632,9 +632,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 53% | 97% | Median |
-| 5 | 40% | 43% | Last Result |
-| 6 | 3% | 3% |  |
+| 4 | 61% | 97% | Median |
+| 5 | 32% | 36% | Last Result |
+| 6 | 4% | 5% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
