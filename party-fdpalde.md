@@ -11,6 +11,9 @@ Last result: **3.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.6% | 6.1–10.1% | 5.7–10.5% | 5.4–10.8% | 4.9–11.4% |
+| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
+| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 10.0% | 8.8–11.3% | 8.5–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.7–9.6% |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 9.4–10.6% | 9.2–10.8% | 9.1–11.0% | 8.8–11.3% |
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.5% | 8.3–11.9% |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.2–8.0% | 6.0–8.3% | 5.8–8.5% | 5.4–9.0% |
@@ -333,6 +336,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
+| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 5–9 | 5–9 | 5–9 | 5–9 |
+| [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 10 | 10 | 10 | 10 | 10 |
+| [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
