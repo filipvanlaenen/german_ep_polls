@@ -335,7 +335,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
-| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 7 | 7 | 7 | 7 | 7 |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9 | 9 | 9–10 | 7–10 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
