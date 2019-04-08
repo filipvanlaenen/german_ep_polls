@@ -334,7 +334,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–10 | 5–10 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
@@ -342,7 +342,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [21–27 March 2019](2019-03-27-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -643,10 +643,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.4% | 100% |  |
 | 5 | 6% | 99.6% |  |
 | 6 | 13% | 94% |  |
-| 7 | 23% | 81% | Last Result |
-| 8 | 29% | 58% | Median |
-| 9 | 26% | 28% |  |
-| 10 | 2% | 2% |  |
+| 7 | 24% | 81% | Last Result |
+| 8 | 28% | 57% | Median |
+| 9 | 26% | 29% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

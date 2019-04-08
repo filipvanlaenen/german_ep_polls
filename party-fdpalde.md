@@ -343,9 +343,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [21–27 March 2019](2019-03-27-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [18–22 March 2019](2019-03-22-Forsa.html) | Forsa <br> Stern and RTL | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 9 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8 | 6–8 | 6–8 | 5–8 | 5–8 |
@@ -645,10 +645,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.2% | 100% |  |
 | 5 | 7% | 99.8% |  |
 | 6 | 13% | 93% |  |
-| 7 | 12% | 80% |  |
-| 8 | 30% | 68% | Median |
-| 9 | 23% | 38% |  |
-| 10 | 13% | 15% |  |
+| 7 | 13% | 80% |  |
+| 8 | 30% | 67% | Median |
+| 9 | 24% | 37% |  |
+| 10 | 12% | 14% |  |
 | 11 | 1.4% | 1.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
