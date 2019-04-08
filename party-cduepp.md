@@ -341,7 +341,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
-| [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 25–26 | 24–26 | 24–26 | 23–27 |
+| [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–26 | 24–26 | 24–27 | 23–27 |
 | [28 March–1 April 2019](2019-04-01-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 22–23 | 21–24 | 21–24 | 21–24 |
 | [25–29 March 2019](2019-03-29-Forsa.html) | Forsa <br> Stern and RTL | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [25–27 March 2019](2019-03-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
