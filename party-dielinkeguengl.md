@@ -348,7 +348,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [14–20 March 2019](2019-03-20-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [11–15 March 2019](2019-03-15-Forsa.html) | Forsa <br> Stern and RTL | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [12–14 March 2019](2019-03-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [11–13 March 2019](2019-03-13-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [7–13 March 2019](2019-03-13-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–10 | 7–10 | 7–11 |
 | [4–8 March 2019](2019-03-08-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [28 February–6 March 2019](2019-03-06-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
@@ -642,8 +642,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
 | 5 | 6% | 99.6% |  |
-| 6 | 13% | 94% |  |
-| 7 | 24% | 81% | Last Result |
+| 6 | 15% | 94% |  |
+| 7 | 22% | 79% | Last Result |
 | 8 | 28% | 57% | Median |
 | 9 | 26% | 29% |  |
 | 10 | 3% | 3% |  |
