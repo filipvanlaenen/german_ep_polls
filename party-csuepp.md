@@ -336,9 +336,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
-| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4 | 4 | 4 | 4 |
-| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5 | 5 | 4–5 | 4–6 |
+| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
