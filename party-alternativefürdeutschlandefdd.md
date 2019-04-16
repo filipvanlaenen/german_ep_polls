@@ -10,7 +10,7 @@ Last result: **7.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.8% | 10.0–13.3% | 9.6–13.6% | 9.2–13.9% | 8.6–14.5% |
+| N/A | [Poll Average](average.html) | 12.0% | 10.1–14.0% | 9.6–14.5% | 9.2–14.9% | 8.6–15.6% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10.0% | 9.0–11.1% | 8.7–11.5% | 8.5–11.8% | 8.0–12.3% |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.7% |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | 13.1–15.1% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
@@ -319,15 +319,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 4% | 99.6% |  |
-| 9.5–10.5% | 13% | 95% |  |
-| 10.5–11.5% | 24% | 82% |  |
-| 11.5–12.5% | 31% | 58% | Median |
-| 12.5–13.5% | 21% | 27% |  |
-| 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.5% | 100% |  |
+| 8.5–9.5% | 4% | 99.5% |  |
+| 9.5–10.5% | 11% | 95% |  |
+| 10.5–11.5% | 21% | 84% |  |
+| 11.5–12.5% | 28% | 63% | Median |
+| 12.5–13.5% | 19% | 35% |  |
+| 13.5–14.5% | 12% | 17% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.6% | 0.6% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -338,10 +339,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 11–12 | 11–12 | 11–13 | 10–13 |
-| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
@@ -649,13 +650,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
-| 8 | 2% | 100% |  |
-| 9 | 9% | 98% |  |
-| 10 | 17% | 89% |  |
-| 11 | 32% | 73% | Median |
-| 12 | 27% | 41% |  |
-| 13 | 13% | 14% |  |
-| 14 | 1.3% | 1.3% |  |
-| 15 | 0% | 0% |  |
+| 8 | 1.1% | 100% |  |
+| 9 | 7% | 98.8% |  |
+| 10 | 15% | 91% |  |
+| 11 | 32% | 77% | Median |
+| 12 | 23% | 45% |  |
+| 13 | 16% | 22% |  |
+| 14 | 5% | 6% |  |
+| 15 | 0.8% | 0.9% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
