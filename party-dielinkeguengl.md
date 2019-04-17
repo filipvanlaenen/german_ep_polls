@@ -340,7 +340,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 5–10 | 5–11 |
-| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
@@ -649,10 +649,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 3% | 99.9% |  |
-| 6 | 13% | 97% |  |
-| 7 | 18% | 84% | Last Result |
+| 4 | 0.3% | 100% |  |
+| 5 | 3% | 99.7% |  |
+| 6 | 10% | 97% |  |
+| 7 | 21% | 87% | Last Result |
 | 8 | 32% | 66% | Median |
 | 9 | 29% | 34% |  |
 | 10 | 4% | 5% |  |
