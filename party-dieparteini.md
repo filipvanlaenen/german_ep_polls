@@ -10,11 +10,11 @@ Last result: **0.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.9% | 0.6–2.0% | 0.5–2.2% | 0.4–2.5% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% | 0.4–2.5% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.0–2.4% | 0.9–2.7% |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1.2% | 0.9–1.5% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | N/A | N/A | N/A | N/A |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
@@ -319,9 +319,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 75% | 97% | Last Result, Median |
-| 1.5–2.5% | 21% | 22% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 78% | 97% | Last Result, Median |
+| 1.5–2.5% | 19% | 19% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -335,9 +335,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1–2 | 1–2 |
+| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 1 | 1 | 0–1 | 0–1 |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 0–2 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
@@ -644,8 +644,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
-| 1 | 79% | 97% | Last Result, Median |
-| 2 | 18% | 18% |  |
+| 1 | 81% | 97% | Last Result, Median |
+| 2 | 16% | 17% |  |
 | 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 

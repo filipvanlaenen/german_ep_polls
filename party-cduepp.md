@@ -10,11 +10,11 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.5–27.4% | 22.9–28.0% | 22.5–28.5% | 21.8–29.5% |
+| N/A | [Poll Average](average.html) | 25.3% | 23.5–27.2% | 23.0–27.9% | 22.5–28.4% | 21.8–29.4% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.1% | 25.6–28.8% | 25.1–29.2% | 24.8–29.7% | 24.1–30.5% |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 25.5% | 24.4–26.6% | 24.1–26.9% | 23.8–27.2% | 23.3–27.8% |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23.5% | 22.3–24.7% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | N/A | N/A | N/A | N/A |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | 23.4–26.0% | 23.0–26.3% | 22.7–26.7% | 22.1–27.3% |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 25.5% | 24.1–27.0% | 23.7–27.4% | 23.3–27.8% | 22.7–28.5% |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 25.4% | 23.7–27.3% | 23.2–27.8% | 22.8–28.2% | 22.0–29.1% |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 26.3% | 25.2–27.5% | 24.9–27.9% | 24.6–28.2% | 24.0–28.7% |
@@ -319,17 +319,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
 | 21.5–22.5% | 2% | 99.7% |  |
 | 22.5–23.5% | 8% | 97% |  |
-| 23.5–24.5% | 16% | 89% |  |
-| 24.5–25.5% | 26% | 73% | Median |
-| 25.5–26.5% | 25% | 47% |  |
-| 26.5–27.5% | 14% | 22% |  |
-| 27.5–28.5% | 6% | 8% |  |
+| 23.5–24.5% | 18% | 89% |  |
+| 24.5–25.5% | 27% | 71% | Median |
+| 25.5–26.5% | 24% | 44% |  |
+| 26.5–27.5% | 13% | 20% |  |
+| 27.5–28.5% | 5% | 7% |  |
 | 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% | Last Result |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0.4% | 0.4% | Last Result |
+| 30.5–31.5% | 0% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -343,9 +343,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
-| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 23–25 | 23–26 | 23–26 | 22–26 |
+| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | 23 | 23–24 | 22–25 | 22–25 | 21–26 |
 | [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | [28 March–3 April 2019](2019-04-03-Emnid.html) | Emnid <br> Bild am Sonntag | 25 | 24–26 | 24–26 | 24–27 | 23–27 |
@@ -653,14 +653,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
-| 22 | 11% | 98% |  |
-| 23 | 17% | 87% |  |
-| 24 | 25% | 70% | Median |
-| 25 | 23% | 45% |  |
-| 26 | 14% | 22% |  |
-| 27 | 8% | 9% |  |
-| 28 | 0.7% | 1.0% |  |
-| 29 | 0.3% | 0.3% | Last Result |
+| 22 | 10% | 98% |  |
+| 23 | 21% | 87% |  |
+| 24 | 27% | 66% | Median |
+| 25 | 19% | 39% |  |
+| 26 | 13% | 20% |  |
+| 27 | 7% | 8% |  |
+| 28 | 0.6% | 0.9% |  |
+| 29 | 0.2% | 0.3% | Last Result |
 | 30 | 0% | 0% |  |
 
 
