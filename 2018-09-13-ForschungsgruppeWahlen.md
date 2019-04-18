@@ -13,7 +13,7 @@
 | CDU (EPP) | 30.0% | 25.5% | 24.0–27.0% |23.6–27.5% |23.2–27.9% |22.5–28.6% |
 | SPD (S&D) | 27.3% | 20.0% | 18.7–21.5% |18.3–21.9% |18.0–22.3% |17.3–23.0% |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | 10.7% | 16.0% | 14.8–17.3% |14.4–17.7% |14.1–18.0% |13.5–18.7% |
-| Alternative für Deutschland (EFDD) | 7.0% | 15.0% | 13.8–16.3% |13.5–16.7% |13.2–17.0% |12.6–17.7% |
+| Alternative für Deutschland (EAPN) | 7.0% | 15.0% | 13.8–16.3% |13.5–16.7% |13.2–17.0% |12.6–17.7% |
 | DIE LINKE (GUE/NGL) | 7.4% | 8.0% | 7.1–9.0% |6.9–9.3% |6.6–9.6% |6.2–10.1% |
 | FDP (ALDE) | 3.4% | 7.0% | 6.2–8.0% |6.0–8.3% |5.8–8.5% |5.4–9.0% |
 | CSU (EPP) | 5.3% | 4.6% | 3.9–5.4% |3.7–5.6% |3.6–5.8% |3.3–6.2% |
@@ -34,7 +34,7 @@
 | <a href="#cdu-(epp)">CDU (EPP)</a> | 29 | 25 | 23–26 |23–26 |22–27 |22–27 |
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 19 | 18–20 |18–21 |17–21 |17–22 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 15 | 14–16 |14–16 |14–17 |13–18 |
-| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 14 | 14–15 |13–15 |13–16 |12–17 |
+| <a href="#alternative-für-deutschland-(eapn)">Alternative für Deutschland (EAPN)</a> | 7 | 14 | 14–15 |13–15 |13–16 |12–17 |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 8 | 7–9 |6–9 |6–9 |6–9 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 6 | 6–8 |6–8 |6–8 |5–8 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 5 | 4–5 |4–5 |3–5 |3–6 |
@@ -100,11 +100,11 @@
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
-### Alternative für Deutschland (EFDD)
+### Alternative für Deutschland (EAPN)
 
-*For a full overview of the results for this party, see the [Alternative für Deutschland (EFDD)](party-alternativefürdeutschlandefdd.html) page.*
+*For a full overview of the results for this party, see the [Alternative für Deutschland (EAPN)](party-alternativefürdeutschlandeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-09-13-ForschungsgruppeWahlen-seats-pmf-alternativefürdeutschlandefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-09-13-ForschungsgruppeWahlen-seats-pmf-alternativefürdeutschlandeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -217,7 +217,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | CDU (EPP) – CSU (EPP) | 34 | 29 | 0% | 28–30 | 27–31 | 26–32 | 26–32 |
 | SPD (S&D) | 27 | 19 | 0% | 18–20 | 18–21 | 17–21 | 17–22 |
-| Alternative für Deutschland (EFDD) | 7 | 14 | 0% | 14–15 | 13–15 | 13–16 | 12–17 |
+| Alternative für Deutschland (EAPN) | 7 | 14 | 0% | 14–15 | 13–15 | 13–16 | 12–17 |
 | FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 7 | 0% | 7–9 | 7–9 | 6–9 | 6–9 |
 | Die PARTEI (NI) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -257,7 +257,7 @@
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% | Last Result |
 
-### Alternative für Deutschland (EFDD)
+### Alternative für Deutschland (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2018-09-13-ForschungsgruppeWahlen-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
 
