@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPD:** SPD (S&D)
 + **GRÜNEN:** BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 + **LINKE:** DIE LINKE (GUE/NGL)
-+ **AfD:** Alternative für Deutschland (EFDD)
++ **AfD:** Alternative für Deutschland (EAPN)
 + **CSU:** CSU (EPP)
 + **FDP:** FDP (ALDE)
 + **FW:** FREIE WÄHLER (ALDE)
@@ -51,7 +51,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27.3% | 16.9% | 14.9–18.8% |14.4–19.3% | 14.0–19.7% | 13.1–20.5% |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 10.7% | 18.6% | 16.7–20.4% |16.2–20.8% | 15.9–21.2% | 15.3–21.9% |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7.4% | 8.4% | 6.3–9.6% |5.8–9.9% | 5.5–10.2% | 5.0–10.9% |
-| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7.0% | 12.0% | 10.2–13.9% |9.7–14.5% | 9.3–14.9% | 8.6–15.6% |
+| <a href="#alternative-für-deutschland-(eapn)">Alternative für Deutschland (EAPN)</a> | 7.0% | 12.0% | 10.2–13.9% |9.7–14.5% | 9.3–14.9% | 8.6–15.6% |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5.3% | 4.7% | 3.9–5.6% |3.8–5.9% | 3.6–6.1% | 3.3–6.5% |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3.4% | 9.0% | 6.9–10.5% |6.5–10.9% | 6.2–11.2% | 5.7–11.9% |
 | <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1.5% | 1.1% | 0.7–1.8% |0.6–2.1% | 0.6–2.2% | 0.4–2.6% |
@@ -142,9 +142,9 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
-### Alternative für Deutschland (EFDD)
+### Alternative für Deutschland (EAPN)
 
-*For a full overview of the results for this party, see the [Alternative für Deutschland (EFDD)](party-alternativefürdeutschlandefdd.html) page.*
+*For a full overview of the results for this party, see the [Alternative für Deutschland (EAPN)](party-alternativefürdeutschlandeapn.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -242,7 +242,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#spd-(s&d)">SPD (S&D)</a> | 27 | 16 | 14–18 |14–18 | 13–19 | 12–20 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)</a> | 11 | 18 | 16–19 |16–20 | 15–20 | 15–21 |
 | <a href="#die-linke-(gue/ngl)">DIE LINKE (GUE/NGL)</a> | 7 | 8 | 6–9 |6–9 | 5–10 | 5–10 |
-| <a href="#alternative-für-deutschland-(efdd)">Alternative für Deutschland (EFDD)</a> | 7 | 11 | 10–13 |9–13 | 9–14 | 8–15 |
+| <a href="#alternative-für-deutschland-(eapn)">Alternative für Deutschland (EAPN)</a> | 7 | 11 | 10–13 |9–13 | 9–14 | 8–15 |
 | <a href="#csu-(epp)">CSU (EPP)</a> | 5 | 4 | 4–5 |4–6 | 4–6 | 3–6 |
 | <a href="#fdp-(alde)">FDP (ALDE)</a> | 3 | 9 | 7–10 |6–10 | 6–11 | 5–11 |
 | <a href="#freie-wähler-(alde)">FREIE WÄHLER (ALDE)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
@@ -335,11 +335,11 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.5% | 0.5% |  |
 | 12 | 0% | 0% |  |
 
-### Alternative für Deutschland (EFDD)
+### Alternative für Deutschland (EAPN)
 
-*For a full overview of the results for this party, see the [Alternative für Deutschland (EFDD)](party-alternativefürdeutschlandefdd.html) page.*
+*For a full overview of the results for this party, see the [Alternative für Deutschland (EAPN)](party-alternativefürdeutschlandeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativefürdeutschlandefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativefürdeutschlandeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -442,7 +442,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | CDU (EPP) – CSU (EPP) | 34 | 29 | 0% | 27–31 | 26–31 | 26–32 | 26–33 |
 | SPD (S&D) | 27 | 16 | 0% | 14–18 | 14–18 | 13–19 | 12–20 |
-| Alternative für Deutschland (EFDD) | 7 | 11 | 0% | 10–13 | 9–13 | 9–14 | 8–15 |
+| Alternative für Deutschland (EAPN) | 7 | 11 | 0% | 10–13 | 9–13 | 9–14 | 8–15 |
 | FDP (ALDE) – FREIE WÄHLER (ALDE) | 4 | 10 | 0% | 8–11 | 8–11 | 7–12 | 7–12 |
 | Die PARTEI (NI) | 1 | 1 | 0% | 1–2 | 1–2 | 0–2 | 0–2 |
 
@@ -487,7 +487,7 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% | Last Result |
 
-### Alternative für Deutschland (EFDD)
+### Alternative für Deutschland (EAPN)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
 
