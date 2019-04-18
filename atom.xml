@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-15T21:42:03.334331+02:00</updated>
+  <updated>2019-04-18T12:25:35.090627+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 24.8–29.7%, 24–28 seats</li><li>SPD (S&amp;D): 16.0–20.2%, 15–20 seats</li><li>Alternative für Deutschland (EFDD): 8.5–11.8%, 8–11 seats</li><li>FDP (ALDE): 5.7–8.6%, 5–8 seats</li><li>DIE LINKE (GUE/NGL): 4.8–7.5%, 5–7 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.0–21.3%, 16–20 seats</li><li>CSU (EPP): 3.8–6.2%, 4–6 seats</li><li>FREIE WÄHLER (ALDE): 1.0–2.4%, 1–2 seats</li><li>Die PARTEI (NI): 1.0–2.4%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.8–2.1%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-11-ForschungsgruppeWahlen.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-04-11-ForschungsgruppeWahlen.html"/>
+    <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 9–11 April 2019</title>
+    <updated>2019-04-18T12:25:35.090627+02:00</updated>
+    <dc:date>2019-04-18T12:25:35.090627+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 21.7–25.4%, 21–24 seats</li><li>SPD (S&amp;D): 14.0–17.1%, 13–16 seats</li><li>Alternative für Deutschland (EFDD): 12.6–15.6%, 12–15 seats</li><li>FDP (ALDE): 8.8–11.4%, 9–11 seats</li><li>DIE LINKE (GUE/NGL): 7.3–9.8%, 7–9 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.4–20.8%, 16–20 seats</li><li>CSU (EPP): 4.6–6.6%, 5–6 seats</li><li>FREIE WÄHLER (ALDE): 0.5–1.3%, 0–1 seats</li><li>Die PARTEI (NI): 0.5–1.3%, 0–1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-08-INSAandYouGov.html</id>
@@ -2191,5 +2199,5 @@
     <updated>2018-10-08T20:53:17.526447+02:00</updated>
     <dc:date>2018-10-08T20:53:17.526447+02:00</dc:date>
   </entry>
-  <dc:date>2019-04-15T21:42:03.334331+02:00</dc:date>
+  <dc:date>2019-04-18T12:25:35.090627+02:00</dc:date>
 </feed>
