@@ -316,7 +316,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPD:** SPD (S&D)
 + **GRÜNEN:** BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 + **LINKE:** DIE LINKE (GUE/NGL)
-+ **AfD:** Alternative für Deutschland (EFDD)
++ **AfD:** Alternative für Deutschland (EAPN)
 + **CSU:** CSU (EPP)
 + **FDP:** FDP (ALDE)
 + **FW:** FREIE WÄHLER (ALDE)
