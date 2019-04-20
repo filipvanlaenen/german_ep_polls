@@ -347,9 +347,9 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 14–19 | 13–19 | 12–20 |
-| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–16 | 15–17 | 14–17 | 13–17 |
-| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 18–19 | 17–19 | 17–19 | 15–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16–17 | 15–18 | 15–18 | 14–18 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
@@ -661,14 +661,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.6% | 100% |  |
 | 13 | 4% | 99.3% |  |
-| 14 | 9% | 95% |  |
-| 15 | 19% | 87% |  |
-| 16 | 22% | 68% | Median |
-| 17 | 25% | 46% |  |
-| 18 | 10% | 22% |  |
-| 19 | 11% | 12% |  |
-| 20 | 0.7% | 0.7% |  |
-| 21 | 0% | 0% |  |
+| 14 | 10% | 95% |  |
+| 15 | 19% | 86% |  |
+| 16 | 21% | 67% | Median |
+| 17 | 26% | 46% |  |
+| 18 | 10% | 20% |  |
+| 19 | 9% | 10% |  |
+| 20 | 0.9% | 0.9% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
