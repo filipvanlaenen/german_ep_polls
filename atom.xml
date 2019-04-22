@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-18T15:26:35.570477+02:00</updated>
+  <updated>2019-04-22T14:58:40.791167+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 22.7–26.6%, 22–26 seats</li><li>SPD (S&amp;D): 14.4–17.7%, 14–17 seats</li><li>Alternative für Deutschland (EAPN): 10.6–13.5%, 10–13 seats</li><li>FDP (ALDE): 8.7–11.4%, 8–11 seats</li><li>DIE LINKE (GUE/NGL): 6.9–9.3%, 7–9 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.3–20.8%, 17–20 seats</li><li>CSU (EPP): 3.5–5.4%, 3–5 seats</li><li>FREIE WÄHLER (ALDE): 0.8–1.8%, 1–2 seats</li><li>Die PARTEI (NI): 0.8–1.8%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.5%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-12-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-04-12-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 8–12 April 2019</title>
+    <updated>2019-04-22T14:17:15.218173+02:00</updated>
+    <dc:date>2019-04-22T14:17:15.218173+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 23.2–27.9%, 22–26 seats</li><li>SPD (S&amp;D): 16.4–20.7%, 16–19 seats</li><li>Alternative für Deutschland (EAPN): 10.8–14.4%, 10–14 seats</li><li>FDP (ALDE): 7.5–10.7%, 7–10 seats</li><li>DIE LINKE (GUE/NGL): 6.6–9.6%, 6–9 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 16.0–20.2%, 15–19 seats</li><li>CSU (EPP): 3.5–5.8%, 3–5 seats</li><li>FREIE WÄHLER (ALDE): 0.4–1.4%, 0–1 seats</li><li>Die PARTEI (NI): 0.4–1.4%, 0–1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.2%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-12-Allensbach.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-04-12-Allensbach.html"/>
+    <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 1–12 April 2019</title>
+    <updated>2019-04-22T14:58:40.791167+02:00</updated>
+    <dc:date>2019-04-22T14:58:40.791167+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 24.8–29.7%, 24–28 seats</li><li>SPD (S&amp;D): 16.0–20.2%, 15–20 seats</li><li>Alternative für Deutschland (EAPN): 8.5–11.8%, 8–11 seats</li><li>FDP (ALDE): 5.7–8.6%, 5–8 seats</li><li>DIE LINKE (GUE/NGL): 4.8–7.5%, 5–7 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.0–21.3%, 16–20 seats</li><li>CSU (EPP): 3.8–6.2%, 4–6 seats</li><li>FREIE WÄHLER (ALDE): 1.0–2.4%, 1–2 seats</li><li>Die PARTEI (NI): 1.0–2.4%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.8–2.1%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-11-ForschungsgruppeWahlen.html</id>
@@ -2215,5 +2231,5 @@
     <updated>2018-10-08T20:53:17.526447+02:00</updated>
     <dc:date>2018-10-08T20:53:17.526447+02:00</dc:date>
   </entry>
-  <dc:date>2019-04-18T15:26:35.570477+02:00</dc:date>
+  <dc:date>2019-04-22T14:58:40.791167+02:00</dc:date>
 </feed>
