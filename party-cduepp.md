@@ -344,8 +344,8 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
-| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
-| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–25 | 22–25 | 22–26 | 21–26 |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
 | [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
@@ -658,10 +658,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
 | 22 | 12% | 98% |  |
-| 23 | 19% | 86% |  |
-| 24 | 31% | 67% | Median |
-| 25 | 16% | 35% |  |
-| 26 | 12% | 19% |  |
+| 23 | 21% | 86% |  |
+| 24 | 28% | 65% | Median |
+| 25 | 17% | 37% |  |
+| 26 | 13% | 20% |  |
 | 27 | 7% | 8% |  |
 | 28 | 0.6% | 0.9% |  |
 | 29 | 0.2% | 0.3% | Last Result |
