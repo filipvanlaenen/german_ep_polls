@@ -10,9 +10,11 @@ Last result: **7.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 6.3–9.5% | 5.8–9.9% | 5.5–10.2% | 5.0–10.8% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.2–9.6% | 5.8–9.9% | 5.4–10.2% | 4.9–10.9% |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10.0% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.7% |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | N/A | N/A | N/A | N/A |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.2–10.1% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.9% |
@@ -325,12 +327,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 10% | 97% |  |
-| 6.5–7.5% | 17% | 87% | Last Result |
-| 7.5–8.5% | 31% | 71% | Median |
-| 8.5–9.5% | 30% | 40% |  |
+| 5.5–6.5% | 11% | 97% |  |
+| 6.5–7.5% | 18% | 85% | Last Result |
+| 7.5–8.5% | 28% | 67% | Median |
+| 8.5–9.5% | 28% | 39% |  |
 | 9.5–10.5% | 9% | 10% |  |
-| 10.5–11.5% | 1.0% | 1.0% |  |
+| 10.5–11.5% | 1.1% | 1.2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -343,9 +345,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
-| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 11 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 5–10 | 5–11 |
+| [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -658,13 +662,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 3% | 99.8% |  |
-| 6 | 12% | 96% |  |
-| 7 | 25% | 84% | Last Result |
-| 8 | 31% | 60% | Median |
-| 9 | 25% | 29% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.5% | 0.5% |  |
+| 5 | 4% | 99.8% |  |
+| 6 | 14% | 96% |  |
+| 7 | 27% | 82% | Last Result |
+| 8 | 26% | 55% | Median |
+| 9 | 24% | 29% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.5% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 
