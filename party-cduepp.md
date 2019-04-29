@@ -14,7 +14,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 23.8% | 22.4–25.2% | 22.1–25.6% | 21.7–26.0% | 21.1–26.7% |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 23.8% | 22.7–24.9% | 22.5–25.1% | 22.2–25.4% | 21.7–25.9% |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | 23.9–26.4% | 23.5–26.7% | 23.2–27.1% | 22.6–27.7% |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | 23.9–26.4% | 23.5–26.7% | 23.2–27.0% | 22.7–27.6% |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | 23.4–25.9% | 23.0–26.3% | 22.7–26.6% | 22.1–27.3% |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 25.4% | 23.9–27.0% | 23.5–27.5% | 23.2–27.9% | 22.4–28.7% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.1% | 25.6–28.8% | 25.1–29.2% | 24.8–29.7% | 24.1–30.5% |
@@ -329,7 +329,7 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 4% | 99.4% |  |
 | 23.5–24.5% | 17% | 95% |  |
 | 24.5–25.5% | 30% | 78% | Median |
-| 25.5–26.5% | 27% | 47% |  |
+| 25.5–26.5% | 27% | 48% |  |
 | 26.5–27.5% | 13% | 21% |  |
 | 27.5–28.5% | 5% | 7% |  |
 | 28.5–29.5% | 2% | 2% |  |
@@ -350,7 +350,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 21–25 | 20–26 | 20–27 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 23 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
@@ -662,15 +662,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.6% | 100% |  |
-| 22 | 5% | 99.3% |  |
+| 21 | 0.8% | 100% |  |
+| 22 | 6% | 99.2% |  |
 | 23 | 20% | 94% |  |
-| 24 | 31% | 74% | Median |
-| 25 | 19% | 42% |  |
-| 26 | 14% | 23% |  |
-| 27 | 8% | 9% |  |
-| 28 | 0.7% | 1.0% |  |
-| 29 | 0.3% | 0.3% | Last Result |
+| 24 | 35% | 74% | Median |
+| 25 | 18% | 39% |  |
+| 26 | 13% | 21% |  |
+| 27 | 7% | 8% |  |
+| 28 | 0.6% | 0.9% |  |
+| 29 | 0.2% | 0.3% | Last Result |
 | 30 | 0% | 0% |  |
 
 
