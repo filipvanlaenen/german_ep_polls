@@ -10,11 +10,11 @@ Last result: **30.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 24.0–27.4% | 23.6–28.0% | 23.2–28.5% | 22.5–29.5% |
+| N/A | [Poll Average](average.html) | 25.5% | 24.0–27.3% | 23.6–27.9% | 23.2–28.4% | 22.5–29.4% |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 23.8% | 22.4–25.2% | 22.1–25.6% | 21.7–26.0% | 21.1–26.7% |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 23.8% | 22.7–24.9% | 22.5–25.1% | 22.2–25.4% | 21.7–25.9% |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | N/A | N/A | N/A | N/A |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 25.1% | 23.9–26.4% | 23.5–26.7% | 23.2–27.1% | 22.6–27.7% |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | 23.4–25.9% | 23.0–26.3% | 22.7–26.6% | 22.1–27.3% |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 25.4% | 23.9–27.0% | 23.5–27.5% | 23.2–27.9% | 22.4–28.7% |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.1% | 25.6–28.8% | 25.1–29.2% | 24.8–29.7% | 24.1–30.5% |
@@ -327,14 +327,14 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.6% | 100% |  |
 | 22.5–23.5% | 4% | 99.4% |  |
-| 23.5–24.5% | 16% | 95% |  |
-| 24.5–25.5% | 29% | 79% |  |
-| 25.5–26.5% | 27% | 50% | Median |
-| 26.5–27.5% | 14% | 23% |  |
-| 27.5–28.5% | 6% | 8% |  |
+| 23.5–24.5% | 17% | 95% |  |
+| 24.5–25.5% | 30% | 78% | Median |
+| 25.5–26.5% | 27% | 47% |  |
+| 26.5–27.5% | 13% | 21% |  |
+| 27.5–28.5% | 5% | 7% |  |
 | 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% | Last Result |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0.4% | 0.4% | Last Result |
+| 30.5–31.5% | 0% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
