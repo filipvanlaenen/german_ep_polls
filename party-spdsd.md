@@ -354,8 +354,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
-| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 15–17 | 15–17 | 14–17 | 12–17 |
-| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–16 | 15–16 | 14–16 | 14–16 |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16–17 | 15–17 | 14–18 | 14–19 |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
