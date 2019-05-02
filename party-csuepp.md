@@ -343,13 +343,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11–17 April 2019](2019-04-17-Emnid.html) | Emnid <br> Bild am Sonntag | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [12–15 April 2019](2019-04-15-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [8–12 April 2019](2019-04-12-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -662,9 +662,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 47% | 97% | Median |
-| 5 | 43% | 50% | Last Result |
-| 6 | 7% | 7% |  |
+| 4 | 47% | 97% |  |
+| 5 | 46% | 50% | Last Result, Median |
+| 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
