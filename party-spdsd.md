@@ -12,6 +12,7 @@ Last result: **27.3%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.9% | 14.9–18.9% | 14.4–19.4% | 14.0–19.8% | 13.1–20.6% |
 | [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16.2% | 15.1–17.3% | 14.8–17.6% | 14.6–17.8% | 14.1–18.4% |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 17.0% | N/A | N/A | N/A | N/A |
 | [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 17.0% | 15.8–18.4% | 15.5–18.7% | 15.2–19.1% | 14.6–19.7% |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 17.0% | 15.8–18.3% | 15.5–18.6% | 15.2–18.9% | 14.6–19.6% |
@@ -355,6 +356,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
 | [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [15–18 April 2019](2019-04-18-Forsa.html) | Forsa <br> Stern and RTL | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
