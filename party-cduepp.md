@@ -352,7 +352,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 23 | 22–25 | 22–25 | 22–26 | 21–26 |
-| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22 | 21–22 | 21–23 | 20–23 | 20–24 |
 | [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [18–24 April 2019](2019-04-24-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [18–21 April 2019](2019-04-21-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 21–25 | 20–26 | 20–27 |
