@@ -10,7 +10,7 @@ Last result: **3.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 6.9–10.4% | 6.5–10.8% | 6.2–11.1% | 5.7–11.9% |
+| N/A | [Poll Average](average.html) | 8.8% | 6.8–10.4% | 6.5–10.8% | 6.2–11.1% | 5.7–11.8% |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.8% |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
@@ -334,10 +334,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 6% | 99.8% |  |
-| 6.5–7.5% | 14% | 94% |  |
-| 7.5–8.5% | 18% | 80% |  |
-| 8.5–9.5% | 34% | 63% | Median |
-| 9.5–10.5% | 21% | 29% |  |
+| 6.5–7.5% | 17% | 94% |  |
+| 7.5–8.5% | 22% | 77% |  |
+| 8.5–9.5% | 28% | 56% | Median |
+| 9.5–10.5% | 20% | 27% |  |
 | 10.5–11.5% | 6% | 7% |  |
 | 11.5–12.5% | 0.9% | 1.0% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
@@ -352,7 +352,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 8–9 | 8–10 | 7–10 | 7–11 |
@@ -677,11 +677,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 0.6% | 100% |  |
-| 6 | 8% | 99.4% |  |
-| 7 | 15% | 91% |  |
-| 8 | 26% | 76% |  |
-| 9 | 32% | 51% | Median |
-| 10 | 17% | 19% |  |
+| 6 | 7% | 99.4% |  |
+| 7 | 21% | 93% |  |
+| 8 | 31% | 71% | Median |
+| 9 | 23% | 40% |  |
+| 10 | 16% | 18% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
