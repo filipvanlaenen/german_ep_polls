@@ -349,9 +349,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1 |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [2–8 May 2019](2019-05-08-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 1 | 1 | 1 | 1 | 0–2 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 1 | 1 | 1 | 0–1 | 0–1 |
