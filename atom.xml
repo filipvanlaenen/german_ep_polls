@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-05T21:11:19.463907+02:00</updated>
+  <updated>2019-05-10T20:20:29.855273+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 22.1–27.4%, 21–26 seats</li><li>SPD (S&amp;D): 14.8–19.4%, 14–18 seats</li><li>Alternative für Deutschland (EAPN): 11.1–15.3%, 10–14 seats</li><li>FDP (ALDE): 6.4–9.8%, 6–9 seats</li><li>DIE LINKE (GUE/NGL): 7.4–11.0%, 7–11 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 16.7–21.5%, 16–20 seats</li><li>CSU (EPP): 3.3–5.8%, 3–5 seats</li><li>FREIE WÄHLER (ALDE): 0.5–1.8%, 1–2 seats</li><li>Die PARTEI (NI): 0.5–1.8%, 0–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-08-GMS.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-05-08-GMS.html"/>
+    <title>Opinion Poll by GMS, 2–8 May 2019</title>
+    <updated>2019-05-10T20:20:29.855273+02:00</updated>
+    <dc:date>2019-05-10T20:20:29.855273+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 22.5–26.9%, 22–25 seats</li><li>SPD (S&amp;D): 17.1–21.1%, 16–20 seats</li><li>Alternative für Deutschland (EAPN): 8.6–11.7%, 8–11 seats</li><li>FDP (ALDE): 5.8–8.4%, 6–8 seats</li><li>DIE LINKE (GUE/NGL): 5.8–8.4%, 6–8 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.1–21.1%, 16–20 seats</li><li>CSU (EPP): 3.5–5.5%, 3–5 seats</li><li>FREIE WÄHLER (ALDE): 1.2–2.6%, 1–3 seats</li><li>Die PARTEI (NI): 1.2–2.5%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 1.0–2.2%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2019-04-30-Infratestdimap.html</id>
@@ -2311,5 +2319,5 @@
     <updated>2018-10-08T20:53:17.526447+02:00</updated>
     <dc:date>2018-10-08T20:53:17.526447+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-05T21:11:19.463907+02:00</dc:date>
+  <dc:date>2019-05-10T20:20:29.855273+02:00</dc:date>
 </feed>
