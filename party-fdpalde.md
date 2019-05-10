@@ -12,8 +12,8 @@ Last result: **3.4%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.8% | 6.8–10.4% | 6.5–10.8% | 6.2–11.1% | 5.7–11.8% |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | N/A | N/A | N/A | N/A |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | N/A | N/A | N/A | N/A |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9.0% | 8.2–9.8% | 8.0–10.0% | 7.8–10.3% | 7.5–10.7% |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.8% |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.4% | 7.4–10.8% |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
@@ -357,8 +357,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 8 | 8 | 8 | 8 | 8 |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 10 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 8 | 8–9 | 8–10 | 7–10 | 7–11 |

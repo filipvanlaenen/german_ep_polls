@@ -12,8 +12,8 @@ Last result: **10.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.7% | 16.9–20.3% | 16.4–20.8% | 16.0–21.2% | 15.3–22.0% |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 19.0% | 17.5–20.7% | 17.0–21.1% | 16.7–21.5% | 16.0–22.3% |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19.9% | N/A | N/A | N/A | N/A |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 20.0% | N/A | N/A | N/A | N/A |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19.9% | 18.8–21.1% | 18.5–21.4% | 18.2–21.7% | 17.7–22.3% |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.0–22.1% | 17.5–22.7% |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 19.0% | 17.8–20.4% | 17.4–20.7% | 17.1–21.1% | 16.5–21.7% |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 19.0% | 17.9–20.2% | 17.6–20.6% | 17.3–20.9% | 16.8–21.4% |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17.0% | 15.9–18.2% | 15.5–18.6% | 15.2–18.9% | 14.7–19.5% |
@@ -359,8 +359,8 @@ Last result: **11** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 15 | 15 | 15 | 15 | 15–19 |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL |  |  |  |  |  |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 16–19 | 16–19 | 16–19 | 16–20 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 18 | 18 | 18 | 18–21 | 18–21 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 15–17 | 15–18 | 15–18 | 14–18 |
