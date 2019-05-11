@@ -1,19 +1,19 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 | 1.5% <br> 1 | 1.2% <br> 1 | 0.6% <br> 1 | 0.6% <br> 1 |
-| N/A | [Poll Average](average.html) | 22–28% <br> 22–27 | 14–20% <br> 13–19 | 16–21% <br> 15–20 | 5–10% <br> 5–10 | 9–15% <br> 9–14 | 4–6% <br> 4–6 | 6–11% <br> 6–10 | 1–2% <br> 0–2 | 0–2% <br> 0–2 | N/A <br> N/A | 0–2% <br> 0–2 |
-| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25–30% <br> 23–28 | 16–20% <br> 15–20 | 17–21% <br> 16–20 | 5–7% <br> 5–7 | 8–12% <br> 8–12 | 4–6% <br> 4–6 | 6–9% <br> 6–8 | 1–2% <br> 1–2 | 1–2% <br> 1–2 | N/A <br> N/A | 1–2% <br> 1–2 |
-| [10 April 2019](2019-04-10-Emnid.html) | Emnid <br> Bild am Sonntag | 24–27% <br> 23–26 | 16–19% <br> 15–17 | 16–19% <br> 15–17 | 8–10% <br> 7–9 | 11–13% <br> 11–13 | 4–5% <br> 4–5 | 8–10% <br> 8–10 | 1–2% <br> 1–2 | 1% <br> 1 | N/A <br> N/A | 1–2% <br> 1–2 |
-| [5–8 April 2019](2019-04-08-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22–25% <br> 21–24 | 14–17% <br> 13–16 | 17–21% <br> 16–20 | 7–10% <br> 7–9 | 13–16% <br> 12–15 | 5–7% <br> 5–6 | 9–11% <br> 9–11 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0–1 |
-| [1–5 April 2019](2019-04-05-Forsa.html) | Forsa <br> Stern and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–3 April 2019](2019-04-03-Infratestdimap.html) | Infratest dimap <br> ARD | 23–28% <br> 22–27 | 15–19% <br> 15–18 | 17–21% <br> 16–20 | 6–8% <br> 5–8 | 9–13% <br> 9–12 | 4–6% <br> 3–5 | 6–8% <br> 6–8 | 1–3% <br> 1–3 | 1–2% <br> 1–2 | N/A <br> N/A | 1–3% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 22–28% <br> 21–27 | 14–20% <br> 13–20 | 16–21% <br> 15–20 | 6–10% <br> 5–10 | 9–15% <br> 8–14 | 3–6% <br> 3–6 | 6–11% <br> 6–10 | 0–2% <br> 1–2 | 0–2% <br> 0–2 | N/A <br> N/A | 0–2% <br> 1–2 |
+| [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 23–27% <br> 22–25 | 17–21% <br> 16–20 | 17–21% <br> 16–20 | 6–8% <br> 6–8 | 9–12% <br> 8–11 | 3–6% <br> 3–5 | 6–8% <br> 6–8 | 1–3% <br> 1–3 | 1–2% <br> 1–2 | N/A <br> N/A | 1–3% <br> 1–2 |
+| [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 22–26% <br> 21–24 | 15–19% <br> 15–18 | 17–21% <br> 17–20 | 8–10% <br> 8–10 | 12–15% <br> 11–14 | 3–5% <br> 3–5 | 8–10% <br> 7–10 | 1–2% <br> 1 | 0–1% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1–2 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 23–27% <br> 22–26 | 16–20% <br> 16–19 | 15–19% <br> 15–18 | 8–11% <br> 7–10 | 11–15% <br> 11–14 | 3–6% <br> 3–5 | 8–11% <br> 7–10 | 1–2% <br> 1 | 0–1% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1–2 |
+| [26–29 April 2019](2019-04-29-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21–25% <br> 20–23 | 14–18% <br> 14–17 | 17–21% <br> 17–19 | 8–10% <br> 8–9 | 13–16% <br> 12–15 | 4–6% <br> 4–6 | 9–11% <br> 8–11 | 0–1% <br> 1 | 0–1% <br> 0–1 | N/A <br> N/A | 0–1% <br> 1 |
+| [23–26 April 2019](2019-04-26-Forsa.html) | Forsa <br> Stern and RTL | 21–25% <br> 20–24 | 15–19% <br> 15–18 | 18–22% <br> 17–21 | 8–11% <br> 7–10 | 11–15% <br> 11–14 | 3–5% <br> 3–5 | 7–9% <br> 6–9 | 1–2% <br> 1–2 | 1–2% <br> 1–2 | N/A <br> N/A | 1–2% <br> 1–2 |
+| [1–12 April 2019](2019-04-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23–28% <br> 22–26 | 16–21% <br> 16–19 | 16–20% <br> 15–19 | 7–10% <br> 6–9 | 11–14% <br> 10–14 | 4–6% <br> 3–5 | 8–11% <br> 7–10 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0–1 |
+| [9–11 April 2019](2019-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25–30% <br> 24–28 | 16–20% <br> 15–20 | 17–21% <br> 16–20 | 5–7% <br> 5–7 | 8–12% <br> 8–11 | 4–6% <br> 4–6 | 6–9% <br> 5–8 | 1–2% <br> 1–2 | 1–2% <br> 1–2 | N/A <br> N/A | 1–2% <br> 1–2 |
 | [28 March–3 April 2019](2019-04-03-GMS.html) | GMS | 23–28% <br> 22–27 | 13–17% <br> 12–17 | 16–21% <br> 15–20 | 7–11% <br> 7–11 | 11–15% <br> 10–15 | 3–6% <br> 3–6 | 8–12% <br> 8–11 | 1–2% <br> 1–2 | 0–2% <br> 0–2 | N/A <br> N/A | 1–2% <br> 0–2 |
-| [22–26 March 2019](2019-03-26-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 23–28% <br> 22–26 | 16–20% <br> 15–19 | 15–19% <br> 15–18 | 8–11% <br> 7–10 | 11–14% <br> 10–13 | 4–6% <br> 4–5 | 8–11% <br> 7–10 | 1–2% <br> 1 | 0–1% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1–2 |
-| [7–21 March 2019](2019-03-21-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23–28% <br> 22–26 | 16–20% <br> 15–20 | 17–21% <br> 16–20 | 7–10% <br> 7–10 | 10–14% <br> 10–13 | 3–6% <br> 3–5 | 7–10% <br> 7–10 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0–1 |
 | 25 May 2014 | General Election | 30.0% <br> 29 | 27.3% <br> 27 | 10.7% <br> 11 | 7.4% <br> 7 | 7.0% <br> 7 | 5.3% <br> 5 | 3.4% <br> 3 | 1.5% <br> 1 | 1.2% <br> 1 | 0.6% <br> 1 | 0.6% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **SPD:** SPD (S&D)
 + **GRÜNEN:** BÜNDNIS 90/DIE GRÜNEN (Greens/EFA)
 + **LINKE:** DIE LINKE (GUE/NGL)
-+ **AfD:** Alternative für Deutschland (EFDD)
++ **AfD:** Alternative für Deutschland (EAPN)
 + **CSU:** CSU (EPP)
 + **FDP:** FDP (ALDE)
 + **FW:** FREIE WÄHLER (ALDE)
