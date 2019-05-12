@@ -362,8 +362,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
-| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 15 | 14–16 | 12–16 | 12–16 | 12–17 |
+| [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–20 | 17–20 | 16–20 | 16–20 |
 | [25–30 April 2019](2019-04-30-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov <br> RedaktionsNetzwerk Deutschland | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
