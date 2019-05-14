@@ -11,7 +11,9 @@ Last result: **30.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.5% | 22.5–27.0% | 22.0–27.8% | 21.6–28.4% | 20.9–29.4% |
+| [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.5% | 25.9–29.1% | 25.5–29.6% | 25.1–30.0% | 24.3–30.8% |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 24.6% | 23.5–25.8% | 23.2–26.2% | 22.9–26.5% | 22.4–27.0% |
 | [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 22.4% | 21.3–23.6% | 20.9–23.9% | 20.7–24.2% | 20.1–24.8% |
 | [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 24.6% | 23.3–26.1% | 22.9–26.5% | 22.6–26.9% | 21.9–27.6% |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 24.7% | 23.3–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
@@ -358,7 +360,9 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 22–26 | 21–27 | 21–27 | 20–28 |
+| [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 24–29 | 24–29 | 24–29 | 23–29 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 24 | 22–25 | 21–26 | 21–26 | 21–27 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
