@@ -362,7 +362,7 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 22–26 | 21–27 | 21–27 | 20–28 |
-| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
+| [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
