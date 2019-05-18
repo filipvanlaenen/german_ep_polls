@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-17T14:18:43.603657+02:00</updated>
+  <updated>2019-05-17T21:05:16.518089+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 22.8–26.5%, 22–25 seats</li><li>SPD (S&amp;D): 14.5–17.7%, 14–17 seats</li><li>Alternative für Deutschland (EAPN): 12.5–15.6%, 12–15 seats</li><li>FDP (ALDE): 8.7–11.4%, 8–11 seats</li><li>DIE LINKE (GUE/NGL): 7.8–10.3%, 8–10 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.3–20.7%, 17–20 seats</li><li>CSU (EPP): 3.6–5.4%, 3–5 seats</li><li>FREIE WÄHLER (ALDE): 0.3–1.0%, 0–1 seats</li><li>Die PARTEI (NI): 0.3–1.0%, 0–1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–0.9%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-13-INSAandYouGov.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by INSA and YouGov for Bild, 10–13 May 2019</title>
     <updated>2019-05-17T14:18:43.603657+02:00</updated>
     <dc:date>2019-05-17T14:18:43.603657+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 23.8–27.2%, 23–26 seats</li><li>SPD (S&amp;D): 13.6–16.4%, 13–16 seats</li><li>Alternative für Deutschland (EAPN): 11.7–14.4%, 11–14 seats</li><li>FDP (ALDE): 7.0–9.1%, 7–9 seats</li><li>DIE LINKE (GUE/NGL): 7.0–9.1%, 7–9 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 18.5–21.6%, 18–21 seats</li><li>CSU (EPP): 3.8–5.4%, 4–5 seats</li><li>FREIE WÄHLER (ALDE): 0.8–1.7%, 1–2 seats</li><li>Die PARTEI (NI): 0.8–1.7%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.4%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-10-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-05-10-Forsa.html"/>
+    <title>Opinion Poll by Forsa for Stern and RTL, 6–10 May 2019</title>
+    <updated>2019-05-17T21:05:16.518089+02:00</updated>
+    <dc:date>2019-05-17T21:05:16.518089+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>CDU (EPP): 25.1–30.0%, 24–29 seats</li><li>SPD (S&amp;D): 14.2–18.3%, 13–17 seats</li><li>Alternative für Deutschland (EAPN): 10.4–14.0%, 10–14 seats</li><li>FDP (ALDE): 4.9–7.5%, 5–7 seats</li><li>DIE LINKE (GUE/NGL): 4.9–7.5%, 5–7 seats</li><li>BÜNDNIS 90/DIE GRÜNEN (Greens/EFA): 17.1–21.4%, 16–21 seats</li><li>CSU (EPP): 3.9–6.2%, 4–6 seats</li><li>FREIE WÄHLER (ALDE): 1.1–2.5%, 1–2 seats</li><li>Die PARTEI (NI): 1.0–2.4%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.8–2.1%, 1–2 seats</li></ul></div></content>
@@ -2351,5 +2359,5 @@
     <updated>2018-10-08T20:53:17.526447+02:00</updated>
     <dc:date>2018-10-08T20:53:17.526447+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-17T14:18:43.603657+02:00</dc:date>
+  <dc:date>2019-05-17T21:05:16.518089+02:00</dc:date>
 </feed>
