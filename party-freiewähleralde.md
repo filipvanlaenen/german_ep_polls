@@ -10,7 +10,7 @@ Last result: **1.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.9% | 0.6–2.1% | 0.5–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.9% | 0.6–2.1% | 0.5–2.3% | 0.4–2.6% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2.0% | 1.6–2.6% | 1.4–2.7% | 1.4–2.9% | 1.2–3.2% |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 1.9% | 1.6–2.2% | 1.6–2.2% | 1.5–2.3% | 1.4–2.4% |
@@ -341,8 +341,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 77% | 97% | Last Result, Median |
-| 1.5–2.5% | 20% | 21% |  |
+| 0.5–1.5% | 75% | 97% | Last Result, Median |
+| 1.5–2.5% | 22% | 22% |  |
 | 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -355,7 +355,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 2 | 2 | 2 | 2 | 2 |
@@ -687,10 +687,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 80% | 98.8% | Last Result, Median |
-| 2 | 18% | 18% |  |
-| 3 | 0.5% | 0.5% |  |
+| 0 | 1.4% | 100% |  |
+| 1 | 79% | 98.6% | Last Result, Median |
+| 2 | 19% | 20% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 

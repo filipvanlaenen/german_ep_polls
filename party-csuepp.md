@@ -10,7 +10,7 @@ Last result: **5.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.4–5.8% | 3.1–6.3% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.5–5.8% | 3.2–6.2% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.9% | 3.3–6.3% |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.4–5.5% | 3.1–5.9% |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 4.6% | 4.2–5.0% | 4.1–5.1% | 4.1–5.2% | 3.9–5.4% |
@@ -342,10 +342,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 48% | 96% |  |
+| 3.5–4.5% | 49% | 96% |  |
 | 4.5–5.5% | 42% | 47% | Last Result, Median |
 | 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -691,7 +691,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 8% | 100% |  |
 | 4 | 56% | 92% | Median |
-| 5 | 34% | 37% | Last Result |
+| 5 | 33% | 36% | Last Result |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
