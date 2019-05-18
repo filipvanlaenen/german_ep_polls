@@ -11,6 +11,9 @@ Last result: **7.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.7% | 9.8–14.2% | 9.4–14.6% | 9.0–15.0% | 8.5–15.6% |
+| [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12.0% | 10.9–13.3% | 10.6–13.6% | 10.4–13.9% | 9.9–14.5% |
+| [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 10.2% | 9.3–11.3% | 9.0–11.6% | 8.8–11.9% | 8.4–12.4% |
+| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 10.7% | 10.2–11.3% | 10.0–11.5% | 9.9–11.6% | 9.6–11.9% |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 13.0% | 12.2–13.9% | 11.9–14.1% | 11.7–14.4% | 11.3–14.8% |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12.1% | 11.0–13.3% | 10.7–13.7% | 10.4–14.0% | 9.9–14.6% |
@@ -359,8 +362,11 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
+| [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 10–12 | 10–12 | 10–12 | 10–14 |
+| [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 12 | 9–12 | 9–12 | 9–12 |
+| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 10 | 10 | 10 | 10 | 10 |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 13 | 12–13 | 11–13 | 11–14 | 11–14 |
+| [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
