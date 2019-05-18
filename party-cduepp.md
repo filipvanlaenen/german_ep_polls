@@ -365,8 +365,8 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–26 | 21–27 | 21–27 | 20–28 |
-| [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 22–23 | 22–24 | 22–24 | 21–27 |
-| [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 22 | 22–23 | 22–24 | 22–24 |
+| [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
+| [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 24 | 24 | 24 | 24 | 24 |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
