@@ -367,12 +367,12 @@ Last result: **11** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–19 | 17–19 | 17–20 | 16–21 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 17 | 17–18 | 17–19 | 16–19 | 16–19 |
+| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 18 | 17–18 | 17–18 | 17–19 | 16–19 |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [2–8 May 2019](2019-05-08-GMS.html) | GMS | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
-| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19 | 18–20 | 17–20 | 17–20 |
+| [2–8 May 2019](2019-05-08-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [3 April–6 May 2019](2019-05-06-INSAandYouGov.html) | INSA and YouGov <br> Bild | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [29 April–3 May 2019](2019-05-03-Forsa.html) | Forsa <br> Stern and RTL | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [29–30 April 2019](2019-04-30-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
