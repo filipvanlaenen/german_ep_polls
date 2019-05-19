@@ -363,7 +363,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 8 | 8 | 8 | 8 | 7–8 |
+| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
