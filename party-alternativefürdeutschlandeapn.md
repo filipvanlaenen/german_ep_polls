@@ -12,7 +12,7 @@ Last result: **7.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.6% | 9.7–14.2% | 9.3–14.6% | 9.0–14.9% | 8.4–15.6% |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 13.6% | 12.7–14.6% | 12.4–14.9% | 12.2–15.2% | 11.8–15.6% |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.2–15.1% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12.0% | 10.9–13.3% | 10.6–13.6% | 10.4–13.9% | 9.9–14.5% |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 10.2% | 9.3–11.3% | 9.0–11.6% | 8.8–11.9% | 8.4–12.4% |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 10.7% | 10.2–11.3% | 10.0–11.5% | 9.9–11.6% | 9.6–11.9% |
@@ -364,8 +364,8 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
-| [17–20 May 2019](2019-05-20-INSA.html) | INSA | 13 | 13 | 13–14 | 13–14 | 13–15 |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa |  |  |  |  |  |
+| [17–20 May 2019](2019-05-20-INSA.html) | INSA | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–12 | 10–13 | 10–13 | 10–14 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 10 | 10–11 | 10–11 | 9–11 | 9–11 |

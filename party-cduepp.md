@@ -12,7 +12,7 @@ Last result: **30.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.3% | 22.4–27.0% | 22.0–27.8% | 21.6–28.4% | 20.9–29.5% |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 23.1% | 21.9–24.3% | 21.6–24.7% | 21.3–25.0% | 20.8–25.6% |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 24.6% | N/A | N/A | N/A | N/A |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 24.6% | 23.4–25.9% | 23.1–26.3% | 22.8–26.6% | 22.2–27.2% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.4% | 23.9–27.0% | 23.5–27.5% | 23.2–27.9% | 22.5–28.6% |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 24.3% | 22.9–25.7% | 22.5–26.1% | 22.1–26.5% | 21.5–27.2% |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 25.8% | 25.0–26.6% | 24.8–26.8% | 24.6–27.0% | 24.2–27.4% |
@@ -367,8 +367,8 @@ Last result: **29** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–26 | 21–27 | 21–27 | 20–28 |
-| [17–20 May 2019](2019-05-20-INSA.html) | INSA | 23 | 23–24 | 23–24 | 22–24 | 20–24 |
-| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa |  |  |  |  |  |
+| [17–20 May 2019](2019-05-20-INSA.html) | INSA | 22 | 21–23 | 21–23 | 20–23 | 20–24 |
+| [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 23 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [7–14 May 2019](2019-05-14-Civey.html) | Civey | 25 | 24–25 | 23–26 | 23–26 | 23–26 |
