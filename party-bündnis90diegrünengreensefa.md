@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.6% | 17.2–20.0% | 16.8–20.4% | 16.4–20.8% | 15.7–21.6% |
+| [15–22 May 2019](2019-05-22-Civey.html) | Civey | 18.1% | 17.4–18.8% | 17.2–19.0% | 17.1–19.2% | 16.7–19.5% |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.0% | 17.6–20.4% | 17.3–20.8% | 16.9–21.2% | 16.3–21.9% |
@@ -350,7 +351,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 3% | 99.6% |  |
 | 16.5–17.5% | 13% | 97% |  |
 | 17.5–18.5% | 33% | 84% |  |
-| 18.5–19.5% | 32% | 51% | Median |
+| 18.5–19.5% | 32% | 50% | Median |
 | 19.5–20.5% | 15% | 19% |  |
 | 20.5–21.5% | 3% | 4% |  |
 | 21.5–22.5% | 0.5% | 0.5% |  |
@@ -367,6 +368,7 @@ Last result: **11** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
+| [15–22 May 2019](2019-05-22-Civey.html) | Civey | 17 | 16–17 | 16–17 | 16–17 | 16–18 |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–19 | 17–19 | 17–20 | 16–21 |
@@ -705,10 +707,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
 | 15 | 2% | 99.9% |  |
-| 16 | 10% | 98% |  |
-| 17 | 26% | 88% |  |
-| 18 | 36% | 62% | Median |
-| 19 | 21% | 25% |  |
+| 16 | 14% | 98% |  |
+| 17 | 30% | 84% |  |
+| 18 | 29% | 54% | Median |
+| 19 | 20% | 25% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.5% | 0.6% |  |
 | 22 | 0% | 0% |  |
