@@ -11,12 +11,10 @@ Last result: **5.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.8–5.1% | 3.6–5.3% | 3.5–5.5% | 3.2–6.0% |
-| [15–22 May 2019](2019-05-22-Civey.html) | Civey | 4.4% | 4.0–4.8% | 3.9–4.9% | 3.9–5.0% | 3.7–5.2% |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.4% |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.4% | 3.3–5.7% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.9% | 3.3–6.3% |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.4–5.5% | 3.1–5.9% |
-| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 4.6% | 4.2–5.0% | 4.1–5.1% | 4.1–5.2% | 3.9–5.4% |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 5.0% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.8–5.4% | 3.5–5.7% |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.9–6.2% | 3.6–6.7% |
@@ -345,10 +343,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 60% | 96% | Median |
-| 4.5–5.5% | 35% | 37% | Last Result |
+| 3.5–4.5% | 58% | 96% | Median |
+| 4.5–5.5% | 35% | 38% | Last Result |
 | 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -360,13 +358,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [15–22 May 2019](2019-05-22-Civey.html) | Civey | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [14–15 May 2019](2019-05-15-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [7–14 May 2019](2019-05-14-Civey.html) | Civey | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–13 May 2019](2019-05-13-INSAandYouGov.html) | INSA and YouGov <br> Bild | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [6–10 May 2019](2019-05-10-Forsa.html) | Forsa <br> Stern and RTL | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–9 May 2019](2019-05-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -695,10 +691,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% |  |
-| 4 | 65% | 95% | Median |
-| 5 | 29% | 30% | Last Result |
-| 6 | 0.7% | 0.8% |  |
+| 3 | 6% | 100% |  |
+| 4 | 68% | 94% | Median |
+| 5 | 25% | 26% | Last Result |
+| 6 | 0.8% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 
