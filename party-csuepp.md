@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.8–5.1% | 3.6–5.3% | 3.5–5.5% | 3.2–6.0% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.8–5.0% | 3.6–5.3% | 3.4–5.4% | 3.2–5.9% |
+| [20–23 May 2019](2019-05-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.3% | 3.8–5.0% | 3.6–5.2% | 3.5–5.4% | 3.2–5.7% |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.4% |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.4% | 3.3–5.7% |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.9% | 3.3–6.3% |
@@ -343,11 +344,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 58% | 96% | Median |
-| 4.5–5.5% | 35% | 38% | Last Result |
+| 3.5–4.5% | 61% | 96% | Median |
+| 4.5–5.5% | 33% | 35% | Last Result |
 | 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -359,6 +359,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [20–23 May 2019](2019-05-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [17–20 May 2019](2019-05-20-INSA.html) | INSA | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–17 May 2019](2019-05-17-Forsa.html) | Forsa | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [14–16 May 2019](2019-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -691,10 +692,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 6% | 100% |  |
-| 4 | 68% | 94% | Median |
-| 5 | 25% | 26% | Last Result |
-| 6 | 0.8% | 0.9% |  |
+| 3 | 7% | 100% |  |
+| 4 | 68% | 93% | Median |
+| 5 | 24% | 25% | Last Result |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 
