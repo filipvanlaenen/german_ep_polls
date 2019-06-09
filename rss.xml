@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/german_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 09 Jun 2019 20:02:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 3–5 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-05-Infratestdimap.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.4–13.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EAPN): 11.4–14.8%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (ALDE): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23.8–28.3%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17.6–21.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.4–6.7%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Freie Wähler (ALDE): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-05-Infratestdimap.png"
+        length="369290"
+        type="image/png"/>
+      <pubDate>Sun, 09 Jun 2019 19:41:26 +0200</pubDate>
+      <dc:date>2019-06-09T19:41:26.965369+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 3–5 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-05-ForschungsgruppeWahlen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.3–15.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EAPN): 11.3–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (ALDE): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23.7–28.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.0–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.7–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (ALDE): 0.7–1.9%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-05-ForschungsgruppeWahlen.png"
+        length="374198"
+        type="image/png"/>
+      <pubDate>Sun, 09 Jun 2019 20:02:55 +0200</pubDate>
+      <dc:date>2019-06-09T20:02:55.152405+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 3 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-03-INSA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (EAPN): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (ALDE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Freie Wähler (ALDE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-03-INSA.png"
+        length="382578"
+        type="image/png"/>
+      <pubDate>Sun, 09 Jun 2019 19:52:17 +0200</pubDate>
+      <dc:date>2019-06-09T19:52:17.75083+02:00</dc:date>
+    </item>
+    <dc:date>2019-06-09T20:02:55.152405+02:00</dc:date>
+  </channel>
+</rss>
