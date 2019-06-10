@@ -61,13 +61,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–22 | 18–22 | 18–22 | 17–22 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 18–21 | 18–22 | 18–22 | 18–23 |
 | [3 June 2019](2019-06-03-INSA.html) | INSA | 21 | 18–22 | 17–22 | 17–22 | 16–22 |
-| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 22 | 19–22 | 18–22 | 18–22 | 17–22 |
-| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21–22 | 21–22 | 21–22 | 20–22 |
-| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 19 | 19–21 | 19–21 | 19–21 | 18–22 |
+| [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 20 | 19–22 | 18–22 | 18–22 | 17–22 |
+| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 20 | 20–21 | 20–21 | 19–21 | 19–22 |
 
 ### Probability Mass Function
 
@@ -93,14 +93,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 0.4% | 99.9% |  |
-| 17 | 2% | 99.5% |  |
-| 18 | 17% | 98% |  |
-| 19 | 8% | 81% |  |
-| 20 | 21% | 73% |  |
-| 21 | 23% | 52% | Median |
-| 22 | 29% | 29% |  |
-| 23 | 0.4% | 0.4% |  |
-| 24 | 0.1% | 0.1% |  |
+| 17 | 2% | 99.6% |  |
+| 18 | 17% | 97% |  |
+| 19 | 14% | 80% |  |
+| 20 | 24% | 66% | Median |
+| 21 | 19% | 43% |  |
+| 22 | 20% | 23% |  |
+| 23 | 3% | 3% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 

@@ -45,7 +45,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3 June 2019](2019-06-03-INSA.html) | INSA | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
-| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
@@ -56,8 +56,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 73% | 99.9% | Last Result, Median |
-| 2 | 27% | 27% |  |
+| 1 | 74% | 99.9% | Last Result, Median |
+| 2 | 26% | 26% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

@@ -42,8 +42,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3 June 2019](2019-06-03-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0 |
+| [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–27 May 2019](2019-05-27-INSA.html) | INSA | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -53,8 +53,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 32% | 32% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 
