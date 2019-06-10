@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-06-10T10:07:53.124182+02:00</updated>
+  <updated>2019-06-10T14:42:48.23907+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 10.4–13.7%, 10–13 seats</li><li>Alternative für Deutschland (EAPN): 11.4–14.8%, 11–14 seats</li><li>Freie Demokratische Partei (ALDE): 6.7–9.5%, 7–9 seats</li><li>Die Linke (GUE/NGL): 5.8–8.4%, 6–8 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 23.8–28.3%, 24–28 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 17.6–21.6%, 17–20 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.4–6.7%, 4–6 seats</li><li>Die PARTEI (Greens/EFA): 1.1–2.5%, 1–2 seats</li><li>Freie Wähler (ALDE): 1.0–2.3%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.6%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.2%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.3–1.1%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2019-06-05-Infratestdimap.html</id>
@@ -31,5 +31,29 @@
     <updated>2019-06-09T22:40:13.801439+02:00</updated>
     <dc:date>2019-06-09T22:40:13.801439+02:00</dc:date>
   </entry>
-  <dc:date>2019-06-10T10:07:53.124182+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 10.5–13.6%, 10–13 seats</li><li>Alternative für Deutschland (EAPN): 9.6–12.6%, 9–11 seats</li><li>Freie Demokratische Partei (ALDE): 6.8–9.4%, 6–9 seats</li><li>Die Linke (GUE/NGL): 5.9–8.3%, 5–8 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 24.9–29.2%, 24–28 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 18.5–22.4%, 18–22 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.6–6.9%, 5–6 seats</li><li>Die PARTEI (Greens/EFA): 1.2–2.4%, 1–2 seats</li><li>Freie Wähler (ALDE): 1.0–2.2%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.6%, 0–2 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.3%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.3–1.0%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-31-Forsa.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-05-31-Forsa.html"/>
+    <title>Opinion Poll by Forsa, 27–31 May 2019</title>
+    <updated>2019-06-10T12:22:08.536163+02:00</updated>
+    <dc:date>2019-06-10T12:22:08.536163+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 14.2–18.0%, 13–16 seats</li><li>Alternative für Deutschland (EAPN): 11.4–14.9%, 10–15 seats</li><li>Freie Demokratische Partei (ALDE): 6.7–9.5%, 7–9 seats</li><li>Die Linke (GUE/NGL): 6.7–9.5%, 6–9 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 18.0–22.2%, 17–21 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.9–24.2%, 19–23 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 5.0–7.5%, 5–7 seats</li><li>Die PARTEI (Greens/EFA): 0.8–2.0%, 1–2 seats</li><li>Freie Wähler (ALDE): 0.7–1.8%, 1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.4%, 0–2 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.1%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.9%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.8%, 0–1 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-28-Emnid.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-05-28-Emnid.html"/>
+    <title>Opinion Poll by Emnid for Bild am Sonntag, 23–28 May 2019</title>
+    <updated>2019-06-10T14:42:48.23907+02:00</updated>
+    <dc:date>2019-06-10T14:42:48.23907+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 14.0–17.1%, 14–16 seats</li><li>Alternative für Deutschland (EAPN): 12.1–15.0%, 12–14 seats</li><li>Freie Demokratische Partei (ALDE): 8.3–10.9%, 8–10 seats</li><li>Die Linke (GUE/NGL): 7.8–10.3%, 8–10 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 17.3–20.7%, 17–20 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.3–22.8%, 19–21 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 5.5–7.7%, 5–7 seats</li><li>Die PARTEI (Greens/EFA): 0.7–1.7%, 1 seats</li><li>Freie Wähler (ALDE): 0.6–1.5%, 1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.7%, 0 seats</li><li>Volt Europa (Greens/EFA): 0.1–0.6%, 0 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2019-05-27-INSA.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2019-05-27-INSA.html"/>
+    <title>Opinion Poll by INSA, 24–27 May 2019</title>
+    <updated>2019-06-10T13:34:19.913526+02:00</updated>
+    <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
+  </entry>
+  <dc:date>2019-06-10T14:42:48.23907+02:00</dc:date>
 </feed>
