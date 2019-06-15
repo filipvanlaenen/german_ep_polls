@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 12.0% | 11.0–13.1% | 10.7–13.5% | 10.4–13.7% | 10.0–14.3% |
 | [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13.0% | 11.9–14.3% | 11.6–14.7% | 11.3–15.0% | 10.8–15.6% |
 | [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
-| [3 June 2019](2019-06-03-INSA.html) | INSA | 14.0% | N/A | N/A | N/A | N/A |
+| [3 June 2019](2019-06-03-INSA.html) | INSA | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.5–13.6% | 10.1–14.2% |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.6–18.7% |
 | [24–27 May 2019](2019-05-27-INSA.html) | INSA | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.1% | 13.5–17.7% |
@@ -61,7 +61,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11–12 | 11–12 | 10–13 | 10–14 |
 | [3–5 June 2019](2019-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [29 May–5 June 2019](2019-06-05-Emnid.html) | Emnid <br> Bild am Sonntag | 11 | 11 | 10–12 | 10–12 | 10–14 |
-| [3 June 2019](2019-06-03-INSA.html) | INSA |  |  |  |  |  |
+| [3 June 2019](2019-06-03-INSA.html) | INSA | 15 | 14–15 | 13–15 | 12–15 | 12–16 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 12 | 11–12 | 11–12 | 10–13 | 10–13 |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [24–27 May 2019](2019-05-27-INSA.html) | INSA | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
