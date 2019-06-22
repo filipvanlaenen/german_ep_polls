@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.1–1.9% | 0.1–2.1% | 0.1–2.2% | 0.0–2.5% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.1–1.9% | 0.1–2.0% | 0.1–2.2% | 0.0–2.5% |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 1.5% | 1.1–1.9% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 1.3% | N/A | N/A | N/A | N/A |
@@ -30,9 +30,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% | Last Result |
-| 0.5–1.5% | 40% | 75% | Median |
-| 1.5–2.5% | 34% | 35% |  |
+| 0.0–0.5% | 20% | 100% | Last Result |
+| 0.5–1.5% | 47% | 80% | Median |
+| 1.5–2.5% | 32% | 33% |  |
 | 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
