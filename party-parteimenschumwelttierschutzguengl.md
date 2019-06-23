@@ -47,7 +47,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 1 | 1 | 1 | 0–1 | 0–2 |
-| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1 |
+| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [7–10 June 2019](2019-06-10-INSA.html) | INSA | 1 | 1 | 1 | 0–1 | 0–1 |
 | [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1 | 1–2 |

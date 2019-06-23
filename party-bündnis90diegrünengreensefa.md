@@ -72,10 +72,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
+| N/A | [Poll Average](average.html) | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 24 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 26 | 25–26 | 25–27 | 25–27 | 23–27 |
-| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–27 | 25–27 | 25–27 | 25–27 |
+| [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–27 | 25–27 | 24–28 | 24–28 |
 | [7–10 June 2019](2019-06-10-INSA.html) | INSA | 25 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 25 | 24–28 | 24–28 | 23–28 | 23–28 |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–25 | 24–26 | 24–28 | 22–28 |
@@ -118,10 +118,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.3% | 100% |  |
 | 23 | 2% | 99.7% |  |
 | 24 | 18% | 98% |  |
-| 25 | 29% | 80% |  |
-| 26 | 41% | 51% | Median |
-| 27 | 9% | 10% |  |
-| 28 | 0.9% | 1.0% |  |
+| 25 | 31% | 79% | Median |
+| 26 | 35% | 48% |  |
+| 27 | 11% | 13% |  |
+| 28 | 2% | 2% |  |
 | 29 | 0% | 0% |  |
 
 
