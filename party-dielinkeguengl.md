@@ -57,11 +57,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–9 | 5–9 | 5–9 |
-| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 8 | 8 | 8 | 7–8 | 6–10 |
-| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5 | 5 | 5–7 | 5–7 |
-| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8 | 8 | 8 | 8 |
-| [14–17 June 2019](2019-06-17-INSA.html) | INSA | 9 | 9 | 8–9 | 8–9 | 8–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
+| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–7 | 6–8 | 5–8 | 5–9 |
+| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [14–17 June 2019](2019-06-17-INSA.html) | INSA | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach |  |  |  |  |  |
@@ -87,12 +87,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 20% | 100% |  |
-| 6 | 18% | 80% |  |
-| 7 | 2% | 62% |  |
-| 8 | 41% | 60% | Median |
-| 9 | 19% | 19% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 41% | 99.0% |  |
+| 7 | 12% | 58% | Median |
+| 8 | 28% | 47% |  |
+| 9 | 8% | 18% |  |
+| 10 | 10% | 10% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

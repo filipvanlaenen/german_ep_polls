@@ -57,11 +57,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
-| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 7 | 7–8 | 7–8 | 7–8 |
-| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6 | 6 | 6 | 6 |
-| [14–17 June 2019](2019-06-17-INSA.html) | INSA | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
+| [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [14–17 June 2019](2019-06-17-INSA.html) | INSA | 10 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach |  |  |  |  |  |
@@ -87,12 +87,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 21% | 100% |  |
-| 7 | 36% | 79% | Median |
-| 8 | 23% | 43% |  |
-| 9 | 17% | 21% |  |
-| 10 | 4% | 4% |  |
-| 11 | 0% | 0% |  |
+| 5 | 1.3% | 100% |  |
+| 6 | 7% | 98.7% |  |
+| 7 | 31% | 92% |  |
+| 8 | 39% | 61% | Median |
+| 9 | 12% | 22% |  |
+| 10 | 10% | 11% |  |
+| 11 | 0.6% | 0.7% |  |
+| 12 | 0% | 0% |  |
 
 
