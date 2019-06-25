@@ -10,14 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.1–1.9% | 0.1–2.0% | 0.1–2.2% | 0.0–2.5% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
+| [21–24 June 2019](2019-06-24-INSA.html) | INSA | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 1.5% | 1.1–1.9% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 1.1% | N/A | N/A | N/A | N/A |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.5–2.1% |
 | [7–10 June 2019](2019-06-10-INSA.html) | INSA | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% |
@@ -34,9 +35,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% | Last Result |
-| 0.5–1.5% | 52% | 80% | Median |
-| 1.5–2.5% | 28% | 28% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 74% | 99.7% | Median |
+| 1.5–2.5% | 26% | 26% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -49,14 +50,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [21–24 June 2019](2019-06-24-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [7–10 June 2019](2019-06-10-INSA.html) | INSA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -75,8 +77,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% |  |
-| 1 | 60% | 80% | Last Result, Median |
+| 0 | 3% | 100% |  |
+| 1 | 76% | 97% | Last Result, Median |
 | 2 | 20% | 20% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
