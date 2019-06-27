@@ -27,10 +27,10 @@ Only polls for which at least the sample size has been published are included in
 + **SPD:** Sozialdemokratische Partei Deutschlands (S&D)
 + **GRÜNEN:** Bündnis 90/Die Grünen (Greens/EFA)
 + **LINKE:** Die Linke (GUE/NGL)
-+ **AfD:** Alternative für Deutschland (EAPN)
++ **AfD:** Alternative für Deutschland (ID)
 + **CSU:** Christlich-Soziale Union in Bayern (EPP)
-+ **FDP:** Freie Demokratische Partei (ALDE)
-+ **FW:** Freie Wähler (ALDE)
++ **FDP:** Freie Demokratische Partei (RE)
++ **FW:** Freie Wähler (RE)
 + **Tierschutz:** Partei Mensch Umwelt Tierschutz (GUE/NGL)
 + **ÖDP:** Ökologisch-Demokratische Partei (Greens/EFA)
 + **PARTEI:** Die PARTEI (Greens/EFA)
@@ -52,10 +52,10 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0.0% | 12.3% | 11.2–14.0% |10.9–14.6% | 10.6–15.1% | 10.1–15.9% |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0.0% | 25.8% | 24.2–27.5% |23.7–28.0% | 23.3–28.4% | 22.6–29.1% |
 | <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0.0% | 7.9% | 6.6–9.1% |6.3–9.5% | 6.1–9.8% | 5.6–10.3% |
-| <a href="#alternative-für-deutschland-(eapn)">Alternative für Deutschland (EAPN)</a> | 0.0% | 13.2% | 11.8–14.4% |11.4–14.8% | 11.0–15.1% | 10.4–15.7% |
+| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 0.0% | 13.2% | 11.8–14.4% |11.4–14.8% | 11.0–15.1% | 10.4–15.7% |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0.0% | 5.8% | 4.9–6.7% |4.7–7.0% | 4.6–7.3% | 4.2–7.8% |
-| <a href="#freie-demokratische-partei-(alde)">Freie Demokratische Partei (ALDE)</a> | 0.0% | 7.8% | 6.7–8.9% |6.4–9.2% | 6.1–9.5% | 5.7–10.0% |
-| <a href="#freie-wähler-(alde)">Freie Wähler (ALDE)</a> | 0.0% | 1.2% | 0.8–1.7% |0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0.0% | 7.8% | 6.7–8.9% |6.4–9.2% | 6.1–9.5% | 5.7–10.0% |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0.0% | 1.2% | 0.8–1.7% |0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0.0% | 0.8% | 0.5–1.2% |0.5–1.3% | 0.4–1.4% | 0.3–1.7% |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 0.0% | 0.6% | 0.3–0.9% |0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
 | <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 0.0% | 1.3% | 0.9–1.8% |0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
@@ -89,9 +89,9 @@ Only polls for which at least the sample size has been published are included in
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
-### Alternative für Deutschland (EAPN)
+### Alternative für Deutschland (ID)
 
-*For a full overview of the results for this party, see the [Alternative für Deutschland (EAPN)](party-alternativefürdeutschlandeapn.html) page.*
+*For a full overview of the results for this party, see the [Alternative für Deutschland (ID)](party-alternativefürdeutschlandid.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -114,9 +114,9 @@ Only polls for which at least the sample size has been published are included in
 | 15.5–16.5% | 0.7% | 0.7% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
-### Freie Demokratische Partei (ALDE)
+### Freie Demokratische Partei (RE)
 
-*For a full overview of the results for this party, see the [Freie Demokratische Partei (ALDE)](party-freiedemokratischeparteialde.html) page.*
+*For a full overview of the results for this party, see the [Freie Demokratische Partei (RE)](party-freiedemokratischeparteire.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -257,9 +257,9 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
-### Freie Wähler (ALDE)
+### Freie Wähler (RE)
 
-*For a full overview of the results for this party, see the [Freie Wähler (ALDE)](party-freiewähleralde.html) page.*
+*For a full overview of the results for this party, see the [Freie Wähler (RE)](party-freiewählerre.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -334,10 +334,10 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 11 | 11–13 |10–14 | 10–15 | 10–15 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 25 | 22–27 |22–27 | 22–27 | 22–28 |
 | <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 7 | 6–8 |6–8 | 6–9 | 5–9 |
-| <a href="#alternative-für-deutschland-(eapn)">Alternative für Deutschland (EAPN)</a> | 1 | 13 | 11–14 |11–14 | 11–14 | 9–15 |
+| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 13 | 11–14 |11–14 | 11–14 | 9–15 |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 5 | 5–6 |4–7 | 4–7 | 4–7 |
-| <a href="#freie-demokratische-partei-(alde)">Freie Demokratische Partei (ALDE)</a> | 1 | 8 | 7–9 |6–9 | 6–9 | 5–10 |
-| <a href="#freie-wähler-(alde)">Freie Wähler (ALDE)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 8 | 7–9 |6–9 | 6–9 | 5–10 |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 1 |0–1 | 0–2 | 0–2 |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
@@ -370,11 +370,11 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
-### Alternative für Deutschland (EAPN)
+### Alternative für Deutschland (ID)
 
-*For a full overview of the results for this party, see the [Alternative für Deutschland (EAPN)](party-alternativefürdeutschlandeapn.html) page.*
+*For a full overview of the results for this party, see the [Alternative für Deutschland (ID)](party-alternativefürdeutschlandid.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativefürdeutschlandeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativefürdeutschlandid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -395,11 +395,11 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 2% | 2% |  |
 | 16 | 0% | 0% |  |
 
-### Freie Demokratische Partei (ALDE)
+### Freie Demokratische Partei (RE)
 
-*For a full overview of the results for this party, see the [Freie Demokratische Partei (ALDE)](party-freiedemokratischeparteialde.html) page.*
+*For a full overview of the results for this party, see the [Freie Demokratische Partei (RE)](party-freiedemokratischeparteire.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-freiedemokratischeparteialde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-freiedemokratischeparteire.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -540,11 +540,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Freie Wähler (ALDE)
+### Freie Wähler (RE)
 
-*For a full overview of the results for this party, see the [Freie Wähler (ALDE)](party-freiewähleralde.html) page.*
+*For a full overview of the results for this party, see the [Freie Wähler (RE)](party-freiewählerre.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-freiewähleralde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-freiewählerre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -626,8 +626,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 26 | 0% | 23–28 | 22–29 | 22–29 | 22–30 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 11 | 0% | 11–13 | 10–14 | 10–15 | 10–15 |
-| Alternative für Deutschland (EAPN) | 1 | 13 | 0% | 11–14 | 11–14 | 11–14 | 9–15 |
-| Freie Demokratische Partei (ALDE) – Freie Wähler (ALDE) | 2 | 9 | 0% | 8–10 | 7–10 | 7–10 | 6–11 |
+| Alternative für Deutschland (ID) | 1 | 13 | 0% | 11–14 | 11–14 | 11–14 | 9–15 |
+| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 9 | 0% | 8–10 | 7–10 | 7–10 | 6–11 |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP)
 
@@ -690,7 +690,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 4% | 4% |  |
 | 16 | 0% | 0% |  |
 
-### Alternative für Deutschland (EAPN)
+### Alternative für Deutschland (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
 
@@ -713,7 +713,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 2% | 2% |  |
 | 16 | 0% | 0% |  |
 
-### Freie Demokratische Partei (ALDE) – Freie Wähler (ALDE)
+### Freie Demokratische Partei (RE) – Freie Wähler (RE)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
 
