@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 24.2–27.5% | 23.7–28.0% | 23.3–28.4% | 22.6–29.1% |
+| N/A | [Poll Average](average.html) | 25.8% | 24.2–27.5% | 23.7–28.0% | 23.3–28.4% | 22.6–29.2% |
 | [21–24 June 2019](2019-06-24-INSA.html) | INSA | 25.5% | 24.3–26.8% | 24.0–27.1% | 23.7–27.4% | 23.1–28.0% |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.6–29.6% |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26.0% | 24.5–27.6% | 24.1–28.1% | 23.7–28.5% | 23.0–29.3% |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 25.0% | 23.8–26.3% | 23.4–26.7% | 23.1–27.0% | 22.5–27.7% |
@@ -61,9 +62,9 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 3% | 99.5% |  |
 | 23.5–24.5% | 13% | 96% |  |
 | 24.5–25.5% | 26% | 83% |  |
-| 25.5–26.5% | 29% | 57% | Median |
-| 26.5–27.5% | 19% | 28% |  |
-| 27.5–28.5% | 7% | 9% |  |
+| 25.5–26.5% | 29% | 58% | Median |
+| 26.5–27.5% | 19% | 29% |  |
+| 27.5–28.5% | 8% | 10% |  |
 | 28.5–29.5% | 2% | 2% |  |
 | 29.5–30.5% | 0.2% | 0.2% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -77,15 +78,16 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–27 | 22–27 | 22–28 |
-| [21–24 June 2019](2019-06-24-INSA.html) | INSA | 26 | 24–26 | 24–26 | 23–26 | 22–26 |
+| N/A | [Poll Average](average.html) | 24 | 21–27 | 21–27 | 21–27 | 21–28 |
+| [21–24 June 2019](2019-06-24-INSA.html) | INSA | 21 | 21–23 | 21–23 | 21–23 | 21–25 |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 23 | 23 | 23 | 23–28 | 23–28 |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 23–27 | 23–27 | 23–27 | 22–27 |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [14–17 June 2019](2019-06-17-INSA.html) | INSA | 26 | 25–26 | 24–26 | 24–28 | 24–28 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 26 | 25–26 | 25–27 | 25–27 | 23–27 |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 26 | 25–27 | 25–27 | 24–28 | 24–28 |
-| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 22 | 22–25 | 22–26 | 22–27 | 21–28 |
+| [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [7–10 June 2019](2019-06-10-INSA.html) | INSA | 25 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [3–7 June 2019](2019-06-07-Forsa.html) | Forsa | 25 | 24–28 | 24–28 | 23–28 | 23–28 |
 | [3–5 June 2019](2019-06-05-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–25 | 24–26 | 24–28 | 22–28 |
@@ -124,14 +126,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.4% | 100% |  |
-| 22 | 12% | 99.6% |  |
-| 23 | 15% | 87% |  |
-| 24 | 10% | 72% |  |
-| 25 | 28% | 62% | Median |
-| 26 | 21% | 34% |  |
-| 27 | 13% | 14% |  |
-| 28 | 0.7% | 0.7% |  |
+| 21 | 12% | 100% |  |
+| 22 | 4% | 88% |  |
+| 23 | 29% | 84% |  |
+| 24 | 9% | 54% | Median |
+| 25 | 26% | 46% |  |
+| 26 | 8% | 20% |  |
+| 27 | 11% | 12% |  |
+| 28 | 0.9% | 1.0% |  |
 | 29 | 0% | 0% |  |
 
 
