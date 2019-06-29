@@ -65,10 +65,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–15 | 10–16 |
-| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11–13 | 11–13 | 11–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
+| [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [21–24 June 2019](2019-06-24-INSA.html) | INSA | 12 | 12–13 | 12–14 | 12–14 | 11–15 |
-| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 12 | 11–13 | 11–15 | 11–16 | 10–16 |
+| [18–24 June 2019](2019-06-24-GMS.html) | GMS | 12 | 11–14 | 11–14 | 11–15 | 9–16 |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 11–14 | 10–14 |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 13–14 | 12–15 | 11–15 | 11–15 |
@@ -101,15 +101,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 27% | 97% |  |
-| 12 | 27% | 70% | Median |
-| 13 | 26% | 44% |  |
-| 14 | 15% | 17% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.7% | 0.7% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.5% | 99.9% |  |
+| 10 | 6% | 99.5% |  |
+| 11 | 20% | 94% |  |
+| 12 | 28% | 73% | Median |
+| 13 | 28% | 46% |  |
+| 14 | 15% | 18% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 
