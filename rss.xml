@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 11:28:23 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 16:17:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 24–26 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 10–13 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–11 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–26 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap-seats.png"
+        length="284742"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 12:21:59 +0200</pubDate>
+      <dc:date>2019-06-29T12:21:59.739797+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 24–26 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap-coalitions-seats.png"
+        length="188124"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 12:21:59 +0200</pubDate>
+      <dc:date>2019-06-29T12:21:59.739797+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 24–26 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-26-Infratestdimap.png"
         length="383856"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 11:28:23 +0200</pubDate>
-      <dc:date>2019-06-29T11:28:23.724417+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 12:21:59 +0200</pubDate>
+      <dc:date>2019-06-29T12:21:59.739797+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 21–24 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23–25 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSA-seats.png"
+        length="261685"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 16:17:17 +0200</pubDate>
+      <dc:date>2019-06-29T16:17:17.866613+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 21–24 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSA-coalitions-seats.png"
+        length="170724"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 16:17:17 +0200</pubDate>
+      <dc:date>2019-06-29T16:17:17.866613+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA, 21–24 June 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSA.png"
         length="353771"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 09:20:03 +0200</pubDate>
-      <dc:date>2019-06-29T09:20:03.954234+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 16:17:17 +0200</pubDate>
+      <dc:date>2019-06-29T16:17:17.866613+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GMS, 18–24 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-GMS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23–27 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–8 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-GMS-seats.png"
+        length="283763"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 15:04:53 +0200</pubDate>
+      <dc:date>2019-06-29T15:04:53.928425+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GMS, 18–24 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-GMS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-GMS-coalitions-seats.png"
+        length="195482"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 15:04:53 +0200</pubDate>
+      <dc:date>2019-06-29T15:04:53.928425+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GMS, 18–24 June 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-GMS.png"
         length="374435"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 09:58:57 +0200</pubDate>
-      <dc:date>2019-06-29T09:58:57.315433+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 15:04:53 +0200</pubDate>
+      <dc:date>2019-06-29T15:04:53.928425+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 17–21 June 2019 – Seat Projections for the Parties</title>
@@ -519,6 +579,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T11:28:23.724417+02:00</dc:date>
+    <dc:date>2019-06-29T16:17:17.866613+02:00</dc:date>
   </channel>
 </rss>
