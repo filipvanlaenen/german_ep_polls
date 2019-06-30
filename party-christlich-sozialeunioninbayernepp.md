@@ -60,7 +60,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
-| [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 5 | 5 | 5 | 5 | 5 |
+| [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [21–24 June 2019](2019-06-24-INSA.html) | INSA | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [18–24 June 2019](2019-06-24-GMS.html) | GMS | 6 | 4–6 | 4–8 | 4–8 | 4–8 |
@@ -93,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 42% | 96% |  |
-| 6 | 48% | 54% | Median |
+| 5 | 30% | 96% |  |
+| 6 | 60% | 66% | Median |
 | 7 | 5% | 6% |  |
 | 8 | 0.8% | 0.9% |  |
 | 9 | 0% | 0% |  |
