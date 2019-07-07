@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.8% | 11.3–14.3% | 11.0–14.7% | 10.7–15.0% | 10.1–15.6% |
+| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
+| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
+| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 12.9% | 11.9–14.0% | 11.6–14.3% | 11.4–14.6% | 10.9–15.2% |
+| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.2–14.1% | 9.6–14.8% |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 13.7% | 12.8–14.8% | 12.5–15.1% | 12.3–15.4% | 11.8–15.9% |
@@ -68,6 +72,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
+| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 11 | 11 | 11 | 11 | 11–13 |
+| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
+| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 11 | 11 | 11 | 11–12 | 11–14 |
+| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 14 | 14 | 14 | 14 | 14 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 12–14 | 12–15 | 12–15 | 12–15 |
