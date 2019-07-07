@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.5–14.3% | 11.1–14.8% | 10.9–15.2% | 10.3–16.0% |
+| N/A | [Poll Average](average.html) | 12.9% | 11.6–14.3% | 11.2–14.7% | 10.9–15.1% | 10.4–15.9% |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 12.9% | 11.9–14.0% | 11.6–14.3% | 11.4–14.6% | 10.9–15.2% |
@@ -53,13 +53,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 1.0% | 100% |  |
-| 10.5–11.5% | 11% | 99.0% |  |
-| 11.5–12.5% | 31% | 88% |  |
-| 12.5–13.5% | 33% | 57% | Median |
-| 13.5–14.5% | 17% | 24% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 1.2% | 1.3% |  |
+| 9.5–10.5% | 0.8% | 100% |  |
+| 10.5–11.5% | 9% | 99.1% |  |
+| 11.5–12.5% | 29% | 90% |  |
+| 12.5–13.5% | 36% | 62% | Median |
+| 13.5–14.5% | 19% | 25% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 1.0% | 1.1% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -72,11 +72,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
-| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
-| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
-| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 12 | 12 | 12 | 12 | 12 |
-| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 13 | 13 | 13 | 13 | 13 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–15 | 10–15 |
+| [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 11 | 11–13 | 11–13 | 11–13 | 10–13 |
+| [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 11 | 10–14 | 10–14 | 10–14 | 10–14 |
+| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 12 | 12 | 12–13 | 12–13 | 11–14 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 11 | 11 | 11–12 | 10–13 | 9–13 |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–13 | 11–14 | 11–15 | 10–15 |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
@@ -115,13 +115,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 8% | 99.8% |  |
-| 11 | 32% | 92% |  |
-| 12 | 29% | 60% | Median |
-| 13 | 17% | 31% |  |
-| 14 | 9% | 14% |  |
-| 15 | 4% | 4% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 12% | 99.9% |  |
+| 11 | 20% | 88% |  |
+| 12 | 32% | 68% | Median |
+| 13 | 15% | 36% |  |
+| 14 | 18% | 21% |  |
+| 15 | 3% | 3% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
