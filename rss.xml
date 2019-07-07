@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Jul 2019 11:01:04 +0200</pubDate>
+    <pubDate>Sun, 07 Jul 2019 14:34:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Forsa, 1–5 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-05-Forsa.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-05-Forsa.png"
         length="352292"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 10:28:17 +0200</pubDate>
-      <dc:date>2019-07-07T10:28:17.243982+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 13:52:30 +0200</pubDate>
+      <dc:date>2019-07-07T13:52:30.986572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 1–3 July 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-03-Infratestdimap.png"
         length="364882"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 10:36:39 +0200</pubDate>
-      <dc:date>2019-07-07T10:36:39.104124+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 14:06:23 +0200</pubDate>
+      <dc:date>2019-07-07T14:06:23.722649+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 28 June–2 July 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-02-YouGov.png"
         length="368603"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 10:45:23 +0200</pubDate>
-      <dc:date>2019-07-07T10:45:23.560528+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 14:20:56 +0200</pubDate>
+      <dc:date>2019-07-07T14:20:56.548237+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA, 28 June–1 July 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA.png"
         length="357273"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 11:01:04 +0200</pubDate>
-      <dc:date>2019-07-07T11:01:04.641361+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 14:34:58 +0200</pubDate>
+      <dc:date>2019-07-07T14:34:58.913011+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 24–28 June 2019 – Seat Projections for the Parties</title>
@@ -679,6 +679,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-07-07T11:01:04.641361+02:00</dc:date>
+    <dc:date>2019-07-07T14:34:58.913011+02:00</dc:date>
   </channel>
 </rss>
