@@ -64,12 +64,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 3–7 | 3–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [28 June–2 July 2019](2019-07-02-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [28 June–1 July 2019](2019-07-01-INSA.html) | INSA | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -102,9 +102,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 4% | 95% |  |
-| 5 | 42% | 91% | Median |
+| 3 | 2% | 100% |  |
+| 4 | 13% | 98% |  |
+| 5 | 36% | 85% | Median |
 | 6 | 46% | 49% |  |
 | 7 | 2% | 3% |  |
 | 8 | 0.7% | 0.7% |  |
