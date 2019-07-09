@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Jul 2019 20:01:52 +0200</pubDate>
+    <pubDate>Tue, 09 Jul 2019 19:57:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Forsa, 1–5 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-05-Forsa.html</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-07-08T20:01:52.710588+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA, 28 June–1 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–25 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 21–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA-seats.png"
+        length="259562"
+        type="image/png"/>
+      <pubDate>Tue, 09 Jul 2019 19:57:32 +0200</pubDate>
+      <dc:date>2019-07-09T19:57:32.931223+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 28 June–1 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA-coalitions-seats.png"
+        length="172127"
+        type="image/png"/>
+      <pubDate>Tue, 09 Jul 2019 19:57:32 +0200</pubDate>
+      <dc:date>2019-07-09T19:57:32.931223+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA, 28 June–1 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSA.png"
         length="357273"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 14:34:58 +0200</pubDate>
-      <dc:date>2019-07-07T14:34:58.913011+02:00</dc:date>
+      <pubDate>Tue, 09 Jul 2019 19:57:32 +0200</pubDate>
+      <dc:date>2019-07-09T19:57:32.931223+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 24–28 June 2019 – Seat Projections for the Parties</title>
@@ -709,6 +729,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-07-08T20:01:52.710588+02:00</dc:date>
+    <dc:date>2019-07-09T19:57:32.931223+02:00</dc:date>
   </channel>
 </rss>
