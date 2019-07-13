@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.2% | 11.8–14.5% | 11.4–14.8% | 11.1–15.1% | 10.4–15.7% |
-| [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [5–8 July 2019](2019-07-08-INSA.html) | INSA | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
@@ -74,8 +74,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
-| [8–12 July 2019](2019-07-12-Forsa.html) | Forsa |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
+| [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [5–8 July 2019](2019-07-08-INSA.html) | INSA | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–13 | 11–13 | 11–14 | 11–15 |
@@ -121,13 +121,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.2% | 100% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 14% | 97% |  |
-| 12 | 24% | 83% |  |
-| 13 | 42% | 60% | Median |
-| 14 | 15% | 17% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.2% | 0.3% |  |
+| 10 | 2% | 99.8% |  |
+| 11 | 12% | 97% |  |
+| 12 | 21% | 85% |  |
+| 13 | 46% | 65% | Median |
+| 14 | 14% | 18% |  |
+| 15 | 5% | 5% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 
