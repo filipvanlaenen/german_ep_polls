@@ -88,10 +88,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–23 | 17–23 |
-| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 20 | 19–21 | 19–21 | 19–22 | 19–22 |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 20–22 | 19–22 | 19–22 | 19–24 |
-| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20–23 | 20–23 | 19–23 | 18–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 19–23 | 19–23 | 19–23 | 19–25 |
+| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 18–22 | 18–23 | 18–23 | 18–23 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 20 | 18–20 | 18–20 | 18–21 | 18–21 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 19 | 18–21 | 18–21 | 18–21 | 18–21 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
@@ -148,13 +148,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
 | 17 | 4% | 99.9% |  |
-| 18 | 9% | 96% |  |
-| 19 | 23% | 87% |  |
-| 20 | 32% | 65% | Median |
-| 21 | 19% | 32% |  |
-| 22 | 7% | 13% |  |
-| 23 | 6% | 6% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 18 | 11% | 96% |  |
+| 19 | 28% | 86% |  |
+| 20 | 29% | 57% | Median |
+| 21 | 16% | 28% |  |
+| 22 | 7% | 12% |  |
+| 23 | 5% | 5% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 

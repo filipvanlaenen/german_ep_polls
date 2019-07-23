@@ -71,10 +71,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
-| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–6 | 4–7 | 4–8 | 4–8 |
-| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 4 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 4–6 | 4–7 | 4–8 |
+| [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -117,11 +117,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 52% | 95% | Median |
-| 6 | 35% | 43% |  |
-| 7 | 7% | 8% |  |
-| 8 | 1.2% | 1.2% |  |
+| 4 | 12% | 100% |  |
+| 5 | 51% | 88% | Median |
+| 6 | 30% | 37% |  |
+| 7 | 6% | 7% |  |
+| 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 
 
