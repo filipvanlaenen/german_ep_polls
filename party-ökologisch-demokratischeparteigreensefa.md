@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.8% | 0.3–1.0% | 0.3–1.0% | 0.2–1.2% |
 | [19–22 July 2019](2019-07-22-INSA.html) | INSA | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
-| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 0.5% | N/A | N/A | N/A | N/A |
+| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.1% |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.3–1.2% |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 0.5% | N/A | N/A | N/A | N/A |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.9% |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 0.4% | N/A | N/A | N/A | N/A |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.3–1.2% |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 0.5% | 0.4–0.8% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% |
@@ -57,6 +57,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 47% | 100% | Last Result |
 | 0.5–1.5% | 53% | 53% | Median |
 | 1.5–2.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,17 +68,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 1 | 1 | 1 | 1 | 0–1 |
-| [17–22 July 2019](2019-07-22-GMS.html) | GMS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–22 July 2019](2019-07-22-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA |  |  |  |  |  |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -110,4 +111,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-ökologisch-demokratischeparteigreensefa.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Ökologisch-Demokratische Partei (Greens/EFA).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 54% | 100% | Median |
+| 1 | 46% | 46% | Last Result |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
+
 
