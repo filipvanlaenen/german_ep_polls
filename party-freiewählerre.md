@@ -76,9 +76,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–2 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 1 | 1 | 1 | 1–2 | 0–2 |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1 | 1–2 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -114,9 +114,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 89% | 99.5% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 0 | 0.7% | 100% |  |
+| 1 | 86% | 99.3% | Last Result, Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 

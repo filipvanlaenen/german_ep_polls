@@ -70,14 +70,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 1 | 1 | 1 | 1–2 | 1–2 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1–2 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1 |
 | [5–8 July 2019](2019-07-08-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1–2 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -116,8 +116,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.1% | 100% |  |
-| 1 | 60% | 98.9% | Last Result, Median |
-| 2 | 39% | 39% |  |
+| 1 | 66% | 98.9% | Last Result, Median |
+| 2 | 33% | 33% |  |
 | 3 | 0% | 0% |  |
 
 

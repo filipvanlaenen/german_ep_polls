@@ -75,17 +75,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–7 | 4–8 |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 4 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 4–6 | 4–7 | 4–8 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -125,10 +125,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 9% | 100% |  |
-| 5 | 52% | 91% | Median |
-| 6 | 35% | 39% |  |
-| 7 | 3% | 4% |  |
-| 8 | 0.8% | 0.8% |  |
+| 5 | 52% | 90% | Median |
+| 6 | 27% | 39% |  |
+| 7 | 11% | 12% |  |
+| 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
 

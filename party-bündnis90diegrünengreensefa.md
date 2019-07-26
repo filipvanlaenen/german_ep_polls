@@ -95,17 +95,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 21 | 19–23 | 19–23 | 19–23 | 19–23 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 22 | 21–23 | 21–23 | 21–23 | 19–23 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 25 | 23–25 | 22–25 | 21–25 | 21–25 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 23 | 22–24 | 22–24 | 22–25 | 21–25 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 22–26 | 22–26 | 21–26 | 21–28 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–23 | 19–23 | 19–23 | 19–23 |
 | [12–15 July 2019](2019-07-15-INSA.html) | INSA | 21 | 21–23 | 20–24 | 20–24 | 20–24 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 25 | 22–25 | 22–25 | 22–26 | 22–27 |
-| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 22 | 20–22 | 20–22 | 20–23 | 20–23 |
+| [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 21 | 20–23 | 20–23 | 20–24 | 19–24 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–23 | 22–24 | 22–24 | 21–25 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 23 | 23 | 23 | 23–24 | 22–25 |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 23 | 23–24 | 22–25 | 21–25 | 21–25 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–24 | 22–24 | 22–24 | 21–25 |
@@ -159,11 +159,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 3% | 100% |  |
-| 20 | 3% | 97% |  |
-| 21 | 13% | 94% |  |
-| 22 | 23% | 81% |  |
-| 23 | 20% | 58% | Median |
+| 19 | 2% | 100% |  |
+| 20 | 4% | 98% |  |
+| 21 | 16% | 94% |  |
+| 22 | 15% | 78% |  |
+| 23 | 24% | 63% | Median |
 | 24 | 10% | 38% |  |
 | 25 | 23% | 28% |  |
 | 26 | 4% | 5% |  |
