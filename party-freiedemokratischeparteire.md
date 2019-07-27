@@ -78,7 +78,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 9 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
@@ -128,10 +128,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 17% | 99.8% |  |
-| 7 | 22% | 83% |  |
-| 8 | 41% | 61% | Median |
-| 9 | 19% | 20% |  |
+| 6 | 20% | 99.8% |  |
+| 7 | 22% | 80% |  |
+| 8 | 38% | 58% | Median |
+| 9 | 18% | 19% |  |
 | 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
