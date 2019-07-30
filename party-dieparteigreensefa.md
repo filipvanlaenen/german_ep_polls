@@ -73,9 +73,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
+| [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1–2 | 1–2 |
-| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–22 July 2019](2019-07-22-INSA.html) | INSA | 1 | 1 | 1 | 1–2 | 1–2 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -122,8 +122,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.2% | 100% |  |
-| 1 | 74% | 98.8% | Last Result, Median |
-| 2 | 25% | 25% |  |
+| 1 | 82% | 98.8% | Last Result, Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 
