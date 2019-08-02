@@ -83,9 +83,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
-| [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 8 | 8 | 7–8 | 7–8 | 7–8 |
-| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 10 | 9–10 | 8–10 | 8–10 | 7–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 8 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 8–9 | 8–10 | 7–11 | 7–11 |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
@@ -140,11 +140,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
 | 6 | 7% | 99.9% |  |
-| 7 | 15% | 93% |  |
-| 8 | 39% | 78% | Median |
-| 9 | 26% | 39% |  |
-| 10 | 13% | 14% |  |
-| 11 | 0.7% | 0.7% |  |
+| 7 | 17% | 93% |  |
+| 8 | 45% | 76% | Median |
+| 9 | 28% | 32% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 
