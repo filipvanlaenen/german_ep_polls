@@ -11,8 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.2% | 19.6–23.2% | 19.2–23.8% | 18.8–24.4% | 18.1–25.4% |
-| [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 20.3% | 19.3–21.4% | 19.0–21.7% | 18.8–22.0% | 18.3–22.5% |
+| [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 20.3% | N/A | N/A | N/A | N/A |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.9% | 20.5–23.4% | 20.1–23.8% | 19.7–24.2% | 19.1–25.0% |
+| [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 20.3% | N/A | N/A | N/A | N/A |
 | [2–5 August 2019](2019-08-05-INSA.html) | INSA | 21.5% | 20.3–22.7% | 20.0–23.0% | 19.7–23.3% | 19.2–23.9% |
 | [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.6–22.7% | 19.4–23.0% | 18.8–23.6% |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 20.4% | 19.1–21.7% | 18.7–22.1% | 18.4–22.5% | 17.8–23.2% |
@@ -104,8 +105,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 18–22 | 18–23 | 17–24 |
-| [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 18 | 18 | 18–20 | 18–20 | 18–20 |
+| [5–9 August 2019](2019-08-09-Forsa.html) | Forsa |  |  |  |  |  |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 20 | 20 | 20 | 20–21 |
+| [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [2–5 August 2019](2019-08-05-INSA.html) | INSA | 20 | 20 | 20 | 20 | 20–21 |
 | [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 20 | 20 | 20 | 20 | 19–21 |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
