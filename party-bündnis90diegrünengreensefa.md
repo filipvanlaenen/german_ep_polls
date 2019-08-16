@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.2% | 22.4–26.3% | 21.9–26.9% | 21.5–27.4% | 20.7–28.3% |
-| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 24.0% | N/A | N/A | N/A | N/A |
+| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 24.0% | 22.8–25.2% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 25.0% | 23.8–26.3% | 23.4–26.7% | 23.1–27.0% | 22.5–27.6% |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.0% | 23.5–26.6% | 23.1–27.1% | 22.7–27.5% | 22.0–28.2% |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 22.0% | 20.9–23.1% | 20.6–23.4% | 20.4–23.7% | 19.9–24.2% |
@@ -109,7 +109,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
-| [9–11 August 2019](2019-08-11-INSA.html) | INSA |  |  |  |  |  |
+| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 21 | 19–22 | 19–22 | 19–23 | 19–24 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 23 | 23–24 | 21–24 | 21–24 | 21–26 |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 25 | 25 | 25 | 23–25 |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19–22 | 19–22 | 19–23 | 19–24 |
