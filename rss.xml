@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Aug 2019 17:47:51 +0200</pubDate>
+    <pubDate>Wed, 14 Aug 2019 22:49:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSA, 9–11 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.9–13.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.3–16.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8.0–10.5%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.0–9.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.2–23.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.2–7.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.5%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.5%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSA.png"
+        length="357972"
+        type="image/png"/>
+      <pubDate>Wed, 14 Aug 2019 22:49:41 +0200</pubDate>
+      <dc:date>2019-08-14T22:49:41.307142+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Forsa, 5–9 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-09-Forsa.html</link>
@@ -1349,6 +1359,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-08-12T17:47:51.984955+02:00</dc:date>
+    <dc:date>2019-08-14T22:49:41.307142+02:00</dc:date>
   </channel>
 </rss>
