@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 Aug 2019 22:49:41 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 07:55:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA, 9–11 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSA.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSA.png"
         length="357972"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 22:49:41 +0200</pubDate>
-      <dc:date>2019-08-14T22:49:41.307142+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 07:55:35 +0200</pubDate>
+      <dc:date>2019-08-19T07:55:35.189889+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 5–9 August 2019 – Voting Intentions</title>
@@ -1359,6 +1359,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-08-14T22:49:41.307142+02:00</dc:date>
+    <dc:date>2019-08-19T07:55:35.189889+02:00</dc:date>
   </channel>
 </rss>
