@@ -9,11 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
-| N/A | Poll Average | 19–24% <br> 18–23 | 11–16% <br> 10–15 | 22–27% <br> 20–26 | 6–10% <br> 6–9 | 10–16% <br> 10–15 | 5–7% <br> 5–7 | 6–10% <br> 6–10 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| N/A | Poll Average | 19–24% <br> 17–23 | 11–16% <br> 10–15 | 21–28% <br> 20–26 | 6–10% <br> 6–9 | 10–16% <br> 10–15 | 5–8% <br> 4–7 | 6–10% <br> 6–9 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 18–22% <br> 17–21 | 10–14% <br> 10–13 | 24–28% <br> 22–27 | 6–8% <br> 6–8 | 12–16% <br> 12–15 | 5–7% <br> 5–7 | 7–9% <br> 7–9 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 18–22% <br> 17–22 | 11–15% <br> 11–13 | 21–25% <br> 20–23 | 7–10% <br> 7–9 | 12–16% <br> 12–15 | 5–7% <br> 5–7 | 8–11% <br> 7–10 | 1–2% <br> 1–2 | 0–1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 18–22% <br> 18–21 | 11–15% <br> 11–14 | 22–26% <br> 21–25 | 7–9% <br> 7–9 | 12–16% <br> 12–15 | 5–7% <br> 5–6 | 7–9% <br> 7–9 | 1–2% <br> 1–2 | 0–1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 19–23% <br> 19–22 | 11–14% <br> 10–13 | 22–26% <br> 22–25 | 7–9% <br> 7–8 | 13–16% <br> 13–15 | 5–7% <br> 5–7 | 8–10% <br> 8–10 | 0–1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 |
+| [26–29 July 2019](2019-07-29-INSA.html) | INSA | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 19–23% <br> 19–21 | 12–15% <br> 11–13 | 22–26% <br> 22–25 | 6–8% <br> 6–7 | 12–15% <br> 11–14 | 5–7% <br> 5–7 | 8–10% <br> 8–9 | 1–2% <br> 1–2 | 0–1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 19–25% <br> 20–24 | 11–15% <br> 11–14 | 22–28% <br> 21–25 | 6–10% <br> 6–9 | 10–14% <br> 11–12 | 5–8% <br> 4–7 | 6–10% <br> 6–9 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20–24% <br> 19–23 | 11–15% <br> 10–16 | 23–27% <br> 21–26 | 7–10% <br> 7–10 | 10–14% <br> 10–13 | 5–8% <br> 4–7 | 7–10% <br> 6–10 | 1–2% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 0–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
@@ -50,19 +50,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0.0% | 21.2% | 19.6–23.2% |19.2–23.8% | 18.8–24.4% | 18.1–25.4% |
-| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0.0% | 13.0% | 11.7–14.5% |11.4–15.0% | 11.1–15.5% | 10.5–16.4% |
-| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0.0% | 24.2% | 22.4–26.3% |21.9–26.9% | 21.5–27.4% | 20.7–28.3% |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0.0% | 7.9% | 6.7–9.0% |6.5–9.3% | 6.2–9.6% | 5.8–10.2% |
-| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 0.0% | 13.3% | 11.3–15.0% |10.8–15.4% | 10.4–15.7% | 9.8–16.3% |
-| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0.0% | 6.0% | 5.2–6.9% |4.9–7.2% | 4.8–7.4% | 4.4–8.0% |
-| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0.0% | 8.3% | 7.0–9.6% |6.7–9.9% | 6.4–10.1% | 5.8–10.7% |
-| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0.0% | 1.1% | 0.7–1.6% |0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0.0% | 0.8% | 0.5–1.1% |0.4–1.2% | 0.4–1.3% | 0.3–1.6% |
-| <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 0.0% | 0.5% | 0.3–0.8% |0.3–1.0% | 0.2–1.0% | 0.2–1.3% |
-| <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 0.0% | 1.2% | 0.8–1.7% |0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0.0% | 21.2% | 19.5–23.3% |19.1–24.0% | 18.7–24.5% | 18.1–25.4% |
+| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0.0% | 13.0% | 11.7–14.6% |11.3–15.1% | 11.0–15.6% | 10.4–16.4% |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0.0% | 24.3% | 22.4–26.4% |21.8–27.0% | 21.4–27.5% | 20.6–28.4% |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0.0% | 7.8% | 6.7–9.0% |6.4–9.4% | 6.2–9.7% | 5.8–10.2% |
+| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 0.0% | 13.0% | 11.2–14.7% |10.7–15.1% | 10.4–15.5% | 9.8–16.1% |
+| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0.0% | 6.0% | 5.1–6.9% |4.9–7.2% | 4.7–7.5% | 4.4–8.0% |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0.0% | 8.2% | 6.9–9.5% |6.6–9.8% | 6.3–10.1% | 5.8–10.6% |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0.0% | 1.2% | 0.8–1.6% |0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0.0% | 0.8% | 0.5–1.2% |0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
+| <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 0.0% | 0.6% | 0.3–0.9% |0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
+| <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 0.0% | 1.3% | 0.9–1.7% |0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0.0% | 0.4% | 0.2–0.6% |0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
-| <a href="#familienpartei-deutschlands-(ecr)">Familienpartei Deutschlands (ECR)</a> | 0.0% | 0.4% | 0.2–0.6% |0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| <a href="#familienpartei-deutschlands-(ecr)">Familienpartei Deutschlands (ECR)</a> | 0.0% | 0.4% | 0.2–0.7% |0.2–0.8% | 0.1–0.8% | 0.1–1.0% |
 | <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 0.0% | 0.4% | 0.2–0.6% |0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
@@ -81,14 +81,14 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.6% | 100% |  |
-| 10.5–11.5% | 7% | 99.4% |  |
-| 11.5–12.5% | 26% | 93% |  |
-| 12.5–13.5% | 37% | 66% | Median |
-| 13.5–14.5% | 20% | 30% |  |
-| 14.5–15.5% | 7% | 9% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 7% | 99.3% |  |
+| 11.5–12.5% | 24% | 93% |  |
+| 12.5–13.5% | 36% | 68% | Median |
+| 13.5–14.5% | 22% | 32% |  |
+| 14.5–15.5% | 8% | 11% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.4% | 0.4% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
@@ -106,14 +106,14 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 11% | 97% |  |
-| 11.5–12.5% | 19% | 86% |  |
-| 12.5–13.5% | 24% | 67% | Median |
-| 13.5–14.5% | 25% | 43% |  |
-| 14.5–15.5% | 14% | 18% |  |
-| 15.5–16.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 3% | 99.7% |  |
+| 10.5–11.5% | 13% | 96% |  |
+| 11.5–12.5% | 21% | 84% |  |
+| 12.5–13.5% | 26% | 62% | Median |
+| 13.5–14.5% | 23% | 36% |  |
+| 14.5–15.5% | 10% | 13% |  |
+| 15.5–16.5% | 2% | 2% |  |
 | 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -130,11 +130,11 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 4% | 99.8% |  |
-| 6.5–7.5% | 18% | 96% |  |
-| 7.5–8.5% | 36% | 78% | Median |
-| 8.5–9.5% | 32% | 42% |  |
-| 9.5–10.5% | 9% | 10% |  |
-| 10.5–11.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 21% | 95% |  |
+| 7.5–8.5% | 38% | 75% | Median |
+| 8.5–9.5% | 28% | 36% |  |
+| 9.5–10.5% | 8% | 8% |  |
+| 10.5–11.5% | 0.7% | 0.7% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 ### Die Linke (GUE/NGL)
@@ -148,10 +148,10 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 6% | 99.9% |  |
-| 6.5–7.5% | 29% | 94% |  |
-| 7.5–8.5% | 42% | 64% | Median |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 7% | 99.8% |  |
+| 6.5–7.5% | 31% | 93% |  |
+| 7.5–8.5% | 40% | 62% | Median |
 | 8.5–9.5% | 19% | 22% |  |
 | 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -184,13 +184,13 @@ Only polls for which at least the sample size has been published are included in
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 9% | 97% |  |
-| 22.5–23.5% | 20% | 88% |  |
-| 23.5–24.5% | 27% | 69% | Median |
-| 24.5–25.5% | 21% | 42% |  |
-| 25.5–26.5% | 13% | 20% |  |
-| 26.5–27.5% | 6% | 8% |  |
+| 20.5–21.5% | 3% | 99.6% |  |
+| 21.5–22.5% | 10% | 97% |  |
+| 22.5–23.5% | 19% | 87% |  |
+| 23.5–24.5% | 25% | 68% | Median |
+| 24.5–25.5% | 21% | 43% |  |
+| 25.5–26.5% | 14% | 22% |  |
+| 26.5–27.5% | 6% | 9% |  |
 | 27.5–28.5% | 2% | 2% |  |
 | 28.5–29.5% | 0.3% | 0.3% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -219,15 +219,15 @@ Only polls for which at least the sample size has been published are included in
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.4% | 99.9% |  |
-| 18.5–19.5% | 8% | 98% |  |
-| 19.5–20.5% | 21% | 90% |  |
-| 20.5–21.5% | 29% | 69% | Median |
-| 21.5–22.5% | 22% | 40% |  |
-| 22.5–23.5% | 11% | 19% |  |
-| 23.5–24.5% | 5% | 7% |  |
+| 17.5–18.5% | 2% | 99.9% |  |
+| 18.5–19.5% | 9% | 98% |  |
+| 19.5–20.5% | 21% | 89% |  |
+| 20.5–21.5% | 27% | 68% | Median |
+| 21.5–22.5% | 21% | 41% |  |
+| 22.5–23.5% | 12% | 20% |  |
+| 23.5–24.5% | 6% | 8% |  |
 | 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 ### Christlich-Soziale Union in Bayern (EPP)
@@ -240,10 +240,10 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 25% | 99.0% |  |
-| 5.5–6.5% | 54% | 74% | Median |
-| 6.5–7.5% | 17% | 19% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 26% | 98.9% |  |
+| 5.5–6.5% | 53% | 73% | Median |
+| 6.5–7.5% | 18% | 20% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -254,9 +254,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% | Last Result |
-| 0.5–1.5% | 82% | 99.3% | Median |
-| 1.5–2.5% | 17% | 17% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 80% | 99.7% | Median |
+| 1.5–2.5% | 19% | 19% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -266,9 +266,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 88% | 98% | Median |
-| 1.5–2.5% | 10% | 10% |  |
+| 0.0–0.5% | 0.7% | 100% | Last Result |
+| 0.5–1.5% | 88% | 99.3% | Median |
+| 1.5–2.5% | 12% | 12% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
@@ -277,9 +277,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 18% | 100% | Last Result |
-| 0.5–1.5% | 81% | 82% | Median |
-| 1.5–2.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 87% | 87% | Median |
+| 1.5–2.5% | 0.6% | 0.6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Ökologisch-Demokratische Partei (Greens/EFA)
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 50% | 100% | Last Result |
-| 0.5–1.5% | 50% | 50% | Median |
+| 0.0–0.5% | 45% | 100% | Last Result |
+| 0.5–1.5% | 55% | 55% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -299,8 +299,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 79% | 100% | Last Result, Median |
-| 0.5–1.5% | 21% | 21% |  |
+| 0.0–0.5% | 76% | 100% | Last Result, Median |
+| 0.5–1.5% | 23% | 24% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
@@ -309,8 +309,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 83% | 100% | Last Result, Median |
-| 0.5–1.5% | 17% | 17% |  |
+| 0.0–0.5% | 81% | 100% | Last Result, Median |
+| 0.5–1.5% | 19% | 19% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Piratenpartei Deutschland (Greens/EFA)
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 83% | 100% | Last Result, Median |
-| 0.5–1.5% | 17% | 17% |  |
+| 0.0–0.5% | 81% | 100% | Last Result, Median |
+| 0.5–1.5% | 19% | 19% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -334,15 +334,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 1 | 21 | 19–22 |18–22 | 18–23 | 17–24 |
+| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 1 | 21 | 19–22 |18–23 | 17–23 | 17–25 |
 | <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 13 | 11–14 |11–14 | 10–15 | 10–16 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 23 | 21–25 |21–26 | 20–26 | 20–27 |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 7 | 6–9 |6–9 | 6–9 | 6–10 |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 8 | 6–9 |6–9 | 6–9 | 6–10 |
 | <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 12 | 11–14 |10–14 | 10–15 | 9–15 |
-| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 6 | 5–7 |5–7 | 5–7 | 4–8 |
-| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 8 | 7–9 |6–9 | 6–10 | 6–10 |
+| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 6 | 5–6 |5–7 | 4–7 | 4–8 |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 8 | 7–9 |6–9 | 6–9 | 6–10 |
 | <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 1 | 1 |1–2 | 1–2 | 0–2 |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
@@ -367,12 +367,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 4% | 99.9% |  |
-| 11 | 20% | 96% |  |
-| 12 | 24% | 76% |  |
-| 13 | 37% | 52% | Median |
-| 14 | 12% | 15% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.9% | 0.9% |  |
+| 11 | 22% | 96% |  |
+| 12 | 15% | 74% |  |
+| 13 | 41% | 58% | Median |
+| 14 | 13% | 17% |  |
+| 15 | 3% | 4% |  |
+| 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
@@ -391,14 +391,14 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.7% | 100% |  |
-| 10 | 6% | 99.3% |  |
-| 11 | 25% | 94% |  |
-| 12 | 20% | 68% | Median |
-| 13 | 21% | 48% |  |
-| 14 | 24% | 28% |  |
-| 15 | 3% | 4% |  |
-| 16 | 0.1% | 0.3% |  |
+| 9 | 0.8% | 100% |  |
+| 10 | 6% | 99.2% |  |
+| 11 | 29% | 93% |  |
+| 12 | 23% | 64% | Median |
+| 13 | 23% | 41% |  |
+| 14 | 15% | 18% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.1% | 0.4% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
@@ -415,11 +415,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 7% | 99.9% |  |
-| 7 | 18% | 93% |  |
-| 8 | 41% | 74% | Median |
-| 9 | 30% | 33% |  |
-| 10 | 3% | 3% |  |
+| 6 | 8% | 99.9% |  |
+| 7 | 21% | 92% |  |
+| 8 | 36% | 71% | Median |
+| 9 | 32% | 34% |  |
+| 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
@@ -436,10 +436,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 15% | 99.9% |  |
-| 7 | 38% | 85% | Median |
-| 8 | 35% | 46% |  |
-| 9 | 10% | 11% |  |
+| 6 | 17% | 99.9% |  |
+| 7 | 31% | 82% |  |
+| 8 | 39% | 52% | Median |
+| 9 | 11% | 13% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
 
@@ -471,13 +471,13 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 0% | 100% |  |
 | 19 | 0.3% | 100% |  |
 | 20 | 3% | 99.7% |  |
-| 21 | 17% | 97% |  |
-| 22 | 19% | 80% |  |
-| 23 | 14% | 61% | Median |
-| 24 | 19% | 47% |  |
-| 25 | 20% | 28% |  |
-| 26 | 8% | 8% |  |
-| 27 | 0.3% | 0.6% |  |
+| 21 | 19% | 96% |  |
+| 22 | 20% | 77% |  |
+| 23 | 14% | 57% | Median |
+| 24 | 11% | 43% |  |
+| 25 | 22% | 31% |  |
+| 26 | 9% | 10% |  |
+| 27 | 0.4% | 0.7% |  |
 | 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
@@ -505,15 +505,15 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 2% | 100% |  |
-| 18 | 5% | 98% |  |
-| 19 | 15% | 93% |  |
-| 20 | 16% | 77% |  |
-| 21 | 41% | 61% | Median |
-| 22 | 15% | 19% |  |
-| 23 | 3% | 4% |  |
-| 24 | 0.6% | 1.0% |  |
-| 25 | 0.4% | 0.4% |  |
+| 17 | 3% | 100% |  |
+| 18 | 5% | 97% |  |
+| 19 | 17% | 92% |  |
+| 20 | 17% | 75% |  |
+| 21 | 36% | 58% | Median |
+| 22 | 16% | 21% |  |
+| 23 | 4% | 5% |  |
+| 24 | 0.7% | 1.2% |  |
+| 25 | 0.5% | 0.5% |  |
 | 26 | 0% | 0% |  |
 
 ### Christlich-Soziale Union in Bayern (EPP)
@@ -527,11 +527,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 44% | 61% | Median |
-| 7 | 16% | 17% |  |
-| 8 | 0.6% | 0.6% |  |
+| 4 | 3% | 100% |  |
+| 5 | 41% | 97% |  |
+| 6 | 47% | 57% | Median |
+| 7 | 9% | 10% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
 ### Die PARTEI (Greens/EFA)
@@ -542,9 +542,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 77% | 98.8% | Last Result, Median |
-| 2 | 22% | 22% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 73% | 98.7% | Last Result, Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 ### Freie Wähler (RE)
@@ -556,8 +556,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.8% | 100% |  |
-| 1 | 91% | 99.2% | Last Result, Median |
-| 2 | 8% | 8% |  |
+| 1 | 90% | 99.2% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
@@ -568,9 +568,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 75% | 76% | Last Result, Median |
-| 2 | 0.5% | 0.5% |  |
+| 0 | 16% | 100% |  |
+| 1 | 83% | 84% | Last Result, Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Ökologisch-Demokratische Partei (Greens/EFA)
@@ -581,9 +581,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Median |
-| 1 | 41% | 41% | Last Result |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 53% | 100% | Median |
+| 1 | 47% | 47% | Last Result |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Familienpartei Deutschlands (ECR)
@@ -594,8 +594,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% | Last Result |
+| 0 | 72% | 100% | Median |
+| 1 | 28% | 28% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
@@ -606,8 +606,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 27% | 27% | Last Result |
+| 0 | 70% | 100% | Median |
+| 1 | 30% | 30% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Piratenpartei Deutschland (Greens/EFA)
@@ -618,8 +618,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Median |
-| 1 | 40% | 40% | Last Result |
+| 0 | 54% | 100% | Median |
+| 1 | 46% | 46% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -631,7 +631,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 26 | 0% | 24–28 | 24–29 | 23–29 | 23–30 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 26 | 0% | 24–28 | 23–29 | 23–29 | 23–31 |
 | Alternative für Deutschland (ID) | 1 | 12 | 0% | 11–14 | 10–14 | 10–15 | 9–15 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 13 | 0% | 11–14 | 11–14 | 10–15 | 10–16 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 9 | 0% | 8–10 | 7–10 | 7–11 | 7–12 |
@@ -663,14 +663,14 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.1% | 100% |  |
-| 23 | 4% | 99.9% |  |
-| 24 | 10% | 95% |  |
-| 25 | 20% | 86% |  |
-| 26 | 19% | 65% |  |
-| 27 | 16% | 46% | Median |
-| 28 | 25% | 30% |  |
-| 29 | 4% | 5% |  |
-| 30 | 0.3% | 0.7% |  |
+| 23 | 5% | 99.9% |  |
+| 24 | 11% | 95% |  |
+| 25 | 23% | 84% |  |
+| 26 | 20% | 61% |  |
+| 27 | 17% | 42% | Median |
+| 28 | 19% | 25% |  |
+| 29 | 5% | 6% |  |
+| 30 | 0.3% | 0.8% |  |
 | 31 | 0.5% | 0.5% |  |
 | 32 | 0% | 0% |  |
 
@@ -688,14 +688,14 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.7% | 100% |  |
-| 10 | 6% | 99.3% |  |
-| 11 | 25% | 94% |  |
-| 12 | 20% | 68% | Median |
-| 13 | 21% | 48% |  |
-| 14 | 24% | 28% |  |
-| 15 | 3% | 4% |  |
-| 16 | 0.1% | 0.3% |  |
+| 9 | 0.8% | 100% |  |
+| 10 | 6% | 99.2% |  |
+| 11 | 29% | 93% |  |
+| 12 | 23% | 64% | Median |
+| 13 | 23% | 41% |  |
+| 14 | 15% | 18% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.1% | 0.4% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
@@ -715,12 +715,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 4% | 99.9% |  |
-| 11 | 20% | 96% |  |
-| 12 | 24% | 76% |  |
-| 13 | 37% | 52% | Median |
-| 14 | 12% | 15% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.9% | 0.9% |  |
+| 11 | 22% | 96% |  |
+| 12 | 15% | 74% |  |
+| 13 | 41% | 58% | Median |
+| 14 | 13% | 17% |  |
+| 15 | 3% | 4% |  |
+| 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE) – Freie Wähler (RE)
@@ -734,11 +734,11 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 6% | 99.9% |  |
-| 8 | 18% | 94% |  |
-| 9 | 40% | 76% | Median |
-| 10 | 31% | 36% |  |
-| 11 | 4% | 5% |  |
+| 7 | 7% | 99.9% |  |
+| 8 | 20% | 93% |  |
+| 9 | 35% | 72% | Median |
+| 10 | 33% | 37% |  |
+| 11 | 3% | 4% |  |
 | 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
@@ -746,6 +746,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 4.80%

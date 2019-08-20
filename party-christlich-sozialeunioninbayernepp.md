@@ -10,30 +10,33 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.2–6.9% | 4.9–7.2% | 4.8–7.4% | 4.4–8.0% |
-| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.2% | 4.9–7.6% |
+| N/A | [Poll Average](average.html) | 6.0% | 5.1–6.9% | 4.9–7.2% | 4.7–7.5% | 4.4–8.0% |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.3% |
+| [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 5.5% | N/A | N/A | N/A | N/A |
+| [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 5.9% | N/A | N/A | N/A | N/A |
+| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 6.0% | N/A | N/A | N/A | N/A |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.7–6.8% | 4.5–7.2% |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 5.7% | 5.1–6.4% | 5.0–6.5% | 4.8–6.7% | 4.6–7.0% |
-| [2–5 August 2019](2019-08-05-INSA.html) | INSA | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
+| [2–5 August 2019](2019-08-05-INSA.html) | INSA | 6.5% | N/A | N/A | N/A | N/A |
 | [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.1–6.9% | 4.9–7.0% | 4.6–7.4% |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–7.0% | 4.3–7.4% |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 5.7% | 5.0–6.6% | 4.8–6.8% | 4.6–7.0% | 4.3–7.5% |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 5.6% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
-| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.7–7.4% |
+| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 5.5% | N/A | N/A | N/A | N/A |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.7% |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–7.0% | 4.3–7.4% |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 6.2% | 5.6–6.9% | 5.4–7.1% | 5.2–7.3% | 5.0–7.7% |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 5.8% | N/A | N/A | N/A | N/A |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.7–7.4% |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5.9% | 5.2–6.6% | 5.0–6.8% | 4.9–7.0% | 4.6–7.4% |
-| [12–15 July 2019](2019-07-15-INSA.html) | INSA | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.8–6.8% | 4.5–7.1% |
+| [12–15 July 2019](2019-07-15-INSA.html) | INSA | 6.0% | N/A | N/A | N/A | N/A |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.7–6.8% | 4.5–7.1% |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 6.4% | 5.6–7.4% | 5.4–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 5.7% | 5.1–6.3% | 5.0–6.5% | 4.8–6.7% | 4.6–7.0% |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 5.9% | 5.3–6.6% | 5.1–6.8% | 5.0–7.0% | 4.7–7.4% |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 6.2% | N/A | N/A | N/A | N/A |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.7–6.8% | 4.5–7.1% |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 5.4% | 4.8–6.3% | 4.6–6.5% | 4.4–6.7% | 4.1–7.1% |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 5.7% | 5.2–6.2% | 5.0–6.4% | 4.9–6.6% | 4.6–6.8% |
@@ -71,10 +74,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 25% | 99.0% |  |
-| 5.5–6.5% | 54% | 74% | Median |
-| 6.5–7.5% | 17% | 19% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 26% | 98.9% |  |
+| 5.5–6.5% | 53% | 73% | Median |
+| 6.5–7.5% | 18% | 20% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -88,30 +91,33 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [12–16 August 2019](2019-08-16-Forsa.html) | Forsa |  |  |  |  |  |
+| [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [9–11 August 2019](2019-08-11-INSA.html) | INSA |  |  |  |  |  |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [2–5 August 2019](2019-08-05-INSA.html) | INSA | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [2–5 August 2019](2019-08-05-INSA.html) | INSA |  |  |  |  |  |
 | [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 6 | 6 | 6 | 6 | 5–6 |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [26–29 July 2019](2019-07-29-INSA.html) | INSA |  |  |  |  |  |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5 | 4–5 | 4–6 | 4–7 |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [19–22 July 2019](2019-07-22-INSA.html) | INSA | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [19–22 July 2019](2019-07-22-INSA.html) | INSA |  |  |  |  |  |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 4 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 4–6 | 4–7 | 4–8 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [12–15 July 2019](2019-07-15-INSA.html) | INSA | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [12–15 July 2019](2019-07-15-INSA.html) | INSA |  |  |  |  |  |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -150,11 +156,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 44% | 61% | Median |
-| 7 | 16% | 17% |  |
-| 8 | 0.6% | 0.6% |  |
+| 4 | 3% | 100% |  |
+| 5 | 41% | 97% |  |
+| 6 | 47% | 57% | Median |
+| 7 | 9% | 10% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
 
