@@ -97,7 +97,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
-| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 1 | 1 | 1 | 0–1 | 0–1 |
+| [26–29 July 2019](2019-07-29-INSA.html) | INSA | 1 | 1 | 1 | 1 | 0–1 |
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1 | 1–2 |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -146,8 +146,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 91% | 98.9% | Last Result, Median |
+| 0 | 0.7% | 100% |  |
+| 1 | 91% | 99.3% | Last Result, Median |
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
