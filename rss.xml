@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Aug 2019 10:33:38 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 15:31:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA, 16–19 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-19-INSA.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-08-20T19:48:15.29933+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid-seats.png"
+        length="272620"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 14:56:22 +0200</pubDate>
+      <dc:date>2019-08-25T14:56:22.999245+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid-coalitions-seats.png"
+        length="172888"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 14:56:22 +0200</pubDate>
+      <dc:date>2019-08-25T14:56:22.999245+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 8–14 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.5–15.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.5–15.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.2–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.3–23.0%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.9–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-14-Emnid.png"
         length="374118"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2019 21:26:21 +0200</pubDate>
-      <dc:date>2019-08-23T21:26:21.862751+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 14:56:22 +0200</pubDate>
+      <dc:date>2019-08-25T14:56:22.999245+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA, 9–11 August 2019 – Seat Projections for the Parties</title>
@@ -236,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-02-Forsa.png"
         length="364829"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2019 23:36:53 +0200</pubDate>
-      <dc:date>2019-08-06T23:36:53.305689+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 15:31:37 +0200</pubDate>
+      <dc:date>2019-08-25T15:31:37.424664+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 29–31 July 2019 – Seat Projections for the Parties</title>
@@ -1489,6 +1509,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-08-25T10:33:38.593207+02:00</dc:date>
+    <dc:date>2019-08-25T15:31:37.424664+02:00</dc:date>
   </channel>
 </rss>
