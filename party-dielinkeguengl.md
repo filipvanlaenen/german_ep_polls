@@ -97,7 +97,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–19 August 2019](2019-08-19-INSA.html) | INSA | 8 | 8 | 7–8 | 7–8 | 6–9 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
-| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [9–11 August 2019](2019-08-11-INSA.html) | INSA | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
