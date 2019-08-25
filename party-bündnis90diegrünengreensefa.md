@@ -114,13 +114,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [16–19 August 2019](2019-08-19-INSA.html) | INSA | 23 | 23 | 23 | 23–24 | 22–26 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 23 | 23 | 23 | 22–24 | 22–25 |
-| [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20–21 | 20–22 | 19–22 | 19–23 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 22 | 21–24 | 21–24 | 19–24 | 19–25 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [6–8 August 2019](2019-08-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 22–24 | 22–25 | 22–25 | 21–26 |
 | [1–7 August 2019](2019-08-07-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–23 | 20–23 | 19–23 | 19–23 |
 | [2–5 August 2019](2019-08-05-INSA.html) | INSA | 21 | 21–24 | 21–24 | 21–24 | 21–25 |
-| [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 22 | 22 | 22 | 22 | 20–22 |
+| [29 July–2 August 2019](2019-08-02-Forsa.html) | Forsa | 22 | 22 | 22 | 22 | 20–23 |
 | [29–31 July 2019](2019-07-31-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 23–26 | 22–26 | 22–27 | 22–28 |
 | [25–31 July 2019](2019-07-31-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [26–29 July 2019](2019-07-29-YouGov.html) | YouGov | 23 | 21–24 | 21–25 | 21–25 | 21–25 |
