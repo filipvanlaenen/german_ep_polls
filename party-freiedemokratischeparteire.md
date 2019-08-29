@@ -11,8 +11,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 7.0–9.5% | 6.7–9.9% | 6.4–10.1% | 5.8–10.7% |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
+| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.4–9.9% |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 8.9% | 8.1–9.8% | 7.9–10.0% | 7.7–10.2% | 7.4–10.6% |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
@@ -94,8 +99,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 10 | 9–10 | 8–10 | 8–10 | 7–11 |
+| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 9 | 8–9 | 8–9 | 6–9 | 6–9 |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 8 | 8 | 7–8 | 7–9 | 7–9 |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 8 | 8 | 8 | 7–8 |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8 | 8 | 8–11 | 7–11 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 9 | 8–9 | 8–9 | 8–9 | 7–11 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 7 | 7–8 | 7–9 | 6–9 | 6–9 |

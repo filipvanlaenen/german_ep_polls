@@ -11,8 +11,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.1–15.5% | 10.5–16.4% |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.9–14.3% | 11.6–14.6% | 11.2–15.0% |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.1–16.2% | 11.5–17.0% |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | 13.9–16.2% | 13.6–16.6% | 13.3–16.9% | 12.8–17.5% |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 12.9% | 12.0–13.9% | 11.7–14.2% | 11.5–14.4% | 11.1–14.9% |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.5% | 11.2–16.1% |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.7% | 12.1–16.2% |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.2–13.9% |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
@@ -100,8 +105,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 12 | 12 | 12 | 12–13 | 11–14 |
+| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 12 | 11–14 | 10–14 | 10–14 | 10–14 |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11 | 11 | 11 | 11–13 |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14 | 14 | 14 | 12–14 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 11 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 11 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
