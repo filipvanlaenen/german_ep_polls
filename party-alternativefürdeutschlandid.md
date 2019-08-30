@@ -105,13 +105,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–15 | 9–15 |
-| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
-| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 13 | 13 | 13 | 12–14 |
-| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 12–16 | 12–16 | 11–16 | 11–16 |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 15 | 14–15 | 14–15 | 14–15 | 11–15 |
+| [23–26 August 2019](2019-08-26-INSA.html) | INSA | 15 | 14–15 | 13–15 | 13–15 | 13–16 |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 13 | 11–15 | 11–15 | 11–15 | 11–15 |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–16 | 12–16 | 12–16 | 11–16 |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–14 | 12–14 | 12–14 | 11–16 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 14 | 14–15 | 13–15 | 13–15 | 11–15 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 12 | 12 | 12–13 | 11–13 | 11–13 |
-| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 12 | 12–13 | 10–13 | 10–16 | 10–16 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 12 | 12–13 | 11–13 | 11–14 | 10–14 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 14 | 12–15 | 12–16 | 12–16 | 12–16 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
