@@ -103,7 +103,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [16–19 August 2019](2019-08-19-INSA.html) | INSA | 5 | 5 | 5 | 5 | 4–6 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 6 | 6 | 6–7 | 6–7 | 5–7 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 5 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
