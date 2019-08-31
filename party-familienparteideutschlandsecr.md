@@ -90,12 +90,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0 | 0 |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0–1 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 1 | 1 | 1 | 0–1 | 0–1 |
-| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

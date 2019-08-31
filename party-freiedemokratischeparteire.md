@@ -100,12 +100,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 8 | 8 | 8–9 | 7–9 | 6–9 |
-| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
-| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–7 | 6–7 | 5–7 | 5–9 |
-| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 9 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 7 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [16–19 August 2019](2019-08-19-INSA.html) | INSA | 9 | 9 | 9 | 9–10 | 7–10 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 6 | 6–8 | 6–8 | 6–8 | 5–10 |
+| [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [9–11 August 2019](2019-08-11-INSA.html) | INSA | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [5–9 August 2019](2019-08-09-Forsa.html) | Forsa | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
