@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.3% | 22.4–26.3% | 21.9–26.9% | 21.5–27.4% | 20.7–28.3% |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 23.5% | 22.3–24.8% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 22.5% | 21.3–23.7% | 21.0–24.0% | 20.7–24.3% | 20.1–24.9% |
+| [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 22.0% | 20.6–23.4% | 20.2–23.8% | 19.9–24.2% | 19.3–24.9% |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.6–25.5% |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.7–28.6% |
@@ -117,6 +120,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 22 | 19–22 | 19–22 | 19–24 | 19–25 |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 21 | 20–22 | 20–24 | 20–24 | 20–24 |
+| [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–23 | 20–23 | 20–24 | 19–24 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 24 | 22–24 | 22–24 | 22–24 | 21–25 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 23 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 23–24 | 23–25 | 22–25 | 22–26 |

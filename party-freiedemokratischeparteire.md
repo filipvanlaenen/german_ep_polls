@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 7.0–9.5% | 6.7–9.9% | 6.4–10.1% | 5.8–10.7% |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.5% | 7.6–11.0% |
+| [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.2–7.9% | 5.9–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
@@ -99,6 +102,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 8 | 8 | 8–9 | 7–9 | 6–9 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 7 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
