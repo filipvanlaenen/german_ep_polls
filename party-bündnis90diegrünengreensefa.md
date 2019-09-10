@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 23.0% | N/A | N/A | N/A | N/A |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 23.0% | 21.6–24.4% | 21.3–24.8% | 20.9–25.2% | 20.3–25.9% |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.0% | 22.5–25.6% | 22.1–26.1% | 21.7–26.4% | 21.0–27.2% |
+| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21.0% | N/A | N/A | N/A | N/A |
 | [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 23.5% | N/A | N/A | N/A | N/A |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 22.5% | 21.3–23.7% | 21.0–24.0% | 20.7–24.3% | 20.1–24.9% |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 22.0% | 20.6–23.4% | 20.2–23.8% | 19.9–24.2% | 19.3–24.9% |
@@ -126,6 +127,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 24 | 24 | 24 | 21–24 | 20–24 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 21–22 | 21–24 | 21–24 | 21–24 |
+| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [30 August–2 September 2019](2019-09-02-INSA.html) | INSA |  |  |  |  |  |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
