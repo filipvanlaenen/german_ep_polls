@@ -11,6 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.9% | 5.1–6.9% | 4.9–7.2% | 4.7–7.4% | 4.4–8.0% |
+| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 5.9% | 5.2–6.7% | 5.1–7.0% | 4.9–7.1% | 4.7–7.5% |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 5.9% | N/A | N/A | N/A | N/A |
+| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 6.1% | N/A | N/A | N/A | N/A |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 5.9% | N/A | N/A | N/A | N/A |
+| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 5.9% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.6% | 4.6–8.1% |
@@ -104,6 +109,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS |  |  |  |  |  |
+| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov |  |  |  |  |  |
+| [6–9 September 2019](2019-09-09-INSA.html) | INSA |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
