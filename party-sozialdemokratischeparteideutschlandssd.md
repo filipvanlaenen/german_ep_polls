@@ -13,10 +13,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.1–15.5% | 10.5–16.4% |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 13.5% | 12.6–14.5% | 12.3–14.8% | 12.1–15.0% | 11.6–15.5% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
-| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 16.0% | N/A | N/A | N/A | N/A |
-| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | N/A | N/A | N/A | N/A |
-| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 15.0% | N/A | N/A | N/A | N/A |
-| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 13.5% | N/A | N/A | N/A | N/A |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
+| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | 15.2–16.9% | 14.9–17.2% | 14.7–17.4% | 14.3–17.9% |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 15.0% | 13.9–16.2% | 13.6–16.5% | 13.4–16.8% | 12.8–17.4% |
+| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 13.5% | 12.5–14.5% | 12.3–14.8% | 12.1–15.0% | 11.6–15.5% |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.3–15.9% | 11.8–16.4% |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15.0% | 13.8–16.4% | 13.5–16.8% | 13.2–17.1% | 12.6–17.8% |
@@ -119,11 +119,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 12 | 12 | 12 | 12 | 12 |
-| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa |  |  |  |  |  |
-| [6–12 September 2019](2019-09-12-GMS.html) | GMS |  |  |  |  |  |
-| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov |  |  |  |  |  |
-| [6–9 September 2019](2019-09-09-INSA.html) | INSA |  |  |  |  |  |
+| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 14 | 14–15 | 14–15 | 14–15 | 12–15 |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 15 | 15 | 15 | 15 | 15 |
+| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15 | 14–15 | 14–15 | 14–15 |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 14 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 14 | 13–14 | 13–14 | 13–15 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
