@@ -104,15 +104,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 1 | 1 | 1 | 1 | 0–1 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
-| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1 |
-| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0 | 0 |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0 | 0–1 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0–1 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 0 | 0 | 0 | 0–1 | 0–1 |
