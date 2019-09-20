@@ -130,15 +130,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
-| [13–16 September 2019](2019-09-16-INSA.html) | INSA | 20 | 20 | 20 | 20 | 20–21 |
+| [13–16 September 2019](2019-09-16-INSA.html) | INSA | 20 | 20–23 | 20–23 | 20–23 | 20–23 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 19 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 22 | 22–24 | 20–24 | 19–24 | 18–24 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20–22 | 20–22 | 19–22 | 18–22 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 20 | 19–22 | 19–22 | 19–22 | 19–22 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 21 | 19–22 | 19–22 | 19–22 | 18–24 |
-| [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 21 | 21–22 | 21–22 | 21–22 | 20–25 |
+| [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21–22 | 21–23 | 21–23 | 21–23 |
-| [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 21–22 | 21–24 | 21–24 | 21–24 |
+| [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 21–23 | 21–23 | 19–24 | 19–25 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 18–22 | 18–24 | 18–24 | 18–24 |
 | [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 22 | 19–22 | 19–22 | 19–24 | 19–25 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
