@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 16:02:03 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 07:50:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA, 13–16 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-16-INSA.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-13-Forsa.png"
         length="368167"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 20:31:05 +0200</pubDate>
-      <dc:date>2019-09-17T20:31:05.791116+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 07:50:08 +0200</pubDate>
+      <dc:date>2019-09-20T07:50:08.153182+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GMS, 6–12 September 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-09-INSA.png"
         length="366018"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 11:32:07 +0200</pubDate>
-      <dc:date>2019-09-18T11:32:07.187096+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 08:02:02 +0200</pubDate>
+      <dc:date>2019-09-19T08:02:02.179369+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 2–6 September 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-06-Forsa.png"
         length="364049"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 18:13:25 +0200</pubDate>
-      <dc:date>2019-09-13T18:13:25.90115+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 08:15:19 +0200</pubDate>
+      <dc:date>2019-09-19T08:15:19.62644+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 3–4 September 2019 – Voting Intentions</title>
@@ -1829,6 +1829,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T16:02:03.762305+02:00</dc:date>
+    <dc:date>2019-09-20T07:50:08.153182+02:00</dc:date>
   </channel>
 </rss>
