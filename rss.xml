@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 20:25:18 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 23:27:00 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA, 13–16 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-16-INSA.html</link>
@@ -80,14 +80,34 @@
       <dc:date>2019-09-20T16:21:58.466912+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 3–4 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13–16 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap-seats.png"
+        length="282150"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 23:27:00 +0200</pubDate>
+      <dc:date>2019-09-20T23:27:00.752179+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 3–4 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap-coalitions-seats.png"
+        length="173520"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 23:27:00 +0200</pubDate>
+      <dc:date>2019-09-20T23:27:00.752179+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Infratest dimap for ARD, 3–4 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.3–15.9%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.3–16.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.9–25.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.1–23.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–7.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.9–2.0%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.9%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-04-Infratestdimap.png"
         length="376983"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 20:25:18 +0200</pubDate>
-      <dc:date>2019-09-20T20:25:18.595452+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 23:27:00 +0200</pubDate>
+      <dc:date>2019-09-20T23:27:00.752179+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 2–4 September 2019 – Voting Intentions</title>
@@ -1829,6 +1849,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T20:25:18.595452+02:00</dc:date>
+    <dc:date>2019-09-20T23:27:00.752179+02:00</dc:date>
   </channel>
 </rss>
