@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 1.2% | 0.9–1.5% | 0.8–1.6% | 0.8–1.8% | 0.7–2.0% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 0.9% | N/A | N/A | N/A | N/A |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0.8% | 0.7–1.1% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 1.3% | 1.0–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.3% |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 1.1% | 0.8–1.4% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
@@ -106,6 +107,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 0–1 | 0–1 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
