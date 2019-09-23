@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 20.7% | 19.6–21.9% | 19.3–22.2% | 19.0–22.5% | 18.5–23.1% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.6–22.6% | 19.3–23.0% | 18.8–23.5% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
-| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 22.7% | N/A | N/A | N/A | N/A |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 22.7% | 21.2–24.3% | 20.8–24.7% | 20.5–25.1% | 19.8–25.9% |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.9–22.9% | 20.7–23.2% | 20.4–23.5% | 20.0–24.0% |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 21.1% | 19.9–22.5% | 19.5–22.9% | 19.2–23.2% | 18.6–23.9% |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.6–22.6% | 19.4–22.9% | 18.9–23.5% |
@@ -131,11 +131,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 18–22 | 18–23 | 17–24 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 20 | 19–21 | 19–21 | 19–22 | 18–23 |
-| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 17–20 | 17–21 | 17–25 | 17–25 |
+| [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 19 | 19–22 | 19–22 | 18–23 | 18–23 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 19 | 19–20 | 19–20 | 19–20 | 19–21 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 21 | 20–22 | 20–22 | 19–22 | 18–22 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 20 | 18–21 | 18–21 | 18–21 | 17–24 |
-| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 22 | 22 | 21–22 | 21–22 | 21–23 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21 | 19–21 | 19–22 | 19–23 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 20 | 20–21 | 20–22 | 20–22 | 19–22 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 21 | 19–22 | 19–22 | 19–22 | 18–22 |
