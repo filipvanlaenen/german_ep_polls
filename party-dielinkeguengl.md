@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.9% | 6.7–9.0% | 6.5–9.3% | 6.2–9.6% | 5.8–10.2% |
-| [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 7.0% | N/A | N/A | N/A | N/A |
+| [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | N/A | N/A | N/A | N/A |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
