@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 11:47:44 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 13:54:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Forsa, 16–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-20-Forsa.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-20-Forsa.png"
         length="369977"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 08:53:21 +0200</pubDate>
-      <dc:date>2019-09-23T08:53:21.133359+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 13:54:30 +0200</pubDate>
+      <dc:date>2019-09-24T13:54:30.736015+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 17–18 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–16 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap-seats.png"
+        length="300482"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 13:23:45 +0200</pubDate>
+      <dc:date>2019-09-24T13:23:45.132831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 17–18 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap-coalitions-seats.png"
+        length="202650"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 13:23:45 +0200</pubDate>
+      <dc:date>2019-09-24T13:23:45.132831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 17–18 September 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap.png"
         length="389048"
         type="image/png"/>
-      <pubDate>Tue, 24 Sep 2019 11:47:44 +0200</pubDate>
-      <dc:date>2019-09-24T11:47:44.746665+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 13:23:45 +0200</pubDate>
+      <dc:date>2019-09-24T13:23:45.132831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 12–18 September 2019 – Voting Intentions</title>
@@ -1909,6 +1929,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T11:47:44.746665+02:00</dc:date>
+    <dc:date>2019-09-24T13:54:30.736015+02:00</dc:date>
   </channel>
 </rss>
