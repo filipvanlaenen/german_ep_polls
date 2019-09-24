@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 23:27:34 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 11:47:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Forsa, 16–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-20-Forsa.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Infratestdimap.png"
         length="389048"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 15:40:13 +0200</pubDate>
-      <dc:date>2019-09-23T15:40:13.844421+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 11:47:44 +0200</pubDate>
+      <dc:date>2019-09-24T11:47:44.746665+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 12–18 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-18-Emnid.png"
         length="371432"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 23:27:34 +0200</pubDate>
-      <dc:date>2019-09-23T23:27:34.917926+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 08:53:20 +0200</pubDate>
+      <dc:date>2019-09-24T08:53:20.842284+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA, 13–16 September 2019 – Voting Intentions</title>
@@ -1909,6 +1909,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T23:27:34.917926+02:00</dc:date>
+    <dc:date>2019-09-24T11:47:44.746665+02:00</dc:date>
   </channel>
 </rss>
