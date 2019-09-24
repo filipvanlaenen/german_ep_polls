@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 0.9% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 1.2% | 0.9–1.5% | 0.8–1.6% | 0.8–1.8% | 0.7–2.0% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
@@ -108,6 +109,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 0–2 |

@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.1–15.5% | 10.5–16.4% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.2% | 11.4–16.9% |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | 13.9–16.2% | 13.6–16.5% | 13.4–16.8% | 12.8–17.4% |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 13.5% | 12.6–14.5% | 12.3–14.8% | 12.1–15.0% | 11.6–15.5% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
@@ -123,12 +124,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 16 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 11–14 | 11–14 | 11–16 | 11–16 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 14 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 14 | 14–15 | 13–15 | 13–16 | 13–16 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 14 | 12–16 | 12–17 | 12–17 | 12–17 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 14 | 14 | 14 | 13–14 | 12–15 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 16 | 16 | 15–16 | 15–16 | 14–16 |
-| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 14 | 14 | 14 | 13–15 | 12–16 |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 14 | 14 | 13–15 | 13–16 | 12–17 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 12 | 11–13 | 11–13 | 11–14 | 11–15 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–16 | 13–16 | 13–16 | 11–16 |

@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5.9% | 5.1–6.9% | 4.9–7.2% | 4.7–7.4% | 4.4–8.0% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 5.9% | 5.2–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5.9% | 5.1–6.9% | 4.8–7.2% | 4.6–7.5% | 4.3–8.0% |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.3–7.6% | 4.9–8.1% |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.9% | 4.6–7.3% |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 5.9% | 5.3–6.7% | 5.1–6.9% | 5.0–7.1% | 4.7–7.4% |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
@@ -115,12 +116,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7 | 7–9 | 7–9 | 6–9 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 6 | 6 | 6 | 6 | 5–6 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 7 | 7 | 6–7 | 6–7 | 5–7 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6 | 6–7 | 6–7 | 5–7 |
-| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 5 | 5 | 5–6 | 5–6 | 5–7 |
+| [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
