@@ -123,12 +123,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 7 | 7 | 6–7 | 6–7 | 5–7 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [6–9 September 2019](2019-09-09-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 5 | 5 | 4–5 | 4–5 | 4–6 |
