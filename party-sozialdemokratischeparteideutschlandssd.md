@@ -137,8 +137,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–16 | 13–16 | 13–16 | 11–16 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 15 | 15 | 14–17 | 14–17 |
-| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 14 | 13–14 | 13–14 | 13–14 | 13–15 |
-| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 14 | 14–15 | 14–15 | 13–16 | 13–17 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 14 | 12–14 | 12–14 | 12–15 | 12–15 |
@@ -218,12 +218,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.6% | 100% |  |
 | 11 | 2% | 99.4% |  |
 | 12 | 27% | 97% |  |
-| 13 | 22% | 70% | Median |
-| 14 | 28% | 48% |  |
-| 15 | 16% | 20% |  |
-| 16 | 3% | 3% |  |
-| 17 | 0.8% | 0.9% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 13 | 24% | 70% | Median |
+| 14 | 26% | 46% |  |
+| 15 | 16% | 21% |  |
+| 16 | 3% | 5% |  |
+| 17 | 1.3% | 1.4% |  |
+| 18 | 0% | 0% |  |
 
 

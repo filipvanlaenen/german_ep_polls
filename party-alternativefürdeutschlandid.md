@@ -121,7 +121,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–15 | 10–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–15 | 11–15 | 10–15 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
@@ -136,8 +136,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 11–13 | 11–13 | 11–15 | 11–15 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–15 | 12–15 | 12–15 | 11–15 |
-| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 14 | 14–15 | 14–15 | 14–15 | 13–15 |
-| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 12 | 11–12 | 11–12 | 11–13 | 10–14 |
+| [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 14 | 12–15 | 12–15 | 12–16 | 12–16 |
+| [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 12–15 | 12–15 | 11–15 | 11–17 |
 | [23–26 August 2019](2019-08-26-INSA.html) | INSA | 15 | 14–15 | 13–15 | 13–15 | 13–16 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
@@ -214,11 +214,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 0.5% | 99.9% |  |
-| 11 | 9% | 99.4% |  |
-| 12 | 32% | 90% |  |
-| 13 | 9% | 58% | Median |
-| 14 | 31% | 50% |  |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 9% | 99.2% |  |
+| 12 | 29% | 91% |  |
+| 13 | 11% | 61% |  |
+| 14 | 31% | 50% | Median |
 | 15 | 19% | 19% |  |
 | 16 | 0.3% | 0.5% |  |
 | 17 | 0.2% | 0.2% |  |
