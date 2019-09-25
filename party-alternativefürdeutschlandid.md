@@ -122,10 +122,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 11–15 | 11–15 | 10–15 |
-| [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
+| [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 12 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
-| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
-| [13–16 September 2019](2019-09-16-INSA.html) | INSA | 16 | 16 | 16 | 16 | 14–17 |
+| [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 13 | 13 | 13–14 | 12–16 |
+| [13–16 September 2019](2019-09-16-INSA.html) | INSA | 16 | 15–16 | 15–16 | 14–17 | 14–17 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 15 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 12 | 11–13 | 10–13 | 10–13 | 9–13 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 12 | 12–14 | 12–14 | 12–15 | 11–15 |
