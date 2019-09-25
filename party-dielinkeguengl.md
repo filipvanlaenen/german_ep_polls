@@ -115,20 +115,20 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 5 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 8 | 7–8 | 6–8 | 6–9 |
 | [30 August–2 September 2019](2019-09-02-INSA.html) | INSA | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -205,10 +205,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
 | 6 | 19% | 99.2% |  |
-| 7 | 46% | 80% | Median |
-| 8 | 32% | 34% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.4% | 0.4% |  |
-| 11 | 0% | 0% |  |
+| 7 | 45% | 80% | Median |
+| 8 | 32% | 35% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.2% | 0.3% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
