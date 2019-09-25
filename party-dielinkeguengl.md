@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.4–9.7% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.4% | 5.8–10.0% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
@@ -97,13 +97,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.8% | 100% |  |
-| 5.5–6.5% | 15% | 99.2% |  |
-| 6.5–7.5% | 43% | 85% | Median |
-| 7.5–8.5% | 33% | 42% |  |
-| 8.5–9.5% | 8% | 9% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 7% | 99.8% |  |
+| 6.5–7.5% | 35% | 93% |  |
+| 7.5–8.5% | 42% | 58% | Median |
+| 8.5–9.5% | 15% | 16% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,8 +121,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 8 | 7–9 | 6–9 | 6–9 | 5–11 |
-| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 8 | 8 | 8 | 7–9 | 6–9 |
+| [6–12 September 2019](2019-09-12-GMS.html) | GMS | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -202,12 +203,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.9% | 100% |  |
-| 6 | 39% | 99.1% |  |
-| 7 | 45% | 60% | Median |
-| 8 | 14% | 15% |  |
-| 9 | 1.3% | 2% |  |
-| 10 | 0.3% | 0.3% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 19% | 99.2% |  |
+| 7 | 46% | 80% | Median |
+| 8 | 32% | 34% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 
