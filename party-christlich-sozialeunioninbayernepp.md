@@ -117,7 +117,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [20–23 September 2019](2019-09-23-INSA.html) | INSA | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [20–23 September 2019](2019-09-23-INSA.html) | INSA | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -128,7 +128,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [6–10 September 2019](2019-09-10-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [6–9 September 2019](2019-09-09-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 6 | 6 | 5–6 | 5–6 | 4–7 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -205,8 +205,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 43% | 62% | Median |
+| 5 | 41% | 98% |  |
+| 6 | 39% | 57% | Median |
 | 7 | 17% | 18% |  |
 | 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% |  |
