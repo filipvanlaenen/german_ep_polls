@@ -124,7 +124,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [13–16 September 2019](2019-09-16-INSA.html) | INSA | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 6 | 6 | 6 | 6 | 5–6 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 6 | 6 | 5–6 | 5–6 | 4–6 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [5–11 September 2019](2019-09-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
