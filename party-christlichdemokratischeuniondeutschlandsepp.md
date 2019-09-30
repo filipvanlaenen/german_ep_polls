@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.7–23.0% | 19.3–23.5% | 19.0–24.0% | 18.3–25.0% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.7–22.9% | 19.3–23.5% | 19.0–24.0% | 18.3–24.9% |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.6–22.7% | 19.4–23.0% | 18.8–23.5% |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.4% | 18.4–24.2% |
-| [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | N/A | N/A | N/A | N/A |
+| [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | 19.9–22.4% | 19.5–22.8% | 19.3–23.1% | 18.7–23.8% |
 | [20–23 September 2019](2019-09-23-INSA.html) | INSA | 20.3% | 19.2–21.5% | 18.9–21.8% | 18.6–22.1% | 18.1–22.7% |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.6–22.7% | 19.4–23.0% | 18.8–23.6% |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | 19.5–22.8% | 19.1–23.2% | 18.7–23.6% | 18.0–24.5% |
@@ -114,15 +114,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 7% | 99.0% |  |
+| 17.5–18.5% | 0.8% | 99.9% |  |
+| 18.5–19.5% | 7% | 99.1% |  |
 | 19.5–20.5% | 22% | 92% |  |
-| 20.5–21.5% | 32% | 70% | Median |
-| 21.5–22.5% | 23% | 39% |  |
-| 22.5–23.5% | 11% | 16% |  |
-| 23.5–24.5% | 4% | 5% |  |
-| 24.5–25.5% | 0.9% | 1.1% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
+| 20.5–21.5% | 32% | 71% | Median |
+| 21.5–22.5% | 23% | 38% |  |
+| 22.5–23.5% | 10% | 15% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 0.8% | 1.0% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -135,9 +135,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
-| [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 20 | 20 | 20–21 | 19–21 | 18–22 |
+| [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 18–22 | 18–22 | 18–23 | 18–23 |
-| [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [20–23 September 2019](2019-09-23-INSA.html) | INSA | 20 | 19–21 | 18–21 | 18–21 | 17–21 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 18–23 | 18–23 | 18–23 | 17–23 |
@@ -239,12 +239,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.6% | 100% |  |
-| 18 | 7% | 99.4% |  |
-| 19 | 11% | 93% |  |
-| 20 | 38% | 82% | Median |
-| 21 | 15% | 44% |  |
-| 22 | 25% | 29% |  |
-| 23 | 4% | 4% |  |
+| 18 | 6% | 99.4% |  |
+| 19 | 21% | 93% |  |
+| 20 | 28% | 72% | Median |
+| 21 | 17% | 44% |  |
+| 22 | 23% | 27% |  |
+| 23 | 3% | 4% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
