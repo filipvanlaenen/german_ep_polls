@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 0.4% | N/A | N/A | N/A | N/A |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 0.4% | N/A | N/A | N/A | N/A |
+| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 0.3% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 0.4% | 0.3–0.7% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
@@ -115,6 +116,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa |  |  |  |  |  |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov |  |  |  |  |  |
+| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -203,8 +205,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Median |
-| 1 | 33% | 33% | Last Result |
+| 0 | 68% | 100% | Median |
+| 1 | 32% | 32% | Last Result |
 | 2 | 0% | 0% |  |
 
 
