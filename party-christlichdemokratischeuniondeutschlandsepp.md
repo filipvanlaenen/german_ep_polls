@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.7–22.9% | 19.3–23.5% | 19.0–24.0% | 18.3–24.9% |
+| N/A | [Poll Average](average.html) | 21.3% | 19.9–23.0% | 19.5–23.6% | 19.1–24.0% | 18.4–25.0% |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 20.3% | N/A | N/A | N/A | N/A |
+| [27–30 September 2019](2019-09-30-INSA.html) | INSA | 20.7% | N/A | N/A | N/A | N/A |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 21.1% | 20.0–22.3% | 19.6–22.7% | 19.4–23.0% | 18.8–23.5% |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.4% | 18.4–24.2% |
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | 19.9–22.4% | 19.5–22.8% | 19.3–23.1% | 18.7–23.8% |
@@ -113,16 +116,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.8% | 99.9% |  |
-| 18.5–19.5% | 7% | 99.1% |  |
-| 19.5–20.5% | 22% | 92% |  |
-| 20.5–21.5% | 32% | 71% | Median |
-| 21.5–22.5% | 23% | 38% |  |
-| 22.5–23.5% | 10% | 15% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.8% | 1.0% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.7% | 99.9% |  |
+| 18.5–19.5% | 5% | 99.2% |  |
+| 19.5–20.5% | 19% | 94% |  |
+| 20.5–21.5% | 33% | 75% | Median |
+| 21.5–22.5% | 26% | 42% |  |
+| 22.5–23.5% | 12% | 17% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 0.9% | 1.1% |  |
+| 25.5–26.5% | 0.1% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -134,7 +137,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
+| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–22 | 18–23 | 18–23 |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa |  |  |  |  |  |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov |  |  |  |  |  |
+| [27–30 September 2019](2019-09-30-INSA.html) | INSA |  |  |  |  |  |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 18–22 | 18–22 | 18–23 | 18–23 |
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–22 | 19–22 | 18–22 | 18–22 |
@@ -238,13 +244,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 6% | 99.4% |  |
-| 19 | 18% | 93% |  |
-| 20 | 29% | 75% | Median |
-| 21 | 18% | 46% |  |
-| 22 | 25% | 29% |  |
-| 23 | 3% | 4% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 6% | 99.6% |  |
+| 19 | 17% | 94% |  |
+| 20 | 27% | 76% | Median |
+| 21 | 17% | 50% |  |
+| 22 | 29% | 33% |  |
+| 23 | 4% | 4% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
