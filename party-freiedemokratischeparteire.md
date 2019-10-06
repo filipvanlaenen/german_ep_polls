@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.8–9.0% | 5.5–9.4% | 5.2–9.7% | 4.8–10.3% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.9% | 5.5–9.3% | 5.3–9.7% | 4.9–10.2% |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 8.0% | N/A | N/A | N/A | N/A |
-| [27–30 September 2019](2019-09-30-INSA.html) | INSA | 8.0% | N/A | N/A | N/A | N/A |
+| [27–30 September 2019](2019-09-30-INSA.html) | INSA | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6.0% | 5.3–7.0% | 5.1–7.2% | 4.9–7.5% | 4.5–7.9% |
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.9–8.3% | 5.5–8.7% |
@@ -104,11 +104,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 27% | 94% |  |
-| 6.5–7.5% | 32% | 67% | Median |
-| 7.5–8.5% | 19% | 35% |  |
-| 8.5–9.5% | 12% | 16% |  |
+| 4.5–5.5% | 5% | 99.9% |  |
+| 5.5–6.5% | 24% | 95% |  |
+| 6.5–7.5% | 30% | 71% | Median |
+| 7.5–8.5% | 24% | 41% |  |
+| 8.5–9.5% | 13% | 16% |  |
 | 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -125,7 +125,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa |  |  |  |  |  |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov |  |  |  |  |  |
-| [27–30 September 2019](2019-09-30-INSA.html) | INSA |  |  |  |  |  |
+| [27–30 September 2019](2019-09-30-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
@@ -217,12 +217,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
-| 5 | 17% | 99.7% |  |
-| 6 | 23% | 83% |  |
-| 7 | 30% | 60% | Median |
-| 8 | 20% | 29% |  |
-| 9 | 9% | 9% |  |
-| 10 | 0.4% | 0.4% |  |
+| 5 | 15% | 99.7% |  |
+| 6 | 26% | 85% |  |
+| 7 | 27% | 59% | Median |
+| 8 | 24% | 32% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.3% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 
