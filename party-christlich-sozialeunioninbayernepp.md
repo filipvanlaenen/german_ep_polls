@@ -11,9 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.0% | 5.2–6.8% | 5.0–7.1% | 4.8–7.4% | 4.4–7.9% |
-| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 6.1% | N/A | N/A | N/A | N/A |
-| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 5.7% | N/A | N/A | N/A | N/A |
-| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 5.9% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 6.1% | 5.4–6.8% | 5.3–7.1% | 5.1–7.3% | 4.8–7.6% |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 5.7% | 5.0–6.5% | 4.8–6.7% | 4.6–6.9% | 4.3–7.3% |
+| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 5.9% | 5.1–6.7% | 4.9–7.0% | 4.8–7.2% | 4.4–7.6% |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.2% |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.7–7.3% | 4.4–7.8% |
@@ -122,9 +122,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa |  |  |  |  |  |
-| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov |  |  |  |  |  |
-| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
