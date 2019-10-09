@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.2% | 5.8–8.9% | 5.5–9.3% | 5.3–9.7% | 4.9–10.2% |
+| [4–7 October 2019](2019-10-07-INSA.html) | INSA | 8.5% | 7.8–9.3% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
+| [1–7 October 2019](2019-10-07-GMS.html) | GMS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
@@ -124,7 +126,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
-| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [4–7 October 2019](2019-10-07-INSA.html) | INSA | 7 | 7 | 7 | 7 | 7 |
+| [1–7 October 2019](2019-10-07-GMS.html) | GMS | 8 | 8–9 | 7–9 | 6–9 | 5–9 |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 7 | 7 | 7–8 | 7–9 | 6–9 |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
