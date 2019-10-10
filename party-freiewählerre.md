@@ -118,8 +118,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [4–7 October 2019](2019-10-07-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1 |
-| [1–7 October 2019](2019-10-07-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–7 October 2019](2019-10-07-INSA.html) | INSA | 1 | 1 | 1 | 1 | 0–2 |
+| [1–7 October 2019](2019-10-07-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
