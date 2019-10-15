@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.0% | 12.2–15.9% | 11.7–16.4% | 11.2–16.8% | 10.4–17.5% |
+| [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.9–15.2% | 12.6–15.6% | 12.4–15.9% | 11.9–16.5% |
+| [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.4–16.7% | 13.0–17.2% |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.6% | 14.0–18.2% |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
@@ -133,6 +136,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
+| [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 14 | 14 | 14 | 14 | 12–17 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 13 | 13 | 12–13 | 10–13 | 10–14 |
