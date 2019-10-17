@@ -149,11 +149,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–25 | 19–26 | 19–26 | 18–27 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 23 | 21–23 | 21–23 | 21–23 | 21–23 |
-| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21–23 | 21–23 | 21–24 | 20–25 |
+| [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–24 | 21–24 | 21–25 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19–20 | 19–21 | 18–21 | 18–22 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 21 | 21 | 20–21 | 20–22 | 18–22 |
-| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 21 | 21–22 | 20–22 | 20–22 | 20–22 |
+| [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 19 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 21 | 20–22 | 20–22 | 19–22 | 18–23 |
