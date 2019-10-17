@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 17 Oct 2019 12:14:05 +0200</pubDate>
+    <pubDate>Thu, 17 Oct 2019 15:02:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Forsa, 7–11 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-11-Forsa.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-10-15T19:19:30.707958+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 7–9 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap-seats.png"
+        length="269605"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 15:02:22 +0200</pubDate>
+      <dc:date>2019-10-17T15:02:22.370497+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 7–9 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap-coalitions-seats.png"
+        length="172003"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 15:02:22 +0200</pubDate>
+      <dc:date>2019-10-17T15:02:22.370497+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Infratest dimap for ARD, 7–9 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.4–14.8%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.4–15.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.9–26.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.9–24.0%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.0–7.5%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-09-Infratestdimap.png"
         length="369599"
         type="image/png"/>
-      <pubDate>Tue, 15 Oct 2019 19:35:09 +0200</pubDate>
-      <dc:date>2019-10-15T19:35:09.070569+02:00</dc:date>
+      <pubDate>Thu, 17 Oct 2019 15:02:22 +0200</pubDate>
+      <dc:date>2019-10-17T15:02:22.370497+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emnid for Bild am Sonntag, 2–9 October 2019 – Voting Intentions</title>
@@ -60,14 +80,34 @@
       <dc:date>2019-10-10T19:04:11.350081+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Forsa, 30 September–4 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa-seats.png"
+        length="273099"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 13:22:05 +0200</pubDate>
+      <dc:date>2019-10-17T13:22:05.172151+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 30 September–4 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa-coalitions-seats.png"
+        length="180175"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 13:22:05 +0200</pubDate>
+      <dc:date>2019-10-17T13:22:05.172151+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 30 September–4 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11.6–14.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.2–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.1–23.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.1–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1.0–2.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.9–2.0%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-04-Forsa.png"
         length="370641"
         type="image/png"/>
-      <pubDate>Thu, 17 Oct 2019 12:14:05 +0200</pubDate>
-      <dc:date>2019-10-17T12:14:05.404298+02:00</dc:date>
+      <pubDate>Thu, 17 Oct 2019 13:22:05 +0200</pubDate>
+      <dc:date>2019-10-17T13:22:05.172151+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 27 September–1 October 2019 – Voting Intentions</title>
@@ -2399,6 +2439,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-10-17T12:14:05.404298+02:00</dc:date>
+    <dc:date>2019-10-17T15:02:22.370497+02:00</dc:date>
   </channel>
 </rss>
