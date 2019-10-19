@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.3% | 12.5–16.5% | 12.1–17.0% | 11.8–17.4% | 11.3–18.3% |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | N/A | N/A | N/A | N/A |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.6% | 12.1–16.1% |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 16.0% | N/A | N/A | N/A | N/A |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.6% | 12.0–16.1% |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
@@ -137,7 +139,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–16 | 11–17 | 11–17 | 11–17 |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–13 | 11–13 | 11–14 | 11–14 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–15 | 12–16 | 11–16 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 12 | 12–14 | 12–14 | 12–14 | 11–14 |
