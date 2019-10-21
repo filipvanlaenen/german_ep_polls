@@ -11,9 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.5% | 20.8–26.1% | 20.3–27.4% | 19.9–28.1% | 19.2–29.2% |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | N/A | N/A | N/A | N/A |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.5% |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 23.0% | 21.8–24.3% | 21.5–24.6% | 21.2–25.0% | 20.6–25.6% |
-| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 23.5% | N/A | N/A | N/A | N/A |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 23.5% | 22.0–25.1% | 21.6–25.6% | 21.2–26.0% | 20.5–26.7% |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 24.0% | 22.6–25.5% | 22.2–25.9% | 21.9–26.2% | 21.3–26.9% |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 21.0% | 19.8–22.2% | 19.5–22.6% | 19.2–22.9% | 18.7–23.5% |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 21.0% | 19.9–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
@@ -150,9 +150,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–25 | 19–26 | 19–26 | 18–27 |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21 | 21 | 21–22 | 21–23 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 21 | 21–23 | 21–23 | 20–23 | 20–24 |
-| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 21 | 21 | 21 | 21 | 21 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–24 | 21–24 | 21–25 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 18–22 | 18–22 | 18–22 | 18–23 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 20 | 19–21 | 19–21 | 19–21 | 18–23 |
