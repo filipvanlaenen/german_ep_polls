@@ -138,9 +138,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 15 | 15 | 12–15 | 11–15 |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–15 | 12–16 | 11–16 | 11–16 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
-| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 16 | 16 | 16 | 16 | 16 |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–15 | 13–16 | 13–16 | 13–17 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
