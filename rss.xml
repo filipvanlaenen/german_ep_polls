@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 22 Oct 2019 18:00:10 +0200</pubDate>
+    <pubDate>Tue, 22 Oct 2019 20:13:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 14–16 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-16-Infratestdimap.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-16-Infratestdimap.png"
         length="387950"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 17:19:20 +0200</pubDate>
-      <dc:date>2019-10-22T17:19:20.161009+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 20:13:59 +0200</pubDate>
+      <dc:date>2019-10-22T20:13:59.250938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 7–11 October 2019 – Seat Projections for the Parties</title>
@@ -50,14 +50,34 @@
       <dc:date>2019-10-17T18:14:27.320565+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Allensbach, 29 September–10 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–26 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–24 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach-seats.png"
+        length="299465"
+        type="image/png"/>
+      <pubDate>Tue, 22 Oct 2019 19:01:14 +0200</pubDate>
+      <dc:date>2019-10-22T19:01:14.828223+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach, 29 September–10 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach-coalitions-seats.png"
+        length="190199"
+        type="image/png"/>
+      <pubDate>Tue, 22 Oct 2019 19:01:14 +0200</pubDate>
+      <dc:date>2019-10-22T19:01:14.828223+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Allensbach, 29 September–10 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.1–18.2%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.2–8.0%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.2–26.0%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.8–25.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.2–8.0%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach.png"
         length="376776"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 18:00:10 +0200</pubDate>
-      <dc:date>2019-10-22T18:00:10.762791+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 19:01:14 +0200</pubDate>
+      <dc:date>2019-10-22T19:01:14.828223+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 7–9 October 2019 – Seat Projections for the Parties</title>
@@ -2559,6 +2579,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-10-22T18:00:10.762791+02:00</dc:date>
+    <dc:date>2019-10-22T20:13:59.250938+02:00</dc:date>
   </channel>
 </rss>
