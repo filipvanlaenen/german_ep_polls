@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.9% | 5.5–9.3% | 5.3–9.7% | 4.9–10.2% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.0–8.8% | 5.7–9.1% | 5.4–9.4% | 4.9–9.9% |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 6.5% | 5.6–7.5% | 5.4–7.7% | 5.2–8.0% | 4.8–8.5% |
@@ -112,13 +112,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 24% | 95% |  |
-| 6.5–7.5% | 30% | 71% | Median |
-| 7.5–8.5% | 24% | 41% |  |
-| 8.5–9.5% | 13% | 16% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 19% | 96% |  |
+| 6.5–7.5% | 30% | 77% | Median |
+| 7.5–8.5% | 32% | 47% |  |
+| 8.5–9.5% | 14% | 16% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -130,10 +130,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–9 | 5–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 7 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–7 | 6–7 | 6–8 | 6–9 |
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 8 | 8 | 8 | 8 | 7–9 |
@@ -233,12 +233,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
-| 5 | 15% | 99.7% |  |
-| 6 | 21% | 85% |  |
-| 7 | 30% | 64% | Median |
-| 8 | 26% | 34% |  |
-| 9 | 9% | 9% |  |
-| 10 | 0.3% | 0.4% |  |
+| 5 | 3% | 99.7% |  |
+| 6 | 29% | 96% |  |
+| 7 | 37% | 68% | Median |
+| 8 | 29% | 30% |  |
+| 9 | 1.2% | 2% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 
