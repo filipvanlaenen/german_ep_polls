@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Oct 2019 19:14:26 +0200</pubDate>
+    <pubDate>Tue, 22 Oct 2019 18:00:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 14–16 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-10-16-Infratestdimap.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-16-Infratestdimap.png"
         length="387950"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 07:00:09 +0200</pubDate>
-      <dc:date>2019-10-21T07:00:09.771672+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 17:19:20 +0200</pubDate>
+      <dc:date>2019-10-22T17:19:20.161009+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 7–11 October 2019 – Seat Projections for the Parties</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-10-Allensbach.png"
         length="376776"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 19:14:26 +0200</pubDate>
-      <dc:date>2019-10-21T19:14:26.026136+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 18:00:10 +0200</pubDate>
+      <dc:date>2019-10-22T18:00:10.762791+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 7–9 October 2019 – Seat Projections for the Parties</title>
@@ -2559,6 +2559,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-10-21T19:14:26.026136+02:00</dc:date>
+    <dc:date>2019-10-22T18:00:10.762791+02:00</dc:date>
   </channel>
 </rss>
