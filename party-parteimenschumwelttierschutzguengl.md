@@ -128,10 +128,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
-| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
+| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [11–14 October 2019](2019-10-14-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -230,9 +230,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 72% | 74% | Last Result, Median |
-| 2 | 1.2% | 1.2% |  |
+| 0 | 22% | 100% |  |
+| 1 | 77% | 78% | Last Result, Median |
+| 2 | 1.3% | 1.3% |  |
 | 3 | 0% | 0% |  |
 
 

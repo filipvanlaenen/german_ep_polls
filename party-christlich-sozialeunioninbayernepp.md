@@ -133,12 +133,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
-| [18–21 October 2019](2019-10-21-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 6 | 6 | 5–6 | 5–6 | 5–7 |
-| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [18–21 October 2019](2019-10-21-INSA.html) | INSA | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
-| [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–14 October 2019](2019-10-14-INSA.html) | INSA | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 7 | 6–7 | 5–7 | 5–8 | 4–8 |
@@ -241,10 +241,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 5% | 100% |  |
-| 5 | 15% | 95% |  |
-| 6 | 57% | 80% | Median |
-| 7 | 20% | 23% |  |
-| 8 | 2% | 3% |  |
+| 5 | 35% | 95% |  |
+| 6 | 43% | 60% | Median |
+| 7 | 16% | 17% |  |
+| 8 | 0.6% | 0.7% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
