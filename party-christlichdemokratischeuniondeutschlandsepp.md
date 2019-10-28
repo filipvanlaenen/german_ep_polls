@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.0% | 20.1–23.8% | 19.6–24.3% | 19.2–24.7% | 18.4–25.6% |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 22.7% | 21.6–23.8% | 21.3–24.1% | 21.1–24.4% | 20.6–24.9% |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 22.7% | 21.3–24.2% | 20.9–24.6% | 20.6–25.0% | 19.9–25.7% |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 22.7% | 21.3–24.2% | 20.9–24.6% | 20.6–24.9% | 20.0–25.7% |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.7–22.6% | 19.4–23.0% | 18.9–23.5% |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 21.1% | 20.1–22.2% | 19.8–22.5% | 19.6–22.8% | 19.1–23.3% |
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.7% | 21.2–24.3% | 20.8–24.7% | 20.4–25.1% | 19.7–25.9% |
@@ -153,9 +153,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 19–23 | 18–24 | 17–24 |
-| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 21 | 21 | 21 | 21 | 21–23 |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
+| [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 21 | 21–24 | 21–24 | 21–24 | 20–24 |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21–22 | 21–22 | 20–23 | 19–24 |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 19 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 19 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
@@ -275,14 +275,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 1.1% | 100% |  |
-| 18 | 4% | 98.9% |  |
-| 19 | 13% | 95% |  |
-| 20 | 32% | 82% | Median |
-| 21 | 30% | 50% |  |
-| 22 | 9% | 19% |  |
-| 23 | 7% | 10% |  |
-| 24 | 2% | 3% |  |
+| 17 | 0.9% | 100% |  |
+| 18 | 3% | 99.0% |  |
+| 19 | 12% | 96% |  |
+| 20 | 28% | 84% |  |
+| 21 | 29% | 55% | Median |
+| 22 | 16% | 27% |  |
+| 23 | 7% | 11% |  |
+| 24 | 4% | 4% |  |
 | 25 | 0.2% | 0.3% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
