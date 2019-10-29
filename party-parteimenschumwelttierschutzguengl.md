@@ -133,8 +133,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
-| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
 | [11–14 October 2019](2019-10-14-INSA.html) | INSA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
@@ -236,7 +236,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 24% | 100% |  |
 | 1 | 75% | 76% | Last Result, Median |
-| 2 | 1.5% | 1.5% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 

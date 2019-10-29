@@ -153,15 +153,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–24 | 18–24 | 18–25 | 17–26 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
-| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 18–20 | 17–20 | 17–20 | 16–24 |
+| [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 18–20 | 18–20 | 17–21 | 16–22 |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 22 | 20–22 | 19–23 | 19–23 | 19–23 |
 | [14–18 October 2019](2019-10-18-Forsa.html) | Forsa | 21 | 20–21 | 19–22 | 19–22 | 19–23 |
-| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24 | 21–25 | 21–25 | 21–25 | 19–26 |
-| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 21–23 | 19–23 | 19–23 | 19–24 |
+| [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
+| [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 20–23 | 19–23 | 17–23 | 17–24 |
 | [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19 | 19–20 | 17–20 | 17–21 |
-| [11–14 October 2019](2019-10-14-INSA.html) | INSA | 20 | 19–20 | 19–20 | 19–21 | 19–22 |
+| [11–14 October 2019](2019-10-14-INSA.html) | INSA | 20 | 19–20 | 19–21 | 19–22 | 19–23 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 21 | 21–23 | 21–23 | 20–23 | 20–24 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 22 | 21–25 | 21–26 | 20–26 | 19–26 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–24 | 21–24 | 21–24 | 21–25 |
@@ -274,17 +274,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 0.5% | 99.7% |  |
-| 18 | 7% | 99.2% |  |
-| 19 | 21% | 92% |  |
-| 20 | 10% | 71% |  |
-| 21 | 20% | 61% | Median |
-| 22 | 22% | 41% |  |
-| 23 | 8% | 19% |  |
-| 24 | 8% | 11% |  |
-| 25 | 2% | 3% |  |
-| 26 | 1.0% | 1.0% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.7% | 99.8% |  |
+| 18 | 6% | 99.2% |  |
+| 19 | 21% | 93% |  |
+| 20 | 12% | 72% |  |
+| 21 | 19% | 59% | Median |
+| 22 | 23% | 40% |  |
+| 23 | 10% | 18% |  |
+| 24 | 5% | 7% |  |
+| 25 | 1.1% | 2% |  |
+| 26 | 1.1% | 1.1% |  |
 | 27 | 0% | 0% |  |
 
 
