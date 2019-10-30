@@ -145,7 +145,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1–2 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -236,8 +236,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.3% | 100% |  |
-| 1 | 69% | 98.7% | Last Result, Median |
-| 2 | 30% | 30% |  |
+| 1 | 72% | 98.7% | Last Result, Median |
+| 2 | 27% | 27% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

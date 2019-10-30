@@ -137,7 +137,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–17 October 2019](2019-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [14–16 October 2019](2019-10-16-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 October 2019](2019-10-16-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
-| [11–14 October 2019](2019-10-14-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1–2 |
+| [11–14 October 2019](2019-10-14-INSA.html) | INSA | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–11 October 2019](2019-10-11-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -145,7 +145,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–7 October 2019](2019-10-07-INSA.html) | INSA | 1 | 1 | 1 | 1 | 0–1 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 September–1 October 2019](2019-10-01-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [27–30 September 2019](2019-09-30-INSA.html) | INSA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -236,8 +236,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 70% | 96% | Last Result, Median |
-| 2 | 26% | 26% |  |
+| 1 | 75% | 96% | Last Result, Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
