@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.7–16.1% | 12.3–16.7% | 12.0–17.1% | 11.4–18.0% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.9–16.4% | 12.5–17.0% | 12.2–17.4% | 11.6–18.3% |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 13.5% | N/A | N/A | N/A | N/A |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 16.0% | N/A | N/A | N/A | N/A |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 13.5% | N/A | N/A | N/A | N/A |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 14.0% | 13.1–14.9% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | 13.8–16.3% | 13.5–16.6% | 13.2–16.9% | 12.7–17.6% |
@@ -126,15 +129,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.8% | 100% |  |
-| 11.5–12.5% | 7% | 99.2% |  |
-| 12.5–13.5% | 21% | 93% |  |
-| 13.5–14.5% | 31% | 72% | Median |
-| 14.5–15.5% | 23% | 40% |  |
-| 15.5–16.5% | 12% | 18% |  |
-| 16.5–17.5% | 5% | 6% |  |
-| 17.5–18.5% | 1.1% | 1.2% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 5% | 99.5% |  |
+| 12.5–13.5% | 18% | 95% |  |
+| 13.5–14.5% | 29% | 76% | Median |
+| 14.5–15.5% | 24% | 47% |  |
+| 15.5–16.5% | 15% | 23% |  |
+| 16.5–17.5% | 7% | 9% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -146,7 +149,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–17 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA |  |  |  |  |  |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA |  |  |  |  |  |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 14 | 13–14 | 12–14 | 12–15 | 11–15 |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–17 | 13–17 | 13–17 | 12–17 |
@@ -262,15 +268,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.5% | 100% |  |
-| 11 | 5% | 99.5% |  |
-| 12 | 13% | 94% |  |
-| 13 | 25% | 82% |  |
-| 14 | 34% | 57% | Median |
-| 15 | 11% | 23% |  |
-| 16 | 7% | 12% |  |
-| 17 | 5% | 5% |  |
-| 18 | 0.3% | 0.3% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 1.3% | 99.7% |  |
+| 12 | 14% | 98% |  |
+| 13 | 25% | 84% |  |
+| 14 | 32% | 60% | Median |
+| 15 | 15% | 27% |  |
+| 16 | 8% | 12% |  |
+| 17 | 4% | 5% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 
