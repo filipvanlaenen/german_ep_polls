@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 15 Nov 2019 13:58:37 +0100</pubDate>
+    <pubDate>Sat, 16 Nov 2019 20:43:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA, 8–11 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–10 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19–21 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–20 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA-seats.png"
+        length="261730"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:05:05 +0100</pubDate>
+      <dc:date>2019-11-16T11:05:05.823409+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 8–11 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA-coalitions-seats.png"
+        length="173119"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:05:05 +0100</pubDate>
+      <dc:date>2019-11-16T11:05:05.823409+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA, 8–11 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-11-INSA.png"
         length="369617"
         type="image/png"/>
-      <pubDate>Fri, 15 Nov 2019 08:31:53 +0100</pubDate>
-      <dc:date>2019-11-15T08:31:53.018728+01:00</dc:date>
+      <pubDate>Sat, 16 Nov 2019 11:05:05 +0100</pubDate>
+      <dc:date>2019-11-16T11:05:05.823409+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 4–8 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-08-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–10 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19–21 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–20 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-08-Forsa-seats.png"
+        length="262438"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 13:19:42 +0100</pubDate>
+      <dc:date>2019-11-16T13:19:42.916519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 4–8 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-08-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-08-Forsa-coalitions-seats.png"
+        length="152470"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 13:19:42 +0100</pubDate>
+      <dc:date>2019-11-16T13:19:42.916519+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 4–8 November 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-08-Forsa.png"
         length="374910"
         type="image/png"/>
-      <pubDate>Fri, 15 Nov 2019 10:51:04 +0100</pubDate>
-      <dc:date>2019-11-15T10:51:04.475611+01:00</dc:date>
+      <pubDate>Sat, 16 Nov 2019 13:19:42 +0100</pubDate>
+      <dc:date>2019-11-16T13:19:42.916519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 5–7 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-07-ForschungsgruppeWahlen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 18–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-07-ForschungsgruppeWahlen-seats.png"
+        length="299528"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 20:43:12 +0100</pubDate>
+      <dc:date>2019-11-16T20:43:12.898195+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 5–7 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-11-07-ForschungsgruppeWahlen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-07-ForschungsgruppeWahlen-coalitions-seats.png"
+        length="196388"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 20:43:12 +0100</pubDate>
+      <dc:date>2019-11-16T20:43:12.898195+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 5–7 November 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-11-07-ForschungsgruppeWahlen.png"
         length="388562"
         type="image/png"/>
-      <pubDate>Fri, 15 Nov 2019 12:21:29 +0100</pubDate>
-      <dc:date>2019-11-15T12:21:29.668155+01:00</dc:date>
+      <pubDate>Sat, 16 Nov 2019 20:43:12 +0100</pubDate>
+      <dc:date>2019-11-16T20:43:12.898195+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 4–6 November 2019 – Voting Intentions</title>
@@ -2889,6 +2949,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-11-15T13:58:37.355338+01:00</dc:date>
+    <dc:date>2019-11-16T20:43:12.898195+01:00</dc:date>
   </channel>
 </rss>
