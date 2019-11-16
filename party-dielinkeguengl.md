@@ -149,10 +149,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
-| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 9 | 9 | 9 | 9–10 | 9–10 |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
-| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 8–12 | 7–12 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 9 | 9 | 9–10 | 9–10 | 8–10 |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 9 | 9 | 8–10 | 8–10 | 8–10 |
@@ -271,12 +271,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 11% | 98% |  |
-| 9 | 55% | 87% | Median |
-| 10 | 11% | 31% |  |
-| 11 | 12% | 20% |  |
-| 12 | 8% | 8% |  |
+| 7 | 1.2% | 100% |  |
+| 8 | 18% | 98.8% |  |
+| 9 | 57% | 81% | Median |
+| 10 | 13% | 24% |  |
+| 11 | 9% | 11% |  |
+| 12 | 1.4% | 1.4% |  |
 | 13 | 0% | 0% |  |
 
 

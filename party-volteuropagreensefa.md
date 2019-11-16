@@ -138,8 +138,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0 |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -253,8 +253,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Median |
-| 1 | 36% | 36% | Last Result |
+| 0 | 53% | 100% | Median |
+| 1 | 47% | 47% | Last Result |
 | 2 | 0% | 0% |  |
 
 

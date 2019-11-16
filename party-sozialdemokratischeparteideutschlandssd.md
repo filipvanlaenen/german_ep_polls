@@ -155,10 +155,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–16 | 11–16 | 11–16 | 11–17 |
-| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 16 | 15–16 | 15–16 | 14–16 | 14–16 |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 14 | 11–14 | 11–14 | 11–14 | 11–14 |
-| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–16 | 11–17 | 11–17 |
+| [8–11 November 2019](2019-11-11-INSA.html) | INSA | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
+| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–16 | 12–16 | 10–16 | 10–16 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 11 | 11 | 11–12 | 11–12 | 11–14 |
@@ -281,13 +281,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 18% | 100% |  |
-| 12 | 8% | 82% |  |
-| 13 | 15% | 74% |  |
-| 14 | 28% | 60% | Median |
-| 15 | 16% | 32% |  |
-| 16 | 13% | 15% |  |
-| 17 | 2% | 2% |  |
+| 11 | 16% | 100% |  |
+| 12 | 9% | 84% |  |
+| 13 | 19% | 75% |  |
+| 14 | 19% | 55% | Median |
+| 15 | 29% | 36% |  |
+| 16 | 5% | 7% |  |
+| 17 | 3% | 3% |  |
 | 18 | 0% | 0% |  |
 
 

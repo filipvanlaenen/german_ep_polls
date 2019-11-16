@@ -144,10 +144,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5 | 5 | 5–6 | 4–7 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 6 | 6 | 5–6 | 5–6 | 5–6 |
@@ -263,11 +263,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 27% | 87% |  |
-| 6 | 59% | 61% | Median |
-| 7 | 1.4% | 1.5% |  |
-| 8 | 0.1% | 0.1% |  |
+| 4 | 4% | 100% |  |
+| 5 | 28% | 96% |  |
+| 6 | 61% | 69% | Median |
+| 7 | 7% | 8% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 
