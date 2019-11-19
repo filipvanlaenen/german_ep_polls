@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.9–10.9% | 8.6–11.2% | 8.4–11.5% | 8.0–12.1% |
-| [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 10.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.5% | 8.1–12.0% |
+| [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 10.0% | 9.2–11.0% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 9.0% | N/A | N/A | N/A | N/A |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | N/A | N/A | N/A | N/A |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.8% | 7.9–11.3% |
@@ -135,10 +135,10 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 4% | 100% |  |
-| 8.5–9.5% | 32% | 96% |  |
-| 9.5–10.5% | 45% | 64% | Median |
-| 10.5–11.5% | 17% | 19% |  |
+| 7.5–8.5% | 3% | 100% |  |
+| 8.5–9.5% | 30% | 97% |  |
+| 9.5–10.5% | 47% | 67% | Median |
+| 10.5–11.5% | 18% | 20% |  |
 | 11.5–12.5% | 2% | 2% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
