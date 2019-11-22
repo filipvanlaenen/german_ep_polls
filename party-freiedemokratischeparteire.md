@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.5–9.2% | 6.2–9.6% | 6.0–9.9% | 5.5–10.4% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.3–9.4% | 6.1–9.7% | 5.9–10.0% | 5.5–10.5% |
+| [15–18 November 2019](2019-11-18-INSA.html) | INSA | 8.5% | N/A | N/A | N/A | N/A |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 7.0% | N/A | N/A | N/A | N/A |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | N/A | N/A | N/A | N/A |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 7.5% | N/A | N/A | N/A | N/A |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
@@ -132,13 +134,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.5% | 100% |  |
-| 5.5–6.5% | 11% | 99.5% |  |
-| 6.5–7.5% | 32% | 88% |  |
-| 7.5–8.5% | 31% | 56% | Median |
-| 8.5–9.5% | 20% | 25% |  |
-| 9.5–10.5% | 5% | 5% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 0.7% | 100% |  |
+| 5.5–6.5% | 15% | 99.3% |  |
+| 6.5–7.5% | 36% | 84% | Median |
+| 7.5–8.5% | 22% | 48% |  |
+| 8.5–9.5% | 20% | 27% |  |
+| 9.5–10.5% | 6% | 7% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -150,10 +152,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–8 | 6–8 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [15–18 November 2019](2019-11-18-INSA.html) | INSA |  |  |  |  |  |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa |  |  |  |  |  |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -273,12 +277,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 49% | 98% | Median |
-| 7 | 31% | 49% |  |
-| 8 | 15% | 19% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 5 | 3% | 100% |  |
+| 6 | 73% | 97% | Median |
+| 7 | 20% | 24% |  |
+| 8 | 3% | 4% |  |
+| 9 | 0.2% | 0.2% |  |
+| 10 | 0% | 0% |  |
 
 
