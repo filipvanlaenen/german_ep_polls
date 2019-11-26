@@ -149,7 +149,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1 | 1 | 1 | 1–2 |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 1 | 1 | 1 | 0–1 | 0–2 |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -265,9 +265,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 91% | 98.9% | Last Result, Median |
-| 2 | 8% | 8% |  |
+| 0 | 0.8% | 100% |  |
+| 1 | 90% | 99.2% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 
