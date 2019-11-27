@@ -22,10 +22,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.5–11.7% | 8.1–12.2% |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.9–8.4% | 5.5–8.8% |
-| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 8.0% | N/A | N/A | N/A | N/A |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | N/A | N/A | N/A | N/A |
-| [25–28 October 2019](2019-10-28-INSA.html) | INSA | 7.5% | N/A | N/A | N/A | N/A |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
+| [25–28 October 2019](2019-10-28-INSA.html) | INSA | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
@@ -163,11 +163,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 9–11 | 9–11 | 8–11 | 7–11 |
-| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [1–4 November 2019](2019-11-04-INSA.html) | INSA |  |  |  |  |  |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa |  |  |  |  |  |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [25–28 October 2019](2019-10-28-INSA.html) | INSA |  |  |  |  |  |
+| [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 9 | 9 | 9 | 9 | 9 |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7 | 7 | 7 | 7 |
+| [25–28 October 2019](2019-10-28-INSA.html) | INSA | 8 | 8 | 8 | 8 | 8 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [18–21 October 2019](2019-10-21-INSA.html) | INSA | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -278,8 +278,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 33% | 97% |  |
-| 7 | 34% | 64% | Median |
+| 6 | 28% | 97% |  |
+| 7 | 39% | 68% | Median |
 | 8 | 14% | 30% |  |
 | 9 | 14% | 15% |  |
 | 10 | 1.5% | 1.5% |  |
