@@ -144,7 +144,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–18 November 2019](2019-11-18-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0–1 |
-| [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -154,9 +154,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0–1 | 0–1 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 1 | 1 | 1 | 1 | 1 |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–1 |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0 | 0 |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 0 | 0 | 0 | 0–1 | 0–1 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -263,8 +263,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Median |
-| 1 | 23% | 23% | Last Result |
+| 0 | 79% | 100% | Median |
+| 1 | 21% | 21% | Last Result |
 | 2 | 0% | 0% |  |
 
 
