@@ -167,11 +167,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 18–23 | 18–24 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | [15–18 November 2019](2019-11-18-INSA.html) | INSA | 19 | 19 | 19–20 | 18–20 | 17–21 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 20 | 18–20 | 18–20 | 18–21 | 17–22 |
-| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–19 | 18–19 | 18–19 | 17–19 |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 18–22 | 18–22 | 18–22 | 18–23 |
+| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 18–21 | 18–22 | 18–22 | 18–22 |
 | [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 20 | 19–20 | 19–20 | 18–20 | 18–20 |
@@ -304,15 +304,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 19% | 99.6% |  |
-| 19 | 22% | 80% |  |
-| 20 | 32% | 59% | Median |
-| 21 | 10% | 27% |  |
-| 22 | 11% | 16% |  |
-| 23 | 4% | 5% |  |
-| 24 | 0.9% | 1.2% |  |
-| 25 | 0.3% | 0.3% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 22% | 99.4% |  |
+| 19 | 23% | 78% |  |
+| 20 | 31% | 55% | Median |
+| 21 | 9% | 24% |  |
+| 22 | 9% | 15% |  |
+| 23 | 4% | 6% |  |
+| 24 | 0.9% | 1.1% |  |
+| 25 | 0.1% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 

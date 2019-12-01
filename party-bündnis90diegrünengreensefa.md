@@ -167,12 +167,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–22 | 16–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–23 | 17–23 | 16–24 |
 | [15–18 November 2019](2019-11-18-INSA.html) | INSA | 19 | 19–21 | 19–21 | 19–22 | 19–22 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
-| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21–22 | 21–22 | 21–22 | 20–23 |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 20 | 19–21 | 19–22 | 19–22 | 17–23 |
+| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 21–22 | 21–22 | 20–24 | 18–24 |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 20 | 19–23 | 19–23 | 18–23 | 17–23 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 19 | 19 | 19–20 | 19–21 | 18–22 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 20 | 20–21 | 19–21 | 19–21 | 19–22 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–23 | 18–23 | 18–24 | 18–24 |
@@ -302,16 +302,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.2% | 100% |  |
-| 16 | 4% | 99.8% |  |
-| 17 | 7% | 96% |  |
-| 18 | 13% | 88% |  |
-| 19 | 20% | 75% |  |
-| 20 | 12% | 56% | Median |
-| 21 | 23% | 44% |  |
-| 22 | 17% | 21% |  |
-| 23 | 3% | 4% |  |
-| 24 | 0.8% | 0.8% |  |
-| 25 | 0% | 0% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.7% | 100% |  |
+| 17 | 10% | 99.2% |  |
+| 18 | 16% | 90% |  |
+| 19 | 19% | 74% |  |
+| 20 | 11% | 55% | Median |
+| 21 | 20% | 44% |  |
+| 22 | 16% | 24% |  |
+| 23 | 6% | 7% |  |
+| 24 | 1.2% | 1.3% |  |
+| 25 | 0% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 

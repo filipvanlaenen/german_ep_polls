@@ -152,12 +152,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [15–18 November 2019](2019-11-18-INSA.html) | INSA | 7 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
+| [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 7 | 7–8 | 5–8 | 5–8 | 5–10 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -277,12 +277,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 28% | 97% |  |
-| 7 | 36% | 68% | Median |
-| 8 | 16% | 32% |  |
-| 9 | 15% | 17% |  |
-| 10 | 1.5% | 1.5% |  |
+| 5 | 2% | 100% |  |
+| 6 | 27% | 98% |  |
+| 7 | 36% | 71% | Median |
+| 8 | 21% | 35% |  |
+| 9 | 12% | 14% |  |
+| 10 | 1.3% | 1.3% |  |
 | 11 | 0% | 0% |  |
 
 

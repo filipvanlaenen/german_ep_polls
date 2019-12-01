@@ -150,12 +150,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [15–18 November 2019](2019-11-18-INSA.html) | INSA | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 4–7 | 4–7 | 4–7 | 4–7 |
-| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [2–13 November 2019](2019-11-13-Allensbach.html) | Allensbach | 6 | 6–7 | 5–8 | 5–8 | 4–8 |
 | [8–11 November 2019](2019-11-11-INSA.html) | INSA | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [4–8 November 2019](2019-11-08-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–7 November 2019](2019-11-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
@@ -274,11 +274,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 26% | 95% |  |
-| 6 | 46% | 70% | Median |
-| 7 | 23% | 24% |  |
-| 8 | 0.4% | 0.4% |  |
+| 4 | 9% | 100% |  |
+| 5 | 23% | 91% |  |
+| 6 | 47% | 68% | Median |
+| 7 | 20% | 21% |  |
+| 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% |  |
 
 
