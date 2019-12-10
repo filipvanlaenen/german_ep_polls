@@ -11,10 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.1% | 19.3–23.1% | 18.8–23.7% | 18.4–24.2% | 17.5–25.2% |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21.9% | N/A | N/A | N/A | N/A |
-| [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
-| [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 19.6% | N/A | N/A | N/A | N/A |
-| [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | N/A | N/A | N/A | N/A |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21.9% | 20.8–23.1% | 20.5–23.5% | 20.2–23.8% | 19.6–24.4% |
+| [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 21.9% | 20.9–23.0% | 20.6–23.3% | 20.3–23.6% | 19.8–24.1% |
+| [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 19.6% | 18.3–20.9% | 18.0–21.3% | 17.6–21.7% | 17.1–22.3% |
+| [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.7–23.1% | 20.3–23.5% | 20.0–23.8% | 19.5–24.4% |
 | [29 November–2 December 2019](2019-12-02-INSA.html) | INSA | 20.7% | 19.6–21.9% | 19.3–22.3% | 19.0–22.5% | 18.5–23.1% |
 | [27 November–2 December 2019](2019-12-02-GMS.html) | GMS | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.8% | 18.0–24.6% |
 | [25–29 November 2019](2019-11-29-Forsa.html) | Forsa | 21.1% | 20.0–22.4% | 19.6–22.7% | 19.4–23.0% | 18.8–23.6% |
@@ -181,10 +181,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA |  |  |  |  |  |
-| [2–6 December 2019](2019-12-06-Forsa.html) | Forsa |  |  |  |  |  |
-| [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21 | 20–24 | 20–24 | 20–24 | 19–24 |
+| [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 22 | 20–22 | 20–22 | 20–22 | 20–22 |
+| [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–20 | 18–20 | 17–21 | 16–21 |
+| [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–21 | 19–22 | 19–22 | 19–23 |
 | [29 November–2 December 2019](2019-12-02-INSA.html) | INSA | 19 | 19–20 | 19–21 | 19–21 | 18–22 |
 | [27 November–2 December 2019](2019-12-02-GMS.html) | GMS | 19 | 18–22 | 18–22 | 18–22 | 17–24 |
 | [25–29 November 2019](2019-11-29-Forsa.html) | Forsa | 20 | 19–22 | 19–22 | 18–22 | 18–22 |
