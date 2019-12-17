@@ -11,7 +11,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.1% | 12.8–15.5% | 12.4–15.9% | 12.1–16.2% | 11.5–16.9% |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 15.0% | 14.0–16.1% | 13.8–16.4% | 13.5–16.6% | 13.1–17.1% |
+| [13–16 December 2019](2019-12-16-INSA.html) | INSA | 15.0% | N/A | N/A | N/A | N/A |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
+| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 15.0% | N/A | N/A | N/A | N/A |
+| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 13.0% | N/A | N/A | N/A | N/A |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 14.7% | N/A | N/A | N/A | N/A |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 14.0% | 13.1–14.9% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 15.0% | 13.9–16.2% | 13.5–16.6% | 13.3–16.9% | 12.8–17.5% |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 13.0% | 12.1–14.1% | 11.8–14.4% | 11.6–14.6% | 11.1–15.1% |
@@ -173,7 +178,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 11–17 |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
+| [13–16 December 2019](2019-12-16-INSA.html) | INSA |  |  |  |  |  |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA |  |  |  |  |  |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 12 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
