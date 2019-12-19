@@ -15,8 +15,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.3% | 18.4–24.1% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | 20.1–22.2% | 19.8–22.5% | 19.5–22.8% | 19.1–23.3% |
-| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | N/A | N/A | N/A | N/A |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21.4% | N/A | N/A | N/A | N/A |
+| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.7–23.1% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21.4% | 20.3–22.6% | 20.0–23.0% | 19.7–23.3% | 19.2–23.9% |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 21.9% | 20.9–23.0% | 20.6–23.3% | 20.3–23.6% | 19.8–24.1% |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 19.6% | 18.3–20.9% | 18.0–21.3% | 17.6–21.7% | 17.1–22.3% |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.7–23.1% | 20.3–23.5% | 20.0–23.8% | 19.5–24.4% |
@@ -190,8 +190,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–21 | 19–22 | 18–22 | 18–24 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
-| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
-| [6–9 December 2019](2019-12-09-INSA.html) | INSA |  |  |  |  |  |
+| [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–21 | 20–22 | 19–22 | 18–23 |
+| [6–9 December 2019](2019-12-09-INSA.html) | INSA | 21 | 20–21 | 19–22 | 19–23 | 18–23 |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 22 | 20–22 | 20–22 | 20–22 | 20–22 |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 18–20 | 18–20 | 17–21 | 16–21 |
 | [28 November–4 December 2019](2019-12-04-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–21 | 19–22 | 19–22 | 19–23 |
