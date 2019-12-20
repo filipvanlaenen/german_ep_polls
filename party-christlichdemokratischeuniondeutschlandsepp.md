@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.1% | 19.3–23.1% | 18.8–23.7% | 18.4–24.2% | 17.5–25.2% |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 21.1% | 19.8–22.5% | 19.5–22.9% | 19.2–23.2% | 18.6–23.9% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.6–22.6% | 19.4–22.9% | 18.8–23.5% |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.3% | 18.4–24.1% |
@@ -186,6 +187,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21 | 20–22 | 19–22 | 19–22 | 18–22 |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–21 | 19–22 | 18–22 | 18–24 |
