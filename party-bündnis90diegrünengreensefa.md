@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.9% | 20.0–23.5% | 19.5–24.0% | 19.1–24.4% | 18.4–25.3% |
+| [20–23 December 2019](2019-12-23-INSA.html) | INSA | 21.0% | N/A | N/A | N/A | N/A |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 20.0% | N/A | N/A | N/A | N/A |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 21.0% | 19.7–22.4% | 19.4–22.7% | 19.1–23.1% | 18.5–23.7% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21.0% | 19.9–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.6–24.5% |
@@ -187,6 +189,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
+| [20–23 December 2019](2019-12-23-INSA.html) | INSA |  |  |  |  |  |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 21 | 19–22 | 19–22 | 18–22 | 17–22 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21 | 19–21 | 18–22 | 18–22 | 18–22 |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21 | 20–21 | 20–22 | 20–22 | 19–23 |
@@ -290,7 +294,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 25 | 22–25 | 22–25 | 22–26 | 22–27 |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 21 | 20–23 | 20–23 | 20–24 | 19–24 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 22–23 | 22–24 | 22–24 | 21–25 |
-| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 23 | 22–24 | 21–25 | 21–25 | 21–25 |
+| [5–8 July 2019](2019-07-08-INSA.html) | INSA | 23 | 22–24 | 21–25 | 21–26 | 21–26 |
 | [1–5 July 2019](2019-07-05-Forsa.html) | Forsa | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
 | [1–3 July 2019](2019-07-03-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [27 June–3 July 2019](2019-07-03-Emnid.html) | Emnid <br> Bild am Sonntag | 23 | 23–24 | 22–24 | 22–24 | 21–25 |
