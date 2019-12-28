@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.1% | 19.3–23.1% | 18.8–23.7% | 18.4–24.2% | 17.5–25.2% |
-| [20–23 December 2019](2019-12-23-INSA.html) | INSA | 21.9% | N/A | N/A | N/A | N/A |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | N/A | N/A | N/A | N/A |
+| [20–23 December 2019](2019-12-23-INSA.html) | INSA | 21.9% | 20.8–23.1% | 20.5–23.5% | 20.2–23.8% | 19.6–24.4% |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | 20.0–22.4% | 19.6–22.7% | 19.3–23.0% | 18.8–23.6% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 21.1% | 19.8–22.5% | 19.5–22.9% | 19.2–23.2% | 18.6–23.9% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.6–22.6% | 19.4–22.9% | 18.8–23.5% |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
@@ -189,8 +189,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
-| [20–23 December 2019](2019-12-23-INSA.html) | INSA |  |  |  |  |  |
-| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag |  |  |  |  |  |
+| [20–23 December 2019](2019-12-23-INSA.html) | INSA | 22 | 20–22 | 20–22 | 20–23 | 19–23 |
+| [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20 | 19–21 | 19–22 | 18–22 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21 | 20–22 | 19–22 | 19–22 | 18–22 |
 | [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21 | 19–22 | 19–22 | 19–22 | 19–23 |
