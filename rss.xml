@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Dec 2019 11:10:07 +0100</pubDate>
+    <pubDate>Mon, 30 Dec 2019 15:04:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA, 20–23 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-12-23-INSA.html#seats</link>
@@ -1006,8 +1006,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-10-28-INSA.png"
         length="363448"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 18:16:52 +0100</pubDate>
-      <dc:date>2019-11-29T18:16:52.42902+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 15:04:03 +0100</pubDate>
+      <dc:date>2019-12-30T15:04:03.082607+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 21–25 October 2019 – Seat Projections for the Parties</title>
@@ -3869,6 +3869,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2019-12-30T11:10:07.014857+01:00</dc:date>
+    <dc:date>2019-12-30T15:04:03.082607+01:00</dc:date>
   </channel>
 </rss>
