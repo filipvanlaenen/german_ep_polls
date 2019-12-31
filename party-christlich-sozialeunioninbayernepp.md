@@ -12,10 +12,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.0% | 5.3–6.8% | 5.1–7.0% | 4.9–7.2% | 4.5–7.7% |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.1–7.2% | 4.8–7.6% |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5.9% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.4% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.6% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.7–7.4% |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 6.1% | 5.4–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.6% |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 6.1% | N/A | N/A | N/A | N/A |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5.9% | 5.2–6.8% | 5.0–7.1% | 4.8–7.3% | 4.5–7.8% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 5.9% | 5.3–6.6% | 5.2–6.8% | 5.0–6.9% | 4.8–7.2% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.6% |
@@ -157,7 +158,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.6% | 100% |  |
 | 4.5–5.5% | 21% | 99.4% |  |
 | 5.5–6.5% | 61% | 78% | Median |
-| 6.5–7.5% | 17% | 17% |  |
+| 6.5–7.5% | 17% | 18% |  |
 | 7.5–8.5% | 0.8% | 0.8% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -172,10 +173,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 6–7 | 5–7 | 4–7 | 4–7 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -204,7 +206,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [1–4 November 2019](2019-11-04-INSA.html) | INSA | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 6 | 6 | 5–7 | 5–7 | 5–8 |
+| [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6 | 6 | 5–6 | 5–6 |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -316,9 +318,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 9% | 100% |  |
-| 5 | 33% | 91% |  |
-| 6 | 36% | 58% | Median |
-| 7 | 22% | 22% |  |
+| 5 | 28% | 91% |  |
+| 6 | 43% | 63% | Median |
+| 7 | 20% | 20% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 

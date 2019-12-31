@@ -12,10 +12,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 0.4% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.2–0.7% | 0.1–0.9% |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 0.5% | N/A | N/A | N/A | N/A |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.9% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -165,10 +166,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 0 | 0 | 0 | 0 | 0–1 |
+| [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -305,8 +307,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 31% | 31% | Last Result |
+| 0 | 71% | 100% | Median |
+| 1 | 29% | 29% | Last Result |
 | 2 | 0% | 0% |  |
 
 
