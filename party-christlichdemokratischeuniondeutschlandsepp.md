@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 21.1% | 20.0–22.4% | 19.6–22.7% | 19.3–23.0% | 18.8–23.6% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 21.1% | 19.8–22.5% | 19.5–22.9% | 19.2–23.2% | 18.6–23.9% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.6–22.6% | 19.4–22.9% | 18.8–23.5% |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21.9% | N/A | N/A | N/A | N/A |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.3% | 18.4–24.1% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | 20.1–22.2% | 19.8–22.5% | 19.5–22.8% | 19.1–23.3% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21.9% | 20.7–23.1% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
@@ -194,7 +194,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 20 | 19–21 | 19–22 | 18–22 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 21 | 20–22 | 19–22 | 19–22 | 18–22 |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 21 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–21 | 19–22 | 18–22 | 18–24 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–21 | 20–22 | 19–22 | 18–23 |
@@ -224,7 +224,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 20 | 20–21 | 20–21 | 19–22 | 19–23 |
 | [1–4 November 2019](2019-11-04-INSA.html) | INSA | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21 | 20–21 | 20–21 | 19–21 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–21 | 19–21 | 19–22 | 19–22 |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 21 | 21–24 | 21–24 | 21–24 | 20–24 |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 21–22 | 20–22 | 20–23 | 19–24 |

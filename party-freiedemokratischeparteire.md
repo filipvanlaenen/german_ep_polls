@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.8% |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.8% |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 8.5% | 7.8–9.4% | 7.5–9.6% | 7.4–9.8% | 7.0–10.2% |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 8.0% | N/A | N/A | N/A | N/A |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.5% | 6.3–10.1% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -181,7 +181,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [13–17 December 2019](2019-12-17-YouGov.html) | YouGov | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [13–16 December 2019](2019-12-16-INSA.html) | INSA | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
-| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa |  |  |  |  |  |
+| [9–13 December 2019](2019-12-13-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–8 | 7–8 | 7–9 | 7–10 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -211,7 +211,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [1–4 November 2019](2019-11-04-INSA.html) | INSA | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 8 | 7–8 | 6–9 | 6–10 | 6–10 |
-| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7 | 7–9 | 7–9 | 7–9 |
+| [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [21–25 October 2019](2019-10-25-Forsa.html) | Forsa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [17–23 October 2019](2019-10-23-Emnid.html) | Emnid <br> Bild am Sonntag | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
