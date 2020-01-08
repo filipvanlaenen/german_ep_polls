@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 12.2–15.1% | 11.9–15.6% | 11.7–16.0% | 11.1–16.7% |
+| N/A | [Poll Average](average.html) | 13.6% | 12.2–15.2% | 11.9–15.6% | 11.6–16.0% | 11.1–16.7% |
+| [3–6 January 2020](2020-01-06-INSA.html) | INSA | 13.0% | N/A | N/A | N/A | N/A |
+| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 13.0% | N/A | N/A | N/A | N/A |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
@@ -161,16 +163,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 2% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 2% | 99.9% |  |
 | 11.5–12.5% | 15% | 98% |  |
-| 12.5–13.5% | 34% | 83% |  |
-| 13.5–14.5% | 29% | 49% | Median |
-| 14.5–15.5% | 15% | 20% |  |
+| 12.5–13.5% | 32% | 83% |  |
+| 13.5–14.5% | 29% | 51% | Median |
+| 14.5–15.5% | 15% | 21% |  |
 | 15.5–16.5% | 5% | 6% |  |
 | 16.5–17.5% | 0.7% | 0.7% |  |
 | 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -181,7 +182,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [3–6 January 2020](2020-01-06-INSA.html) | INSA |  |  |  |  |  |
+| [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS |  |  |  |  |  |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [16–20 December 2019](2019-12-20-Forsa.html) | Forsa | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [12–18 December 2019](2019-12-18-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 14–15 | 14–15 | 13–16 | 12–16 |
@@ -333,14 +336,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.5% | 100% |  |
-| 11 | 12% | 99.5% |  |
-| 12 | 29% | 88% |  |
-| 13 | 22% | 59% | Median |
-| 14 | 30% | 36% |  |
-| 15 | 5% | 6% |  |
-| 16 | 0.9% | 1.1% |  |
-| 17 | 0.2% | 0.2% |  |
-| 18 | 0% | 0% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 9% | 99.3% |  |
+| 12 | 36% | 91% |  |
+| 13 | 21% | 55% | Median |
+| 14 | 27% | 33% |  |
+| 15 | 6% | 7% |  |
+| 16 | 1.1% | 1.1% |  |
+| 17 | 0% | 0% |  |
 
 
