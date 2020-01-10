@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.8–15.6% | 12.4–16.0% | 12.1–16.3% | 11.5–16.9% |
+| N/A | [Poll Average](average.html) | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.2% | 11.5–16.9% |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | N/A | N/A | N/A | N/A |
 | [3–6 January 2020](2020-01-06-INSA.html) | INSA | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 14.0% | 12.7–15.5% | 12.3–16.0% | 12.0–16.3% | 11.4–17.1% |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
@@ -164,13 +165,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.5% | 100% |  |
-| 11.5–12.5% | 6% | 99.5% |  |
-| 12.5–13.5% | 22% | 94% |  |
-| 13.5–14.5% | 35% | 72% | Median |
-| 14.5–15.5% | 27% | 37% |  |
-| 15.5–16.5% | 9% | 10% |  |
-| 16.5–17.5% | 1.2% | 1.3% |  |
+| 10.5–11.5% | 0.6% | 100% |  |
+| 11.5–12.5% | 7% | 99.4% |  |
+| 12.5–13.5% | 25% | 93% |  |
+| 13.5–14.5% | 36% | 67% | Median |
+| 14.5–15.5% | 23% | 31% |  |
+| 15.5–16.5% | 7% | 8% |  |
+| 16.5–17.5% | 1.1% | 1.2% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -183,7 +184,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [3–6 January 2020](2020-01-06-INSA.html) | INSA | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 13 | 12–13 | 12–14 | 11–14 | 10–15 |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
@@ -219,7 +221,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 14 | 13–14 | 13–14 | 12–14 | 12–15 |
-| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 15 | 14–16 | 14–16 | 14–17 | 14–17 |
+| [1–4 November 2019](2019-11-04-INSA.html) | INSA | 16 | 15–17 | 14–17 | 14–17 | 13–17 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [25–28 October 2019](2019-10-28-INSA.html) | INSA | 14 | 14–16 | 14–16 | 14–16 | 13–16 |
@@ -337,13 +339,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.3% | 100% |  |
-| 11 | 0.8% | 99.7% |  |
-| 12 | 13% | 98.8% |  |
-| 13 | 27% | 85% |  |
-| 14 | 28% | 58% | Median |
-| 15 | 27% | 30% |  |
-| 16 | 3% | 3% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 1.0% | 99.6% |  |
+| 12 | 16% | 98.6% |  |
+| 13 | 31% | 83% |  |
+| 14 | 31% | 52% | Median |
+| 15 | 19% | 21% |  |
+| 16 | 2% | 2% |  |
 | 17 | 0% | 0.1% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
