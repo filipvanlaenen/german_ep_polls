@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 12.0–15.0% | 11.7–15.5% | 11.5–15.9% | 10.9–16.6% |
-| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.1% | 10.6–15.7% |
+| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.9–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
+| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
 | [3–6 January 2020](2020-01-06-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
@@ -164,15 +166,14 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 3% | 99.9% |  |
-| 11.5–12.5% | 20% | 97% |  |
-| 12.5–13.5% | 38% | 77% | Median |
-| 13.5–14.5% | 23% | 39% |  |
-| 14.5–15.5% | 11% | 16% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.6% | 0.6% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 6% | 99.6% |  |
+| 11.5–12.5% | 25% | 93% |  |
+| 12.5–13.5% | 38% | 69% | Median |
+| 13.5–14.5% | 24% | 31% |  |
+| 14.5–15.5% | 6% | 7% |  |
+| 15.5–16.5% | 0.8% | 0.8% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -183,8 +184,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–14 | 11–14 | 11–15 | 10–16 |
-| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 11 | 11–12 | 11–12 | 11–13 | 10–14 |
+| [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 12–13 | 11–15 | 11–15 | 10–15 |
+| [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [3–6 January 2020](2020-01-06-INSA.html) | INSA | 12 | 12–13 | 12–13 | 12–13 | 12–14 |
 | [27 December 2019–2 January 2020](2020-01-02-GMS.html) | GMS | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [20–23 December 2019](2019-12-23-INSA.html) | INSA | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
@@ -339,12 +342,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
-| 11 | 8% | 98% |  |
-| 12 | 46% | 91% | Median |
-| 13 | 19% | 45% |  |
-| 14 | 21% | 26% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.9% | 0.9% |  |
+| 11 | 19% | 98% |  |
+| 12 | 39% | 79% | Median |
+| 13 | 24% | 40% |  |
+| 14 | 12% | 16% |  |
+| 15 | 4% | 4% |  |
+| 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% |  |
 
 
