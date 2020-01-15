@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.5–10.1% | 7.2–10.5% | 6.9–10.8% | 6.4–11.5% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.4–10.1% | 7.1–10.5% | 6.9–10.9% | 6.4–11.5% |
+| [10–13 January 2020](2020-01-13-INSA.html) | INSA | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
@@ -25,6 +26,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 8.5% | 7.6–9.6% | 7.3–9.9% | 7.1–10.2% | 6.7–10.7% |
 | [6–9 December 2019](2019-12-09-INSA.html) | INSA | 8.3% | 7.6–9.2% | 7.4–9.4% | 7.2–9.6% | 6.9–10.0% |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
@@ -162,13 +164,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.8% | 100% |  |
-| 6.5–7.5% | 11% | 99.2% |  |
-| 7.5–8.5% | 36% | 88% |  |
-| 8.5–9.5% | 33% | 52% | Median |
-| 9.5–10.5% | 15% | 19% |  |
+| 5.5–6.5% | 0.9% | 100% |  |
+| 6.5–7.5% | 12% | 99.1% |  |
+| 7.5–8.5% | 33% | 87% |  |
+| 8.5–9.5% | 33% | 54% | Median |
+| 9.5–10.5% | 16% | 21% |  |
 | 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0.5% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -181,6 +183,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–11 | 6–11 |
+| [10–13 January 2020](2020-01-13-INSA.html) | INSA | 8 | 8 | 8–9 | 7–9 | 7–10 |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [19 December 2019–8 January 2020](2020-01-08-Emnid.html) | Emnid | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -195,6 +198,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [10–12 December 2019](2019-12-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [10–11 December 2019](2019-12-11-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [5–11 December 2019](2019-12-11-Emnid.html) | Emnid <br> Bild am Sonntag | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [1–11 December 2019](2019-12-11-Allensbach.html) | Allensbach | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [6–9 December 2019](2019-12-09-INSA.html) | INSA | 9 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [2–6 December 2019](2019-12-06-Forsa.html) | Forsa | 8 | 8 | 8 | 8 | 7–9 |
 | [2–4 December 2019](2019-12-04-Infratestdimap.html) | Infratest dimap <br> ARD | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -333,12 +337,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 5% | 100% |  |
-| 7 | 23% | 95% |  |
-| 8 | 33% | 71% | Median |
-| 9 | 30% | 39% |  |
-| 10 | 6% | 9% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0% | 0% |  |
+| 6 | 6% | 100% |  |
+| 7 | 15% | 94% |  |
+| 8 | 41% | 79% | Median |
+| 9 | 28% | 38% |  |
+| 10 | 6% | 10% |  |
+| 11 | 4% | 4% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
