@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
 | N/A | Poll Average | 19–24% <br> 18–23 | 11–15% <br> 11–15 | 19–24% <br> 18–23 | 7–11% <br> 6–11 | 12–16% <br> 12–16 | 5–7% <br> 5–7 | 6–11% <br> 5–10 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–13 January 2020](2020-01-13-INSA.html) | INSA | 19–23% <br> 19–22 | 11–14% <br> 11–13 | 19–23% <br> 18–21 | 8–10% <br> 7–9 | 14–17% <br> 13–15 | 5–7% <br> 5–6 | 8–11% <br> 8–10 | 1–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 20–24% <br> 19–23 | 11–14% <br> 11–13 | 20–24% <br> 19–22 | 7–9% <br> 7–9 | 12–15% <br> 11–13 | 5–7% <br> 5–6 | 8–10% <br> 7–10 | 1–2% <br> 1–2 | 1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 19–23% <br> 19–22 | 11–15% <br> 11–15 | 21–25% <br> 20–24 | 7–9% <br> 6–9 | 12–16% <br> 12–15 | 5–7% <br> 5–7 | 8–11% <br> 8–10 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
@@ -740,7 +741,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Number of polls included in this average:** 7
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 2.93%

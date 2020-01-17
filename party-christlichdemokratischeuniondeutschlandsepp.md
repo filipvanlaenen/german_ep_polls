@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.4% | 20.0–22.8% | 19.7–23.3% | 19.3–23.7% | 18.7–24.6% |
+| [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | N/A | N/A | N/A | N/A |
 | [10–13 January 2020](2020-01-13-INSA.html) | INSA | 21.1% | 20.0–22.3% | 19.7–22.7% | 19.4–23.0% | 18.9–23.5% |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 21.1% | 19.8–22.5% | 19.4–22.9% | 19.1–23.3% | 18.5–23.9% |
@@ -197,6 +198,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 19–22 | 18–23 | 18–24 |
+| [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [10–13 January 2020](2020-01-13-INSA.html) | INSA | 20 | 20 | 20–21 | 19–22 | 18–22 |
 | [6–10 January 2020](2020-01-10-Forsa.html) | Forsa | 22 | 21–22 | 20–22 | 19–23 | 18–23 |
 | [7–8 January 2020](2020-01-08-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
