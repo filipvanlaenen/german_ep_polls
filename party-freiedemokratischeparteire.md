@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.1–10.0% | 6.7–10.3% | 6.3–10.6% | 5.8–11.1% |
+| N/A | [Poll Average](average.html) | 8.5% | 7.0–9.8% | 6.6–10.1% | 6.3–10.4% | 5.8–11.0% |
+| [17–20 January 2020](2020-01-20-INSA.html) | INSA | 8.5% | N/A | N/A | N/A | N/A |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.6% | 5.4–9.1% |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -168,11 +169,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 4% | 99.8% |  |
-| 6.5–7.5% | 13% | 96% |  |
-| 7.5–8.5% | 27% | 83% |  |
-| 8.5–9.5% | 36% | 56% | Median |
-| 9.5–10.5% | 18% | 21% |  |
-| 10.5–11.5% | 3% | 3% |  |
+| 6.5–7.5% | 15% | 95% |  |
+| 7.5–8.5% | 31% | 80% |  |
+| 8.5–9.5% | 34% | 49% | Median |
+| 9.5–10.5% | 13% | 15% |  |
+| 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -185,7 +186,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| [17–20 January 2020](2020-01-20-INSA.html) | INSA |  |  |  |  |  |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 8 | 8 | 8–9 | 8–10 | 8–10 |
@@ -343,12 +345,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 9% | 99.8% |  |
-| 7 | 14% | 90% |  |
-| 8 | 36% | 76% | Median |
-| 9 | 34% | 40% |  |
+| 6 | 11% | 99.8% |  |
+| 7 | 17% | 88% |  |
+| 8 | 43% | 72% | Median |
+| 9 | 23% | 29% |  |
 | 10 | 6% | 6% |  |
-| 11 | 0.3% | 0.3% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
