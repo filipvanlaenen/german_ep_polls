@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.3% | 19.8–22.9% | 19.3–23.3% | 19.0–23.7% | 18.4–24.6% |
-| [17–20 January 2020](2020-01-20-INSA.html) | INSA | 21.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 21.3% | 19.9–22.8% | 19.4–23.3% | 19.1–23.7% | 18.4–24.5% |
+| [17–20 January 2020](2020-01-20-INSA.html) | INSA | 21.5% | 20.4–22.7% | 20.1–23.1% | 19.8–23.4% | 19.3–23.9% |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 21.9% | 20.9–23.0% | 20.6–23.3% | 20.3–23.5% | 19.8–24.1% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21.1% | 19.7–22.7% | 19.3–23.1% | 19.0–23.5% | 18.3–24.2% |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 20.3% | 19.2–21.5% | 18.9–21.8% | 18.6–22.1% | 18.1–22.7% |
@@ -180,14 +180,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.8% | 100% |  |
-| 18.5–19.5% | 6% | 99.2% |  |
-| 19.5–20.5% | 20% | 93% |  |
-| 20.5–21.5% | 31% | 73% | Median |
-| 21.5–22.5% | 27% | 42% |  |
+| 17.5–18.5% | 0.6% | 100% |  |
+| 18.5–19.5% | 6% | 99.3% |  |
+| 19.5–20.5% | 19% | 94% |  |
+| 20.5–21.5% | 32% | 75% | Median |
+| 21.5–22.5% | 28% | 43% |  |
 | 22.5–23.5% | 12% | 15% |  |
 | 23.5–24.5% | 3% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.6% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -200,8 +200,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 19–23 | 18–23 | 18–24 |
-| [17–20 January 2020](2020-01-20-INSA.html) | INSA |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 20 | 19–22 | 19–23 | 19–23 | 18–24 |
+| [17–20 January 2020](2020-01-20-INSA.html) | INSA | 19 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 19–23 | 18–23 | 18–23 | 18–23 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 20 | 20 | 19–20 | 19–20 | 17–22 |
@@ -372,12 +372,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0.2% | 100% |  |
 | 18 | 2% | 99.8% |  |
-| 19 | 14% | 97% |  |
-| 20 | 42% | 84% | Median |
-| 21 | 16% | 41% |  |
-| 22 | 14% | 26% |  |
-| 23 | 10% | 11% |  |
-| 24 | 1.4% | 1.5% |  |
+| 19 | 20% | 98% |  |
+| 20 | 37% | 78% | Median |
+| 21 | 18% | 41% |  |
+| 22 | 14% | 23% |  |
+| 23 | 8% | 10% |  |
+| 24 | 1.2% | 1.2% |  |
 | 25 | 0% | 0% |  |
 
 
