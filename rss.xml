@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 Jan 2020 06:42:00 +0100</pubDate>
+    <pubDate>Thu, 23 Jan 2020 06:43:02 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA, 17–20 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14–16 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–10 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA-seats.png"
+        length="269904"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:02 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:02.427371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 17–20 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA-coalitions-seats.png"
+        length="179937"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:02 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:02.427371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA, 17–20 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.5–16.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.4–9.8%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.3–10.9%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.8–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.0–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-20-INSA.png"
+        length="365837"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:02 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:02.427371+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Forsa, 13–17 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-17-Forsa.html#seats</link>
@@ -4279,6 +4309,6 @@
       <pubDate>Mon, 10 Jun 2019 13:34:19 +0200</pubDate>
       <dc:date>2019-06-10T13:34:19.913526+02:00</dc:date>
     </item>
-    <dc:date>2020-01-21T06:42:00.732193+01:00</dc:date>
+    <dc:date>2020-01-23T06:43:02.427371+01:00</dc:date>
   </channel>
 </rss>
