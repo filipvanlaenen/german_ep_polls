@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Jan 2020 20:24:12 +0100</pubDate>
+    <pubDate>Sun, 26 Jan 2020 09:24:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Forsa, 20–24 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 10–12 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–10 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa-seats.png"
+        length="264500"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:51 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:51.676323+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 20–24 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa-coalitions-seats.png"
+        length="175447"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:51 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:51.676323+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 20–24 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.8–13.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 10.8–13.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8.0–10.2%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.0–10.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.4–24.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.3–23.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.2–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.9–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.8–1.7%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-01-24-Forsa.png"
+        length="354934"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:51 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:51.676323+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Infratest dimap for ARD, 21–22 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-01-22-Infratestdimap.html#seats</link>
@@ -1850,6 +1880,16 @@
       <dc:date>2019-10-18T15:06:58.266967+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 27–30 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-30-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14.5–17.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.3–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.0–22.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–6.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-30-INSAandYouGov.png"
+        length="368283"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jan 2020 20:47:33 +0100</pubDate>
+      <dc:date>2020-01-24T20:47:33.645662+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 23–27 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-27-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1940,6 +1980,16 @@
       <dc:date>2019-09-30T16:46:03.153803+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 20–23 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-23-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14.4–17.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.2–23.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.6–22.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–6.8%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-23-INSAandYouGov.png"
+        length="368069"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jan 2020 23:16:33 +0100</pubDate>
+      <dc:date>2020-01-24T23:16:33.812377+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 16–20 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-20-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19–23 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2028,6 +2078,16 @@
         type="image/png"/>
       <pubDate>Wed, 25 Sep 2019 11:26:53 +0200</pubDate>
       <dc:date>2019-09-25T11:26:53.92206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 13–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-16-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.1–15.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14.4–17.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.4–8.7%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.4–8.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.7–24.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.0–22.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.9–6.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-16-INSAandYouGov.png"
+        length="368549"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 16:38:45 +0100</pubDate>
+      <dc:date>2020-01-25T16:38:45.879382+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 9–13 September 2019 – Seat Projections for the Parties</title>
@@ -2180,6 +2240,16 @@
       <dc:date>2019-09-23T20:50:30.233517+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 6–9 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-09-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.1–15.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14.0–17.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.4–8.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.2–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.4–22.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.0–7.0%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-09-INSAandYouGov.png"
+        length="367835"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 09:29:37 +0100</pubDate>
+      <dc:date>2020-01-25T09:29:37.873339+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 2–6 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-06-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2280,6 +2350,16 @@
       <dc:date>2020-01-02T23:23:22.811494+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 30 August–2 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-09-02-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.0–16.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.5–16.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.3–9.8%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.9–8.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.6–22.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.7–6.8%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-09-02-INSAandYouGov.png"
+        length="365115"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 09:49:23 +0100</pubDate>
+      <dc:date>2020-01-25T09:49:23.215945+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 26–30 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-30-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–13 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–11 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2338,6 +2418,16 @@
         type="image/png"/>
       <pubDate>Fri, 06 Sep 2019 19:53:51 +0200</pubDate>
       <dc:date>2019-09-06T19:53:51.360333+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 23–26 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-26-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.5–16.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-26-INSAandYouGov.png"
+        length="360620"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 10:09:36 +0100</pubDate>
+      <dc:date>2020-01-25T10:09:36.406894+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 19–23 August 2019 – Seat Projections for the Parties</title>
@@ -2430,6 +2520,16 @@
       <dc:date>2019-08-31T11:54:45.784286+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 16–19 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-19-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.5–14.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.9–15.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.7–10.2%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.8–9.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.5–26.2%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.6–23.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-19-INSAandYouGov.png"
+        length="361419"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 10:30:14 +0100</pubDate>
+      <dc:date>2020-01-25T10:30:14.939689+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 12–16 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-16-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–13 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–24 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–19 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2520,6 +2620,16 @@
       <dc:date>2019-08-25T14:56:22.999245+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 9–11 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.7–13.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.0–16.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.8–23.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.1–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-11-INSAandYouGov.png"
+        length="365258"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 13:06:24 +0100</pubDate>
+      <dc:date>2020-01-25T13:06:24.061875+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 5–9 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-09-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–26 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2608,6 +2718,16 @@
         type="image/png"/>
       <pubDate>Thu, 22 Aug 2019 21:39:49 +0200</pubDate>
       <dc:date>2019-08-22T21:39:49.769678+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 2–5 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-08-05-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.2–13.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.5–16.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.7–25.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.5–7.7%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.5–1.3%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.5–1.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-08-05-INSAandYouGov.png"
+        length="361633"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 13:22:44 +0100</pubDate>
+      <dc:date>2020-01-25T13:22:44.338667+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 29 July–2 August 2019 – Seat Projections for the Parties</title>
@@ -2730,6 +2850,16 @@
       <dc:date>2019-08-07T11:41:36.08035+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 26–29 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-29-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.2–14.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.0–16.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.7–26.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.8–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.6–6.6%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.5–1.3%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-29-INSAandYouGov.png"
+        length="360307"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 13:38:15 +0100</pubDate>
+      <dc:date>2020-01-25T13:38:15.958935+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 22–26 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-26-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–25 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2818,6 +2948,16 @@
         type="image/png"/>
       <pubDate>Tue, 30 Jul 2019 11:29:01 +0200</pubDate>
       <dc:date>2019-07-30T11:29:01.312538+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 19–22 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-22-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.1–14.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.1–16.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.2%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.7–24.3%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.9–24.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.9–6.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-22-INSAandYouGov.png"
+        length="362545"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 13:54:19 +0100</pubDate>
+      <dc:date>2020-01-25T13:54:19.299458+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GMS, 17–22 July 2019 – Seat Projections for the Parties</title>
@@ -2940,6 +3080,16 @@
       <dc:date>2019-07-23T18:17:47.653872+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 12–15 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-15-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.3–21.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.1–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.5–1.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-15-INSAandYouGov.png"
+        length="363548"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 14:10:07 +0100</pubDate>
+      <dc:date>2020-01-25T14:10:07.840588+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 8–12 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-12-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22–26 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3028,6 +3178,16 @@
         type="image/png"/>
       <pubDate>Thu, 18 Jul 2019 17:11:13 +0200</pubDate>
       <dc:date>2019-07-18T17:11:13.57628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 5–8 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-08-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.1–15.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.4–9.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.1–22.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.2–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.5–1.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-08-INSAandYouGov.png"
+        length="359248"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 14:31:52 +0100</pubDate>
+      <dc:date>2020-01-25T14:31:52.240343+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 1–5 July 2019 – Seat Projections for the Parties</title>
@@ -3150,6 +3310,16 @@
       <dc:date>2019-07-08T20:01:52.710588+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 28 June–1 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-07-01-INSAandYouGov.png"
+        length="358790"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 14:52:43 +0100</pubDate>
+      <dc:date>2020-01-25T14:52:43.656907+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 24–28 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-28-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 10–12 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23–26 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3238,6 +3408,16 @@
         type="image/png"/>
       <pubDate>Tue, 02 Jul 2019 19:33:27 +0200</pubDate>
       <dc:date>2019-07-02T19:33:27.769562+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 21–24 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.2–14.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.1–15.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.4–9.8%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 23.7–27.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17.7–21.2%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.2–7.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-24-INSAandYouGov.png"
+        length="355376"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 15:13:51 +0100</pubDate>
+      <dc:date>2020-01-25T15:13:51.33418+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GMS, 18–24 June 2019 – Seat Projections for the Parties</title>
@@ -3360,6 +3540,16 @@
       <dc:date>2019-06-24T18:36:03.245979+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 14–17 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-17-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.3–15.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.8–15.8%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8.3–10.8%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.3–10.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 24.4–28.3%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.4–22.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.4–6.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.0–0.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-17-INSAandYouGov.png"
+        length="345484"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 15:32:48 +0100</pubDate>
+      <dc:date>2020-01-25T15:32:48.958387+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 11–14 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-14-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–12 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–10 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 25–27 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 16–19 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3448,6 +3638,16 @@
         type="image/png"/>
       <pubDate>Fri, 28 Jun 2019 19:08:38 +0200</pubDate>
       <dc:date>2019-06-28T19:08:38.78094+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 7–10 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-10-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.1–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.5–8.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 24.7–28.5%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 16.4–19.7%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.0–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-10-INSAandYouGov.png"
+        length="356496"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 15:54:07 +0100</pubDate>
+      <dc:date>2020-01-25T15:54:07.833269+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forsa, 3–7 June 2019 – Seat Projections for the Parties</title>
@@ -3570,6 +3770,16 @@
       <dc:date>2019-06-11T17:50:44.470923+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 3 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-06-03-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.6–23.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-06-03-INSAandYouGov.png"
+        length="380954"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 16:10:46 +0100</pubDate>
+      <dc:date>2020-01-25T16:10:46.970623+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 27–31 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2019-05-31-Forsa.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 9–11 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 24–28 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3629,6 +3839,16 @@
       <pubDate>Mon, 10 Jun 2019 14:42:48 +0200</pubDate>
       <dc:date>2019-06-10T14:42:48.23907+02:00</dc:date>
     </item>
-    <dc:date>2020-01-24T20:24:12.524721+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 24–27 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2019-05-27-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.0–17.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.1–15.0%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 8.3–10.9%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 17.3–20.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.5–7.7%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2019-05-27-INSAandYouGov.png"
+        length="374272"
+        type="image/png"/>
+      <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
+      <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
+    </item>
+    <dc:date>2020-01-26T09:24:51.676323+01:00</dc:date>
   </channel>
 </rss>
