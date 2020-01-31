@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.8% | 0.1–0.8% | 0.1–1.1% |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.9% |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% |
+| [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.9% |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
@@ -184,6 +185,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 January 2020](2020-01-22-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 0 | 0 | 0 | 0 | 0 |
+| [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -337,8 +339,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 17% | 17% | Last Result |
+| 0 | 84% | 100% | Median |
+| 1 | 16% | 16% | Last Result |
 | 2 | 0% | 0% |  |
 
 
