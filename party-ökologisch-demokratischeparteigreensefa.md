@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.3% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–1.0% | 0.2–1.0% | 0.1–1.2% |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 0.4% | N/A | N/A | N/A | N/A |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
-| [23–29 January 2020](2020-01-29-Kantar.html) | Kantar | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 0.5% | 0.4–0.8% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
@@ -170,8 +170,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 52% | 100% | Last Result |
-| 0.5–1.5% | 48% | 48% | Median |
+| 0.0–0.5% | 51% | 100% | Last Result |
+| 0.5–1.5% | 49% | 49% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -185,8 +185,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
-| [23–29 January 2020](2020-01-29-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [20–24 January 2020](2020-01-24-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -346,8 +346,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 64% | 64% | Last Result, Median |
+| 0 | 32% | 100% |  |
+| 1 | 68% | 68% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
