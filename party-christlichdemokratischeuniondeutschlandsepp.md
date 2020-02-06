@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.7–23.1% | 19.2–23.5% | 18.8–23.9% | 17.9–24.8% |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 21.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 21.5% | 19.8–23.1% | 19.3–23.5% | 18.9–23.9% | 18.0–24.7% |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 21.9% | 20.8–23.1% | 20.4–23.5% | 20.2–23.7% | 19.6–24.3% |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.8% | 19.6–24.4% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 21.1% | 19.8–22.5% | 19.4–22.9% | 19.1–23.3% | 18.4–24.0% |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 21.1% | 20.0–22.3% | 19.7–22.6% | 19.4–22.9% | 18.9–23.5% |
@@ -188,14 +188,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.5% | 99.8% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 17% | 92% |  |
-| 20.5–21.5% | 29% | 75% | Median |
-| 21.5–22.5% | 27% | 46% |  |
-| 22.5–23.5% | 14% | 19% |  |
+| 17.5–18.5% | 1.2% | 99.8% |  |
+| 18.5–19.5% | 6% | 98.6% |  |
+| 19.5–20.5% | 15% | 93% |  |
+| 20.5–21.5% | 29% | 78% |  |
+| 21.5–22.5% | 30% | 49% | Median |
+| 22.5–23.5% | 15% | 20% |  |
 | 23.5–24.5% | 4% | 5% |  |
-| 24.5–25.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.6% | 0.7% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -208,8 +208,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–23 | 18–23 | 18–23 | 17–23 |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 18–23 | 18–23 | 17–23 |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–22 | 19–23 | 19–23 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 22 | 22 | 22 | 20–22 | 20–22 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 21 | 20–23 | 18–23 | 18–23 | 17–23 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 20 | 20 | 20–21 |
@@ -386,14 +386,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.3% | 100% |  |
-| 17 | 1.1% | 99.7% |  |
-| 18 | 6% | 98.5% |  |
-| 19 | 6% | 93% |  |
-| 20 | 12% | 86% |  |
-| 21 | 17% | 75% |  |
-| 22 | 45% | 57% | Median |
-| 23 | 12% | 12% |  |
-| 24 | 0.4% | 0.4% |  |
+| 17 | 1.0% | 99.7% |  |
+| 18 | 5% | 98.8% |  |
+| 19 | 6% | 94% |  |
+| 20 | 19% | 88% |  |
+| 21 | 20% | 69% | Median |
+| 22 | 39% | 49% |  |
+| 23 | 10% | 11% |  |
+| 24 | 0.3% | 0.4% |  |
 | 25 | 0% | 0% |  |
 
 

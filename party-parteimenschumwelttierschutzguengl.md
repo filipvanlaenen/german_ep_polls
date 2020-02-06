@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.1% | 0.3–1.3% |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% | 0.3–1.5% |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.1% | 0.3–1.3% |
@@ -170,9 +170,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% | Last Result |
-| 0.5–1.5% | 80% | 80% | Median |
-| 1.5–2.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 19% | 100% | Last Result |
+| 0.5–1.5% | 80% | 81% | Median |
+| 1.5–2.5% | 0.4% | 0.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -185,7 +185,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–1 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
