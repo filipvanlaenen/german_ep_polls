@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 20.6–24.0% | 20.1–24.5% | 19.7–25.0% | 19.0–25.9% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.1–24.0% | 19.5–24.5% | 19.1–25.0% | 18.3–25.9% |
+| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.5–23.5% | 20.3–23.8% | 19.7–24.4% |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 22.0% | 20.7–23.4% | 20.3–23.9% | 20.0–24.2% | 19.4–24.9% |
+| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
 | [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.5–23.5% | 20.3–23.9% | 19.7–24.4% |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 23.0% | 21.8–24.3% | 21.5–24.7% | 21.2–25.0% | 20.6–25.6% |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 21.0% | 19.7–22.5% | 19.3–22.8% | 19.0–23.2% | 18.4–23.9% |
@@ -190,13 +192,13 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 2% | 99.8% |  |
-| 19.5–20.5% | 8% | 98% |  |
-| 20.5–21.5% | 20% | 91% |  |
-| 21.5–22.5% | 29% | 71% | Median |
-| 22.5–23.5% | 24% | 42% |  |
-| 23.5–24.5% | 13% | 18% |  |
+| 17.5–18.5% | 0.8% | 100% |  |
+| 18.5–19.5% | 5% | 99.1% |  |
+| 19.5–20.5% | 10% | 94% |  |
+| 20.5–21.5% | 18% | 84% |  |
+| 21.5–22.5% | 26% | 66% | Median |
+| 22.5–23.5% | 23% | 41% |  |
+| 23.5–24.5% | 12% | 17% |  |
 | 24.5–25.5% | 4% | 5% |  |
 | 25.5–26.5% | 0.8% | 1.0% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
@@ -212,8 +214,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–24 | 18–25 |
+| [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 22 | 20–22 | 20–23 | 20–23 | 19–23 |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 21 | 20–22 | 20–23 | 19–23 |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 20 | 20–21 | 20–21 | 20–22 | 19–23 |
+| [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 19 | 18–19 | 18–19 | 18–20 | 18–20 |
 | [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–21 | 20–22 | 19–23 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 21 | 21 | 21 | 21–22 | 21–23 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 19 | 18–20 | 18–21 | 18–21 | 17–23 |
@@ -391,13 +395,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.2% | 100% |  |
-| 18 | 5% | 99.8% |  |
-| 19 | 7% | 95% |  |
-| 20 | 29% | 88% |  |
-| 21 | 41% | 60% | Median |
-| 22 | 12% | 18% |  |
-| 23 | 2% | 7% |  |
+| 17 | 0% | 100% |  |
+| 18 | 4% | 100% |  |
+| 19 | 14% | 96% |  |
+| 20 | 20% | 83% |  |
+| 21 | 37% | 63% | Median |
+| 22 | 19% | 26% |  |
+| 23 | 3% | 8% |  |
 | 24 | 4% | 5% |  |
 | 25 | 0.9% | 0.9% |  |
 | 26 | 0% | 0% |  |
