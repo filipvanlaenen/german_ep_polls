@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Feb 2020 19:24:06 +0100</pubDate>
+    <pubDate>Tue, 11 Feb 2020 06:44:17 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 7–10 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12–15 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov-seats.png"
+        length="283409"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:17 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:17.444984+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 7–10 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov-coalitions-seats.png"
+        length="185720"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:17 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:17.444984+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 7–10 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11.2–14.0%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.8–11.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.3–23.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.8–23.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.0–7.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-10-INSAandYouGov.png"
+        length="364868"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:17 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:17.444984+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 4–6 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-06-ForschungsgruppeWahlen.html#seats</link>
@@ -68,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sun, 09 Feb 2020 19:24:06 +0100</pubDate>
       <dc:date>2020-02-09T19:24:06.473136+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 30 January–5 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–15 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 14–16 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–9 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 18–20 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid-seats.png"
+        length="258272"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:14 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:14.280949+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 30 January–5 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid-coalitions-seats.png"
+        length="162826"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:14 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:14.280949+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Emnid, 30 January–5 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.4–16.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 13.4–16.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 6.8–9.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 7.8–10.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 18.3–21.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.1–23.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.1–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-02-05-Emnid.png"
+        length="366461"
+        type="image/png"/>
+      <pubDate>Tue, 11 Feb 2020 06:44:14 +0100</pubDate>
+      <dc:date>2020-02-11T06:44:14.280949+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 31 January–3 February 2020 – Seat Projections for the Parties</title>
@@ -4089,6 +4149,6 @@
       <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
       <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
     </item>
-    <dc:date>2020-02-09T19:24:06.473136+01:00</dc:date>
+    <dc:date>2020-02-11T06:44:17.444984+01:00</dc:date>
   </channel>
 </rss>
