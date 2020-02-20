@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.5–12.7% |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
+| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 13.0% | 11.8–14.3% | 11.5–14.6% | 11.2–15.0% | 10.7–15.6% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 10.0% | 9.3–10.8% | 9.0–11.0% | 8.9–11.2% | 8.5–11.6% |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.2% | 11.4–16.9% |
@@ -209,11 +210,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–16 | 10–16 | 9–16 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–16 | 10–16 | 10–16 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 12 | 11–13 | 11–15 | 11–15 | 11–16 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 13 | 13–15 | 13–15 | 13–16 | 12–17 |
+| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 13 | 11–13 | 10–14 | 10–14 | 10–15 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 13 | 13–15 | 13–15 | 11–16 |
@@ -388,12 +390,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.5% | 100% |  |
-| 10 | 11% | 99.5% |  |
-| 11 | 17% | 88% |  |
-| 12 | 9% | 71% |  |
-| 13 | 37% | 63% | Median |
-| 14 | 5% | 26% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 13% | 99.6% |  |
+| 11 | 14% | 87% |  |
+| 12 | 5% | 73% |  |
+| 13 | 42% | 68% | Median |
+| 14 | 5% | 25% |  |
 | 15 | 13% | 20% |  |
 | 16 | 7% | 7% |  |
 | 17 | 0.2% | 0.2% |  |

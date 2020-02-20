@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 13.2–16.2% | 12.8–16.8% | 12.5–17.3% | 11.9–18.3% |
+| N/A | [Poll Average](average.html) | 14.6% | 13.3–16.2% | 13.0–16.8% | 12.7–17.3% | 12.0–18.3% |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 14.5% | 13.5–15.5% | 13.2–15.8% | 13.0–16.1% | 12.6–16.6% |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 14.0% | 13.1–14.9% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
+| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 14.5% | 13.3–15.9% | 13.0–16.2% | 12.7–16.6% | 12.1–17.2% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 12.5% | 11.6–13.5% | 11.4–13.8% | 11.2–14.0% | 10.7–14.5% |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 14.0% | 13.2–15.0% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.7–15.4% | 12.3–15.8% | 12.0–16.2% | 11.4–16.9% |
@@ -190,14 +191,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 2% | 99.8% |  |
-| 12.5–13.5% | 15% | 97% |  |
-| 13.5–14.5% | 34% | 83% |  |
-| 14.5–15.5% | 29% | 49% | Median |
-| 15.5–16.5% | 13% | 20% |  |
-| 16.5–17.5% | 5% | 6% |  |
-| 17.5–18.5% | 1.4% | 2% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 2% | 99.9% |  |
+| 12.5–13.5% | 13% | 98% |  |
+| 13.5–14.5% | 33% | 85% |  |
+| 14.5–15.5% | 31% | 52% | Median |
+| 15.5–16.5% | 15% | 21% |  |
+| 16.5–17.5% | 5% | 7% |  |
+| 17.5–18.5% | 1.5% | 2% |  |
 | 18.5–19.5% | 0.3% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -210,11 +211,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 12–17 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 16 | 15–16 | 14–16 | 14–17 | 13–18 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 14 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 13 | 12–17 | 12–17 | 12–17 | 11–17 |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 12 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 13 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 12–13 | 12–14 | 12–15 | 11–15 |
@@ -392,12 +394,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.3% | 100% |  |
-| 12 | 20% | 99.7% |  |
-| 13 | 16% | 80% |  |
-| 14 | 26% | 64% | Median |
-| 15 | 19% | 38% |  |
-| 16 | 18% | 19% |  |
-| 17 | 0.7% | 0.8% |  |
+| 12 | 21% | 99.7% |  |
+| 13 | 20% | 79% |  |
+| 14 | 23% | 60% | Median |
+| 15 | 11% | 36% |  |
+| 16 | 20% | 25% |  |
+| 17 | 5% | 5% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
