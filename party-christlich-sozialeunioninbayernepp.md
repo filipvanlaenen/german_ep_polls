@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 5.0–6.7% | 4.8–7.0% | 4.6–7.2% | 4.2–7.7% |
+| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.2% |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 5.9% | 5.3–6.6% | 5.2–6.8% | 5.0–6.9% | 4.8–7.2% |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 5.4% | 4.8–6.3% | 4.6–6.5% | 4.4–6.7% | 4.1–7.1% |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.9% | 4.6–7.3% |
@@ -206,6 +207,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
+| [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
