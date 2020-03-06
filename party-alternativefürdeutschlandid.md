@@ -371,7 +371,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 11–14 | 10–14 |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [13–18 June 2019](2019-06-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 13–14 | 12–15 | 11–15 | 11–15 |
-| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–16 | 13–16 | 13–16 |
+| [14–17 June 2019](2019-06-17-INSAandYouGov.html) | INSA and YouGov | 12 | 12–14 | 12–15 | 12–16 | 12–16 |
 | [11–14 June 2019](2019-06-14-Forsa.html) | Forsa | 13 | 12–13 | 12–13 | 12–14 | 11–14 |
 | [6–12 June 2019](2019-06-12-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | [1–12 June 2019](2019-06-12-Allensbach.html) | Allensbach | 12 | 10–14 | 10–14 | 10–14 | 9–14 |
