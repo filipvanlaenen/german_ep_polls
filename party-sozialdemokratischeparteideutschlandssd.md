@@ -12,8 +12,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.2% | 13.5–16.8% | 13.1–17.3% | 12.7–17.6% | 12.0–18.4% |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 15.0% | 14.1–15.9% | 13.8–16.2% | 13.6–16.4% | 13.2–16.9% |
-| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16.0% | N/A | N/A | N/A | N/A |
-| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 16.0% | N/A | N/A | N/A | N/A |
+| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16.0% | 14.7–17.4% | 14.4–17.8% | 14.1–18.1% | 13.5–18.8% |
+| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 16.0% | 14.8–17.3% | 14.5–17.6% | 14.2–17.9% | 13.7–18.5% |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 17.0% | N/A | N/A | N/A | N/A |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 15.0% | N/A | N/A | N/A | N/A |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.7% | 14.0–18.2% |
@@ -224,8 +224,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–16 | 12–17 | 12–17 | 12–18 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
-| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 15 | 15 | 15 | 15 | 15 |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid |  |  |  |  |  |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov |  |  |  |  |  |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
