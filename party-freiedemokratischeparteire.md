@@ -14,8 +14,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 6.0% | 5.4–6.6% | 5.3–6.8% | 5.1–7.0% | 4.9–7.3% |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.0% | 5.3–7.0% | 5.0–7.3% | 4.8–7.5% | 4.5–8.0% |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
-| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 7.0% | N/A | N/A | N/A | N/A |
-| [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 6.0% | N/A | N/A | N/A | N/A |
+| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
+| [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 6.0% | 5.3–6.8% | 5.1–7.1% | 5.0–7.3% | 4.6–7.7% |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.4% | 4.6–7.8% |
@@ -216,9 +216,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6 | 6–7 | 6–7 |
-| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid |  |  |  |  |  |
-| [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov |  |  |  |  |  |
+| [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 6 | 6 | 6 | 6 | 5–8 |
+| [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 6 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
