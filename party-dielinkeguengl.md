@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.9% | 8.7–11.0% | 8.3–11.3% | 8.0–11.6% | 7.4–12.2% |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 10.0% | 9.3–10.8% | 9.0–11.0% | 8.9–11.2% | 8.5–11.6% |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.1% |
@@ -217,10 +218,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 9–11 | 8–11 | 8–11 | 7–12 |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 8–10 | 8–10 | 7–11 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 9 | 9 | 9 | 9–11 | 8–11 |
-| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 10 | 10 | 8–10 | 8–10 | 8–10 |
+| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 8 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 9 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
