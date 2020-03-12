@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Mar 2020 19:11:39 +0100</pubDate>
+    <pubDate>Thu, 12 Mar 2020 19:42:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-09-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.0–17.1%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.5–7.7%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.3–10.9%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.3–23.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19.0–22.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–6.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-09-INSAandYouGov.png"
+        length="369026"
+        type="image/png"/>
+      <pubDate>Thu, 12 Mar 2020 19:42:51 +0100</pubDate>
+      <dc:date>2020-03-12T19:42:51.49159+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Forsa, 2–6 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa.html#seats</link>
@@ -86,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-04-Emnid.png"
         length="379899"
         type="image/png"/>
-      <pubDate>Tue, 10 Mar 2020 23:14:10 +0100</pubDate>
-      <dc:date>2020-03-10T23:14:10.036598+01:00</dc:date>
+      <pubDate>Wed, 11 Mar 2020 23:13:28 +0100</pubDate>
+      <dc:date>2020-03-11T23:13:28.790006+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 28 February–2 March 2020 – Seat Projections for the Parties</title>
@@ -4639,6 +4649,6 @@
       <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
       <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
     </item>
-    <dc:date>2020-03-11T19:11:39.180361+01:00</dc:date>
+    <dc:date>2020-03-12T19:42:51.49159+01:00</dc:date>
   </channel>
 </rss>
