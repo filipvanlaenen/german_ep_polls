@@ -230,11 +230,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–21 | 18–24 | 18–24 | 17–24 |
-| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
+| [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–21 | 19–21 | 18–21 |
 | [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 19 | 19–20 | 18–20 | 18–21 | 18–21 |
-| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
+| [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20 | 18–21 | 18–21 | 18–21 | 17–23 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 19 | 19 | 19–20 | 19–21 | 18–21 |
-| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 18 | 16–18 | 16–19 | 16–20 | 16–21 |
+| [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 18 | 17–21 | 17–21 | 17–21 | 16–21 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 20 | 20–23 | 20–23 | 19–23 | 18–23 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 21 | 20–21 | 20–21 | 20–21 | 19–22 |
 | [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
