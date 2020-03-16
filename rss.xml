@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Mar 2020 16:27:57 +0100</pubDate>
+    <pubDate>Mon, 16 Mar 2020 18:41:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Forsa, 9–13 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 9–11 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 21–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa-seats.png"
+        length="275897"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 18:41:29 +0100</pubDate>
+      <dc:date>2020-03-16T18:41:29.483514+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 9–13 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa-coalitions-seats.png"
+        length="157952"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 18:41:29 +0100</pubDate>
+      <dc:date>2020-03-16T18:41:29.483514+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 9–13 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.7–15.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 8.9–11.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.1–7.0%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.9–11.2%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 20.4–23.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 21.1–24.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.4–7.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1.2–2.3%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.1–2.1%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.3–0.8%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-13-Forsa.png"
+        length="359558"
+        type="image/png"/>
+      <pubDate>Mon, 16 Mar 2020 18:41:29 +0100</pubDate>
+      <dc:date>2020-03-16T18:41:29.483514+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 6–9 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-09-INSAandYouGov.html#seats</link>
@@ -4709,6 +4739,6 @@
       <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
       <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
     </item>
-    <dc:date>2020-03-13T16:27:57.862207+01:00</dc:date>
+    <dc:date>2020-03-16T18:41:29.483514+01:00</dc:date>
   </channel>
 </rss>
