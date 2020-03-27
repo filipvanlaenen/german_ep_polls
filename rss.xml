@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 26 Mar 2020 16:52:31 +0100</pubDate>
+    <pubDate>Thu, 26 Mar 2020 20:24:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov, 20–23 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-23-INSAandYouGov.html#seats</link>
@@ -278,6 +278,36 @@
         type="image/png"/>
       <pubDate>Thu, 12 Mar 2020 20:29:21 +0100</pubDate>
       <dc:date>2020-03-12T20:29:21.63932+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 2–6 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 9–12 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5–8 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 21–25 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa-seats.png"
+        length="278659"
+        type="image/png"/>
+      <pubDate>Thu, 26 Mar 2020 20:24:35 +0100</pubDate>
+      <dc:date>2020-03-26T20:24:35.572898+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 2–6 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa-coalitions-seats.png"
+        length="180053"
+        type="image/png"/>
+      <pubDate>Thu, 26 Mar 2020 20:24:35 +0100</pubDate>
+      <dc:date>2020-03-26T20:24:35.572898+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 2–6 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.4–16.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 9.6–12.5%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 5.0–7.2%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.7–11.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 22.1–26.0%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.5–22.2%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.7–6.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1.0–2.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.9–2.0%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-03-06-Forsa.png"
+        length="362813"
+        type="image/png"/>
+      <pubDate>Thu, 26 Mar 2020 20:24:35 +0100</pubDate>
+      <dc:date>2020-03-26T20:24:35.572898+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 3–5 March 2020 – Seat Projections for the Parties</title>
@@ -4939,6 +4969,6 @@
       <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
       <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
     </item>
-    <dc:date>2020-03-26T16:52:31.084869+01:00</dc:date>
+    <dc:date>2020-03-26T20:24:35.572898+01:00</dc:date>
   </channel>
 </rss>
