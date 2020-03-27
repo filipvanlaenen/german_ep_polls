@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–8.9% |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.8–7.2% | 5.7–7.5% | 5.5–7.7% | 5.2–8.0% |
-| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 6.0% | N/A | N/A | N/A | N/A |
+| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.0% | 5.3–7.0% | 5.0–7.3% | 4.8–7.5% | 4.5–8.0% |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
@@ -231,7 +231,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [9–13 March 2020](2020-03-13-Forsa.html) | Forsa | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [4–11 March 2020](2020-03-11-Emnid.html) | Emnid | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [6–9 March 2020](2020-03-09-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
-| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa |  |  |  |  |  |
+| [2–6 March 2020](2020-03-06-Forsa.html) | Forsa | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [3–5 March 2020](2020-03-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–6 | 4–6 | 4–7 | 4–8 |
 | [2–4 March 2020](2020-03-04-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
