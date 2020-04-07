@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.7–8.2% | 5.4–8.5% | 5.2–8.7% | 4.8–9.2% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.2–8.7% | 5.9–9.0% | 5.6–9.2% | 5.1–9.7% |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 8.3% | 7.6–9.1% | 7.3–9.4% | 7.2–9.6% | 6.8–10.0% |
+| [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 8.1% | 7.3–8.9% | 7.1–9.2% | 6.9–9.4% | 6.6–9.8% |
+| [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 7.5% | 6.6–8.4% | 6.4–8.7% | 6.2–8.9% | 5.9–9.4% |
+| [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | 7.2% | N/A | N/A | N/A | N/A |
 | [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 7.6% | 6.9–8.4% | 6.7–8.7% | 6.5–8.9% | 6.2–9.3% |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 7.9% | 7.1–8.7% | 6.9–9.0% | 6.7–9.2% | 6.4–9.6% |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
@@ -208,13 +212,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 27% | 94% |  |
-| 6.5–7.5% | 38% | 67% | Median |
-| 7.5–8.5% | 25% | 29% |  |
-| 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 14% | 98% |  |
+| 6.5–7.5% | 32% | 83% |  |
+| 7.5–8.5% | 38% | 52% | Median |
+| 8.5–9.5% | 13% | 14% |  |
+| 9.5–10.5% | 0.9% | 0.9% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -226,7 +230,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid |  |  |  |  |  |
 | [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -426,11 +434,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
-| 5 | 18% | 99.8% |  |
-| 6 | 16% | 82% |  |
-| 7 | 40% | 66% | Median |
-| 8 | 23% | 25% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0% | 0% |  |
+| 5 | 2% | 99.8% |  |
+| 6 | 18% | 98% |  |
+| 7 | 36% | 79% | Median |
+| 8 | 38% | 44% |  |
+| 9 | 6% | 6% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
