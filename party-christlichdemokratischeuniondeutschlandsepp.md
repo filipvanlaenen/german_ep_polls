@@ -264,7 +264,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27–30 March 2020](2020-03-30-INSAandYouGov.html) | INSA and YouGov | 26 | 25–29 | 25–29 | 25–29 | 24–29 |
 | [23–27 March 2020](2020-03-27-Forsa.html) | Forsa | 27 | 25–28 | 25–28 | 24–29 | 24–30 |
 | [23–26 March 2020](2020-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 23–26 | 23–26 | 22–27 | 22–27 |
-| [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | 26 | 26 | 26 | 26–28 | 26–28 |
+| [23–25 March 2020](2020-03-25-Forsa.html) | Forsa | 26 | 26 | 26–27 | 25–28 | 24–30 |
 | [18–25 March 2020](2020-03-25-Emnid.html) | Emnid | 25 | 23–25 | 23–25 | 22–25 | 22–26 |
 | [20–23 March 2020](2020-03-23-INSAandYouGov.html) | INSA and YouGov | 26 | 24–26 | 24–26 | 24–26 | 22–27 |
 | [16–20 March 2020](2020-03-20-Forsa.html) | Forsa | 25 | 23–26 | 23–26 | 22–26 | 22–26 |
