@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Apr 2020 18:36:55 +0200</pubDate>
+    <pubDate>Fri, 17 Apr 2020 19:03:46 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Infratest dimap, 14–15 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 6–9 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 16–21 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 26–30 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap-seats.png"
+        length="267115"
+        type="image/png"/>
+      <pubDate>Fri, 17 Apr 2020 19:03:46 +0200</pubDate>
+      <dc:date>2020-04-17T19:03:46.629257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap, 14–15 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap-coalitions-seats.png"
+        length="171641"
+        type="image/png"/>
+      <pubDate>Fri, 17 Apr 2020 19:03:46 +0200</pubDate>
+      <dc:date>2020-04-17T19:03:46.629257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap, 14–15 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.9–19.4%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ID): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 16.8–21.5%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 27.0–32.5%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Familienpartei Deutschlands (ECR): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2020-04-15-Infratestdimap.png"
+        length="364462"
+        type="image/png"/>
+      <pubDate>Fri, 17 Apr 2020 19:03:46 +0200</pubDate>
+      <dc:date>2020-04-17T19:03:46.629257+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 9–14 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2020-04-14-INSAandYouGov.html#seats</link>
@@ -5389,6 +5419,6 @@
       <pubDate>Sat, 25 Jan 2020 16:32:16 +0100</pubDate>
       <dc:date>2020-01-25T16:32:16.452286+01:00</dc:date>
     </item>
-    <dc:date>2020-04-16T18:36:55.097604+02:00</dc:date>
+    <dc:date>2020-04-17T19:03:46.629257+02:00</dc:date>
   </channel>
 </rss>
