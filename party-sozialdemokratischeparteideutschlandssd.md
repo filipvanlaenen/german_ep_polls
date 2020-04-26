@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.7–18.3% | 14.4–18.8% | 14.1–19.2% | 13.5–20.0% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.7–18.3% | 14.3–18.8% | 14.0–19.2% | 13.4–20.0% |
+| [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 16.0% | N/A | N/A | N/A | N/A |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16.0% | 14.8–17.4% | 14.4–17.8% | 14.1–18.1% | 13.6–18.8% |
 | [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.0% | 13.7–16.4% | 13.5–16.6% | 13.1–17.1% |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.2–20.2% |
 | [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.6–20.6% |
-| [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 16.0% | N/A | N/A | N/A | N/A |
+| [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 16.0% | 14.6–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.1% |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.3% | 14.4–20.0% |
@@ -233,12 +234,12 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.6% | 100% |  |
-| 13.5–14.5% | 7% | 99.4% |  |
-| 14.5–15.5% | 22% | 93% |  |
-| 15.5–16.5% | 30% | 71% | Median |
-| 16.5–17.5% | 22% | 41% |  |
-| 17.5–18.5% | 13% | 20% |  |
+| 12.5–13.5% | 0.7% | 100% |  |
+| 13.5–14.5% | 7% | 99.3% |  |
+| 14.5–15.5% | 22% | 92% |  |
+| 15.5–16.5% | 28% | 70% | Median |
+| 16.5–17.5% | 22% | 42% |  |
+| 17.5–18.5% | 14% | 21% |  |
 | 18.5–19.5% | 6% | 7% |  |
 | 19.5–20.5% | 1.2% | 1.4% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
@@ -254,12 +255,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 13–19 | 13–19 | 13–19 |
-| [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 15–16 | 14–17 | 14–17 | 13–19 |
+| [20–24 April 2020](2020-04-24-Forsa.html) | Forsa |  |  |  |  |  |
+| [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 13 | 13–15 | 13–15 | 13–16 | 13–17 |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 15 | 14–15 | 14–15 | 14–16 | 14–17 |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 16 | 15–16 | 14–17 | 14–18 | 14–18 |
 | [9–15 April 2020](2020-04-15-Emnid.html) | Emnid | 19 | 17–19 | 17–19 | 17–19 | 15–19 |
-| [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [1–15 April 2020](2020-04-15-Allensbach.html) | Allensbach | 14 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [9–14 April 2020](2020-04-14-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 14–19 | 14–20 | 14–20 | 13–20 |
@@ -476,14 +478,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 13% | 100% |  |
-| 14 | 7% | 87% |  |
-| 15 | 24% | 80% |  |
-| 16 | 32% | 56% | Median |
+| 12 | 0.1% | 100% |  |
+| 13 | 14% | 99.9% |  |
+| 14 | 15% | 86% |  |
+| 15 | 16% | 71% |  |
+| 16 | 31% | 55% | Median |
 | 17 | 5% | 24% |  |
 | 18 | 7% | 20% |  |
-| 19 | 13% | 13% |  |
+| 19 | 12% | 12% |  |
 | 20 | 0% | 0% |  |
 
 
