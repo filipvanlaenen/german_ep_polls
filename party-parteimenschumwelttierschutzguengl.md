@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.2% | 0.4–1.4% |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% | 0.3–1.5% |
-| [16–22 April 2020](2020-04-22-Emnid.html) | Emnid | 0.5% | N/A | N/A | N/A | N/A |
+| [16–22 April 2020](2020-04-22-Emnid.html) | Emnid | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
@@ -222,8 +222,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 28% | 100% | Last Result |
-| 0.5–1.5% | 72% | 72% | Median |
+| 0.0–0.5% | 30% | 100% | Last Result |
+| 0.5–1.5% | 70% | 70% | Median |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -239,7 +239,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [16–22 April 2020](2020-04-22-Emnid.html) | Emnid |  |  |  |  |  |
+| [16–22 April 2020](2020-04-22-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 April 2020](2020-04-20-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 April 2020](2020-04-17-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [14–15 April 2020](2020-04-15-Infratestdimap.html) | Infratest dimap | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -450,8 +450,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 73% | 73% | Last Result, Median |
+| 0 | 33% | 100% |  |
+| 1 | 67% | 67% | Last Result, Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
