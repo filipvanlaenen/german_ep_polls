@@ -245,8 +245,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 4–8 | 3–8 |
-| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 3–8 |
+| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 6 | 6 | 6 | 6–7 | 5–7 |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -466,9 +466,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 1.0% | 100% |  |
 | 4 | 9% | 99.0% |  |
 | 5 | 20% | 90% |  |
-| 6 | 61% | 70% | Median |
-| 7 | 7% | 9% |  |
-| 8 | 3% | 3% |  |
+| 6 | 57% | 70% | Median |
+| 7 | 12% | 13% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
 
