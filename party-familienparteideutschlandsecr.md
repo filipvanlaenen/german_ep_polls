@@ -287,7 +287,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 0 | 0 | 0–1 | 0–1 | 0–1 |

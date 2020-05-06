@@ -282,7 +282,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -306,7 +306,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 0 | 0 | 0 | 0 | 0–1 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

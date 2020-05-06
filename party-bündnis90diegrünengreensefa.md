@@ -303,13 +303,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 22 | 20–22 | 19–23 | 19–24 | 19–24 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 21 | 19–21 | 19–21 | 19–21 | 19–22 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 21 | 21–22 | 21–22 | 21–22 | 20–23 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 24 | 21–24 | 21–24 | 21–24 | 20–24 |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 20 | 20–21 | 19–22 | 19–23 | 18–25 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 22 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 23 | 21–23 | 21–24 | 21–25 | 21–25 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 19 | 18–21 | 18–21 | 17–21 | 16–22 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 19 | 19–21 | 19–21 | 18–21 | 16–22 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 22 | 21–24 | 21–24 | 21–24 | 20–24 |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 21 | 20–22 | 19–23 | 19–23 | 17–24 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 21 | 21–23 | 21–24 | 20–24 | 19–25 |
@@ -327,7 +327,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 20 | 20 | 20 | 20 | 20–21 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 22 | 22–24 | 21–25 | 20–25 | 19–25 |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 18–22 | 18–22 | 18–22 |
-| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 22 | 20–22 | 19–22 | 19–22 | 19–23 |
+| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 22 | 20–22 | 19–22 | 19–22 | 18–23 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 20–22 | 20–23 | 20–24 | 19–25 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 21 | 20–21 | 19–21 | 19–21 | 18–22 |
 | [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 19–21 | 18–21 | 18–22 |

@@ -281,7 +281,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |

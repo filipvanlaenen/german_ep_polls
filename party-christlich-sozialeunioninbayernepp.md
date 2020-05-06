@@ -291,13 +291,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27 February–4 March 2020](2020-03-04-Emnid.html) | Emnid | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [28 February–2 March 2020](2020-03-02-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 February–2 March 2020](2020-03-02-INSAandYouGov.html) | INSA and YouGov | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [24–28 February 2020](2020-02-28-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [20–27 February 2020](2020-02-27-Emnid.html) | Emnid | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [21–24 February 2020](2020-02-24-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [17–21 February 2020](2020-02-21-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [13–19 February 2020](2020-02-19-Emnid.html) | Emnid | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [14–17 February 2020](2020-02-17-INSAandYouGov.html) | INSA and YouGov | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 6 | 6 | 5–8 | 5–8 | 5–8 |
+| [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [6–12 February 2020](2020-02-12-Emnid.html) | Emnid | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
@@ -315,7 +315,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–22 January 2020](2020-01-22-Emnid.html) | Emnid | 5 | 5 | 5 | 5 | 5–6 |
 | [9–22 January 2020](2020-01-22-Allensbach.html) | Allensbach | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [17–20 January 2020](2020-01-20-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [13–17 January 2020](2020-01-17-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [13–15 January 2020](2020-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [9–15 January 2020](2020-01-15-Emnid.html) | Emnid | 5 | 5 | 5–6 | 5–6 | 5–7 |
 | [10–13 January 2020](2020-01-13-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 5–6 | 5–7 |
