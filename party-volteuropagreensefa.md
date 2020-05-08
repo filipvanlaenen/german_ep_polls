@@ -395,7 +395,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -447,7 +447,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

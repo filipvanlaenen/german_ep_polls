@@ -428,7 +428,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 20 | 19–20 | 19–20 | 18–20 | 18–21 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 19–21 | 19–21 | 19–23 | 18–23 |
-| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 19–20 | 19–22 | 18–23 |
+| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–21 | 20–21 | 19–22 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 19 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 22 | 22–23 | 20–24 | 19–25 | 19–25 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 18–20 | 18–21 | 18–21 | 18–22 |
@@ -450,7 +450,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 22 | 19–23 | 19–23 | 19–23 | 19–25 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 19 | 18–22 | 18–23 | 18–23 | 18–23 |
-| [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 19 | 19 | 19 | 18–19 | 18–20 |
+| [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 19 | 18–21 | 18–21 | 18–21 | 18–21 |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 21 | 21–22 | 20–23 | 20–25 | 19–25 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
@@ -480,7 +480,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 17–20 | 17–22 | 17–24 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 20 | 19–22 | 18–22 | 18–22 | 17–22 |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 19 | 19–21 | 19–21 | 19–21 | 18–22 |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–21 | 19–21 | 19–22 |
 
 ### Probability Mass Function
 

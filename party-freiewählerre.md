@@ -396,7 +396,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
+| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
@@ -418,7 +418,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1 | 1 | 0–1 | 0–2 |
 | [11–17 July 2019](2019-07-17-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 0–2 |
-| [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
+| [12–15 July 2019](2019-07-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [8–12 July 2019](2019-07-12-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–11 July 2019](2019-07-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–10 July 2019](2019-07-10-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -448,7 +448,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3 June 2019](2019-06-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [27–31 May 2019](2019-05-31-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 May 2019](2019-05-28-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1 | 1 | 1 | 1–2 |
-| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–27 May 2019](2019-05-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
