@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.4–9.4% | 7.2–9.7% | 7.0–9.9% | 6.5–10.5% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.4–9.3% | 7.2–9.6% | 6.9–9.9% | 6.5–10.5% |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 8.5% | 7.7–9.5% | 7.4–9.8% | 7.2–10.0% | 6.8–10.5% |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 8.2% | 7.5–9.0% | 7.3–9.2% | 7.1–9.4% | 6.8–9.8% |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 8.3% | 7.4–9.3% | 7.2–9.6% | 7.0–9.8% | 6.6–10.3% |
-| [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 8.1% | N/A | N/A | N/A | N/A |
+| [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 8.1% | 7.3–9.1% | 7.0–9.4% | 6.8–9.6% | 6.4–10.1% |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
 | [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 8.3% | 7.6–9.1% | 7.4–9.4% | 7.2–9.6% | 6.8–10.0% |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
@@ -235,11 +235,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 13% | 99.5% |  |
-| 7.5–8.5% | 47% | 87% | Median |
-| 8.5–9.5% | 33% | 40% |  |
-| 9.5–10.5% | 6% | 7% |  |
+| 5.5–6.5% | 0.6% | 100% |  |
+| 6.5–7.5% | 13% | 99.4% |  |
+| 7.5–8.5% | 48% | 86% | Median |
+| 8.5–9.5% | 32% | 38% |  |
+| 9.5–10.5% | 6% | 6% |  |
 | 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -252,11 +252,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–12 |
-| [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 7 | 7–9 | 7–10 | 7–12 | 7–12 |
-| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 8 | 8 | 8 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–11 |
+| [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 8 | 8–9 | 7–9 | 7–9 | 6–10 |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [22–29 April 2020](2020-04-29-Emnid.html) | Emnid |  |  |  |  |  |
+| [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 9 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 8 | 8–9 | 8–9 | 7–9 | 6–10 |
@@ -479,12 +479,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 35% | 98% |  |
-| 8 | 42% | 63% | Median |
-| 9 | 19% | 21% |  |
-| 10 | 0.9% | 2% |  |
-| 11 | 0.6% | 1.3% |  |
-| 12 | 0.7% | 0.7% |  |
-| 13 | 0% | 0% |  |
+| 7 | 34% | 98% |  |
+| 8 | 36% | 64% | Median |
+| 9 | 27% | 29% |  |
+| 10 | 0.9% | 1.4% |  |
+| 11 | 0.5% | 0.6% |  |
+| 12 | 0% | 0% |  |
 
 
