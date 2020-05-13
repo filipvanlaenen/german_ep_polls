@@ -407,7 +407,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [23–26 August 2019](2019-08-26-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
