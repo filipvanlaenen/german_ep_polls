@@ -255,12 +255,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 5–7 | 5–7 | 5–8 |
@@ -486,9 +486,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.2% | 100% |  |
 | 4 | 9% | 99.8% |  |
-| 5 | 43% | 90% | Median |
-| 6 | 30% | 47% |  |
-| 7 | 17% | 17% |  |
+| 5 | 38% | 91% |  |
+| 6 | 43% | 52% | Median |
+| 7 | 9% | 9% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 

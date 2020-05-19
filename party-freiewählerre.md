@@ -252,9 +252,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
-| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–1 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 1–2 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
@@ -476,9 +476,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 86% | 98% | Last Result, Median |
-| 2 | 12% | 12% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 81% | 98.7% | Last Result, Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -269,12 +269,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 16–18 | 16–18 | 15–19 | 14–20 |
-| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 17 | 16–19 | 16–19 | 16–19 | 14–19 |
-| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 15 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 15 | 12–16 | 12–16 | 12–16 | 12–16 |
+| [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 16 | 16–18 | 15–19 | 15–20 | 14–20 |
+| [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 15 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 17 | 16–17 | 16–18 | 16–19 | 16–19 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 13 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 17 | 15–17 | 15–17 | 15–18 | 15–18 |
@@ -510,12 +510,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.6% | 100% |  |
 | 13 | 8% | 99.3% |  |
 | 14 | 14% | 91% |  |
-| 15 | 19% | 77% |  |
-| 16 | 17% | 59% | Median |
-| 17 | 13% | 42% |  |
-| 18 | 23% | 29% |  |
-| 19 | 6% | 6% |  |
-| 20 | 0.6% | 0.7% |  |
+| 15 | 18% | 77% |  |
+| 16 | 20% | 58% | Median |
+| 17 | 12% | 39% |  |
+| 18 | 23% | 27% |  |
+| 19 | 2% | 3% |  |
+| 20 | 1.1% | 1.2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
