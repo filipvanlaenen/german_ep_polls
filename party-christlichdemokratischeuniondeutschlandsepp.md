@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 28.0–31.4% | 27.6–31.9% | 27.2–32.3% | 26.4–33.1% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.9–31.4% | 27.5–31.9% | 27.1–32.3% | 26.3–33.2% |
+| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 28.9% | 27.7–30.2% | 27.3–30.6% | 27.0–30.9% | 26.4–31.5% |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 30.5% | 29.2–31.9% | 28.8–32.3% | 28.5–32.6% | 27.8–33.3% |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 29.7% | 28.1–31.4% | 27.7–31.9% | 27.3–32.3% | 26.5–33.1% |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 29.7% | 28.0–31.5% | 27.5–32.1% | 27.0–32.5% | 26.2–33.4% |
+| [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 30.5% | N/A | N/A | N/A | N/A |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 29.3% | 28.0–30.6% | 27.7–31.0% | 27.4–31.3% | 26.8–31.9% |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 31.3% | 30.1–32.5% | 29.8–32.8% | 29.5–33.1% | 28.9–33.7% |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 30.5% | 29.0–32.0% | 28.5–32.5% | 28.2–32.9% | 27.5–33.6% |
@@ -261,12 +263,12 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.6% | 99.9% |  |
-| 26.5–27.5% | 4% | 99.3% |  |
-| 27.5–28.5% | 14% | 95% |  |
-| 28.5–29.5% | 27% | 81% |  |
-| 29.5–30.5% | 28% | 54% | Median |
-| 30.5–31.5% | 18% | 26% |  |
+| 25.5–26.5% | 0.8% | 99.9% |  |
+| 26.5–27.5% | 5% | 99.2% |  |
+| 27.5–28.5% | 16% | 94% |  |
+| 28.5–29.5% | 27% | 78% |  |
+| 29.5–30.5% | 26% | 51% | Median |
+| 30.5–31.5% | 17% | 24% |  |
 | 31.5–32.5% | 6% | 8% |  |
 | 32.5–33.5% | 1.4% | 2% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
@@ -281,10 +283,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–31 | 26–31 | 26–31 | 25–31 |
+| N/A | [Poll Average](average.html) | 28 | 27–30 | 26–31 | 26–31 | 25–31 |
+| [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 28 | 27–28 | 27–28 | 27–29 | 26–29 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 30 | 27–31 | 26–31 | 26–31 | 26–31 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28 | 26–30 | 26–31 | 26–31 | 25–32 |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 28 | 27–29 | 26–30 | 26–31 | 24–31 |
+| [7–13 May 2020](2020-05-13-Emnid.html) | Emnid |  |  |  |  |  |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 28 | 27–29 | 26–29 | 26–30 | 25–31 |
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 30 | 29–32 | 28–32 | 27–32 | 27–32 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 29 | 28–30 | 27–31 | 27–32 | 26–34 |
@@ -531,15 +535,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
-| 24 | 0.2% | 100% |  |
-| 25 | 0.8% | 99.8% |  |
-| 26 | 9% | 99.0% |  |
-| 27 | 13% | 90% |  |
-| 28 | 39% | 78% | Median |
-| 29 | 12% | 39% |  |
-| 30 | 15% | 26% |  |
-| 31 | 11% | 11% |  |
-| 32 | 0.3% | 0.4% |  |
+| 24 | 0.3% | 100% |  |
+| 25 | 0.7% | 99.7% |  |
+| 26 | 5% | 99.1% |  |
+| 27 | 14% | 94% |  |
+| 28 | 51% | 80% | Median |
+| 29 | 12% | 29% |  |
+| 30 | 11% | 17% |  |
+| 31 | 5% | 5% |  |
+| 32 | 0.2% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
 
