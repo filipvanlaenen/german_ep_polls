@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 4.8–6.7% | 4.5–7.0% | 4.3–7.3% | 3.9–7.8% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.6–7.0% | 4.4–7.4% | 4.2–7.6% | 3.8–8.2% |
+| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
+| [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.3–8.1% |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 6.0% | 5.3–6.9% | 5.1–7.1% | 5.0–7.3% | 4.6–7.8% |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.0% |
@@ -241,12 +244,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 6% | 99.9% |  |
-| 4.5–5.5% | 32% | 94% |  |
-| 5.5–6.5% | 47% | 62% | Median |
-| 6.5–7.5% | 14% | 15% |  |
-| 7.5–8.5% | 1.1% | 1.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 8% | 99.9% |  |
+| 4.5–5.5% | 36% | 92% |  |
+| 5.5–6.5% | 36% | 56% | Median |
+| 6.5–7.5% | 17% | 20% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -257,10 +261,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [14–19 May 2020](2020-05-19-Emnid.html) | Emnid |  |  |  |  |  |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–15 May 2020](2020-05-15-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [12–14 May 2020](2020-05-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [6–14 May 2020](2020-05-14-Allensbach.html) | Allensbach | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [12–13 May 2020](2020-05-13-Infratestdimap.html) | Infratest dimap | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [7–13 May 2020](2020-05-13-Emnid.html) | Emnid | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [8–11 May 2020](2020-05-11-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -489,11 +496,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.2% | 100% |  |
-| 4 | 10% | 99.8% |  |
-| 5 | 33% | 90% |  |
-| 6 | 44% | 57% | Median |
-| 7 | 12% | 12% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 4 | 14% | 99.8% |  |
+| 5 | 43% | 86% | Median |
+| 6 | 36% | 43% |  |
+| 7 | 7% | 7% |  |
+| 8 | 0% | 0% |  |
 
 
