@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.7% | 4.6–7.0% | 4.4–7.4% | 4.2–7.6% | 3.8–8.2% |
+| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.8% | 5.2–7.0% | 5.1–7.1% | 4.8–7.5% |
@@ -246,7 +247,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 8% | 99.9% |  |
 | 4.5–5.5% | 36% | 92% |  |
-| 5.5–6.5% | 36% | 56% | Median |
+| 5.5–6.5% | 36% | 55% | Median |
 | 6.5–7.5% | 17% | 20% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -262,6 +263,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [22–25 May 2020](2020-05-25-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 6 | 5–6 |
 | [18–22 May 2020](2020-05-22-Forsa.html) | Forsa | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [14–19 May 2020](2020-05-19-Emnid.html) | Emnid |  |  |  |  |  |
 | [15–18 May 2020](2020-05-18-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -497,8 +499,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.2% | 100% |  |
 | 4 | 14% | 99.8% |  |
-| 5 | 43% | 86% | Median |
-| 6 | 36% | 43% |  |
+| 5 | 41% | 86% | Median |
+| 6 | 38% | 44% |  |
 | 7 | 7% | 7% |  |
 | 8 | 0% | 0% |  |
 
