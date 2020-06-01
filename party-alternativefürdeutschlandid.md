@@ -406,7 +406,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29 September–10 October 2019](2019-10-10-Allensbach.html) | Allensbach | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [7–9 October 2019](2019-10-09-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [2–9 October 2019](2019-10-09-Emnid.html) | Emnid <br> Bild am Sonntag | 15 | 13–15 | 13–16 | 13–16 | 13–17 |
-| [4–7 October 2019](2019-10-07-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [4–7 October 2019](2019-10-07-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
 | [1–7 October 2019](2019-10-07-GMS.html) | GMS | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [30 September–4 October 2019](2019-10-04-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 11–14 | 10–14 |
 | [27 September–1 October 2019](2019-10-01-YouGov.html) | YouGov | 14 | 14–16 | 14–16 | 13–16 | 12–17 |
@@ -419,7 +419,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 12 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 13 | 13 | 13 | 13–14 | 12–16 |
-| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 16 | 16 | 16 | 16 | 14–17 |
+| [13–16 September 2019](2019-09-16-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 14–17 | 13–17 | 13–17 |
 | [9–13 September 2019](2019-09-13-Forsa.html) | Forsa | 13 | 13 | 12–13 | 12–14 | 12–14 |
 | [6–12 September 2019](2019-09-12-GMS.html) | GMS | 12 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [1–12 September 2019](2019-09-12-Allensbach.html) | Allensbach | 13 | 12–14 | 11–15 | 11–15 | 11–17 |
