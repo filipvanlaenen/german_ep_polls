@@ -435,7 +435,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–27 September 2019](2019-09-27-Forsa.html) | Forsa | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [24–26 September 2019](2019-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [19–25 September 2019](2019-09-25-Emnid.html) | Emnid <br> Bild am Sonntag | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
-| [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 21 | 21 | 21 | 20–21 | 18–23 |
+| [20–23 September 2019](2019-09-23-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 20–22 | 20–23 | 18–23 |
 | [16–20 September 2019](2019-09-20-Forsa.html) | Forsa | 21 | 20–23 | 19–23 | 19–23 | 19–24 |
 | [17–18 September 2019](2019-09-18-Infratestdimap.html) | Infratest dimap <br> ARD | 22 | 20–23 | 20–23 | 20–23 | 19–25 |
 | [12–18 September 2019](2019-09-18-Emnid.html) | Emnid <br> Bild am Sonntag | 21 | 20–21 | 19–21 | 19–22 | 18–23 |
