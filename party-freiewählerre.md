@@ -471,7 +471,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [24–28 June 2019](2019-06-28-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–26 June 2019](2019-06-26-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–26 June 2019](2019-06-26-Emnid.html) | Emnid <br> Bild am Sonntag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
+| [21–24 June 2019](2019-06-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [18–24 June 2019](2019-06-24-GMS.html) | GMS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [17–21 June 2019](2019-06-21-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 June 2019](2019-06-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
