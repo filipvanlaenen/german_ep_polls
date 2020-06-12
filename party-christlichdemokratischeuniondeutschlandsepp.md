@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30.0% | 28.1–32.1% | 27.6–32.7% | 27.2–33.1% | 26.4–34.1% |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 29.7% | 28.4–31.0% | 28.1–31.4% | 27.8–31.7% | 27.1–32.4% |
+| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 31.3% | 29.8–32.9% | 29.3–33.3% | 28.9–33.7% | 28.2–34.5% |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 29.7% | 28.2–31.2% | 27.8–31.7% | 27.4–32.1% | 26.7–32.8% |
+| [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 29.8% | 28.2–31.4% | 27.8–31.8% | 27.4–32.2% | 26.7–33.0% |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 30.1% | 28.8–31.4% | 28.5–31.8% | 28.1–32.1% | 27.5–32.8% |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 31.3% | 29.6–33.1% | 29.1–33.6% | 28.6–34.1% | 27.8–35.0% |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 30.5% | 28.9–32.1% | 28.5–32.6% | 28.1–33.0% | 27.4–33.8% |
@@ -294,6 +298,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 27–31 | 27–32 | 26–33 | 25–33 |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 29 | 27–29 | 27–30 | 26–31 | 25–31 |
+| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 29 | 28–32 | 28–32 | 27–32 | 26–33 |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 30 | 28–30 | 28–30 | 27–30 | 27–30 |
+| [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 29 | 27–29 | 27–29 | 27–30 | 26–31 |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 28 | 27–30 | 27–31 | 27–31 | 26–31 |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 31 | 29–33 | 28–33 | 28–33 | 27–33 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28 | 28–29 | 28–30 | 27–31 | 26–32 |

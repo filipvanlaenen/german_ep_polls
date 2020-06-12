@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.7% | 6.5–9.1% | 6.2–9.5% | 6.0–9.9% | 5.5–10.5% |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
+| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.5% | 6.3–9.9% |
+| [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.5–9.7% | 6.1–10.3% |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.1% |
@@ -270,6 +274,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 7 | 7–9 | 7–9 | 7–10 | 7–11 |
+| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 8 | 8 | 8 | 8–9 | 7–9 |
+| [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 8 | 8 | 8 | 7–9 | 7–9 |
 | [26–28 May 2020](2020-05-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
