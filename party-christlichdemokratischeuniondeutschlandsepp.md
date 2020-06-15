@@ -298,9 +298,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 27–31 | 27–32 | 26–33 | 25–33 |
-| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 29 | 27–29 | 27–30 | 26–31 | 25–31 |
-| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 29 | 28–32 | 28–32 | 27–32 | 26–33 |
-| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 30 | 28–30 | 28–30 | 27–30 | 27–30 |
+| [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 27 | 26–29 | 26–29 | 26–31 | 26–31 |
+| [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 30 | 30 | 30 | 29–30 | 28–32 |
+| [2–3 June 2020](2020-06-03-Infratestdimap.html) | Infratest dimap | 29 | 27–32 | 27–32 | 27–32 | 27–32 |
 | [28 May–3 June 2020](2020-06-03-Emnid.html) | Emnid | 29 | 27–29 | 27–29 | 27–30 | 26–31 |
 | [29 May–2 June 2020](2020-06-02-INSAandYouGov.html) | INSA and YouGov | 28 | 27–30 | 27–31 | 27–31 | 26–31 |
 | [27–29 May 2020](2020-05-29-Forsa.html) | Forsa | 31 | 29–33 | 28–33 | 28–33 | 27–33 |
