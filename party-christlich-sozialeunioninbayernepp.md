@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.3% | 6.6–9.7% |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8.5% | 7.5–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 8.7% | 7.9–9.6% | 7.7–9.9% | 7.5–10.1% | 7.2–10.6% |
-| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.5% | 7.5–9.6% | 7.3–9.9% | 7.1–10.2% | 6.6–10.7% |
+| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.5% | 7.6–9.6% | 7.3–9.9% | 7.1–10.2% | 6.7–10.7% |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 8.5% | 7.8–9.4% | 7.5–9.6% | 7.4–9.9% | 7.0–10.3% |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.2–9.6% | 6.8–10.0% |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 8.7% | 7.8–9.7% | 7.6–10.0% | 7.3–10.3% | 7.0–10.8% |
@@ -280,9 +280,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 9 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8 | 8 | 8 | 8 | 8–10 |
+| [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8 | 7–8 | 7–8 | 7–9 | 6–10 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 8 | 8–10 | 7–10 | 7–10 | 7–10 |
-| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 7 | 7 | 7–8 | 6–10 |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 8 | 8 | 8 | 8–9 | 7–10 |
@@ -530,11 +530,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.5% | 100% |  |
-| 7 | 11% | 99.5% |  |
-| 8 | 42% | 88% | Median |
-| 9 | 42% | 46% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 25% | 99.2% |  |
+| 8 | 34% | 74% | Median |
+| 9 | 37% | 40% |  |
 | 10 | 4% | 4% |  |
-| 11 | 0% | 0% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

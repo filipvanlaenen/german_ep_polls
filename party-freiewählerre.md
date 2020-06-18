@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.8% | 0.7–2.0% |
-| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.4% | 0.5–1.6% |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
@@ -273,7 +273,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
-| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
@@ -516,8 +516,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 90% | 93% | Last Result, Median |
+| 0 | 9% | 100% |  |
+| 1 | 89% | 91% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

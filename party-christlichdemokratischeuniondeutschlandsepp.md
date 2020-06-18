@@ -289,7 +289,7 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 22% | 37% |  |
 | 31.5–32.5% | 11% | 15% |  |
 | 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.7% | 0.7% |  |
+| 33.5–34.5% | 0.7% | 0.8% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -302,11 +302,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–31 | 27–31 | 26–32 | 25–32 |
+| N/A | [Poll Average](average.html) | 29 | 27–31 | 27–31 | 26–32 | 25–32 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 27 | 27–28 | 26–28 | 26–29 | 25–29 |
-| [9–15 June 2020](2020-06-15-GMS.html) | GMS | 28 | 28 | 28 | 28 | 27–29 |
+| [9–15 June 2020](2020-06-15-GMS.html) | GMS | 29 | 28–30 | 28–30 | 27–31 | 25–32 |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 31 | 27–31 | 27–31 | 27–31 | 27–32 |
-| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 29 | 29–31 | 29–31 | 28–31 | 27–32 |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 29 | 28–31 | 27–31 | 27–31 | 26–32 |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 27 | 26–29 | 26–29 | 26–31 | 26–31 |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 30 | 30 | 30 | 29–30 | 28–32 |
@@ -573,14 +573,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.8% | 100% |  |
+| 25 | 0.9% | 100% |  |
 | 26 | 3% | 99.1% |  |
-| 27 | 26% | 96% |  |
-| 28 | 23% | 70% | Median |
-| 29 | 28% | 47% |  |
-| 30 | 6% | 20% |  |
-| 31 | 11% | 14% |  |
-| 32 | 3% | 3% |  |
+| 27 | 23% | 96% |  |
+| 28 | 12% | 74% |  |
+| 29 | 35% | 61% | Median |
+| 30 | 11% | 27% |  |
+| 31 | 13% | 15% |  |
+| 32 | 2% | 3% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
