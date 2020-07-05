@@ -23,7 +23,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 8.1% | 7.3–8.9% | 7.1–9.1% | 7.0–9.3% | 6.6–9.7% |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8.5% | 7.5–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 8.7% | 7.9–9.6% | 7.7–9.9% | 7.5–10.1% | 7.2–10.6% |
-| [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 8.8% | N/A | N/A | N/A | N/A |
+| [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 8.8% | 7.4–9.9% | 7.4–11.1% | 7.4–11.1% | 6.2–11.1% |
 | [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.5% | 7.6–9.6% | 7.3–9.9% | 7.1–10.2% | 6.7–10.7% |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 8.5% | 7.8–9.4% | 7.5–9.6% | 7.4–9.9% | 7.0–10.3% |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 8.3% | 7.5–9.1% | 7.3–9.4% | 7.2–9.6% | 6.8–10.0% |
