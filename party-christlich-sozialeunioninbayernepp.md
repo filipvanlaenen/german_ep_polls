@@ -288,15 +288,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9 | 9 | 8–9 | 8–9 | 6–10 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 10 | 7–10 | 7–10 | 7–10 | 7–10 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 7 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 8 | 7–8 | 7–8 | 7–9 | 6–10 |
@@ -550,10 +550,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 22% | 97% |  |
-| 8 | 45% | 76% | Median |
-| 9 | 21% | 30% |  |
+| 6 | 2% | 100% |  |
+| 7 | 25% | 98% |  |
+| 8 | 46% | 73% | Median |
+| 9 | 18% | 27% |  |
 | 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

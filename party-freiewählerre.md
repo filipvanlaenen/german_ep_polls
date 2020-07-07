@@ -285,9 +285,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–2 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 0–1 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
@@ -537,8 +537,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% |  |
-| 1 | 85% | 89% | Last Result, Median |
-| 2 | 4% | 4% |  |
+| 1 | 86% | 89% | Last Result, Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

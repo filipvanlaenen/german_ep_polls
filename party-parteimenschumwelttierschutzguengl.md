@@ -279,15 +279,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 0–1 | 0–1 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 1 | 1 | 1 | 0–1 | 0–1 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 1 | 1 | 1 | 0–1 | 0–2 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -536,8 +536,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% |  |
-| 1 | 51% | 51% | Last Result, Median |
+| 0 | 53% | 100% | Median |
+| 1 | 47% | 47% | Last Result |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

@@ -296,15 +296,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 14 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [23–25 June 2020](2020-06-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [23–24 June 2020](2020-06-24-Infratestdimap.html) | Infratest dimap | 14 | 13–15 | 13–15 | 13–16 | 13–18 |
 | [18–24 June 2020](2020-06-24-Emnid.html) | Emnid | 15 | 15–16 | 15–16 | 15–16 | 14–17 |
-| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 15 | 13–15 | 13–15 | 13–16 | 12–17 |
+| [18–22 June 2020](2020-06-22-YouGov.html) | YouGov | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [19–22 June 2020](2020-06-22-INSAandYouGov.html) | INSA and YouGov | 15 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 14 | 14–15 | 13–15 | 13–15 | 12–15 |
+| [15–19 June 2020](2020-06-19-Forsa.html) | Forsa | 13 | 13–14 | 13–14 | 11–14 | 11–15 |
 | [10–17 June 2020](2020-06-17-Emnid.html) | Emnid | 15 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [12–15 June 2020](2020-06-15-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [9–15 June 2020](2020-06-15-GMS.html) | GMS | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
@@ -565,11 +565,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.4% | 100% |  |
 | 12 | 8% | 99.6% |  |
-| 13 | 14% | 92% |  |
-| 14 | 26% | 78% |  |
-| 15 | 40% | 52% | Median |
-| 16 | 10% | 12% |  |
-| 17 | 1.0% | 1.2% |  |
+| 13 | 13% | 92% |  |
+| 14 | 29% | 79% | Median |
+| 15 | 37% | 49% |  |
+| 16 | 12% | 13% |  |
+| 17 | 0.9% | 1.1% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
