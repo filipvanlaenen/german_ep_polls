@@ -415,7 +415,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [22–25 November 2019](2019-11-25-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [18–22 November 2019](2019-11-22-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [13–20 November 2019](2019-11-20-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0–1 | 0–1 |
-| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–18 November 2019](2019-11-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [11–15 November 2019](2019-11-15-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–13 November 2019](2019-11-13-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 November 2019](2019-11-13-Emnid.html) | Emnid <br> Bild am Sonntag | 0 | 0 | 0 | 0–1 | 0–1 |
