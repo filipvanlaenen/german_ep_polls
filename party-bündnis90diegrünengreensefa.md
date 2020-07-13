@@ -448,7 +448,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–6 November 2019](2019-11-06-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 19–22 | 19–23 | 19–23 | 19–23 |
 | [30 October–6 November 2019](2019-11-06-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [31 October–5 November 2019](2019-11-05-YouGov.html) | YouGov | 22 | 21–22 | 21–22 | 20–23 | 19–24 |
-| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
+| [1–4 November 2019](2019-11-04-INSAandYouGov.html) | INSA and YouGov | 19 | 18–22 | 18–22 | 18–23 | 18–23 |
 | [28 October–1 November 2019](2019-11-01-Forsa.html) | Forsa | 19 | 17–21 | 17–21 | 17–21 | 17–21 |
 | [24–30 October 2019](2019-10-30-Emnid.html) | Emnid <br> Bild am Sonntag | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
 | [25–28 October 2019](2019-10-28-INSAandYouGov.html) | INSA and YouGov | 22 | 22–23 | 21–23 | 21–24 | 20–24 |
@@ -512,7 +512,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [22–26 July 2019](2019-07-26-Forsa.html) | Forsa | 22 | 22–25 | 22–25 | 22–25 | 21–25 |
 | [22–24 July 2019](2019-07-24-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
 | [18–24 July 2019](2019-07-24-Emnid.html) | Emnid <br> Bild am Sonntag | 22 | 21–23 | 21–24 | 20–24 | 19–25 |
-| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 22 | 22 | 21–22 | 21–22 | 19–22 |
+| [19–22 July 2019](2019-07-22-INSAandYouGov.html) | INSA and YouGov | 22 | 21–22 | 21–23 | 20–23 | 19–24 |
 | [17–22 July 2019](2019-07-22-GMS.html) | GMS | 25 | 23–25 | 22–25 | 21–25 | 21–25 |
 | [15–19 July 2019](2019-07-19-Forsa.html) | Forsa | 23 | 22–24 | 22–24 | 22–25 | 21–25 |
 | [16–18 July 2019](2019-07-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 22–26 | 22–26 | 21–26 | 21–28 |
