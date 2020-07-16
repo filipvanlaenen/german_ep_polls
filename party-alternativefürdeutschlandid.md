@@ -299,13 +299,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–12 | 8–12 | 7–12 |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 10 | 10 | 10 | 10–11 | 10–11 |
-| [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
+| [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 10 | 9–10 | 8–10 | 8–10 | 8–11 |
-| [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 11 | 10–11 | 9–11 | 8–11 | 7–11 |
+| [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 9 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 8 | 8–9 | 8–10 | 8–10 | 8–11 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 10 | 9–10 | 9–11 | 8–12 | 8–12 |
 | [22–26 June 2020](2020-06-26-Forsa.html) | Forsa | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
@@ -572,9 +572,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 100% |  |
 | 7 | 0.7% | 99.9% |  |
 | 8 | 18% | 99.3% |  |
-| 9 | 33% | 82% | Median |
-| 10 | 39% | 48% |  |
-| 11 | 4% | 9% |  |
+| 9 | 35% | 81% | Median |
+| 10 | 33% | 46% |  |
+| 11 | 7% | 13% |  |
 | 12 | 6% | 6% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
