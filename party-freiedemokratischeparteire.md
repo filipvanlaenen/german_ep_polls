@@ -298,8 +298,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6–7 | 6–7 | 6–7 |
-| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [3–6 July 2020](2020-07-06-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 6–7 | 6–9 |
+| [29 June–3 July 2020](2020-07-03-Forsa.html) | Forsa | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [24 June–2 July 2020](2020-07-02-Emnid.html) | Emnid | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [29 June–1 July 2020](2020-07-01-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [26–29 June 2020](2020-06-29-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -316,7 +316,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–13 June 2020](2020-06-13-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [1–13 June 2020](2020-06-13-Allensbach.html) | Allensbach | 4 | 4 | 4 | 4–5 | 3–6 |
 | [8–10 June 2020](2020-06-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| [7–9 June 2020](2020-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [7–9 June 2020](2020-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [4–9 June 2020](2020-06-09-Emnid.html) | Emnid | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [5–8 June 2020](2020-06-08-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [2–5 June 2020](2020-06-05-Forsa.html) | Forsa | 6 | 6 | 6 | 6 | 5–7 |
@@ -489,7 +489,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Forsa.html) | Forsa | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [3–4 September 2019](2019-09-04-Infratestdimap.html) | Infratest dimap <br> ARD | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [2–4 September 2019](2019-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–7 | 6–7 | 6–7 | 6–9 |
+| [29 August–4 September 2019](2019-09-04-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
 | [30 August–2 September 2019](2019-09-02-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [26–30 August 2019](2019-08-30-Forsa.html) | Forsa | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [22–28 August 2019](2019-08-28-Emnid.html) | Emnid <br> Bild am Sonntag | 6 | 6–7 | 6–8 | 5–9 | 5–9 |
@@ -497,7 +497,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [19–23 August 2019](2019-08-23-Forsa.html) | Forsa | 7 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [20–21 August 2019](2019-08-21-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [15–21 August 2019](2019-08-21-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 9 | 9 | 9 | 9–10 | 7–10 |
+| [16–19 August 2019](2019-08-19-INSAandYouGov.html) | INSA and YouGov | 9 | 9 | 8–9 | 8–10 | 7–10 |
 | [12–16 August 2019](2019-08-16-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [2–15 August 2019](2019-08-15-Allensbach.html) | Allensbach | 7 | 7 | 6–8 | 5–8 | 5–9 |
 | [8–14 August 2019](2019-08-14-Emnid.html) | Emnid <br> Bild am Sonntag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
