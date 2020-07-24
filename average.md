@@ -388,7 +388,7 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 5% | 8% |  |
 | 31 | 3% | 4% |  |
 | 32 | 0.3% | 0.5% |  |
-| 33 | 0.2% | 0.3% |  |
+| 33 | 0.3% | 0.3% |  |
 | 34 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
@@ -445,7 +445,7 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 8% | 85% |  |
 | 17 | 24% | 77% |  |
 | 18 | 25% | 52% | Median |
-| 19 | 14% | 27% |  |
+| 19 | 14% | 28% |  |
 | 20 | 3% | 14% |  |
 | 21 | 10% | 11% |  |
 | 22 | 0.3% | 0.3% |  |
@@ -488,7 +488,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.4% | 100% |  |
 | 8 | 20% | 99.6% |  |
 | 9 | 32% | 80% | Median |
-| 10 | 34% | 48% |  |
+| 10 | 33% | 47% |  |
 | 11 | 8% | 14% |  |
 | 12 | 6% | 6% |  |
 | 13 | 0.1% | 0.1% |  |
@@ -527,8 +527,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 10% | 100% |  |
 | 5 | 41% | 90% | Median |
-| 6 | 25% | 49% |  |
-| 7 | 12% | 23% |  |
+| 6 | 26% | 49% |  |
+| 7 | 12% | 24% |  |
 | 8 | 11% | 11% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
@@ -671,10 +671,10 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0.2% | 100% |  |
-| 33 | 7% | 99.8% |  |
+| 33 | 7% | 99.7% |  |
 | 34 | 24% | 92% |  |
 | 35 | 17% | 68% |  |
-| 36 | 27% | 51% | Median |
+| 36 | 26% | 51% | Median |
 | 37 | 18% | 24% |  |
 | 38 | 1.4% | 6% |  |
 | 39 | 2% | 5% |  |
@@ -724,7 +724,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.4% | 100% |  |
 | 8 | 20% | 99.6% |  |
 | 9 | 32% | 80% | Median |
-| 10 | 34% | 48% |  |
+| 10 | 33% | 47% |  |
 | 11 | 8% | 14% |  |
 | 12 | 6% | 6% |  |
 | 13 | 0.1% | 0.1% |  |
@@ -740,7 +740,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
 | 5 | 9% | 99.7% |  |
-| 6 | 52% | 91% | Median |
+| 6 | 51% | 91% | Median |
 | 7 | 14% | 39% |  |
 | 8 | 11% | 26% |  |
 | 9 | 14% | 15% |  |
@@ -751,6 +751,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 6,815,744
-+ **Error estimate:** 3.06%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 3.81%
