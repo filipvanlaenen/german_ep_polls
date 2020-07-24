@@ -300,7 +300,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 5–8 | 4–8 | 4–8 | 4–8 |
 | [17–20 July 2020](2020-07-20-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 5 | 5 | 5 | 5 | 5 |
+| [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 5 | 5 | 5 | 5 | 5–6 |
 | [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -570,8 +570,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 10% | 100% |  |
 | 5 | 41% | 90% | Median |
-| 6 | 25% | 49% |  |
-| 7 | 12% | 23% |  |
+| 6 | 26% | 49% |  |
+| 7 | 12% | 24% |  |
 | 8 | 11% | 11% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
