@@ -302,15 +302,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
-| [27–31 July 2020](2020-07-31-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–31 July 2020](2020-07-31-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [28–30 July 2020](2020-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–29 July 2020](2020-07-29-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–29 July 2020](2020-07-29-Emnid.html) | Emnid | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [24–27 July 2020](2020-07-27-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–27 July 2020](2020-07-27-GMS.html) | GMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–27 July 2020](2020-07-27-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [20–24 July 2020](2020-07-24-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 July 2020](2020-07-22-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 July 2020](2020-07-22-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -582,9 +582,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 80% | 81% | Last Result, Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 17% | 100% |  |
+| 1 | 83% | 83% | Last Result, Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
