@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.2% |
+| [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.6% | 0.4–1.8% |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% |
 | [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
@@ -288,8 +289,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 85% | 98% | Median |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 84% | 97% | Median |
 | 1.5–2.5% | 13% | 13% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -304,6 +305,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -583,9 +585,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 86% | 99.3% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 0 | 1.4% | 100% |  |
+| 1 | 85% | 98.6% | Last Result, Median |
+| 2 | 14% | 14% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
