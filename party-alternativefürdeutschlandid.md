@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.1–11.6% | 7.7–12.0% | 7.4–12.4% | 6.9–13.1% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.5–11.8% | 8.2–12.1% | 7.9–12.4% | 7.4–13.1% |
+| [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 11.0% | 10.1–12.0% | 9.9–12.2% | 9.6–12.5% | 9.3–13.0% |
 | [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
+| [3–7 August 2020](2020-08-07-Forsa.html) | Forsa | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [30 July–6 August 2020](2020-08-06-Emnid.html) | Emnid | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 11.0% | 10.0–12.1% | 9.7–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 11.0% | 10.1–12.1% | 9.8–12.4% | 9.6–12.7% | 9.2–13.2% |
 | [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
@@ -295,13 +299,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 15% | 97% |  |
-| 8.5–9.5% | 22% | 82% |  |
-| 9.5–10.5% | 26% | 60% | Median |
-| 10.5–11.5% | 23% | 35% |  |
-| 11.5–12.5% | 10% | 11% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 10% | 99.2% |  |
+| 8.5–9.5% | 23% | 90% |  |
+| 9.5–10.5% | 25% | 66% | Median |
+| 10.5–11.5% | 27% | 41% |  |
+| 11.5–12.5% | 12% | 14% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -315,8 +319,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 7–12 | 7–13 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
+| [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
+| [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 10 | 9–13 | 9–13 | 8–13 | 8–13 |
+| [3–7 August 2020](2020-08-07-Forsa.html) | Forsa | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [30 July–6 August 2020](2020-08-06-Emnid.html) | Emnid | 11 | 11 | 11 | 10–11 | 9–12 |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 11 | 9–12 | 9–12 | 9–12 | 8–14 |
 | [30 July–4 August 2020](2020-08-04-YouGov.html) | YouGov | 10 | 10–11 | 9–11 | 9–13 | 9–13 |
 | [31 July–3 August 2020](2020-08-03-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 10–12 | 10–12 | 9–12 |
@@ -601,13 +609,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.5% | 100% |  |
-| 7 | 6% | 99.5% |  |
-| 8 | 6% | 94% |  |
-| 9 | 34% | 88% |  |
-| 10 | 34% | 55% | Median |
-| 11 | 13% | 21% |  |
-| 12 | 4% | 8% |  |
+| 6 | 0% | 100% |  |
+| 7 | 1.0% | 100% |  |
+| 8 | 6% | 99.0% |  |
+| 9 | 30% | 93% |  |
+| 10 | 38% | 63% | Median |
+| 11 | 15% | 25% |  |
+| 12 | 6% | 10% |  |
 | 13 | 4% | 4% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
