@@ -321,7 +321,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
-| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -612,8 +612,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 20% | 100% |  |
 | 5 | 21% | 80% |  |
-| 6 | 28% | 59% | Median |
-| 7 | 28% | 31% |  |
+| 6 | 33% | 59% | Median |
+| 7 | 23% | 27% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 

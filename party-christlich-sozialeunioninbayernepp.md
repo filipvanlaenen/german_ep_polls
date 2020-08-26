@@ -320,10 +320,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 6 | 6–7 | 6–8 | 6–8 | 6–9 |
+| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
@@ -614,11 +614,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 17% | 99.9% |  |
-| 7 | 40% | 83% | Median |
-| 8 | 27% | 43% |  |
-| 9 | 15% | 16% |  |
-| 10 | 0.8% | 0.8% |  |
+| 6 | 10% | 99.9% |  |
+| 7 | 43% | 90% | Median |
+| 8 | 29% | 47% |  |
+| 9 | 17% | 18% |  |
+| 10 | 1.1% | 1.1% |  |
 | 11 | 0% | 0% |  |
 
 
