@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.9% | 15.6–20.8% | 15.2–21.5% | 14.9–22.1% | 14.3–23.2% |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.9–17.1% | 14.6–17.4% | 14.4–17.7% | 13.9–18.2% |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.4% | 14.2–20.1% |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.7% | 14.0–18.2% |
@@ -311,8 +312,8 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 1.0% | 100% |  |
-| 14.5–15.5% | 8% | 98.9% |  |
+| 13.5–14.5% | 1.1% | 100% |  |
+| 14.5–15.5% | 8% | 98.8% |  |
 | 15.5–16.5% | 18% | 91% |  |
 | 16.5–17.5% | 17% | 73% |  |
 | 17.5–18.5% | 17% | 56% | Median |
@@ -333,7 +334,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 14–21 | 14–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–21 | 14–21 | 14–22 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 14–17 | 14–17 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 18 | 18 | 17–19 | 17–19 | 16–20 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
@@ -635,8 +637,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
-| 14 | 12% | 99.7% |  |
-| 15 | 15% | 88% |  |
+| 14 | 5% | 99.7% |  |
+| 15 | 20% | 95% |  |
 | 16 | 14% | 74% |  |
 | 17 | 11% | 60% | Median |
 | 18 | 28% | 49% |  |
