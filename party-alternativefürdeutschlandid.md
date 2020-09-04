@@ -326,9 +326,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–11 | 7–13 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 11 | 10–11 | 10–11 | 9–11 | 9–13 |
-| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 10 | 10 | 10–11 | 9–11 | 9–12 |
+| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 10 | 10–11 | 10–12 | 10–13 | 9–13 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
@@ -627,10 +627,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 1.1% | 100% |  |
 | 8 | 11% | 98.9% |  |
 | 9 | 33% | 88% |  |
-| 10 | 33% | 55% | Median |
-| 11 | 20% | 21% |  |
-| 12 | 1.0% | 1.2% |  |
-| 13 | 0.1% | 0.1% |  |
+| 10 | 32% | 55% | Median |
+| 11 | 21% | 23% |  |
+| 12 | 1.1% | 2% |  |
+| 13 | 0.7% | 0.7% |  |
 | 14 | 0% | 0% |  |
 
 

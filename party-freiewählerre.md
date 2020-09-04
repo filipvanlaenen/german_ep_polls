@@ -317,7 +317,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–2 |
-| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
+| [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 1–2 | 0–2 |
