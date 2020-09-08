@@ -328,12 +328,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–10 | 7–11 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 7 | 7 | 6–7 | 6–7 | 6–8 |
-| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–9 | 7–10 | 7–11 | 5–11 |
+| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 9 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
@@ -629,13 +629,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.4% | 100% |  |
-| 6 | 10% | 99.6% |  |
-| 7 | 44% | 90% | Median |
-| 8 | 25% | 45% |  |
-| 9 | 18% | 20% |  |
-| 10 | 1.2% | 2% |  |
-| 11 | 0.9% | 0.9% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 8% | 99.8% |  |
+| 7 | 42% | 92% |  |
+| 8 | 31% | 50% | Median |
+| 9 | 18% | 19% |  |
+| 10 | 0.7% | 0.8% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 

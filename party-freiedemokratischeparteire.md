@@ -328,9 +328,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5 | 5–6 | 5–7 |
+| [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6–7 | 6–7 | 5–8 |
@@ -625,9 +625,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.2% | 100% |  |
-| 4 | 24% | 99.8% |  |
-| 5 | 61% | 76% | Median |
-| 6 | 12% | 15% |  |
+| 4 | 27% | 99.8% |  |
+| 5 | 50% | 73% | Median |
+| 6 | 21% | 23% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
