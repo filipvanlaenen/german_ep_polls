@@ -10,18 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 16.6–19.7% | 16.1–20.2% | 15.7–20.6% | 14.9–21.3% |
+| N/A | [Poll Average](average.html) | 18.3% | 16.7–19.9% | 16.2–20.3% | 15.8–20.7% | 15.0–21.5% |
+| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.3–19.8% | 15.8–20.3% |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 19.0% | 17.7–20.3% | 17.4–20.7% | 17.1–21.0% | 16.5–21.7% |
+| [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 18.0% | 16.7–19.3% | 16.4–19.7% | 16.1–20.0% | 15.5–20.7% |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 17.5% | 16.5–18.6% | 16.2–18.9% | 15.9–19.2% | 15.4–19.8% |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19.0% | 17.7–20.5% | 17.3–20.9% | 17.0–21.3% | 16.4–22.0% |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 18.0% | 16.8–19.3% | 16.4–19.6% | 16.2–19.9% | 15.6–20.6% |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 18.0% | 16.8–19.3% | 16.5–19.6% | 16.2–20.0% | 15.6–20.6% |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.9–17.1% | 14.6–17.4% | 14.4–17.7% | 13.9–18.2% |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.9–17.3% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.4% | 14.2–20.1% |
-| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.7% | 14.0–18.2% |
+| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
+| [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.3–22.0% |
 | [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 20.0% | 18.9–21.2% | 18.5–21.5% | 18.3–21.8% | 17.7–22.4% |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 16.0% | 15.0–17.1% | 14.7–17.5% | 14.4–17.7% | 13.9–18.3% |
@@ -320,14 +323,14 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 2% | 99.8% |  |
-| 15.5–16.5% | 8% | 98% |  |
-| 16.5–17.5% | 22% | 90% |  |
-| 17.5–18.5% | 32% | 68% | Median |
-| 18.5–19.5% | 24% | 36% |  |
-| 19.5–20.5% | 10% | 12% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.3% | 0.3% |  |
+| 14.5–15.5% | 1.4% | 99.8% |  |
+| 15.5–16.5% | 7% | 98% |  |
+| 16.5–17.5% | 20% | 92% |  |
+| 17.5–18.5% | 31% | 71% | Median |
+| 18.5–19.5% | 25% | 41% |  |
+| 19.5–20.5% | 12% | 15% |  |
+| 20.5–21.5% | 3% | 3% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -339,18 +342,21 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 18 | 16–18 | 16–19 | 16–20 | 15–20 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 17 | 17–18 | 16–18 | 16–19 | 15–19 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [27 August–2 September 2020](2020-09-02-Emnid.html) | Emnid | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [28–31 August 2020](2020-08-31-INSAandYouGov.html) | INSA and YouGov | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [24–28 August 2020](2020-08-28-Forsa.html) | Forsa | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 17–19 | 17–19 | 16–19 | 15–20 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 17 | 15–18 | 15–18 | 15–18 | 15–20 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 17 | 16–17 | 16–18 | 15–18 | 14–19 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 15 | 15–16 | 15–16 | 15–16 | 13–17 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 18 | 18 | 17–19 | 17–19 | 16–20 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 15 | 15 | 15–16 | 15–16 | 14–17 |
+| [5–18 August 2020](2020-08-18-Allensbach.html) | Allensbach | 18 | 17–19 | 16–19 | 16–20 | 15–21 |
 | [14–17 August 2020](2020-08-17-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 20 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
@@ -649,14 +655,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.4% | 100% |  |
-| 15 | 11% | 99.6% |  |
-| 16 | 15% | 89% |  |
-| 17 | 34% | 73% | Median |
-| 18 | 28% | 39% |  |
-| 19 | 11% | 12% |  |
-| 20 | 0.6% | 0.6% |  |
-| 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 9% | 99.6% |  |
+| 16 | 14% | 90% |  |
+| 17 | 35% | 76% | Median |
+| 18 | 26% | 41% |  |
+| 19 | 14% | 15% |  |
+| 20 | 0.8% | 1.0% |  |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
