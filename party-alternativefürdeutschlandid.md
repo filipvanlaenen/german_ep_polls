@@ -336,7 +336,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 7–12 | 7–13 |
-| [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [7–11 September 2020](2020-09-11-Forsa.html) | Forsa | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [4–7 September 2020](2020-09-07-INSAandYouGov.html) | INSA and YouGov | 11 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [31 August–4 September 2020](2020-09-04-Forsa.html) | Forsa | 9 | 8–9 | 8–10 | 7–11 | 7–11 |
 | [31 August–2 September 2020](2020-09-02-Infratestdimap.html) | Infratest dimap | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
