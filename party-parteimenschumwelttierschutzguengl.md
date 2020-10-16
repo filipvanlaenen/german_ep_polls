@@ -343,10 +343,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
+| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -662,8 +662,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% |  |
-| 1 | 71% | 78% | Last Result, Median |
+| 0 | 33% | 100% |  |
+| 1 | 61% | 67% | Last Result, Median |
 | 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 

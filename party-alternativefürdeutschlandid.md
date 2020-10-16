@@ -355,15 +355,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–12 | 7–12 | 7–12 |
-| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
-| [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 8–10 | 8–10 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–12 | 8–12 | 7–12 | 7–12 |
+| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 12 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 9 | 9–10 | 9–10 | 8–11 | 8–12 |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
-| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 11 | 11 | 10–13 |
+| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 10–12 | 10–12 | 10–13 |
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 8 | 7–9 | 7–10 | 7–10 | 7–11 |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 10 | 10–12 | 10–12 | 10–13 | 10–14 |
@@ -681,12 +681,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 7% | 100% |  |
-| 8 | 26% | 93% |  |
-| 9 | 24% | 67% | Median |
-| 10 | 31% | 43% |  |
-| 11 | 7% | 13% |  |
-| 12 | 5% | 6% |  |
+| 7 | 3% | 100% |  |
+| 8 | 25% | 97% |  |
+| 9 | 31% | 72% | Median |
+| 10 | 19% | 41% |  |
+| 11 | 11% | 22% |  |
+| 12 | 10% | 11% |  |
 | 13 | 0.3% | 0.5% |  |
 | 14 | 0.1% | 0.2% |  |
 | 15 | 0% | 0% |  |

@@ -352,14 +352,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
-| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–9 | 6–10 |
-| [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 8 | 8 | 7–9 | 7–9 | 6–9 |
+| [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 5–7 | 5–7 | 5–8 | 5–9 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 9 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [2–5 October 2020](2020-10-05-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [29 September–2 October 2020](2020-10-02-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [28–30 September 2020](2020-09-30-Infratestdimap.html) | Infratest dimap | 7 | 7–8 | 7–8 | 7–8 | 6–10 |
 | [22–30 September 2020](2020-09-30-Emnid.html) | Emnid | 10 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [25–28 September 2020](2020-09-28-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [21–25 September 2020](2020-09-25-Forsa.html) | Forsa | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [17–23 September 2020](2020-09-23-Emnid.html) | Emnid | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [19–21 September 2020](2020-09-21-YouGov.html) | YouGov | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -674,12 +674,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 9% | 99.7% |  |
-| 6 | 32% | 91% |  |
-| 7 | 26% | 59% | Median |
-| 8 | 17% | 33% |  |
-| 9 | 14% | 16% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 6% | 99.9% |  |
+| 6 | 24% | 94% |  |
+| 7 | 25% | 70% | Median |
+| 8 | 29% | 45% |  |
+| 9 | 15% | 16% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
