@@ -10,7 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.5–12.1% | 8.1–12.6% | 7.9–13.0% | 7.4–13.8% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.7–11.9% | 8.3–12.3% | 8.1–12.6% | 7.6–13.2% |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.3% |
+| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.5–12.8% | 9.0–13.3% |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.7% |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 11.5% | 10.7–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 10.0% | 8.9–11.4% | 8.6–11.8% | 8.3–12.1% | 7.8–12.7% |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 9.0% | 8.1–10.1% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
@@ -335,16 +343,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 11% | 99.1% |  |
-| 8.5–9.5% | 28% | 88% |  |
-| 9.5–10.5% | 24% | 60% | Median |
-| 10.5–11.5% | 18% | 36% |  |
-| 11.5–12.5% | 13% | 18% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.8% | 0.8% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 8% | 99.5% |  |
+| 8.5–9.5% | 23% | 92% |  |
+| 9.5–10.5% | 26% | 69% | Median |
+| 10.5–11.5% | 26% | 44% |  |
+| 11.5–12.5% | 14% | 17% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -355,7 +362,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–12 | 8–12 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 8–12 |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 8 | 8–10 | 8–10 | 8–10 |
+| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 10 | 10–11 | 9–11 | 9–12 | 9–13 |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 11 | 10–12 | 10–12 | 8–12 | 7–12 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 12 | 10–12 | 10–12 | 10–12 | 9–12 |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 11 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 11 | 11 | 11 | 11 | 9–11 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
@@ -681,14 +696,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 25% | 97% |  |
-| 9 | 31% | 72% | Median |
-| 10 | 19% | 41% |  |
-| 11 | 11% | 22% |  |
-| 12 | 10% | 11% |  |
-| 13 | 0.3% | 0.5% |  |
-| 14 | 0.1% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 20% | 99.6% |  |
+| 9 | 8% | 79% |  |
+| 10 | 24% | 71% | Median |
+| 11 | 35% | 48% |  |
+| 12 | 13% | 13% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
