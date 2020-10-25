@@ -350,15 +350,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 0–1 | 0–1 |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
-| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 1 | 1 | 1 | 0–2 | 0–2 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1 |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -678,9 +678,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 87% | 99.0% | Last Result, Median |
-| 2 | 12% | 12% |  |
+| 0 | 8% | 100% |  |
+| 1 | 84% | 92% | Last Result, Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 

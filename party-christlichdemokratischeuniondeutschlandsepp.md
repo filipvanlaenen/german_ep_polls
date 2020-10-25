@@ -381,15 +381,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 25–29 | 23–29 | 22–29 | 22–29 |
-| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 28 | 26–28 | 25–28 | 25–28 | 25–29 |
-| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 29 | 28–29 | 28–29 | 27–29 | 26–29 |
-| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 26 | 26–27 | 24–29 | 22–29 | 22–29 |
-| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 24 | 22–27 | 22–27 | 22–27 | 22–27 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 26 | 26–27 | 26–27 | 26–27 | 26–28 |
-| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 27 | 25–28 | 24–28 | 24–28 | 24–29 |
-| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 27 | 25–27 | 25–27 | 24–27 | 22–28 |
-| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 26 | 26 | 26 | 26 | 24–27 |
+| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–29 | 24–29 | 22–30 |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 27 | 26–28 | 26–28 | 25–28 | 24–29 |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 27 | 27–29 | 26–29 | 24–29 | 24–31 |
+| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 27 | 25–28 | 25–29 | 24–29 | 22–29 |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 25 | 24–27 | 23–28 | 22–29 | 22–30 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 26 | 25–28 | 24–29 | 24–29 | 23–29 |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 26 | 26–28 | 26–28 | 25–28 | 24–29 |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 27 | 24–28 | 24–28 | 24–28 | 22–29 |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 26 | 24–28 | 24–28 | 24–28 | 24–29 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 27 | 26–27 | 26–27 | 26–28 | 25–29 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28 | 26–29 | 26–29 | 25–30 | 25–30 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 25 | 24–28 | 24–28 | 24–28 | 23–28 |
@@ -730,15 +730,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 4% | 100% |  |
-| 23 | 1.4% | 96% |  |
-| 24 | 4% | 94% |  |
-| 25 | 7% | 91% |  |
-| 26 | 41% | 84% | Median |
-| 27 | 17% | 42% |  |
-| 28 | 13% | 26% |  |
-| 29 | 13% | 13% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 22 | 0.9% | 100% |  |
+| 23 | 0.6% | 99.1% |  |
+| 24 | 12% | 98% |  |
+| 25 | 10% | 86% |  |
+| 26 | 18% | 76% |  |
+| 27 | 28% | 59% | Median |
+| 28 | 26% | 31% |  |
+| 29 | 5% | 5% |  |
+| 30 | 0.5% | 0.6% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 

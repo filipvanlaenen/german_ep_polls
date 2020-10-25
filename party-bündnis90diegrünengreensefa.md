@@ -372,15 +372,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 17–22 | 16–22 |
-| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 18 | 18–21 | 16–21 | 16–21 | 16–21 |
-| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–20 | 18–20 | 18–20 | 18–21 |
-| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 18 | 18–19 | 16–19 | 16–20 | 15–21 |
-| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 19 | 18–22 | 17–22 | 17–22 | 17–22 |
-| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 17 | 17–18 | 17–18 | 17–19 | 17–19 |
-| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 19 | 18–21 | 18–21 | 18–21 | 18–21 |
-| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 20 | 18–21 | 18–21 | 17–21 | 16–21 |
-| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 19 | 19 | 19 | 19 | 18–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–22 | 16–22 | 16–22 |
+| [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 17 | 16–19 | 16–19 | 16–19 | 16–21 |
+| [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 20 | 18–22 | 17–22 | 17–22 | 16–23 |
+| [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
+| [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 18 | 18–21 | 17–21 | 16–21 | 16–23 |
+| [7–12 October 2020](2020-10-12-GMS.html) | GMS | 19 | 18–20 | 18–20 | 18–20 | 17–22 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 19 | 19 | 19–20 | 19–20 | 18–21 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 18–21 | 18–23 | 17–24 | 16–24 |
 | [1–7 October 2020](2020-10-07-Emnid.html) | Emnid | 19 | 17–19 | 17–20 | 17–21 | 17–22 |
@@ -714,14 +714,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 2% | 99.9% |  |
-| 17 | 10% | 98% |  |
-| 18 | 28% | 88% |  |
-| 19 | 36% | 60% | Median |
-| 20 | 15% | 24% |  |
-| 21 | 6% | 9% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 9% | 99.8% |  |
+| 17 | 12% | 91% |  |
+| 18 | 24% | 80% |  |
+| 19 | 27% | 55% | Median |
+| 20 | 16% | 28% |  |
+| 21 | 7% | 12% |  |
+| 22 | 5% | 5% |  |
+| 23 | 0.3% | 0.3% |  |
+| 24 | 0% | 0% |  |
 
 
