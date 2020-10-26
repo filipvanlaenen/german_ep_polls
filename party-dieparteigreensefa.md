@@ -13,11 +13,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.7–2.1% |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
-| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.6–2.1% |
+| [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.6–2.1% |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
+| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.8–1.6% | 0.7–1.8% |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
@@ -353,11 +355,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [15–21 October 2020](2020-10-21-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
+| [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
 | [7–20 October 2020](2020-10-20-Allensbach.html) | Allensbach | 1 | 1 | 1 | 0–2 | 0–2 |
 | [16–19 October 2020](2020-10-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [12–16 October 2020](2020-10-16-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–14 October 2020](2020-10-14-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–14 October 2020](2020-10-14-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
+| [9–12 October 2020](2020-10-12-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [7–12 October 2020](2020-10-12-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [5–9 October 2020](2020-10-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [6–8 October 2020](2020-10-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
