@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–1.9% |
+| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.8% |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -353,6 +355,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 1–2 |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 1 | 0–1 |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -682,9 +686,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% |  |
-| 1 | 92% | 98.6% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 0 | 2% | 100% |  |
+| 1 | 92% | 98% | Last Result, Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
