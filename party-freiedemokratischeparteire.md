@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 4.7–7.4% | 4.4–7.7% | 4.2–7.9% | 3.8–8.5% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.8–7.3% | 4.5–7.6% | 4.2–7.9% | 3.8–8.4% |
 | [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [4–9 November 2020](2020-11-09-GMS.html) | GMS | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–8.9% |
+| [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
+| [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 6.0% | 5.3–6.8% | 5.1–7.0% | 4.9–7.2% | 4.6–7.6% |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.1% | 4.7–7.5% |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 6.0% | 5.3–6.9% | 5.0–7.1% | 4.9–7.4% | 4.5–7.8% |
@@ -343,13 +347,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 6% | 99.8% |  |
-| 4.5–5.5% | 25% | 93% |  |
-| 5.5–6.5% | 36% | 68% | Median |
-| 6.5–7.5% | 26% | 33% |  |
-| 7.5–8.5% | 7% | 7% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 6% | 99.9% |  |
+| 4.5–5.5% | 25% | 94% |  |
+| 5.5–6.5% | 39% | 70% | Median |
+| 6.5–7.5% | 25% | 31% |  |
+| 7.5–8.5% | 6% | 6% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -361,9 +365,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [6–9 November 2020](2020-11-09-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [4–9 November 2020](2020-11-09-GMS.html) | GMS | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [2–6 November 2020](2020-11-06-Forsa.html) | Forsa | 6 | 6 | 5–6 | 5–7 | 4–7 |
 | [29 October–4 November 2020](2020-11-04-Emnid.html) | Emnid | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [26–30 October 2020](2020-10-30-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [22–26 October 2020](2020-10-26-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [19–23 October 2020](2020-10-23-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [20–22 October 2020](2020-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [15–20 October 2020](2020-10-20-Emnid.html) | Emnid | 6 | 5–6 | 5–8 | 5–8 | 4–8 |
@@ -695,12 +703,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 13% | 99.8% |  |
-| 5 | 22% | 87% |  |
-| 6 | 42% | 65% | Median |
-| 7 | 20% | 23% |  |
-| 8 | 3% | 3% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 10% | 99.7% |  |
+| 5 | 26% | 89% |  |
+| 6 | 47% | 63% | Median |
+| 7 | 14% | 16% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
