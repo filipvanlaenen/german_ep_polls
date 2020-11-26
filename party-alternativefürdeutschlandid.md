@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.8% | 8.5–11.8% | 8.2–12.4% | 8.0–12.8% | 7.5–13.5% |
+| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
 | [16–19 November 2020](2020-11-19-Forsa.html) | Forsa | 9.1% | 8.4–9.9% | 8.2–10.1% | 8.0–10.3% | 7.7–10.7% |
 | [12–18 November 2020](2020-11-18-Emnid.html) | Emnid | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.4–10.8% |
 | [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
@@ -381,7 +382,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
+| [20–23 November 2020](2020-11-23-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [16–19 November 2020](2020-11-19-Forsa.html) | Forsa | 9 | 9 | 8–9 | 8–9 | 8–10 |
 | [12–18 November 2020](2020-11-18-Emnid.html) | Emnid | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [13–16 November 2020](2020-11-16-INSAandYouGov.html) | INSA and YouGov | 11 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -736,11 +738,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.5% | 100% |  |
 | 7 | 3% | 99.5% |  |
 | 8 | 15% | 97% |  |
-| 9 | 31% | 82% |  |
-| 10 | 29% | 51% | Median |
-| 11 | 15% | 22% |  |
-| 12 | 4% | 7% |  |
-| 13 | 2% | 3% |  |
+| 9 | 29% | 82% |  |
+| 10 | 30% | 53% | Median |
+| 11 | 11% | 22% |  |
+| 12 | 8% | 11% |  |
+| 13 | 1.5% | 3% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0% | 0% |  |
 
