@@ -411,11 +411,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 26–29 | 25–29 | 24–29 | 24–30 |
-| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 26 | 26 | 25–26 | 25–26 | 25–29 |
+| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–29 | 24–29 | 24–30 |
+| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 26 | 26–28 | 26–28 | 26–28 | 25–29 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 26 | 26–27 | 26–27 | 26–28 | 25–29 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 26 | 24–28 | 24–28 | 24–28 | 24–29 |
-| [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 28 | 26–29 | 25–29 | 25–29 | 23–29 |
+| [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 25 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 26 | 26–28 | 25–28 | 24–30 | 24–30 |
 | [23–27 November 2020](2020-11-27-Forsa.html) | Forsa | 28 | 26–28 | 25–29 | 25–30 | 25–30 |
 | [24–26 November 2020](2020-11-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 29 | 27–30 | 27–30 | 26–30 | 25–30 |
@@ -791,13 +791,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0.1% | 100% |  |
-| 24 | 3% | 99.9% |  |
-| 25 | 6% | 97% |  |
-| 26 | 30% | 91% |  |
-| 27 | 12% | 60% | Median |
-| 28 | 27% | 48% |  |
-| 29 | 19% | 22% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 5% | 99.8% |  |
+| 25 | 9% | 95% |  |
+| 26 | 26% | 86% |  |
+| 27 | 13% | 60% | Median |
+| 28 | 29% | 47% |  |
+| 29 | 16% | 18% |  |
 | 30 | 2% | 2% |  |
 | 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |

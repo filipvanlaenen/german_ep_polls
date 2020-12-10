@@ -402,11 +402,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 15–21 | 15–22 | 15–22 |
-| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 15 | 15–17 | 15–18 | 15–18 | 15–18 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–22 | 15–22 |
+| [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 20 | 19–22 | 19–22 | 18–22 | 17–22 |
-| [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 18 | 16–19 | 16–20 | 16–20 | 16–21 |
+| [26 November–2 December 2020](2020-12-02-Emnid.html) | Emnid | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
 | [27–30 November 2020](2020-11-30-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 16–18 | 16–18 | 15–20 |
 | [23–27 November 2020](2020-11-27-Forsa.html) | Forsa | 21 | 19–21 | 19–22 | 19–22 | 19–22 |
 | [24–26 November 2020](2020-11-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–21 | 19–22 | 18–23 | 16–24 |
@@ -774,12 +774,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 14% | 100% |  |
-| 16 | 10% | 86% |  |
-| 17 | 9% | 76% |  |
-| 18 | 27% | 67% | Median |
-| 19 | 19% | 41% |  |
-| 20 | 11% | 22% |  |
+| 15 | 3% | 100% |  |
+| 16 | 9% | 97% |  |
+| 17 | 10% | 88% |  |
+| 18 | 36% | 78% | Median |
+| 19 | 19% | 42% |  |
+| 20 | 12% | 23% |  |
 | 21 | 6% | 11% |  |
 | 22 | 4% | 5% |  |
 | 23 | 0.1% | 0.3% |  |
