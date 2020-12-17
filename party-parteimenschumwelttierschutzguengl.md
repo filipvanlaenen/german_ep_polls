@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.5% |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.5–1.0% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
+| [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
+| [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 0.7% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% |
 | [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.1% | 0.3–1.3% |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 0.6% | 0.4–0.9% | 0.4–1.1% | 0.3–1.1% | 0.2–1.3% |
@@ -368,9 +371,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% | Last Result |
-| 0.5–1.5% | 72% | 73% | Median |
-| 1.5–2.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 26% | 100% | Last Result |
+| 0.5–1.5% | 73% | 74% | Median |
+| 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -382,9 +385,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–9 December 2020](2020-12-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–9 December 2020](2020-12-09-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 December 2020](2020-12-07-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 November–4 December 2020](2020-12-04-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [30 November–2 December 2020](2020-12-02-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -742,9 +748,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 64% | 65% | Last Result, Median |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 28% | 100% |  |
+| 1 | 72% | 72% | Last Result, Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
