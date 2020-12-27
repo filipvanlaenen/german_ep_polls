@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 7.1–8.9% | 6.8–9.2% | 6.6–9.5% | 6.2–10.1% |
+| N/A | [Poll Average](average.html) | 7.9% | 7.0–8.9% | 6.8–9.2% | 6.6–9.5% | 6.2–10.1% |
+| [21–23 December 2020](2020-12-23-Forsa.html) | Forsa | 7.9% | 7.0–8.8% | 6.8–9.1% | 6.6–9.3% | 6.2–9.8% |
 | [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 7.6% | 6.9–8.4% | 6.7–8.7% | 6.6–8.9% | 6.2–9.3% |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 8.1% | 7.3–8.9% | 7.1–9.2% | 7.0–9.4% | 6.6–9.8% |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 7.6% | 7.0–8.4% | 6.8–8.6% | 6.6–8.8% | 6.3–9.1% |
@@ -382,9 +383,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 27% | 98% |  |
-| 7.5–8.5% | 50% | 71% | Median |
-| 8.5–9.5% | 19% | 21% |  |
+| 6.5–7.5% | 28% | 98% |  |
+| 7.5–8.5% | 49% | 70% | Median |
+| 8.5–9.5% | 18% | 20% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -399,6 +400,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 7–9 | 6–9 | 5–10 |
+| [21–23 December 2020](2020-12-23-Forsa.html) | Forsa | 8 | 7–8 | 7–9 | 6–10 | 6–10 |
 | [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 7 | 7 | 7–8 |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -771,10 +773,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 1.4% | 100% |  |
 | 6 | 3% | 98.6% |  |
-| 7 | 57% | 96% | Median |
-| 8 | 34% | 39% |  |
-| 9 | 4% | 5% |  |
-| 10 | 1.4% | 1.4% |  |
+| 7 | 52% | 95% | Median |
+| 8 | 37% | 43% |  |
+| 9 | 4% | 6% |  |
+| 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
 
 
