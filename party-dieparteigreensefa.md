@@ -469,7 +469,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–2 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 1 |
@@ -541,11 +541,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1–2 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

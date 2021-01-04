@@ -468,7 +468,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25–27 August 2020](2020-08-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18–26 August 2020](2020-08-26-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 August 2020](2020-08-24-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–24 August 2020](2020-08-24-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 August 2020](2020-08-21-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–19 August 2020](2020-08-19-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 August 2020](2020-08-19-Emnid.html) | Emnid | 0 | 0 | 0 | 0 | 0 |
@@ -477,7 +477,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [10–14 August 2020](2020-08-14-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 August 2020](2020-08-12-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11 August 2020](2020-08-11-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–10 August 2020](2020-08-10-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–10 August 2020](2020-08-10-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [3–7 August 2020](2020-08-07-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 July–6 August 2020](2020-08-06-Emnid.html) | Emnid | 0 | 0 | 0 | 0 | 0–1 |
 | [3–5 August 2020](2020-08-05-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -540,11 +540,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 May 2020](2020-05-08-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–6 May 2020](2020-05-06-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 April–6 May 2020](2020-05-06-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
+| [1–4 May 2020](2020-05-04-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 April 2020](2020-04-30-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–29 April 2020](2020-04-29-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–27 April 2020](2020-04-27-YouGov.html) | YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
+| [24–27 April 2020](2020-04-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–27 April 2020](2020-04-27-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0–1 |
 | [20–24 April 2020](2020-04-24-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 April 2020](2020-04-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -558,7 +558,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [6–9 April 2020](2020-04-09-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 April 2020](2020-04-08-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 April 2020](2020-04-08-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
+| [3–6 April 2020](2020-04-06-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [30 March–3 April 2020](2020-04-03-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 March–1 April 2020](2020-04-01-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 March–1 April 2020](2020-04-01-Emnid.html) | Emnid | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -598,7 +598,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–5 February 2020](2020-02-05-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 January–5 February 2020](2020-02-05-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [31 January–3 February 2020](2020-02-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–31 January 2020](2020-01-31-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
 | [23–29 January 2020](2020-01-29-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 January 2020](2020-01-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
