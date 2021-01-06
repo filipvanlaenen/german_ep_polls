@@ -115,7 +115,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.7% |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.2% | 0.6–1.2% | 0.5–1.3% | 0.4–1.5% |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.4% | 0.5–1.6% |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 1.2% | 0.9–1.5% | 0.8–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.4–1.7% |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 0.8% | 0.6–1.2% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
@@ -396,7 +396,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [18–21 December 2020](2020-12-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [14–18 December 2020](2020-12-18-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–16 December 2020](2020-12-16-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–1 |
-| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
+| [11–14 December 2020](2020-12-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [7–11 December 2020](2020-12-11-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28 November–10 December 2020](2020-12-10-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–9 December 2020](2020-12-09-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -496,7 +496,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 1 |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 0–2 |
