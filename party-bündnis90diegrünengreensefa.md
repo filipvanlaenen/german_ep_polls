@@ -518,7 +518,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–16 July 2020](2020-07-16-Forsa.html) | Forsa | 18 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [3–16 July 2020](2020-07-16-Allensbach.html) | Allensbach | 18 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [9–15 July 2020](2020-07-15-Emnid.html) | Emnid | 18 | 15–18 | 15–18 | 15–18 | 15–18 |
-| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 16 | 16 | 16 | 16 | 15–17 |
+| [10–13 July 2020](2020-07-13-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
 | [6–10 July 2020](2020-07-10-Forsa.html) | Forsa | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [7–9 July 2020](2020-07-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [2–8 July 2020](2020-07-08-Emnid.html) | Emnid | 17 | 16–18 | 15–18 | 15–18 | 14–18 |
