@@ -429,9 +429,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 26–28 | 25–28 | 24–31 | 24–31 |
-| [12–14 January 2021](2021-01-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28 | 26–28 | 26–28 | 25–28 | 25–29 |
-| [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | 28 | 27–28 | 26–28 | 26–28 | 25–28 |
+| N/A | [Poll Average](average.html) | 27 | 26–28 | 25–29 | 24–31 | 24–31 |
+| [12–14 January 2021](2021-01-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 25–29 | 25–29 | 24–29 | 24–30 |
+| [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 26–28 | 25–28 | 25–28 |
 | [4–8 January 2021](2021-01-08-Forsa.html) | Forsa | 27 | 25–27 | 25–28 | 25–28 | 24–29 |
 | [4–6 January 2021](2021-01-06-Infratestdimap.html) | Infratest dimap | 27 | 24–27 | 24–29 | 23–29 | 23–29 |
 | [30 December 2020–5 January 2021](2021-01-05-YouGov.html) | YouGov | 28 | 27–28 | 26–28 | 26–28 | 25–28 |
@@ -828,13 +828,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
 | 23 | 0.5% | 100% |  |
-| 24 | 3% | 99.5% |  |
-| 25 | 4% | 96% |  |
-| 26 | 15% | 93% |  |
-| 27 | 30% | 77% | Median |
-| 28 | 42% | 47% |  |
-| 29 | 2% | 5% |  |
-| 30 | 0.8% | 3% |  |
+| 24 | 4% | 99.5% |  |
+| 25 | 5% | 96% |  |
+| 26 | 24% | 91% |  |
+| 27 | 30% | 67% | Median |
+| 28 | 29% | 36% |  |
+| 29 | 4% | 7% |  |
+| 30 | 1.0% | 4% |  |
 | 31 | 3% | 3% |  |
 | 32 | 0% | 0% |  |
 
