@@ -433,10 +433,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 25–28 | 24–29 | 24–31 | 23–31 |
-| [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 26 | 26–28 | 26–28 | 25–28 | 23–28 |
+| N/A | [Poll Average](average.html) | 27 | 25–28 | 25–29 | 24–31 | 23–31 |
+| [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 26 | 25–27 | 25–28 | 25–28 | 25–29 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 26 | 26 | 24–27 | 24–28 | 23–28 |
-| [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 26 | 26–27 | 26–27 | 26–28 | 26–29 |
+| [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 29 | 26–29 | 26–29 | 25–29 | 25–29 |
 | [12–14 January 2021](2021-01-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 25–29 | 25–29 | 24–29 | 24–30 |
 | [5–13 January 2021](2021-01-13-Emnid.html) | Emnid | 26 | 25–28 | 25–28 | 25–28 | 25–29 |
 | [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 26–28 | 25–28 | 25–28 |
@@ -835,12 +835,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0.8% | 100% |  |
-| 24 | 4% | 99.2% |  |
-| 25 | 5% | 95% |  |
-| 26 | 44% | 90% | Median |
-| 27 | 19% | 46% |  |
-| 28 | 20% | 27% |  |
+| 23 | 0.7% | 100% |  |
+| 24 | 4% | 99.3% |  |
+| 25 | 6% | 95% |  |
+| 26 | 38% | 89% |  |
+| 27 | 25% | 51% | Median |
+| 28 | 19% | 26% |  |
 | 29 | 4% | 7% |  |
 | 30 | 1.0% | 4% |  |
 | 31 | 3% | 3% |  |
