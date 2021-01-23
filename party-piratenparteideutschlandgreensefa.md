@@ -403,10 +403,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–14 January 2021](2021-01-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–13 January 2021](2021-01-13-Emnid.html) | Emnid | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–13 January 2021](2021-01-13-Emnid.html) | Emnid | 0 | 0 | 0 | 0 | 0–1 |
 | [8–11 January 2021](2021-01-11-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–8 January 2021](2021-01-08-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–6 January 2021](2021-01-06-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -781,8 +781,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 17% | 17% | Last Result |
+| 0 | 82% | 100% | Median |
+| 1 | 18% | 18% | Last Result |
 | 2 | 0% | 0% |  |
 
 
