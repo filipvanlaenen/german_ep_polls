@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 14.0–16.7% | 13.6–17.2% | 13.3–17.5% | 12.7–18.4% |
-| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
+| N/A | [Poll Average](average.html) | 15.3% | 14.0–16.7% | 13.6–17.2% | 13.3–17.6% | 12.7–18.4% |
+| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.7% | 14.0–18.2% |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 15.0% | 13.6–16.5% | 13.3–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.4–16.7% | 12.9–17.3% |
@@ -406,10 +406,10 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.3% | 100% |  |
 | 12.5–13.5% | 4% | 99.7% |  |
 | 13.5–14.5% | 20% | 96% |  |
-| 14.5–15.5% | 35% | 76% | Median |
-| 15.5–16.5% | 29% | 41% |  |
+| 14.5–15.5% | 36% | 76% | Median |
+| 15.5–16.5% | 28% | 41% |  |
 | 16.5–17.5% | 10% | 13% |  |
-| 17.5–18.5% | 2% | 2% |  |
+| 17.5–18.5% | 2% | 3% |  |
 | 18.5–19.5% | 0.3% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -422,10 +422,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–16 | 12–17 | 12–17 |
-| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 14 | 14–15 | 14–15 | 14–16 | 14–16 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 14 | 12–15 | 12–17 | 12–17 | 12–17 |
-| [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 14 | 13–14 | 13–14 | 13–15 | 12–16 |
+| [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 14 | 14 | 14 | 14–15 | 13–16 |
@@ -815,14 +815,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 4% | 99.9% |  |
-| 13 | 14% | 96% |  |
-| 14 | 49% | 82% | Median |
-| 15 | 23% | 32% |  |
-| 16 | 7% | 9% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.3% | 0.3% |  |
+| 11 | 0% | 100% |  |
+| 12 | 3% | 100% |  |
+| 13 | 12% | 97% |  |
+| 14 | 51% | 84% | Median |
+| 15 | 25% | 33% |  |
+| 16 | 6% | 8% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 
