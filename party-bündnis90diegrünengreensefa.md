@@ -10,10 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.0% | 16.8–21.2% | 16.4–21.9% | 16.0–22.4% | 15.4–23.5% |
+| N/A | [Poll Average](average.html) | 19.0% | 17.0–21.2% | 16.5–21.8% | 16.1–22.2% | 15.4–23.1% |
+| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 21.0% | 19.7–22.4% | 19.4–22.8% | 19.0–23.2% | 18.4–23.9% |
+| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
+| [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.2% |
+| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20.0% | 18.6–21.4% | 18.3–21.8% | 18.0–22.2% | 17.3–22.9% |
+| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.1% | 16.4–21.8% |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.2% |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 18.0% | 17.0–19.1% | 16.7–19.4% | 16.5–19.6% | 16.0–20.2% |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 21.0% | 19.5–22.7% | 19.0–23.2% | 18.6–23.6% | 17.9–24.5% |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 20.0% | 18.8–21.2% | 18.5–21.5% | 18.2–21.8% | 17.7–22.4% |
+| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.9–18.2% | 15.6–18.5% | 15.3–18.8% | 14.8–19.4% |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 19.0% | 17.8–20.3% | 17.4–20.7% | 17.1–21.1% | 16.5–21.7% |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 20.0% | 18.9–21.2% | 18.5–21.6% | 18.3–21.9% | 17.7–22.5% |
@@ -406,18 +414,17 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.8% | 100% |  |
-| 15.5–16.5% | 6% | 99.2% |  |
-| 16.5–17.5% | 14% | 93% |  |
-| 17.5–18.5% | 19% | 79% |  |
-| 18.5–19.5% | 21% | 60% | Median |
-| 19.5–20.5% | 19% | 39% |  |
+| 14.5–15.5% | 0.6% | 100% |  |
+| 15.5–16.5% | 5% | 99.3% |  |
+| 16.5–17.5% | 13% | 94% |  |
+| 17.5–18.5% | 21% | 81% |  |
+| 18.5–19.5% | 23% | 60% | Median |
+| 19.5–20.5% | 19% | 37% |  |
 | 20.5–21.5% | 12% | 19% |  |
 | 21.5–22.5% | 5% | 7% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.4% | 0.4% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 22.5–23.5% | 1.2% | 1.4% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -428,10 +435,18 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–21 | 16–22 | 15–22 |
-| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 17 | 17–18 | 17–18 | 16–18 | 15–19 |
+| N/A | [Poll Average](average.html) | 18 | 17–19 | 16–19 | 16–21 | 15–22 |
+| [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 19 | 18–19 | 18–20 | 18–21 | 18–22 |
+| [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 18 | 18 | 18–19 | 18–19 | 18–19 |
+| [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 17 | 17 | 15–17 | 15–17 | 15–17 |
+| [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 19 | 18–19 | 18–19 | 18–19 | 17–19 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19 | 19 | 19 | 17–20 |
+| [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
+| [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–17 | 13–17 | 13–18 | 13–18 |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa |  |  |  |  |  |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 19 | 19 | 19–20 | 18–21 | 17–21 |
+| [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 18 | 18 | 18 | 18–20 | 18–22 |
 | [17–18 January 2021](2021-01-18-INSAandYouGov.html) | INSA and YouGov | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [16–17 January 2021](2021-01-17-Forsa.html) | Forsa | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [11–15 January 2021](2021-01-15-Forsa.html) | Forsa | 19 | 19 | 18–21 | 18–21 | 17–21 |
@@ -824,17 +839,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 5% | 99.4% |  |
-| 17 | 38% | 94% |  |
-| 18 | 20% | 56% | Median |
-| 19 | 22% | 36% |  |
-| 20 | 8% | 14% |  |
-| 21 | 3% | 6% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 14 | 0% | 100% |  |
+| 15 | 1.2% | 99.9% |  |
+| 16 | 5% | 98.7% |  |
+| 17 | 22% | 94% |  |
+| 18 | 29% | 72% | Median |
+| 19 | 40% | 43% |  |
+| 20 | 0.9% | 3% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.5% | 0.5% |  |
+| 23 | 0% | 0% |  |
 
 
