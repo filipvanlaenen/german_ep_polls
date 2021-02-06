@@ -417,10 +417,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0 | 0–1 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa |  |  |  |  |  |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 0 | 0 | 0 | 0 | 0 |
@@ -803,8 +803,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% | Last Result |
+| 0 | 71% | 100% | Median |
+| 1 | 29% | 29% | Last Result |
 | 2 | 0% | 0% |  |
 
 

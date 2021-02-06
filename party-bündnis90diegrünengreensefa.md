@@ -440,10 +440,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 18 | 18 | 18–19 | 18–19 | 18–19 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 17 | 17 | 15–17 | 15–17 | 15–17 |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 19 | 18–19 | 18–19 | 18–19 | 17–19 |
-| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19 | 19 | 19 | 17–20 |
+| [25–27 January 2021](2021-01-27-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19 | 18–20 | 18–20 | 17–21 |
 | [21–27 January 2021](2021-01-27-Emnid.html) | Emnid | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
 | [22–25 January 2021](2021-01-25-INSAandYouGov.html) | INSA and YouGov <br> Bild | 15 | 14–17 | 13–17 | 13–18 | 13–18 |
-| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa |  |  |  |  |  |
+| [18–25 January 2021](2021-01-25-Forsa.html) | Forsa | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [18–20 January 2021](2021-01-20-Infratestdimap.html) | Infratest dimap | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [14–20 January 2021](2021-01-20-Emnid.html) | Emnid | 19 | 19 | 19–20 | 18–21 | 17–21 |
 | [10–20 January 2021](2021-01-20-Allensbach.html) | Allensbach | 18 | 18 | 18 | 18–20 | 18–22 |
@@ -840,12 +840,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 1.2% | 99.9% |  |
+| 15 | 1.3% | 99.9% |  |
 | 16 | 5% | 98.7% |  |
 | 17 | 22% | 94% |  |
 | 18 | 29% | 72% | Median |
-| 19 | 40% | 43% |  |
-| 20 | 0.9% | 3% |  |
+| 19 | 39% | 43% |  |
+| 20 | 1.2% | 4% |  |
 | 21 | 2% | 3% |  |
 | 22 | 0.5% | 0.5% |  |
 | 23 | 0% | 0% |  |
