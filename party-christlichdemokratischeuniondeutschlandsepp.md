@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.5% | 26.6–30.2% | 26.0–30.7% | 25.5–31.2% | 24.6–32.1% |
+| N/A | [Poll Average](average.html) | 28.4% | 26.5–30.0% | 25.9–30.5% | 25.4–30.9% | 24.5–31.8% |
+| [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 28.5% | 27.2–29.8% | 26.9–30.1% | 26.6–30.5% | 26.0–31.1% |
+| [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 28.9% | 27.6–30.2% | 27.3–30.6% | 26.9–30.9% | 26.3–31.6% |
 | [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 26.5% | 25.1–28.0% | 24.7–28.5% | 24.4–28.9% | 23.7–29.6% |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 28.1% | 26.6–29.7% | 26.2–30.1% | 25.8–30.5% | 25.1–31.3% |
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 28.2% | 26.9–29.5% | 26.6–29.8% | 26.2–30.2% | 25.7–30.8% |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.5–31.7% |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 28.9% | 27.6–30.3% | 27.2–30.7% | 26.9–31.0% | 26.3–31.6% |
@@ -423,16 +426,16 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.4% | 100% |  |
+| 23.5–24.5% | 0.5% | 100% |  |
 | 24.5–25.5% | 2% | 99.5% |  |
 | 25.5–26.5% | 7% | 97% |  |
-| 26.5–27.5% | 15% | 91% |  |
-| 27.5–28.5% | 26% | 75% |  |
-| 28.5–29.5% | 27% | 49% | Median |
-| 29.5–30.5% | 16% | 22% |  |
-| 30.5–31.5% | 5% | 6% |  |
-| 31.5–32.5% | 1.1% | 1.3% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
+| 26.5–27.5% | 17% | 90% |  |
+| 27.5–28.5% | 28% | 73% | Median |
+| 28.5–29.5% | 27% | 45% |  |
+| 29.5–30.5% | 13% | 18% |  |
+| 30.5–31.5% | 4% | 5% |  |
+| 31.5–32.5% | 0.8% | 0.9% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -444,8 +447,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 26–29 | 25–31 | 24–31 | 23–32 |
+| N/A | [Poll Average](average.html) | 27 | 26–29 | 24–30 | 24–31 | 23–32 |
+| [5–8 February 2021](2021-02-08-INSAandYouGov.html) | INSA and YouGov | 27 | 26–30 | 26–30 | 26–30 | 25–30 |
+| [2–8 February 2021](2021-02-08-Forsa.html) | Forsa | 27 | 27 | 26–27 | 26–27 | 26–28 |
 | [1–3 February 2021](2021-02-03-Infratestdimap.html) | Infratest dimap | 26 | 23–27 | 23–27 | 22–28 | 22–28 |
+| [28 January–3 February 2021](2021-02-03-Emnid.html) | Emnid | 26 | 26–30 | 26–31 | 25–31 | 25–31 |
 | [29 January–1 February 2021](2021-02-01-YouGov.html) | YouGov | 28 | 26–29 | 26–29 | 25–29 | 24–29 |
 | [29 January–1 February 2021](2021-02-01-INSAandYouGov.html) | INSA and YouGov | 28 | 27–29 | 26–29 | 26–29 | 25–30 |
 | [26 January–1 February 2021](2021-02-01-Forsa.html) | Forsa | 28 | 26–29 | 26–29 | 25–29 | 25–29 |
@@ -859,14 +865,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.4% | 100% |  |
 | 23 | 2% | 99.6% |  |
 | 24 | 3% | 98% |  |
-| 25 | 3% | 95% |  |
-| 26 | 26% | 93% |  |
-| 27 | 17% | 66% | Median |
-| 28 | 30% | 49% |  |
-| 29 | 13% | 20% |  |
-| 30 | 1.2% | 7% |  |
-| 31 | 4% | 6% |  |
-| 32 | 1.4% | 1.4% |  |
+| 25 | 2% | 95% |  |
+| 26 | 35% | 93% |  |
+| 27 | 35% | 57% | Median |
+| 28 | 7% | 22% |  |
+| 29 | 7% | 15% |  |
+| 30 | 3% | 8% |  |
+| 31 | 3% | 5% |  |
+| 32 | 2% | 2% |  |
 | 33 | 0% | 0% |  |
 
 
