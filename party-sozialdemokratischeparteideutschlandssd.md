@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.5–17.9% | 14.2–18.3% | 13.8–18.7% | 13.2–19.5% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.7% | 14.1–18.1% | 13.8–18.6% | 13.2–19.4% |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.1% |
+| [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 16.0% | 15.0–17.1% | 14.7–17.5% | 14.4–17.7% | 13.9–18.3% |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 17.2% | 16.1–18.3% | 15.8–18.6% | 15.6–18.9% | 15.1–19.4% |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 13.9–18.2% |
@@ -422,12 +423,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 1.3% | 99.9% |  |
 | 13.5–14.5% | 9% | 98.7% |  |
-| 14.5–15.5% | 22% | 90% |  |
-| 15.5–16.5% | 29% | 68% | Median |
-| 16.5–17.5% | 24% | 39% |  |
-| 17.5–18.5% | 12% | 15% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.4% |  |
+| 14.5–15.5% | 24% | 90% |  |
+| 15.5–16.5% | 31% | 65% | Median |
+| 16.5–17.5% | 22% | 34% |  |
+| 17.5–18.5% | 9% | 12% |  |
+| 18.5–19.5% | 2% | 3% |  |
+| 19.5–20.5% | 0.3% | 0.3% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -439,8 +440,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 14–18 | 13–18 | 13–18 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 15 | 14–15 | 13–16 | 13–17 | 12–17 |
+| [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 15 | 15 | 14–15 | 14–15 | 14–16 |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 16 | 16 | 16 | 15–17 | 14–18 |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 16 | 14–16 | 14–16 | 14–16 | 13–16 |
@@ -851,12 +853,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.3% | 100% |  |
 | 13 | 4% | 99.7% |  |
-| 14 | 10% | 95% |  |
-| 15 | 38% | 85% | Median |
-| 16 | 33% | 47% |  |
-| 17 | 6% | 14% |  |
-| 18 | 7% | 8% |  |
-| 19 | 0.5% | 0.5% |  |
+| 14 | 11% | 95% |  |
+| 15 | 48% | 84% | Median |
+| 16 | 25% | 36% |  |
+| 17 | 6% | 11% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 
