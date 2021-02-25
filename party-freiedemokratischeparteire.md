@@ -433,8 +433,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–10 | 6–10 | 5–10 |
-| [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 10 | 8–10 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 9 | 9–10 | 8–10 | 8–10 | 7–10 |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 8 | 7–8 | 6–10 | 6–10 | 6–10 |
 | [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -842,9 +842,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 1.1% | 100% |  |
 | 6 | 31% | 98.9% |  |
 | 7 | 27% | 68% | Median |
-| 8 | 22% | 41% |  |
-| 9 | 8% | 19% |  |
-| 10 | 11% | 11% |  |
+| 8 | 21% | 41% |  |
+| 9 | 17% | 20% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0% | 0% |  |
 
 
