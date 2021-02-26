@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% | 0.4–2.0% |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
+| [4–17 February 2021](2021-02-17-Allensbach.html) | Allensbach | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.4–1.4% |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
@@ -410,9 +411,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 90% | 99.2% | Median |
-| 1.5–2.5% | 9% | 9% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 90% | 98% | Median |
+| 1.5–2.5% | 8% | 8% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -424,11 +425,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–17 February 2021](2021-02-17-Emnid.html) | Emnid | 1 | 1 | 1 | 1–2 | 1–2 |
+| [4–17 February 2021](2021-02-17-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [12–15 February 2021](2021-02-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [10–15 February 2021](2021-02-15-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
 | [9–15 February 2021](2021-02-15-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -826,8 +828,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 92% | 97% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 91% | 95% | Last Result, Median |
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
