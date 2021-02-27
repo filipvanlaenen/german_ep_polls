@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.3–17.3% | 13.9–17.8% | 13.6–18.3% | 12.9–19.3% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.1–19.3% |
+| [23–25 February 2021](2021-02-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16.0% | 14.5–17.6% | 14.1–18.1% | 13.7–18.5% | 13.0–19.3% |
+| [18–22 February 2021](2021-02-22-YouGov.html) | YouGov | 16.0% | 14.9–17.2% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 16.0% | 15.0–17.1% | 14.7–17.5% | 14.4–17.7% | 14.0–18.3% |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.1% |
@@ -423,14 +425,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.8% |  |
-| 13.5–14.5% | 12% | 98% |  |
-| 14.5–15.5% | 28% | 86% |  |
-| 15.5–16.5% | 33% | 58% | Median |
-| 16.5–17.5% | 17% | 25% |  |
-| 17.5–18.5% | 6% | 7% |  |
-| 18.5–19.5% | 1.4% | 2% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 1.3% | 99.9% |  |
+| 13.5–14.5% | 7% | 98.5% |  |
+| 14.5–15.5% | 24% | 91% |  |
+| 15.5–16.5% | 36% | 68% | Median |
+| 16.5–17.5% | 22% | 31% |  |
+| 17.5–18.5% | 7% | 9% |  |
+| 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.3% | 0.3% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -444,6 +446,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| [23–25 February 2021](2021-02-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 15 | 14–15 | 14–16 | 13–17 |
+| [18–22 February 2021](2021-02-22-YouGov.html) | YouGov | 16 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 16 | 16 | 15–16 | 14–17 | 14–17 |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 16 | 14–16 | 14–16 | 14–18 | 14–18 |
 | [15–17 February 2021](2021-02-17-Infratestdimap.html) | Infratest dimap | 15 | 14–15 | 13–16 | 13–17 | 12–17 |
@@ -858,12 +862,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 2% | 100% |  |
-| 13 | 7% | 98% |  |
-| 14 | 11% | 91% |  |
-| 15 | 37% | 79% | Median |
-| 16 | 33% | 42% |  |
+| 13 | 4% | 98% |  |
+| 14 | 10% | 94% |  |
+| 15 | 37% | 83% | Median |
+| 16 | 37% | 46% |  |
 | 17 | 9% | 9% |  |
-| 18 | 0.6% | 0.6% |  |
-| 19 | 0% | 0% |  |
+| 18 | 0.5% | 0.6% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
