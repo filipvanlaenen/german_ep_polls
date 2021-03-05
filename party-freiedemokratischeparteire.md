@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.5–9.1% | 6.2–9.4% | 5.9–9.7% | 5.4–10.3% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.2–8.5% | 5.9–8.8% | 5.6–9.1% | 5.2–9.6% |
+| [1–2 March 2021](2021-03-02-Infratestdimap.html) | Infratest dimap | 7.0% | N/A | N/A | N/A | N/A |
+| [26 February–1 March 2021](2021-03-01-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
+| [25 February–1 March 2021](2021-03-01-Forsa.html) | Forsa | 7.0% | N/A | N/A | N/A | N/A |
 | [23–25 February 2021](2021-02-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.1–9.5% |
+| [18–24 February 2021](2021-02-24-Emnid.html) | Emnid | 8.0% | N/A | N/A | N/A | N/A |
 | [18–22 February 2021](2021-02-22-YouGov.html) | YouGov | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
@@ -418,14 +422,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 10% | 99.1% |  |
-| 6.5–7.5% | 28% | 89% |  |
-| 7.5–8.5% | 38% | 61% | Median |
-| 8.5–9.5% | 19% | 23% |  |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 18% | 98% |  |
+| 6.5–7.5% | 40% | 80% | Median |
+| 7.5–8.5% | 31% | 40% |  |
+| 8.5–9.5% | 8% | 9% |  |
+| 9.5–10.5% | 0.6% | 0.6% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -436,8 +439,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [1–2 March 2021](2021-03-02-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [26 February–1 March 2021](2021-03-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [25 February–1 March 2021](2021-03-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [23–25 February 2021](2021-02-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [18–24 February 2021](2021-02-24-Emnid.html) | Emnid |  |  |  |  |  |
 | [18–22 February 2021](2021-02-22-YouGov.html) | YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [19–22 February 2021](2021-02-22-INSAandYouGov.html) | INSA and YouGov | 9 | 9–10 | 8–10 | 8–10 | 7–10 |
 | [16–22 February 2021](2021-02-22-Forsa.html) | Forsa | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
@@ -845,12 +852,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 22% | 99.5% |  |
-| 7 | 33% | 78% | Median |
-| 8 | 27% | 44% |  |
-| 9 | 15% | 18% |  |
-| 10 | 2% | 2% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 40% | 99.0% |  |
+| 7 | 40% | 59% | Median |
+| 8 | 18% | 18% |  |
+| 9 | 0.7% | 0.8% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
