@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7.1% | 5.7–8.6% | 5.4–9.0% | 5.1–9.4% | 4.7–10.0% |
 | [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
 | [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | 6.4% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.9% |
-| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 6.8% | 6.1–7.5% | 5.9–7.7% | 5.8–7.9% | 5.5–8.2% |
+| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 6.8% | 6.1–7.5% | 6.0–7.7% | 5.8–7.9% | 5.5–8.2% |
 | [5–8 March 2021](2021-03-08-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [2–8 March 2021](2021-03-08-Forsa.html) | Forsa | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [25 February–3 March 2021](2021-03-03-Emnid.html) | Emnid | 7.0% | 6.3–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.4% |
@@ -446,10 +446,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–10 | 4–10 |
-| [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–10 | 5–10 |
+| [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | 7 | 7 | 7 | 7 | 6–7 |
-| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid |  |  |  |  |  |
+| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [5–8 March 2021](2021-03-08-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [2–8 March 2021](2021-03-08-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [25 February–3 March 2021](2021-03-03-Emnid.html) | Emnid | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -864,12 +864,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 13% | 98.9% |  |
-| 6 | 21% | 86% |  |
-| 7 | 42% | 66% | Median |
-| 8 | 20% | 24% |  |
-| 9 | 2% | 5% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 3% | 99.8% |  |
+| 6 | 34% | 97% |  |
+| 7 | 42% | 64% | Median |
+| 8 | 17% | 21% |  |
+| 9 | 1.3% | 4% |  |
 | 10 | 3% | 3% |  |
 | 11 | 0% | 0% |  |
 
