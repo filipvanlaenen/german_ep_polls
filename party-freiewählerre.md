@@ -442,7 +442,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 1–2 |
+| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–8 March 2021](2021-03-08-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [2–8 March 2021](2021-03-08-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25 February–3 March 2021](2021-03-03-Emnid.html) | Emnid | 1 | 1 | 1 | 1 | 0–1 |
@@ -856,7 +856,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.8% | 100% |  |
 | 1 | 92% | 99.2% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 

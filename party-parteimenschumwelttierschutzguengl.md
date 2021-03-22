@@ -438,11 +438,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–2 |
 | [12–15 March 2021](2021-03-15-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 March 2021](2021-03-15-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
-| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–10 March 2021](2021-03-10-Emnid.html) | Emnid | 1 | 1 | 1 | 0–1 | 0–1 |
 | [5–8 March 2021](2021-03-08-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [2–8 March 2021](2021-03-08-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
 | [25 February–3 March 2021](2021-03-03-Emnid.html) | Emnid | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -854,8 +854,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 86% | 87% | Last Result, Median |
+| 0 | 9% | 100% |  |
+| 1 | 90% | 91% | Last Result, Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
