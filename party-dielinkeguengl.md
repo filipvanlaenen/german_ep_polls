@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 6.7–8.9% | 6.3–9.3% | 6.0–9.6% | 5.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.5–8.9% | 6.2–9.3% | 5.9–9.6% | 5.4–10.4% |
+| [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 5.9–8.3% | 5.6–8.7% | 5.4–9.0% | 4.9–9.7% |
+| [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.4–7.6% | 6.3–7.8% | 6.1–8.0% | 5.9–8.3% |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.1% |
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
@@ -432,11 +434,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 8% | 99.3% |  |
-| 6.5–7.5% | 27% | 92% |  |
-| 7.5–8.5% | 45% | 65% | Median |
-| 8.5–9.5% | 18% | 20% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 11% | 99.1% |  |
+| 6.5–7.5% | 36% | 88% |  |
+| 7.5–8.5% | 35% | 52% | Median |
+| 8.5–9.5% | 14% | 17% |  |
 | 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -450,7 +452,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 7 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -873,13 +877,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.3% | 100% |  |
-| 6 | 18% | 98.7% |  |
-| 7 | 30% | 81% |  |
-| 8 | 40% | 51% | Median |
-| 9 | 10% | 11% |  |
-| 10 | 0.7% | 0.8% |  |
-| 11 | 0.1% | 0.1% |  |
+| 5 | 5% | 100% |  |
+| 6 | 16% | 95% |  |
+| 7 | 46% | 79% | Median |
+| 8 | 20% | 33% |  |
+| 9 | 12% | 13% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

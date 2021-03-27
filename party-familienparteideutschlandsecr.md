@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.2% |
+| [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.4% | 0.2–0.9% | 0.2–1.0% | 0.1–1.1% | 0.1–1.4% |
+| [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 0.4% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
@@ -430,6 +432,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 75% | 100% | Last Result, Median |
 | 0.5–1.5% | 25% | 25% |  |
 | 1.5–2.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -441,6 +444,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 March 2021](2021-03-17-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -859,8 +864,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 45% | 45% | Last Result |
+| 0 | 69% | 100% | Median |
+| 1 | 31% | 31% | Last Result |
 | 2 | 0% | 0% |  |
 
 
