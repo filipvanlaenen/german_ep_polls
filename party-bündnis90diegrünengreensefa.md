@@ -471,9 +471,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 18–24 | 18–24 | 17–25 |
-| [24–29 March 2021](2021-03-29-GMS.html) | GMS | 20 | 18–20 | 18–22 | 18–22 | 17–23 |
+| [24–29 March 2021](2021-03-29-GMS.html) | GMS | 20 | 18–21 | 18–22 | 18–23 | 17–23 |
 | [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 20–24 | 19–25 | 19–25 | 18–26 |
-| [18–24 March 2021](2021-03-24-Emnid.html) | Emnid | 22 | 22–23 | 21–23 | 21–23 | 20–24 |
+| [18–24 March 2021](2021-03-24-Emnid.html) | Emnid | 20 | 19–23 | 19–24 | 19–24 | 19–25 |
 | [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 19 | 18–21 | 18–21 | 18–21 | 18–21 |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 21 | 20–22 | 20–22 | 19–23 | 19–24 |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 20 | 19–22 | 19–25 | 18–25 | 16–25 |
@@ -910,13 +910,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
 | 17 | 2% | 99.9% |  |
-| 18 | 17% | 98% |  |
-| 19 | 17% | 82% |  |
-| 20 | 18% | 65% | Median |
-| 21 | 15% | 46% |  |
-| 22 | 16% | 31% |  |
-| 23 | 9% | 16% |  |
-| 24 | 4% | 6% |  |
+| 18 | 19% | 98% |  |
+| 19 | 20% | 79% |  |
+| 20 | 17% | 59% | Median |
+| 21 | 19% | 42% |  |
+| 22 | 10% | 24% |  |
+| 23 | 6% | 13% |  |
+| 24 | 5% | 7% |  |
 | 25 | 2% | 2% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |

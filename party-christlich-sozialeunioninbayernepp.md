@@ -452,10 +452,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [24–29 March 2021](2021-03-29-GMS.html) | GMS | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [24–29 March 2021](2021-03-29-GMS.html) | GMS | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [23–25 March 2021](2021-03-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [18–24 March 2021](2021-03-24-Emnid.html) | Emnid | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [18–24 March 2021](2021-03-24-Emnid.html) | Emnid | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [19–22 March 2021](2021-03-22-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [16–22 March 2021](2021-03-22-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [8–21 March 2021](2021-03-21-Allensbach.html) | Allensbach | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -878,10 +878,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 43% | 61% | Median |
-| 7 | 18% | 18% |  |
+| 4 | 3% | 100% |  |
+| 5 | 35% | 97% |  |
+| 6 | 43% | 62% | Median |
+| 7 | 19% | 19% |  |
 | 8 | 0.6% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
