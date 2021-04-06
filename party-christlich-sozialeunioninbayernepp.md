@@ -457,10 +457,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
-| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [26–29 March 2021](2021-03-29-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [24–29 March 2021](2021-03-29-GMS.html) | GMS | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [23–29 March 2021](2021-03-29-Forsa.html) | Forsa | 6 | 6 | 6 | 6 | 5–6 |
@@ -888,10 +888,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 35% | 97% |  |
-| 6 | 32% | 62% | Median |
-| 7 | 24% | 30% |  |
+| 4 | 2% | 100% |  |
+| 5 | 31% | 98% |  |
+| 6 | 45% | 67% | Median |
+| 7 | 17% | 22% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 

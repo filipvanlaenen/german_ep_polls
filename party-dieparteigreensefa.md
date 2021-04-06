@@ -454,7 +454,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–29 March 2021](2021-03-29-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 March 2021](2021-03-29-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [24–29 March 2021](2021-03-29-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [23–29 March 2021](2021-03-29-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
