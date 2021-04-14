@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% | 0.5–2.5% |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.5% | 0.7–1.7% |
 | [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
-| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
+| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.4% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% |
 | [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 1.5% | 1.1–2.1% | 1.0–2.2% | 1.0–2.4% | 0.8–2.7% |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 1.3% | 0.9–1.7% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 1.5% | 1.1–2.0% | 1.0–2.1% | 1.0–2.3% | 0.8–2.6% |
@@ -458,7 +458,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

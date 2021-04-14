@@ -474,9 +474,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–17 | 12–18 | 12–18 | 12–19 |
-| [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 16 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [31 March–7 April 2021](2021-04-07-Kantar.html) | Kantar | 14 | 14–15 | 14–16 | 13–16 | 13–16 |
-| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [30 March–1 April 2021](2021-04-01-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 16–18 | 15–18 | 14–18 |
 | [30 March–1 April 2021](2021-04-01-Forsa.html) | Forsa | 13 | 12–16 | 12–17 | 12–17 | 12–17 |
 | [25–31 March 2021](2021-03-31-Kantar.html) | Kantar <br> BamS | 15 | 14–18 | 13–18 | 13–18 | 13–18 |
 | [29–30 March 2021](2021-03-30-Infratestdimap.html) | Infratest dimap <br> ARD | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
@@ -919,10 +919,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 6% | 99.8% |  |
 | 13 | 5% | 93% |  |
 | 14 | 26% | 89% |  |
-| 15 | 11% | 62% |  |
-| 16 | 19% | 52% | Median |
-| 17 | 26% | 33% |  |
-| 18 | 5% | 7% |  |
+| 15 | 10% | 62% |  |
+| 16 | 20% | 52% | Median |
+| 17 | 26% | 32% |  |
+| 18 | 4% | 6% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0% | 0% |  |
 
