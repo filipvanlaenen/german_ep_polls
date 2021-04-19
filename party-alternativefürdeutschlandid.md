@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.1% | 9.8–12.3% | 9.5–12.6% | 9.1–12.9% | 8.5–13.4% |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | 9.9–12.2% | 9.6–12.5% | 9.4–12.8% | 8.9–13.4% |
+| [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.5–12.7% | 9.0–13.3% |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 11.0% | 9.9–12.3% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.6–13.6% |
 | [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 11.0% | 10.1–12.0% | 9.9–12.3% | 9.7–12.5% | 9.3–13.0% |
@@ -456,7 +457,7 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 23% | 94% |  |
 | 10.5–11.5% | 40% | 71% | Median |
 | 11.5–12.5% | 25% | 31% |  |
-| 12.5–13.5% | 5% | 5% |  |
+| 12.5–13.5% | 5% | 6% |  |
 | 13.5–14.5% | 0.3% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -471,6 +472,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 8–13 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 12 | 10–12 | 9–12 | 9–12 | 9–12 |
+| [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 12 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [6–12 April 2021](2021-04-12-Forsa.html) | Forsa | 11 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -913,8 +915,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.9% |  |
 | 9 | 9% | 97% |  |
-| 10 | 22% | 89% |  |
-| 11 | 31% | 66% | Median |
+| 10 | 13% | 89% |  |
+| 11 | 40% | 75% | Median |
 | 12 | 29% | 35% |  |
 | 13 | 6% | 6% |  |
 | 14 | 0% | 0% |  |
