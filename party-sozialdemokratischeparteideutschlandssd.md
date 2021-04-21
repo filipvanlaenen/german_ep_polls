@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 13.9–17.9% | 13.5–18.6% | 13.1–19.1% | 12.4–20.2% |
+| N/A | [Poll Average](average.html) | 15.8% | 13.8–17.5% | 13.3–17.9% | 12.9–18.2% | 12.2–18.8% |
+| [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 13.0% | N/A | N/A | N/A | N/A |
+| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 15.0% | N/A | N/A | N/A | N/A |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.7–16.7% |
+| [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach | 16.5% | N/A | N/A | N/A | N/A |
 | [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 15.0% | 13.9–16.3% | 13.5–16.7% | 13.3–17.0% | 12.7–17.6% |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 15.0% | 13.7–16.4% | 13.4–16.8% | 13.1–17.2% | 12.5–17.8% |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 17.0% | 16.2–17.9% | 15.9–18.2% | 15.7–18.4% | 15.3–18.8% |
@@ -455,18 +458,17 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.8% | 100% |  |
-| 12.5–13.5% | 5% | 99.2% |  |
-| 13.5–14.5% | 15% | 94% |  |
-| 14.5–15.5% | 22% | 79% |  |
-| 15.5–16.5% | 21% | 57% | Median |
-| 16.5–17.5% | 20% | 36% |  |
-| 17.5–18.5% | 11% | 16% |  |
-| 18.5–19.5% | 4% | 5% |  |
-| 19.5–20.5% | 1.1% | 1.4% |  |
-| 20.5–21.5% | 0.2% | 0.3% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 1.0% | 99.9% |  |
+| 12.5–13.5% | 6% | 98.9% |  |
+| 13.5–14.5% | 16% | 93% |  |
+| 14.5–15.5% | 22% | 76% |  |
+| 15.5–16.5% | 23% | 55% | Median |
+| 16.5–17.5% | 22% | 32% |  |
+| 17.5–18.5% | 9% | 10% |  |
+| 18.5–19.5% | 1.0% | 1.1% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -477,8 +479,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 11–18 |
+| [19–20 April 2021](2021-04-20-Forsa.html) | Forsa |  |  |  |  |  |
+| [13–16 April 2021](2021-04-16-Forsa.html) | Forsa |  |  |  |  |  |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–15 | 11–15 | 11–15 | 11–15 |
+| [6–15 April 2021](2021-04-15-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [8–14 April 2021](2021-04-14-Kantar.html) | Kantar | 15 | 14–15 | 13–15 | 13–16 | 12–17 |
 | [13–14 April 2021](2021-04-14-Infratestdimap.html) | Infratest dimap | 14 | 13–14 | 13–15 | 13–15 | 13–17 |
 | [9–12 April 2021](2021-04-12-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
@@ -923,15 +928,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.9% | 100% |  |
-| 12 | 1.2% | 99.1% |  |
-| 13 | 6% | 98% |  |
-| 14 | 27% | 91% |  |
-| 15 | 19% | 65% | Median |
-| 16 | 15% | 45% |  |
-| 17 | 24% | 30% |  |
-| 18 | 4% | 6% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0% | 0% |  |
+| 11 | 1.2% | 100% |  |
+| 12 | 1.3% | 98.8% |  |
+| 13 | 8% | 98% |  |
+| 14 | 28% | 89% |  |
+| 15 | 19% | 61% | Median |
+| 16 | 16% | 42% |  |
+| 17 | 25% | 26% |  |
+| 18 | 1.1% | 1.1% |  |
+| 19 | 0% | 0% |  |
 
 
