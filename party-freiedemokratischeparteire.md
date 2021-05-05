@@ -10,12 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.7–12.5% | 8.3–13.0% | 8.0–13.4% | 7.4–14.2% |
+| N/A | [Poll Average](average.html) | 11.0% | 9.0–12.6% | 8.5–12.9% | 8.2–13.2% | 7.6–13.7% |
+| [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.3–13.9% |
+| [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.6% | 10.2–14.1% |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.1–13.4% |
+| [23–26 April 2021](2021-04-26-YouGov.html) | YouGov | 11.0% | N/A | N/A | N/A | N/A |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa | 12.0% | N/A | N/A | N/A | N/A |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 9.0% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.1–11.3% |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 12.0% | 10.8–13.3% | 10.5–13.7% | 10.2–14.0% | 9.7–14.7% |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.3–11.8% | 10.1–12.0% | 9.9–12.2% | 9.6–12.5% |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.8% |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.2% |
@@ -459,16 +465,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% |  |
-| 7.5–8.5% | 7% | 99.3% |  |
-| 8.5–9.5% | 19% | 92% |  |
-| 9.5–10.5% | 25% | 73% | Median |
-| 10.5–11.5% | 23% | 48% |  |
-| 11.5–12.5% | 16% | 25% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 5% | 99.5% |  |
+| 8.5–9.5% | 13% | 95% |  |
+| 9.5–10.5% | 19% | 81% |  |
+| 10.5–11.5% | 27% | 62% | Median |
+| 11.5–12.5% | 25% | 35% |  |
+| 12.5–13.5% | 9% | 10% |  |
+| 13.5–14.5% | 0.9% | 0.9% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -479,12 +484,18 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
+| [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 12 | 12 | 10–12 | 10–12 | 10–12 |
+| [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 11 | 11 | 11 | 11–12 | 10–13 |
+| [22–28 April 2021](2021-04-28-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–26 April 2021](2021-04-26-YouGov.html) | YouGov |  |  |  |  |  |
+| [23–26 April 2021](2021-04-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [20–26 April 2021](2021-04-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [23 April 2021](2021-04-23-INSAandYouGov.html) | INSA and YouGov | 11 | 10–13 | 9–13 | 9–14 | 9–15 |
 | [15–21 April 2021](2021-04-21-Kantar.html) | Kantar | 9 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [20 April 2021](2021-04-20-INSAandYouGov.html) | INSA and YouGov | 12 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [19–20 April 2021](2021-04-20-Forsa.html) | Forsa | 12 | 11–12 | 10–12 | 10–13 | 9–14 |
-| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
+| [16–19 April 2021](2021-04-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [13–16 April 2021](2021-04-16-Forsa.html) | Forsa | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [15 April 2021](2021-04-15-INSAandYouGov.html) | INSA and YouGov | 10 | 9–10 | 9–11 | 8–11 | 7–12 |
 | [13–15 April 2021](2021-04-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
@@ -928,16 +939,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 7% | 96% |  |
-| 9 | 17% | 89% |  |
-| 10 | 39% | 72% | Median |
-| 11 | 17% | 33% |  |
-| 12 | 11% | 15% |  |
-| 13 | 4% | 4% |  |
-| 14 | 0.4% | 0.7% |  |
-| 15 | 0.3% | 0.3% |  |
-| 16 | 0% | 0% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 2% | 99.9% |  |
+| 8 | 8% | 98% |  |
+| 9 | 12% | 91% |  |
+| 10 | 33% | 78% | Median |
+| 11 | 25% | 45% |  |
+| 12 | 20% | 20% |  |
+| 13 | 0.2% | 0.6% |  |
+| 14 | 0.3% | 0.3% |  |
+| 15 | 0% | 0% |  |
 
 
