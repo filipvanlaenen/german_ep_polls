@@ -487,10 +487,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–12 | 9–13 | 8–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–13 | 8–13 | 8–14 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 9–10 | 8–10 | 8–10 | 7–12 |
-| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 12 | 10–14 | 10–14 | 10–14 | 10–14 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 10 | 10–11 | 9–12 | 9–12 | 8–12 |
+| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 12 | 11–12 | 11–13 | 10–14 | 10–14 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 11 | 11 | 11 | 10–11 | 9–12 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
@@ -948,12 +948,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.9% |  |
-| 9 | 4% | 97% |  |
-| 10 | 53% | 93% | Median |
-| 11 | 13% | 40% |  |
-| 12 | 17% | 26% |  |
-| 13 | 5% | 10% |  |
-| 14 | 5% | 5% |  |
+| 9 | 3% | 97% |  |
+| 10 | 41% | 94% |  |
+| 11 | 27% | 53% | Median |
+| 12 | 20% | 26% |  |
+| 13 | 5% | 6% |  |
+| 14 | 0.7% | 0.7% |  |
 | 15 | 0% | 0% |  |
 
 

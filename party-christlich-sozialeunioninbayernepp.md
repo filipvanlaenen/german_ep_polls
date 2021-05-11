@@ -483,8 +483,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
-| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -937,9 +937,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 21% | 99.9% |  |
-| 5 | 63% | 79% | Median |
-| 6 | 13% | 16% |  |
+| 4 | 15% | 99.9% |  |
+| 5 | 70% | 85% | Median |
+| 6 | 12% | 15% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
