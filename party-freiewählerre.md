@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
+| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 1.2% | 0.9–1.5% | 0.8–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.6–2.1% | 0.5–2.4% |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
@@ -462,8 +463,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.7% | 100% | Last Result |
-| 0.5–1.5% | 87% | 99.3% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.5–1.5% | 88% | 99.3% | Median |
+| 1.5–2.5% | 11% | 11% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -477,6 +478,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -929,9 +931,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 81% | 99.5% | Last Result, Median |
-| 2 | 19% | 19% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 81% | 99.0% | Last Result, Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 
