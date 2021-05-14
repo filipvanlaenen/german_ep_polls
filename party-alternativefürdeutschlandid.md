@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 9.3–12.5% | 8.9–12.9% | 8.6–13.2% | 8.0–13.9% |
+| N/A | [Poll Average](average.html) | 10.7% | 9.3–12.2% | 9.0–12.6% | 8.7–12.9% | 8.0–13.5% |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 11.0% | 9.9–12.3% | 9.6–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 11.0% | 10.0–12.2% | 9.7–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.6–13.9% |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.3–11.9% |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 12.0% | 10.9–13.2% | 10.6–13.5% | 10.4–13.8% | 9.9–14.4% |
@@ -471,14 +473,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 13% | 98% |  |
-| 9.5–10.5% | 28% | 85% |  |
-| 10.5–11.5% | 27% | 57% | Median |
-| 11.5–12.5% | 21% | 30% |  |
-| 12.5–13.5% | 8% | 9% |  |
-| 13.5–14.5% | 1.1% | 1.1% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 8.5–9.5% | 12% | 98% |  |
+| 9.5–10.5% | 30% | 86% |  |
+| 10.5–11.5% | 31% | 56% | Median |
+| 11.5–12.5% | 19% | 25% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -490,7 +491,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 11 | 11 | 10–11 | 10–11 | 9–12 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 9 | 9–11 | 8–11 | 8–11 | 8–11 |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10 | 10–12 | 10–13 | 9–13 | 9–13 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 12 | 12 | 12 | 12 | 10–13 |
@@ -950,13 +953,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 8% | 99.8% |  |
-| 9 | 25% | 92% |  |
-| 10 | 24% | 67% | Median |
-| 11 | 20% | 44% |  |
-| 12 | 23% | 24% |  |
-| 13 | 0.7% | 0.9% |  |
-| 14 | 0.2% | 0.2% |  |
+| 8 | 7% | 99.8% |  |
+| 9 | 22% | 93% |  |
+| 10 | 29% | 71% | Median |
+| 11 | 31% | 42% |  |
+| 12 | 9% | 11% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 
