@@ -506,10 +506,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 20–26 | 19–27 | 19–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 24 | 20–26 | 20–27 | 19–27 | 18–28 |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 24 | 24 | 24–25 | 24–26 | 22–26 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 26 | 25–28 | 24–28 | 24–28 | 24–29 |
-| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 19 | 19–20 | 19–20 | 19–20 | 17–22 |
+| [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 24 | 23–27 | 23–27 | 23–27 | 22–28 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
 | [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 24 | 24 | 24–25 | 24–26 | 22–26 |
@@ -978,12 +978,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 0.1% | 99.9% |  |
-| 19 | 9% | 99.8% |  |
-| 20 | 4% | 91% |  |
-| 21 | 7% | 87% |  |
-| 22 | 7% | 79% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 0.7% | 99.7% |  |
+| 19 | 2% | 99.0% |  |
+| 20 | 7% | 97% |  |
+| 21 | 10% | 90% |  |
+| 22 | 8% | 80% |  |
 | 23 | 12% | 72% |  |
 | 24 | 29% | 60% | Median |
 | 25 | 16% | 31% |  |
