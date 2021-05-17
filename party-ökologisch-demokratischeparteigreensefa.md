@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.1–1.3% |
+| [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 0.4% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 0.6% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.4% |
@@ -464,8 +465,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 53% | 100% | Last Result |
-| 0.5–1.5% | 47% | 47% | Median |
+| 0.0–0.5% | 52% | 100% | Last Result |
+| 0.5–1.5% | 48% | 48% | Median |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -479,7 +480,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–11 May 2021](2021-05-11-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 May 2021](2021-05-10-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -934,8 +936,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 56% | 56% | Last Result, Median |
+| 0 | 37% | 100% |  |
+| 1 | 63% | 63% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
