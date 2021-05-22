@@ -487,8 +487,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -951,8 +951,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Median |
-| 1 | 34% | 34% | Last Result |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% | Last Result |
 | 2 | 0% | 0% |  |
 
 

@@ -498,12 +498,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–11 | 5–12 | 4–12 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–8 | 6–8 | 4–8 | 4–8 |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 8 | 8 | 7–8 | 7–8 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–12 | 5–12 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 6 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -966,14 +966,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 4% | 98.8% |  |
-| 6 | 21% | 95% |  |
-| 7 | 32% | 74% | Median |
+| 4 | 0.2% | 100% |  |
+| 5 | 5% | 99.8% |  |
+| 6 | 28% | 95% |  |
+| 7 | 24% | 66% | Median |
 | 8 | 26% | 43% |  |
 | 9 | 2% | 17% |  |
 | 10 | 9% | 15% |  |
-| 11 | 1.3% | 6% |  |
+| 11 | 1.4% | 6% |  |
 | 12 | 4% | 4% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |

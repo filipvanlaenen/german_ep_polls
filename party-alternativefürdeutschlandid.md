@@ -499,12 +499,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 8–12 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 8–12 | 8–12 | 8–12 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 10–11 | 10–12 | 9–12 | 8–13 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 10–12 | 9–12 | 9–12 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 12 | 9–12 | 8–12 | 8–12 | 8–13 |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 10 | 9–10 | 8–10 | 8–10 | 8–11 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 11 | 11–13 | 11–13 | 10–13 | 9–14 |
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 10 | 8–12 | 8–12 | 8–12 | 7–12 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
@@ -971,12 +971,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 6% | 99.9% |  |
-| 9 | 13% | 94% |  |
-| 10 | 34% | 81% | Median |
-| 11 | 36% | 47% |  |
-| 12 | 10% | 11% |  |
-| 13 | 0.3% | 0.3% |  |
+| 8 | 7% | 99.9% |  |
+| 9 | 15% | 93% |  |
+| 10 | 24% | 79% |  |
+| 11 | 43% | 55% | Median |
+| 12 | 12% | 12% |  |
+| 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
 
 

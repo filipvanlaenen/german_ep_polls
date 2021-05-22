@@ -504,12 +504,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–16 | 11–17 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 11–16 | 11–16 | 11–16 | 11–17 |
-| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 14 | 12–15 | 12–15 | 12–15 | 12–15 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–14 | 12–14 | 12–14 | 11–15 |
+| [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 15 | 12–15 | 12–15 | 11–15 | 11–15 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–16 | 14–18 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 15 | 12–16 | 12–16 | 12–16 | 12–17 |
-| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 14 | 14–15 | 14–15 | 14–15 | 13–16 |
+| [11–17 May 2021](2021-05-17-Forsa.html) | Forsa | 16 | 14–16 | 14–16 | 13–16 | 12–17 |
 | [10–14 May 2021](2021-05-14-INSAandYouGov.html) | INSA and YouGov | 15 | 14–17 | 14–17 | 14–17 | 14–17 |
 | [1–13 May 2021](2021-05-13-Allensbach.html) | Allensbach | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [6–11 May 2021](2021-05-11-Kantar.html) | Kantar | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
@@ -979,12 +979,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 6% | 100% |  |
-| 12 | 11% | 94% |  |
-| 13 | 14% | 82% |  |
-| 14 | 22% | 69% | Median |
-| 15 | 22% | 46% |  |
-| 16 | 22% | 24% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 9% | 99.3% |  |
+| 13 | 15% | 91% |  |
+| 14 | 26% | 75% | Median |
+| 15 | 19% | 49% |  |
+| 16 | 28% | 30% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
