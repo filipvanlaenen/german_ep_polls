@@ -519,13 +519,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–15 | 8–15 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–15 | 9–15 | 8–15 |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 12 | 12–13 | 12–13 | 12–14 | 11–14 |
+| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 15 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
 | [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
@@ -1012,10 +1012,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.6% | 100% |  |
 | 9 | 7% | 99.4% |  |
 | 10 | 16% | 92% |  |
-| 11 | 22% | 77% |  |
-| 12 | 30% | 55% | Median |
-| 13 | 14% | 24% |  |
-| 14 | 3% | 11% |  |
+| 11 | 21% | 77% |  |
+| 12 | 31% | 55% | Median |
+| 13 | 15% | 24% |  |
+| 14 | 2% | 9% |  |
 | 15 | 7% | 7% |  |
 | 16 | 0% | 0% |  |
 

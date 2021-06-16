@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.8% | 13.0–16.7% | 12.6–17.2% | 12.3–17.5% | 11.7–18.2% |
 | [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 16.5% | 15.5–17.6% | 15.2–17.9% | 14.9–18.2% | 14.5–18.7% |
-| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.8–17.3% | 14.4–17.7% | 14.1–18.0% | 13.6–18.7% |
+| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.8–17.3% | 14.4–17.7% | 14.2–18.0% | 13.6–18.7% |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.7–16.6% |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15.0% | 13.8–16.4% | 13.4–16.8% | 13.1–17.1% | 12.5–17.8% |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 16.0% | 14.8–17.3% | 14.4–17.6% | 14.2–18.0% | 13.6–18.6% |
@@ -524,11 +524,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 15–17 | 15–17 | 14–18 |
-| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 14 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–14 | 13–14 | 13–16 | 12–16 |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 14 | 14–16 | 14–16 | 14–16 | 14–18 |
-| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [1–7 June 2021](2021-06-07-Forsa.html) | Forsa | 12 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [31 May–4 June 2021](2021-06-04-INSAandYouGov.html) | INSA and YouGov | 17 | 15–19 | 15–19 | 15–19 | 14–19 |
 | [26 May–1 June 2021](2021-06-01-Kantar.html) | Kantar | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
@@ -1021,7 +1021,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 30% | 64% | Median |
 | 15 | 15% | 34% |  |
 | 16 | 18% | 20% |  |
-| 17 | 1.2% | 1.4% |  |
+| 17 | 1.1% | 1.3% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
