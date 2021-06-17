@@ -533,7 +533,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–23 | 18–24 | 18–24 | 17–26 |
 | [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 18 | 18–19 | 18–19 | 17–20 | 17–20 |
-| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 17 | 17–19 | 16–20 | 16–21 | 16–21 |
+| [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 18 | 18–20 | 17–21 | 17–21 | 16–21 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 20 | 19–20 | 18–21 | 17–21 | 17–22 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 20 | 20–21 | 20–21 | 20–21 | 18–22 |
