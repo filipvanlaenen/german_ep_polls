@@ -522,7 +522,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–21 June 2021](2021-06-21-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0–1 |
-| [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
+| [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1009,8 +1009,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 

@@ -525,14 +525,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | [21–25 June 2021](2021-06-25-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
-| [16–21 June 2021](2021-06-21-GMS.html) | GMS | 7 | 7 | 7 | 7 | 7–8 |
-| [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [16–21 June 2021](2021-06-21-GMS.html) | GMS | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 6 | 6 | 6 | 5–6 | 5–7 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -1023,11 +1023,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.9% | 100% |  |
-| 5 | 13% | 99.1% |  |
-| 6 | 37% | 87% | Median |
-| 7 | 30% | 49% |  |
-| 8 | 19% | 19% |  |
-| 9 | 0.5% | 0.6% |  |
+| 5 | 8% | 99.1% |  |
+| 6 | 44% | 91% | Median |
+| 7 | 29% | 47% |  |
+| 8 | 18% | 18% |  |
+| 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
