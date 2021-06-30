@@ -546,7 +546,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 19–24 | 19–24 | 19–24 | 18–24 |
 | [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
 | [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 21 | 19–23 | 19–23 | 19–23 | 18–25 |
-| [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–22 | 19–23 | 19–23 |
+| [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 22 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [16–21 June 2021](2021-06-21-GMS.html) | GMS | 19 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 22 | 20–23 | 20–24 | 20–24 | 19–24 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
