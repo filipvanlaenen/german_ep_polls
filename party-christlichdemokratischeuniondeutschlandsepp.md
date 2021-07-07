@@ -10,14 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.8–24.3% | 20.4–24.8% | 20.0–25.2% | 19.2–26.0% |
+| N/A | [Poll Average](average.html) | 22.2% | 18.6–24.1% | 17.6–24.6% | 17.0–25.0% | 16.1–25.9% |
+| [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 22.7% | N/A | N/A | N/A | N/A |
+| [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 23.4% | N/A | N/A | N/A | N/A |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 21.9% | 20.5–23.4% | 20.1–23.8% | 19.8–24.2% | 19.1–24.9% |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 21.9% | 20.5–23.4% | 20.1–23.8% | 19.7–24.2% | 19.1–24.9% |
 | [23–29 June 2021](2021-06-29-Kantar.html) | Kantar | 21.9% | 20.5–23.3% | 20.1–23.7% | 19.8–24.1% | 19.1–24.8% |
 | [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 23.4% | 22.1–24.8% | 21.7–25.2% | 21.4–25.5% | 20.8–26.2% |
 | [25–28 June 2021](2021-06-28-INSAandYouGov.html) | INSA and YouGov | 23.5% | 22.3–24.7% | 22.0–25.1% | 21.7–25.4% | 21.2–26.0% |
 | [22–28 June 2021](2021-06-28-Forsa.html) | Forsa | 23.4% | 22.2–24.7% | 21.9–25.1% | 21.6–25.4% | 21.0–26.0% |
-| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 21.9% | N/A | N/A | N/A | N/A |
+| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 21.9% | 20.8–23.2% | 20.4–23.5% | 20.2–23.8% | 19.6–24.4% |
 | [21–25 June 2021](2021-06-25-INSAandYouGov.html) | INSA and YouGov | 21.9% | 20.4–23.5% | 20.0–23.9% | 19.6–24.3% | 18.9–25.1% |
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22.7% | 21.0–24.5% | 20.5–25.0% | 20.1–25.4% | 19.4–26.3% |
 | [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 21.9% | 20.5–23.5% | 20.1–24.0% | 19.7–24.4% | 19.0–25.1% |
@@ -27,10 +29,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 22.7% | 21.5–24.0% | 21.2–24.3% | 20.9–24.7% | 20.3–25.3% |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 21.9% | 20.6–23.3% | 20.2–23.7% | 19.9–24.1% | 19.3–24.8% |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 21.2% | 19.8–22.6% | 19.4–23.0% | 19.1–23.4% | 18.5–24.1% |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 22.0% | N/A | N/A | N/A | N/A |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.8–23.2% | 20.5–23.5% | 20.2–23.8% | 19.7–24.4% |
 | [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 21.9% | 20.7–23.1% | 20.4–23.5% | 20.1–23.8% | 19.5–24.4% |
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 21.1% | 19.8–22.6% | 19.4–23.0% | 19.1–23.4% | 18.4–24.1% |
-| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 17.8% | N/A | N/A | N/A | N/A |
+| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 17.8% | 16.6–19.1% | 16.2–19.5% | 15.9–19.8% | 15.4–20.5% |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 21.9% | 20.5–23.4% | 20.1–23.8% | 19.7–24.2% | 19.1–25.0% |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21.9% | 20.5–23.5% | 20.0–23.9% | 19.7–24.3% | 19.0–25.1% |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 23.1% | 21.5–24.8% | 21.0–25.3% | 20.7–25.7% | 19.9–26.6% |
@@ -525,18 +527,18 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.9% |  |
-| 19.5–20.5% | 6% | 98.9% |  |
-| 20.5–21.5% | 17% | 93% |  |
-| 21.5–22.5% | 27% | 77% |  |
-| 22.5–23.5% | 26% | 50% | Median |
-| 23.5–24.5% | 17% | 24% |  |
-| 24.5–25.5% | 6% | 7% |  |
-| 25.5–26.5% | 1.1% | 1.2% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 1.1% | 99.9% |  |
+| 16.5–17.5% | 4% | 98.8% |  |
+| 17.5–18.5% | 5% | 95% |  |
+| 18.5–19.5% | 3% | 90% |  |
+| 19.5–20.5% | 6% | 87% |  |
+| 20.5–21.5% | 16% | 81% |  |
+| 21.5–22.5% | 26% | 65% | Median |
+| 22.5–23.5% | 22% | 40% |  |
+| 23.5–24.5% | 12% | 18% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 0.9% | 1.0% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -549,14 +551,16 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–23 | 19–24 | 19–24 | 19–25 |
+| N/A | [Poll Average](average.html) | 22 | 18–23 | 17–23 | 16–24 | 16–24 |
+| [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa |  |  |  |  |  |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 21 | 19–21 | 19–21 | 19–22 | 19–25 |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 19 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [23–29 June 2021](2021-06-29-Kantar.html) | Kantar | 22 | 20–22 | 19–23 | 19–23 | 19–23 |
 | [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 22 | 22–23 | 21–24 | 21–24 | 20–25 |
-| [25–28 June 2021](2021-06-28-INSAandYouGov.html) | INSA and YouGov | 23 | 22–24 | 21–24 | 21–24 | 19–24 |
+| [25–28 June 2021](2021-06-28-INSAandYouGov.html) | INSA and YouGov | 22 | 22–23 | 21–23 | 21–24 | 21–24 |
 | [22–28 June 2021](2021-06-28-Forsa.html) | Forsa | 23 | 23 | 23 | 23 | 20–23 |
-| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 23 | 22–23 | 20–23 | 20–23 | 20–23 |
 | [21–25 June 2021](2021-06-25-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–23 | 18–24 | 18–24 |
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 19–24 | 19–24 | 19–24 | 18–24 |
 | [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
@@ -566,10 +570,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 22 | 20–23 | 20–24 | 20–24 | 19–24 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 22 | 22 | 21–22 | 20–22 | 20–22 |
 | [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 21 | 20–22 | 20–22 | 20–22 | 19–22 |
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 18–21 | 18–22 | 17–23 |
-| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies |  |  |  |  |  |
+| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 20 | 20–21 | 20–22 | 19–23 | 18–25 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 21–23 | 21–23 | 20–23 | 19–23 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 23 | 20–24 | 20–24 | 19–24 | 19–24 |
@@ -1065,17 +1069,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.4% | 100% |  |
-| 19 | 23% | 99.6% |  |
-| 20 | 12% | 77% |  |
-| 21 | 13% | 65% |  |
-| 22 | 24% | 52% | Median |
-| 23 | 23% | 29% |  |
+| 15 | 0.3% | 100% |  |
+| 16 | 4% | 99.7% |  |
+| 17 | 5% | 96% |  |
+| 18 | 4% | 91% |  |
+| 19 | 21% | 87% |  |
+| 20 | 10% | 66% |  |
+| 21 | 6% | 57% |  |
+| 22 | 24% | 51% | Median |
+| 23 | 22% | 27% |  |
 | 24 | 5% | 5% |  |
-| 25 | 0.5% | 0.5% |  |
+| 25 | 0.4% | 0.4% |  |
 | 26 | 0% | 0% |  |
 
 
