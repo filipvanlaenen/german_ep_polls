@@ -533,7 +533,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [29 June–5 July 2021](2021-07-05-Forsa.html) | Forsa | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 6–7 | 6–7 | 5–7 |
@@ -552,10 +552,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5 | 5–6 | 4–6 |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 7 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 6 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
@@ -1039,10 +1039,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 2% | 99.9% |  |
-| 5 | 25% | 98% |  |
-| 6 | 55% | 73% | Median |
+| 3 | 0% | 100% |  |
+| 4 | 6% | 100% |  |
+| 5 | 27% | 94% |  |
+| 6 | 49% | 67% | Median |
 | 7 | 16% | 18% |  |
 | 8 | 1.3% | 1.4% |  |
 | 9 | 0.1% | 0.1% |  |

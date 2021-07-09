@@ -545,7 +545,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 9 | 9 | 9 | 8–10 | 8–10 |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 11 | 10–11 | 10–11 | 10–12 | 9–13 |
 | [23–29 June 2021](2021-06-29-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 9–12 | 8–12 |
-| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 11 | 9–13 | 9–13 | 9–13 | 9–13 |
+| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 10 | 9–13 | 9–13 | 9–13 | 9–13 |
 | [25–28 June 2021](2021-06-28-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [22–28 June 2021](2021-06-28-Forsa.html) | Forsa | 9 | 9 | 8–9 | 8–9 | 8–10 |
 | [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 9 | 9 | 9–10 | 9–10 | 8–11 |
@@ -558,10 +558,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 10 | 9–10 | 8–10 | 8–11 | 7–11 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 11 | 10–11 | 9–12 |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
-| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12 | 11–14 | 10–14 | 10–14 | 10–14 |
+| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12 | 12–14 | 11–14 | 11–14 | 10–14 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 12 | 11–12 | 10–12 | 10–13 | 10–13 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 10–11 | 10–11 | 10–12 | 9–13 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 7 | 7–11 | 7–11 | 7–11 | 7–11 |
@@ -1052,10 +1052,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 6% | 100% |  |
 | 8 | 5% | 94% |  |
 | 9 | 39% | 89% |  |
-| 10 | 18% | 51% | Median |
-| 11 | 17% | 32% |  |
-| 12 | 8% | 15% |  |
-| 13 | 3% | 7% |  |
+| 10 | 19% | 51% | Median |
+| 11 | 16% | 32% |  |
+| 12 | 11% | 17% |  |
+| 13 | 1.5% | 6% |  |
 | 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 

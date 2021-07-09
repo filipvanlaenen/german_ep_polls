@@ -532,7 +532,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [28 June–2 July 2021](2021-07-02-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [28–30 June 2021](2021-06-30-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–2 |
 | [23–29 June 2021](2021-06-29-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 0–2 |
-| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [25–28 June 2021](2021-06-28-YouGov.html) | YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [25–28 June 2021](2021-06-28-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 June 2021](2021-06-28-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 1 |
@@ -545,10 +545,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 June 2021](2021-06-21-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 June 2021](2021-06-18-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 June 2021](2021-06-15-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [11–14 June 2021](2021-06-14-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 June 2021](2021-06-14-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1030,8 +1030,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 93% | 94% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 94% | 95% | Last Result, Median |
 | 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
