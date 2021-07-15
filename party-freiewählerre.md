@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
+| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 1.2% | 1.0–1.6% | 0.9–1.7% | 0.9–1.8% | 0.7–2.0% |
+| [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–2.0% | 0.8–2.2% |
 | [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
 | [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 1.1% | 0.8–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.1% |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.5% | 0.8–1.6% | 0.8–1.7% | 0.7–1.9% |
@@ -514,9 +516,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 82% | 98.8% | Median |
-| 1.5–2.5% | 16% | 17% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 80% | 99.6% | Median |
+| 1.5–2.5% | 19% | 20% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -530,6 +532,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [29 June–6 July 2021](2021-07-06-Kantar.html) | Kantar | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–5 July 2021](2021-07-05-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -1035,9 +1039,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 78% | 99.7% | Last Result, Median |
-| 2 | 22% | 22% |  |
-| 3 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 68% | 99.9% | Last Result, Median |
+| 2 | 32% | 32% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
