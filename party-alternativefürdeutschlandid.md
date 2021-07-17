@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 9.0–11.8% | 8.6–12.1% | 8.3–12.4% | 7.8–13.0% |
+| N/A | [Poll Average](average.html) | 10.5% | 9.0–11.8% | 8.6–12.1% | 8.4–12.4% | 7.9–13.0% |
+| [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | 8.9–11.2% | 8.7–11.5% | 8.4–11.8% | 7.9–12.4% |
+| [7–13 July 2021](2021-07-13-Kantar.html) | Kantar | 11.0% | 10.0–12.1% | 9.7–12.4% | 9.5–12.7% | 9.0–13.2% |
 | [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.5% | 9.4–12.9% |
 | [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.4–12.8% | 9.0–13.4% |
@@ -525,10 +527,10 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 4% | 99.9% |  |
-| 8.5–9.5% | 17% | 96% |  |
-| 9.5–10.5% | 31% | 79% | Median |
-| 10.5–11.5% | 33% | 48% |  |
-| 11.5–12.5% | 13% | 15% |  |
+| 8.5–9.5% | 18% | 96% |  |
+| 9.5–10.5% | 32% | 78% | Median |
+| 10.5–11.5% | 33% | 47% |  |
+| 11.5–12.5% | 12% | 14% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -542,7 +544,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 8–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
+| [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 8–12 | 8–12 | 8–12 | 8–12 |
+| [7–13 July 2021](2021-07-13-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [9–12 July 2021](2021-07-12-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [6–12 July 2021](2021-07-12-Forsa.html) | Forsa | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [5–9 July 2021](2021-07-09-INSAandYouGov.html) | INSA and YouGov | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
@@ -558,7 +562,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [21–27 June 2021](2021-06-27-Ipsos.html) | Ipsos | 9 | 9 | 9–10 | 9–10 | 8–11 |
 | [21–25 June 2021](2021-06-25-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 9–11 | 9–14 | 9–14 |
 | [22–24 June 2021](2021-06-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
+| [22–23 June 2021](2021-06-23-Infratestdimap.html) | Infratest dimap | 12 | 10–13 | 10–13 | 10–13 | 10–15 |
 | [15–22 June 2021](2021-06-22-Kantar.html) | Kantar | 10 | 8–11 | 8–12 | 8–12 | 8–12 |
 | [18–21 June 2021](2021-06-21-INSAandYouGov.html) | INSA and YouGov | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [16–21 June 2021](2021-06-21-GMS.html) | GMS | 9 | 9 | 9 | 9–10 | 8–12 |
@@ -570,7 +574,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [7–11 June 2021](2021-06-11-INSAandYouGov.html) | INSA and YouGov | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [8–9 June 2021](2021-06-09-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 12 | 12–14 | 11–14 | 11–14 | 10–14 |
 | [7–9 June 2021](2021-06-09-Infratestdimap.html) | Infratest dimap | 12 | 11–12 | 10–12 | 10–13 | 10–13 |
-| [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 10–11 | 10–11 | 10–12 | 9–13 |
+| [7–9 June 2021](2021-06-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 8–13 | 8–13 | 8–14 | 8–14 |
 | [28 May–9 June 2021](2021-06-09-Allensbach.html) | Allensbach | 7 | 7–11 | 7–11 | 7–11 | 7–11 |
 | [2–8 June 2021](2021-06-08-Kantar.html) | Kantar | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [4–7 June 2021](2021-06-07-INSAandYouGov.html) | INSA and YouGov | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -586,7 +590,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [21–24 May 2021](2021-05-24-YouGov.html) | YouGov | 11 | 11 | 11 | 10–12 | 9–12 |
 | [17–21 May 2021](2021-05-21-INSAandYouGov.html) | INSA and YouGov | 11 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [18–21 May 2021](2021-05-21-Forsa.html) | Forsa | 9 | 9–11 | 9–11 | 8–11 | 8–11 |
-| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 10–11 | 10–12 | 9–12 | 8–13 |
+| [18–20 May 2021](2021-05-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
 | [11–18 May 2021](2021-05-18-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [14–17 May 2021](2021-05-17-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 10–12 | 9–12 | 9–12 |
 | [11–17 May 2021](2021-05-17-GMS.html) | GMS | 12 | 9–12 | 8–12 | 8–12 | 8–13 |
@@ -600,7 +604,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [5–6 May 2021](2021-05-06-RedfieldWiltonStrategies.html) | Redfield & Wilton Strategies | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
 | [4–6 May 2021](2021-05-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
 | [29 April–5 May 2021](2021-05-05-Kantar.html) | Kantar | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
-| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 12 | 12 | 12 | 12 | 10–13 |
+| [3–5 May 2021](2021-05-05-Infratestdimap.html) | Infratest dimap | 12 | 10–13 | 10–13 | 9–13 | 9–13 |
 | [30 April–3 May 2021](2021-05-03-INSAandYouGov.html) | INSA and YouGov | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [27 April–3 May 2021](2021-05-03-Forsa.html) | Forsa | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [22–28 April 2021](2021-04-28-Kantar.html) | Kantar | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -1056,12 +1060,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 4% | 99.6% |  |
-| 9 | 42% | 96% |  |
-| 10 | 31% | 54% | Median |
-| 11 | 19% | 23% |  |
-| 12 | 3% | 4% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 3% | 99.8% |  |
+| 9 | 39% | 96% |  |
+| 10 | 29% | 57% | Median |
+| 11 | 21% | 29% |  |
+| 12 | 5% | 7% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
