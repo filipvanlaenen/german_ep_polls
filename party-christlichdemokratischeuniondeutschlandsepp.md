@@ -562,7 +562,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–24 | 19–24 | 18–24 | 18–25 |
-| [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 20 | 20–22 | 19–23 | 19–23 | 19–24 |
+| [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 23 | 20–24 | 20–24 | 20–24 | 19–24 |
 | [12–16 July 2021](2021-07-16-INSAandYouGov.html) | INSA and YouGov | 22 | 19–22 | 19–23 | 19–23 | 18–23 |
 | [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [3–14 July 2021](2021-07-14-Allensbach.html) | Allensbach | 23 | 22–24 | 22–24 | 21–24 | 20–27 |
@@ -1092,13 +1092,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 3% | 100% |  |
-| 19 | 9% | 97% |  |
-| 20 | 12% | 88% |  |
-| 21 | 9% | 77% |  |
-| 22 | 30% | 67% | Median |
-| 23 | 26% | 37% |  |
-| 24 | 9% | 11% |  |
-| 25 | 1.0% | 1.5% |  |
+| 19 | 8% | 97% |  |
+| 20 | 8% | 89% |  |
+| 21 | 11% | 81% |  |
+| 22 | 29% | 71% | Median |
+| 23 | 29% | 42% |  |
+| 24 | 12% | 13% |  |
+| 25 | 1.0% | 1.4% |  |
 | 26 | 0.3% | 0.5% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
