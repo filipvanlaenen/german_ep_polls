@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 14.1–17.0% | 13.7–17.5% | 13.5–18.0% | 12.9–18.8% |
+| N/A | [Poll Average](average.html) | 15.6% | 14.2–17.1% | 13.8–17.6% | 13.5–18.0% | 12.9–18.8% |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 16.5% | 15.5–17.6% | 15.2–17.9% | 15.0–18.2% | 14.5–18.7% |
+| [13–19 July 2021](2021-07-19-Forsa.html) | Forsa | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 13.9–18.2% |
 | [12–16 July 2021](2021-07-16-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.7–18.4% | 15.4–18.7% | 15.1–19.1% | 14.5–19.8% |
 | [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15.0% | 13.8–16.4% | 13.4–16.8% | 13.1–17.1% | 12.6–17.8% |
 | [3–14 July 2021](2021-07-14-Allensbach.html) | Allensbach | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.4–18.9% | 13.7–19.7% |
@@ -533,12 +534,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 3% | 99.8% |  |
-| 13.5–14.5% | 18% | 97% |  |
-| 14.5–15.5% | 33% | 79% | Median |
-| 15.5–16.5% | 27% | 45% |  |
-| 16.5–17.5% | 13% | 18% |  |
+| 13.5–14.5% | 16% | 97% |  |
+| 14.5–15.5% | 31% | 81% |  |
+| 15.5–16.5% | 30% | 50% | Median |
+| 16.5–17.5% | 15% | 21% |  |
 | 17.5–18.5% | 4% | 5% |  |
 | 18.5–19.5% | 0.8% | 0.9% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
@@ -553,8 +554,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–18 | 12–19 | 12–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–18 | 12–19 | 12–19 |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 16 | 14–18 | 14–18 | 14–18 | 14–18 |
+| [13–19 July 2021](2021-07-19-Forsa.html) | Forsa | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
 | [12–16 July 2021](2021-07-16-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [13–15 July 2021](2021-07-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–15 | 13–16 | 12–17 | 12–17 |
 | [3–14 July 2021](2021-07-14-Allensbach.html) | Allensbach | 15 | 15–19 | 14–19 | 13–19 | 13–20 |
@@ -1078,11 +1080,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 3% | 100% |  |
-| 13 | 11% | 96% |  |
-| 14 | 37% | 86% | Median |
-| 15 | 31% | 49% |  |
-| 16 | 9% | 17% |  |
-| 17 | 3% | 8% |  |
+| 13 | 10% | 97% |  |
+| 14 | 31% | 86% |  |
+| 15 | 36% | 55% | Median |
+| 16 | 10% | 19% |  |
+| 17 | 4% | 9% |  |
 | 18 | 3% | 6% |  |
 | 19 | 3% | 3% |  |
 | 20 | 0.2% | 0.2% |  |
