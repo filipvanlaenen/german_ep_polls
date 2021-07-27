@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 20.8–24.7% | 20.3–25.4% | 19.9–26.0% | 19.1–27.1% |
+| N/A | [Poll Average](average.html) | 22.5% | 20.8–24.7% | 20.4–25.4% | 20.0–26.0% | 19.4–27.1% |
+| [23–26 July 2021](2021-07-26-INSAandYouGov.html) | INSA and YouGov | 21.1% | 20.0–22.3% | 19.7–22.7% | 19.4–23.0% | 18.9–23.6% |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.4% | 18.4–24.2% |
 | [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 22.7% | 21.2–24.3% | 20.8–24.8% | 20.4–25.2% | 19.7–26.0% |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar | 21.9% | 20.5–23.4% | 20.1–23.8% | 19.8–24.1% | 19.2–24.8% |
@@ -543,12 +544,12 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.1% | 99.9% |  |
-| 19.5–20.5% | 6% | 98.8% |  |
-| 20.5–21.5% | 17% | 93% |  |
-| 21.5–22.5% | 26% | 76% |  |
-| 22.5–23.5% | 23% | 50% | Median |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.8% | 100% |  |
+| 19.5–20.5% | 6% | 99.2% |  |
+| 20.5–21.5% | 18% | 93% |  |
+| 21.5–22.5% | 26% | 75% |  |
+| 22.5–23.5% | 22% | 49% | Median |
 | 23.5–24.5% | 15% | 27% |  |
 | 24.5–25.5% | 8% | 12% |  |
 | 25.5–26.5% | 3% | 4% |  |
@@ -565,7 +566,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–23 | 19–24 | 19–24 | 18–26 |
+| N/A | [Poll Average](average.html) | 22 | 21–23 | 20–24 | 20–24 | 19–26 |
+| [23–26 July 2021](2021-07-26-INSAandYouGov.html) | INSA and YouGov | 21 | 21 | 21 | 20–21 | 19–21 |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 20 | 18–21 | 18–22 | 17–22 | 17–22 |
 | [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 23 | 21–23 | 21–23 | 20–23 | 19–24 |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar | 21 | 21–22 | 20–22 | 19–22 | 18–23 |
@@ -1098,12 +1100,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 2% | 99.6% |  |
-| 19 | 4% | 98% |  |
-| 20 | 13% | 94% |  |
-| 21 | 20% | 81% |  |
-| 22 | 21% | 60% | Median |
+| 17 | 0% | 100% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 1.2% | 99.7% |  |
+| 20 | 8% | 98% |  |
+| 21 | 31% | 90% |  |
+| 22 | 20% | 60% | Median |
 | 23 | 30% | 40% |  |
 | 24 | 8% | 10% |  |
 | 25 | 1.1% | 2% |  |
