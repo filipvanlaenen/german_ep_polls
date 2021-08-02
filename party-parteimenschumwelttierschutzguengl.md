@@ -11,10 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | N/A | N/A | N/A | N/A |
-| [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 0.8% | N/A | N/A | N/A | N/A |
+| [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 0.9% | N/A | N/A | N/A | N/A |
+| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [23–26 July 2021](2021-07-26-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.4% | 0.5–1.6% |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
@@ -533,7 +534,7 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 90% | 92% | Median |
+| 0.5–1.5% | 89% | 92% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -546,11 +547,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [20–27 July 2021](2021-07-27-Kantar.html) | Kantar |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 1 | 0–2 |
+| [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 0–1 |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 1 | 1 | 1 | 0–2 | 0–2 |
-| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov |  |  |  |  |  |
+| [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 July 2021](2021-07-26-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–2 |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–2 | 0–2 |
@@ -1071,8 +1073,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 92% | 95% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 1 | 91% | 95% | Last Result, Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 
