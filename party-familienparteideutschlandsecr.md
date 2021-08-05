@@ -12,6 +12,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
+| [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
+| [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 0.4% | 0.3–0.7% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 0.4% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.4% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
@@ -550,6 +552,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -1074,8 +1078,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 56% | 56% | Last Result, Median |
+| 0 | 48% | 100% |  |
+| 1 | 52% | 52% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
