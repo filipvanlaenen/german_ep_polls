@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.3–7.1% | 5.1–7.5% | 4.9–7.8% | 4.6–8.3% |
+| N/A | [Poll Average](average.html) | 6.0% | 5.1–7.0% | 4.9–7.4% | 4.7–7.7% | 4.3–8.3% |
+| [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.7–7.3% | 4.4–7.7% |
+| [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 5.2% | 4.5–6.1% | 4.3–6.3% | 4.2–6.5% | 3.9–7.0% |
 | [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.1% | 4.8–7.5% |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 5.6% | 5.0–6.4% | 4.8–6.6% | 4.7–6.8% | 4.4–7.2% |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
@@ -540,12 +542,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 18% | 99.6% |  |
-| 5.5–6.5% | 53% | 82% | Median |
-| 6.5–7.5% | 24% | 28% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 23% | 98% |  |
+| 5.5–6.5% | 51% | 75% | Median |
+| 6.5–7.5% | 21% | 24% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -557,7 +559,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
@@ -1088,10 +1092,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 27% | 98% |  |
-| 6 | 57% | 72% | Median |
-| 7 | 12% | 15% |  |
+| 4 | 4% | 100% |  |
+| 5 | 30% | 96% |  |
+| 6 | 53% | 66% | Median |
+| 7 | 11% | 13% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
