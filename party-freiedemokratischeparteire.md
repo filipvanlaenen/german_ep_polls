@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 9.9–13.6% | 9.4–14.0% | 9.1–14.3% | 8.4–14.9% |
+| N/A | [Poll Average](average.html) | 11.9% | 9.8–13.5% | 9.4–13.9% | 9.0–14.3% | 8.4–14.9% |
+| [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 12.0% | 10.9–13.2% | 10.6–13.5% | 10.3–13.8% | 9.8–14.4% |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 13.0% | 11.9–14.2% | 11.6–14.6% | 11.4–14.9% | 10.9–15.5% |
-| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 13.0% | N/A | N/A | N/A | N/A |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 13.0% | 12.0–14.1% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.8% |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 13.0% | 11.8–14.3% | 11.4–14.7% | 11.2–15.0% | 10.6–15.7% |
@@ -547,13 +548,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 5% | 99.3% |  |
-| 9.5–10.5% | 12% | 94% |  |
-| 10.5–11.5% | 17% | 82% |  |
-| 11.5–12.5% | 28% | 65% | Median |
-| 12.5–13.5% | 26% | 37% |  |
-| 13.5–14.5% | 10% | 11% |  |
-| 14.5–15.5% | 1.3% | 1.3% |  |
+| 8.5–9.5% | 6% | 99.2% |  |
+| 9.5–10.5% | 14% | 93% |  |
+| 10.5–11.5% | 19% | 79% |  |
+| 11.5–12.5% | 28% | 60% | Median |
+| 12.5–13.5% | 23% | 32% |  |
+| 13.5–14.5% | 8% | 9% |  |
+| 14.5–15.5% | 1.2% | 1.2% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -567,9 +568,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 9–14 | 8–14 |
+| [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
-| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 12 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
@@ -1104,12 +1106,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 10% | 98% |  |
-| 10 | 10% | 88% |  |
-| 11 | 20% | 78% |  |
-| 12 | 33% | 58% | Median |
-| 13 | 19% | 26% |  |
-| 14 | 7% | 7% |  |
+| 9 | 11% | 98% |  |
+| 10 | 11% | 87% |  |
+| 11 | 21% | 76% |  |
+| 12 | 30% | 55% | Median |
+| 13 | 17% | 25% |  |
+| 14 | 8% | 8% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 

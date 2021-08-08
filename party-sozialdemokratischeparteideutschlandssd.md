@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 14.9–18.7% | 14.3–19.2% | 13.9–19.5% | 13.1–20.3% |
+| N/A | [Poll Average](average.html) | 16.6% | 14.8–18.6% | 14.3–19.1% | 13.8–19.5% | 13.0–20.3% |
+| [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov | 18.0% | N/A | N/A | N/A | N/A |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.4–20.9% |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 18.0% | 16.7–19.3% | 16.4–19.7% | 16.0–20.1% | 15.5–20.7% |
-| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.2% |
+| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 18.0% | N/A | N/A | N/A | N/A |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 16.0% | 14.9–17.1% | 14.6–17.4% | 14.4–17.7% | 13.9–18.3% |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.6–18.4% | 15.3–18.9% | 15.0–19.2% | 14.3–19.9% |
@@ -551,13 +552,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.2% | 99.9% |  |
-| 13.5–14.5% | 5% | 98.7% |  |
-| 14.5–15.5% | 15% | 93% |  |
-| 15.5–16.5% | 22% | 79% |  |
-| 16.5–17.5% | 22% | 56% | Median |
-| 17.5–18.5% | 21% | 34% |  |
-| 18.5–19.5% | 11% | 13% |  |
+| 12.5–13.5% | 1.3% | 99.8% |  |
+| 13.5–14.5% | 6% | 98.5% |  |
+| 14.5–15.5% | 17% | 92% |  |
+| 15.5–16.5% | 25% | 76% |  |
+| 16.5–17.5% | 22% | 51% | Median |
+| 17.5–18.5% | 18% | 29% |  |
+| 18.5–19.5% | 9% | 11% |  |
 | 19.5–20.5% | 2% | 2% |  |
 | 20.5–21.5% | 0.2% | 0.3% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -571,10 +572,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–19 | 12–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–19 | 12–19 |
+| [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 17 | 16–19 | 16–19 | 15–19 | 14–21 |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 17 | 16–19 | 15–19 | 15–19 | 15–19 |
-| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
+| [30 July–2 August 2021](2021-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 16 | 14–17 | 14–17 | 13–17 | 13–17 |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 17 | 16–17 | 16–18 | 15–18 | 15–19 |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -1113,14 +1115,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
 | 12 | 0.5% | 99.9% |  |
-| 13 | 2% | 99.5% |  |
-| 14 | 15% | 98% |  |
-| 15 | 20% | 83% |  |
-| 16 | 24% | 63% | Median |
-| 17 | 28% | 38% |  |
-| 18 | 7% | 11% |  |
+| 13 | 2% | 99.4% |  |
+| 14 | 17% | 98% |  |
+| 15 | 20% | 80% |  |
+| 16 | 24% | 60% | Median |
+| 17 | 28% | 36% |  |
+| 18 | 5% | 8% |  |
 | 19 | 3% | 4% |  |
-| 20 | 0.3% | 0.4% |  |
+| 20 | 0.2% | 0.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
