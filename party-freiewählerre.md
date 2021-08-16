@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.8–2.1% | 0.6–2.4% |
-| [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.1% | N/A | N/A | N/A | N/A |
-| [4–10 August 2021](2021-08-10-Kantar.html) | Kantar | 1.3% | N/A | N/A | N/A | N/A |
-| [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov | 3.5% | N/A | N/A | N/A | N/A |
-| [3–9 August 2021](2021-08-09-Forsa.html) | Forsa | 1.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–2.6% | 0.9–3.1% | 0.8–3.4% | 0.6–3.9% |
+| [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.1% | 2.0–4.4% |
+| [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.7–1.9% | 0.5–2.1% |
+| [4–10 August 2021](2021-08-10-Kantar.html) | Kantar | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
+| [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.7% |
+| [3–9 August 2021](2021-08-09-Forsa.html) | Forsa | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
 | [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 1.4% | 1.0–1.9% | 0.9–2.0% | 0.9–2.2% | 0.7–2.4% |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% |
@@ -22,7 +23,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.1% | 0.9–2.4% |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | N/A | N/A | N/A | N/A |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 1.3% | 1.0–1.7% | 0.9–1.9% | 0.9–2.0% | 0.7–2.2% |
@@ -30,7 +31,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa | 1.3% | 1.1–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.8–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
 | [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach | 1.0% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.0% |
-| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 3.0% | N/A | N/A | N/A | N/A |
+| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.5% | 0.8–1.6% | 0.8–1.7% | 0.7–1.9% |
 | [13–19 July 2021](2021-07-19-Forsa.html) | Forsa | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–2.0% | 0.8–2.2% |
@@ -544,10 +545,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 76% | 99.8% | Median |
-| 1.5–2.5% | 24% | 24% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 66% | 99.8% | Median |
+| 1.5–2.5% | 24% | 34% |  |
+| 2.5–3.5% | 8% | 10% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -558,11 +560,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [4–10 August 2021](2021-08-10-Kantar.html) | Kantar |  |  |  |  |  |
-| [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–9 August 2021](2021-08-09-Forsa.html) | Forsa |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 1 | 1–2 |
+| [4–10 August 2021](2021-08-10-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
+| [6–9 August 2021](2021-08-09-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3–9 August 2021](2021-08-09-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 August 2021](2021-08-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–4 August 2021](2021-08-04-Infratestdimap.html) | Infratest dimap | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [28 July–3 August 2021](2021-08-03-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 0–2 |
@@ -570,7 +573,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [27 July–2 August 2021](2021-08-02-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–31 July 2021](2021-07-31-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–30 July 2021](2021-07-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [27–29 July 2021](2021-07-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–27 July 2021](2021-07-27-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
 | [21–27 July 2021](2021-07-27-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [23–26 July 2021](2021-07-26-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -578,7 +581,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [20–26 July 2021](2021-07-26-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–23 July 2021](2021-07-23-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–22 July 2021](2021-07-22-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1–2 | 0–2 |
-| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [20–21 July 2021](2021-07-21-Infratestdimap.html) | Infratest dimap | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [14–20 July 2021](2021-07-20-Kantar.html) | Kantar | 1 | 1 | 1 | 1–2 | 0–2 |
 | [16–19 July 2021](2021-07-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [13–19 July 2021](2021-07-19-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1093,10 +1096,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 82% | 99.6% | Last Result, Median |
-| 2 | 16% | 18% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 72% | 99.8% | Last Result, Median |
+| 2 | 23% | 28% |  |
+| 3 | 5% | 5% |  |
+| 4 | 0.2% | 0.2% |  |
+| 5 | 0% | 0% |  |
 
 
