@@ -11,14 +11,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 0.5% | N/A | N/A | N/A | N/A |
+| [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 0.5% | N/A | N/A | N/A | N/A |
+| [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
 | [16–23 August 2021](2021-08-23-Forsa.html) | Forsa | 0.7% | 0.5–1.1% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [16–20 August 2021](2021-08-20-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
-| [12–18 August 2021](2021-08-18-TrendResearch.html) | Trend Research | 0.6% | N/A | N/A | N/A | N/A |
+| [12–18 August 2021](2021-08-18-TrendResearch.html) | Trend Research | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [17–18 August 2021](2021-08-18-Infratestdimap.html) | Infratest dimap | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [11–17 August 2021](2021-08-17-Kantar.html) | Kantar | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
 | [5–17 August 2021](2021-08-17-Allensbach.html) | Allensbach | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
-| [13–16 August 2021](2021-08-16-INSAandYouGov.html) | INSA and YouGov | 0.6% | N/A | N/A | N/A | N/A |
+| [13–16 August 2021](2021-08-16-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.2–1.2% |
 | [10–16 August 2021](2021-08-16-Forsa.html) | Forsa | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [9–13 August 2021](2021-08-13-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [10–12 August 2021](2021-08-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.6% | 0.4–0.9% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
@@ -553,8 +554,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% | Last Result |
-| 0.5–1.5% | 69% | 69% | Median |
+| 0.0–0.5% | 35% | 100% | Last Result |
+| 0.5–1.5% | 65% | 65% | Median |
 | 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -568,10 +569,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [18–24 August 2021](2021-08-24-Kantar.html) | Kantar |  |  |  |  |  |
+| [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–23 August 2021](2021-08-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–20 August 2021](2021-08-20-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–18 August 2021](2021-08-18-TrendResearch.html) | Trend Research |  |  |  |  |  |
+| [12–18 August 2021](2021-08-18-TrendResearch.html) | Trend Research | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–18 August 2021](2021-08-18-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–17 August 2021](2021-08-17-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–17 August 2021](2021-08-17-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1112,8 +1114,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 74% | 74% | Last Result, Median |
+| 0 | 23% | 100% |  |
+| 1 | 77% | 77% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
