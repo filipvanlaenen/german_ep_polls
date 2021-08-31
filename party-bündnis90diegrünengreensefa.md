@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 15.7–20.2% | 15.2–20.9% | 14.9–21.4% | 14.2–22.4% |
+| N/A | [Poll Average](average.html) | 17.5% | 15.6–20.2% | 15.2–20.9% | 14.9–21.4% | 14.2–22.4% |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 16.5% | 15.5–17.6% | 15.2–17.9% | 14.9–18.2% | 14.4–18.7% |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.7–18.4% | 15.3–18.8% | 15.0–19.2% | 14.4–19.9% |
-| [1–27 August 2021](2021-08-27-Allensbach.html) | Allensbach | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.4% | 14.1–20.2% |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20.0% | 18.4–21.8% | 18.0–22.3% | 17.6–22.7% | 16.9–23.5% |
+| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 17.0% | 15.5–18.5% | 15.1–19.0% | 14.8–19.4% | 14.1–20.1% |
 | [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 15.9% | 14.8–17.1% | 14.5–17.4% | 14.2–17.7% | 13.7–18.3% |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.3–19.8% | 15.8–20.3% |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 15.0–19.2% |
@@ -574,11 +575,11 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.1% | 100% |  |
 | 13.5–14.5% | 1.2% | 99.9% |  |
 | 14.5–15.5% | 7% | 98.8% |  |
-| 15.5–16.5% | 17% | 92% |  |
-| 16.5–17.5% | 23% | 75% |  |
-| 17.5–18.5% | 21% | 52% | Median |
-| 18.5–19.5% | 14% | 30% |  |
-| 19.5–20.5% | 9% | 17% |  |
+| 15.5–16.5% | 19% | 91% |  |
+| 16.5–17.5% | 23% | 73% |  |
+| 17.5–18.5% | 20% | 49% | Median |
+| 18.5–19.5% | 13% | 29% |  |
+| 19.5–20.5% | 9% | 16% |  |
 | 20.5–21.5% | 5% | 7% |  |
 | 21.5–22.5% | 2% | 2% |  |
 | 22.5–23.5% | 0.3% | 0.4% |  |
@@ -594,10 +595,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 15–20 | 15–20 | 14–21 |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 16 | 14–17 | 14–18 | 14–18 | 14–20 |
-| [1–27 August 2021](2021-08-27-Allensbach.html) | Allensbach | 17 | 16–17 | 14–19 | 14–20 | 14–20 |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 18 | 18–19 | 18–20 | 17–21 |
+| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
 | [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 15 | 15–16 | 14–16 | 14–17 | 13–17 |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 16 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
@@ -1156,12 +1158,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 3% | 99.6% |  |
-| 15 | 15% | 97% |  |
-| 16 | 25% | 82% |  |
-| 17 | 22% | 57% | Median |
-| 18 | 22% | 35% |  |
+| 13 | 0.4% | 100% |  |
+| 14 | 1.2% | 99.5% |  |
+| 15 | 18% | 98% |  |
+| 16 | 32% | 81% | Median |
+| 17 | 15% | 49% |  |
+| 18 | 21% | 34% |  |
 | 19 | 5% | 13% |  |
 | 20 | 7% | 8% |  |
 | 21 | 0.8% | 0.8% |  |

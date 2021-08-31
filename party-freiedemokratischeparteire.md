@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 9.7–13.7% | 9.3–14.1% | 9.0–14.5% | 8.4–15.2% |
+| N/A | [Poll Average](average.html) | 12.1% | 9.7–13.8% | 9.3–14.2% | 9.0–14.6% | 8.4–15.2% |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 13.5% | 12.6–14.5% | 12.3–14.8% | 12.1–15.1% | 11.6–15.6% |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.6% |
-| [1–27 August 2021](2021-08-27-Allensbach.html) | Allensbach | 10.5% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | 8.9–11.4% | 8.5–11.8% | 8.3–12.1% | 7.7–12.8% |
+| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 10.5% | 9.4–11.8% | 9.0–12.2% | 8.8–12.5% | 8.3–13.2% |
 | [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 12.8% | 11.8–13.9% | 11.6–14.3% | 11.3–14.5% | 10.9–15.1% |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.2% | 11.6–14.5% | 11.2–15.0% |
@@ -569,11 +570,11 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.8% | 100% |  |
 | 8.5–9.5% | 7% | 99.2% |  |
 | 9.5–10.5% | 15% | 92% |  |
-| 10.5–11.5% | 17% | 78% |  |
-| 11.5–12.5% | 25% | 61% | Median |
-| 12.5–13.5% | 23% | 36% |  |
-| 13.5–14.5% | 10% | 12% |  |
-| 14.5–15.5% | 2% | 2% |  |
+| 10.5–11.5% | 16% | 78% |  |
+| 11.5–12.5% | 23% | 61% | Median |
+| 12.5–13.5% | 23% | 38% |  |
+| 13.5–14.5% | 12% | 14% |  |
+| 14.5–15.5% | 2% | 3% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -587,9 +588,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
+| [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 12 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [23–27 August 2021](2021-08-27-INSAandYouGov.html) | INSA and YouGov | 12 | 11–15 | 10–15 | 10–15 | 10–15 |
-| [1–27 August 2021](2021-08-27-Allensbach.html) | Allensbach | 9 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [24–26 August 2021](2021-08-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [18–26 August 2021](2021-08-26-Allensbach.html) | Allensbach | 10 | 8–11 | 8–12 | 8–12 | 8–13 |
 | [20–24 August 2021](2021-08-24-YouGov.html) | YouGov | 13 | 11–13 | 11–13 | 11–13 | 11–15 |
 | [18–24 August 2021](2021-08-24-Kantar.html) | Kantar | 12 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [20–23 August 2021](2021-08-23-INSAandYouGov.html) | INSA and YouGov | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
@@ -1143,14 +1145,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.7% | 100% |  |
-| 9 | 21% | 99.2% |  |
-| 10 | 17% | 78% |  |
-| 11 | 22% | 61% | Median |
-| 12 | 23% | 40% |  |
-| 13 | 12% | 16% |  |
+| 8 | 2% | 100% |  |
+| 9 | 15% | 98% |  |
+| 10 | 20% | 83% |  |
+| 11 | 19% | 63% | Median |
+| 12 | 29% | 44% |  |
+| 13 | 11% | 15% |  |
 | 14 | 3% | 4% |  |
-| 15 | 2% | 2% |  |
+| 15 | 0.6% | 0.6% |  |
 | 16 | 0% | 0% |  |
 
 
