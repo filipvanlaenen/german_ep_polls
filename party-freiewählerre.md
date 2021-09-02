@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–2.4% | 0.8–3.1% | 0.7–3.5% | 0.6–4.0% |
+| [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 1.0% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
@@ -563,7 +564,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% | Last Result |
 | 0.5–1.5% | 70% | 99.7% | Median |
-| 1.5–2.5% | 20% | 29% |  |
+| 1.5–2.5% | 21% | 30% |  |
 | 2.5–3.5% | 7% | 9% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
@@ -579,6 +580,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–3 | 1–3 | 1–3 | 0–4 |
+| [25–31 August 2021](2021-08-31-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1 |
 | [27–30 August 2021](2021-08-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [24–30 August 2021](2021-08-30-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 August 2021](2021-08-29-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 1 |
@@ -1133,7 +1135,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.3% | 100% |  |
 | 1 | 70% | 98.7% | Last Result, Median |
-| 2 | 18% | 29% |  |
+| 2 | 18% | 28% |  |
 | 3 | 9% | 11% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
