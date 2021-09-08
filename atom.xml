@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-09-05T12:55:17.913129+02:00</updated>
+  <updated>2021-09-07T20:04:39.815445+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 24.2–28.0%, 25 seats</li><li>Alternative für Deutschland (ID): 9.7–12.5%, 10 seats</li><li>Freie Demokratische Partei (RE): 11.2–14.0%, 12 seats</li><li>Die Linke (GUE/NGL): 5.5–7.6%, 6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 14.0–17.1%, 15 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 14.5–17.7%, 15 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 3.7–5.5%, 4 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%, 1 seats</li><li>Freie Wähler (RE): 2.4–3.9%, 3 seats</li><li>Die PARTEI (Greens/EFA): 0.7–1.7%, 1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.1%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.2–0.8%, 1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.7%, 0 seats</li><li>Volt Europa (Greens/EFA): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2021-09-06-INSAandYouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2021-09-06-INSAandYouGov.html"/>
+    <title>Opinion Poll by INSA and YouGov, 3–6 September 2021</title>
+    <updated>2021-09-07T20:04:39.815445+02:00</updated>
+    <dc:date>2021-09-07T20:04:39.815445+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 22.8–27.3%, 21–25 seats</li><li>Alternative für Deutschland (ID): 10.4–13.8%, 10–13 seats</li><li>Freie Demokratische Partei (RE): 11.4–14.9%, 11–14 seats</li><li>Die Linke (GUE/NGL): 5.8–8.5%, 6–8 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 14.2–18.0%, 13–17 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 13.8–17.6%, 13–17 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 3.4–5.5%, 3–5 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.8%, 0–1 seats</li><li>Freie Wähler (RE): 0.7–1.9%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.9–2.1%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.4%, 0–1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.1%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.9%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.8%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2021-09-03-INSAandYouGov.html</id>
@@ -4391,5 +4399,5 @@
     <updated>2020-05-08T18:32:59.985126+02:00</updated>
     <dc:date>2020-05-08T18:32:59.985126+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-05T12:55:17.913129+02:00</dc:date>
+  <dc:date>2021-09-07T20:04:39.815445+02:00</dc:date>
 </feed>
