@@ -11,12 +11,12 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 26.0% | 24.8–27.3% |24.5–27.7% |24.2–28.0% |23.6–28.6% |
-| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 16.0% | 15.0–17.1% |14.7–17.4% |14.5–17.7% |14.0–18.2% |
 | Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 15.5% | 14.5–16.6% |14.2–16.9% |14.0–17.1% |13.5–17.7% |
+| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 15.5% | 14.5–16.6% |14.2–16.9% |14.0–17.1% |13.5–17.7% |
 | Freie Demokratische Partei (RE) | 0.0% | 12.5% | 11.6–13.5% |11.4–13.8% |11.2–14.0% |10.7–14.5% |
 | Alternative für Deutschland (ID) | 0.0% | 11.0% | 10.2–11.9% |9.9–12.2% |9.7–12.5% |9.3–12.9% |
 | Die Linke (GUE/NGL) | 0.0% | 6.5% | 5.8–7.2% |5.6–7.5% |5.5–7.6% |5.2–8.0% |
-| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 4.5% | 3.9–5.1% |3.8–5.3% |3.7–5.5% |3.4–5.8% |
+| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 5.0% | 4.5–5.7% |4.3–5.9% |4.1–6.1% |3.9–6.4% |
 | Freie Wähler (RE) | 0.0% | 3.0% | 2.6–3.6% |2.5–3.7% |2.4–3.9% |2.2–4.1% |
 | Die PARTEI (Greens/EFA) | 0.0% | 1.1% | 0.9–1.5% |0.8–1.6% |0.7–1.7% |0.6–1.9% |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 0.7% | 0.5–1.0% |0.4–1.1% |0.4–1.1% |0.3–1.3% |
@@ -37,20 +37,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 25 | 25 |25 |25 |23–25 |
-| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 1 | 15 | 15 |15 |15 |15–16 |
-| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 15 | 15 |15 |15 |15–16 |
-| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 12 | 12 |12 |12 |12 |
-| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 10 | 10 |10 |10 |10–11 |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 6 | 6 |6 |6 |6–7 |
-| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 4 | 4 |4 |4 |4–5 |
-| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 3 | 3 |3 |3 |3 |
+| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 25 | 25 |25 |24–25 |23–27 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 15 | 15 |15 |14–15 |14–15 |
+| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 1 | 13 | 13 |13–14 |13–15 |13–15 |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 12 | 12 |12 |12–14 |11–14 |
+| <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 10 | 10 |10–11 |10–12 |10–12 |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 6 | 6 |6 |5–6 |5–7 |
+| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 6 | 6 |5–6 |5–6 |5–6 |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 3 | 3 |3 |2–3 |2–4 |
 | <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |0–1 |
+| <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#familienpartei-deutschlands-(ecr)">Familienpartei Deutschlands (ECR)</a> | 1 | 0 | 0 |0 |0 |0–1 |
-| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
-| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0–1 |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
@@ -81,13 +81,39 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.6% | 100% |  |
-| 24 | 0.2% | 99.4% |  |
-| 25 | 99.0% | 99.2% | Median |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0.1% | 0.1% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 1.0% | 99.7% |  |
+| 24 | 1.4% | 98.7% |  |
+| 25 | 96% | 97% | Median |
+| 26 | 0.8% | 1.4% |  |
+| 27 | 0.6% | 0.6% |  |
 | 28 | 0% | 0% |  |
+
+### Bündnis 90/Die Grünen (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Bündnis 90/Die Grünen (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2021-09-06-INSAandYouGov-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.4% | 100% |  |
+| 13 | 0% | 99.6% |  |
+| 14 | 4% | 99.6% |  |
+| 15 | 95% | 96% | Median |
+| 16 | 0.4% | 0.4% |  |
+| 17 | 0% | 0% |  |
 
 ### Christlich Demokratische Union Deutschlands (EPP)
 
@@ -109,38 +135,12 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 99.2% | 99.9% | Median |
-| 16 | 0.6% | 0.7% |  |
+| 13 | 93% | 100% | Median |
+| 14 | 2% | 7% |  |
+| 15 | 4% | 5% |  |
+| 16 | 0.1% | 0.3% |  |
 | 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
-
-### Bündnis 90/Die Grünen (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Bündnis 90/Die Grünen (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2021-09-06-INSAandYouGov-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 99.2% | 99.8% | Median |
-| 16 | 0.6% | 0.6% |  |
-| 17 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE)
 
@@ -160,10 +160,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.4% | 100% |  |
-| 12 | 99.4% | 99.6% | Median |
-| 13 | 0.1% | 0.2% |  |
-| 14 | 0% | 0% |  |
+| 11 | 2% | 100% |  |
+| 12 | 94% | 98% | Median |
+| 13 | 1.3% | 4% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
 
@@ -181,11 +182,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 99.1% | 100% | Median |
-| 11 | 0.8% | 0.9% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 95% | 99.7% | Median |
+| 11 | 1.3% | 5% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.5% | 0.5% |  |
+| 14 | 0% | 0% |  |
 
 ### Die Linke (GUE/NGL)
 
@@ -199,10 +201,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 99.2% | 99.8% | Median |
-| 7 | 0.6% | 0.6% |  |
-| 8 | 0% | 0% |  |
+| 5 | 3% | 100% |  |
+| 6 | 96% | 97% | Median |
+| 7 | 1.5% | 2% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 ### Christlich-Soziale Union in Bayern (EPP)
 
@@ -215,9 +218,10 @@
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 99.4% | 100% | Median |
-| 5 | 0.5% | 0.6% |  |
-| 6 | 0% | 0% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 5% | 99.6% |  |
+| 6 | 94% | 94% | Median |
+| 7 | 0% | 0% |  |
 
 ### Freie Wähler (RE)
 
@@ -228,9 +232,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.4% | 100% |  |
-| 3 | 99.6% | 99.6% | Median |
-| 4 | 0.1% | 0.1% |  |
+| 2 | 3% | 100% |  |
+| 3 | 96% | 97% | Median |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 ### Die PARTEI (Greens/EFA)
@@ -241,8 +245,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.6% | 100% | Last Result, Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
@@ -253,9 +257,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 0 | 0.8% | 100% |  |
+| 1 | 98.8% | 99.2% | Last Result, Median |
+| 2 | 0.4% | 0.4% |  |
+| 3 | 0% | 0% |  |
 
 ### Ökologisch-Demokratische Partei (Greens/EFA)
 
@@ -265,8 +270,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 99.2% | 99.2% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Familienpartei Deutschlands (ECR)
@@ -289,8 +294,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 99.0% | 99.0% | Last Result, Median |
+| 0 | 7% | 100% |  |
+| 1 | 93% | 93% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
@@ -301,8 +306,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0.1% | 0.1% | Last Result |
+| 0 | 99.1% | 100% | Median |
+| 1 | 0.9% | 0.9% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -314,10 +319,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sozialdemokratische Partei Deutschlands (S&D) | 1 | 25 | 0% | 25 | 25 | 25 | 23–25 |
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 19 | 0% | 19 | 19 | 19 | 19–21 |
-| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 15 | 0% | 15 | 15 | 15 | 14–15 |
-| Alternative für Deutschland (ID) | 1 | 10 | 0% | 10 | 10 | 10 | 10–11 |
+| Sozialdemokratische Partei Deutschlands (S&D) | 1 | 25 | 0% | 25 | 25 | 24–25 | 23–27 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 19 | 0% | 19 | 19 | 19–20 | 19–21 |
+| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 15 | 0% | 15 | 15 | 15–16 | 14–17 |
+| Alternative für Deutschland (ID) | 1 | 10 | 0% | 10 | 10–11 | 10–12 | 10–12 |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
@@ -346,12 +351,12 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.6% | 100% |  |
-| 24 | 0.2% | 99.4% |  |
-| 25 | 99.0% | 99.2% | Median |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0.1% | 0.1% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 1.0% | 99.7% |  |
+| 24 | 1.4% | 98.7% |  |
+| 25 | 96% | 97% | Median |
+| 26 | 0.8% | 1.4% |  |
+| 27 | 0.6% | 0.6% |  |
 | 28 | 0% | 0% |  |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP)
@@ -376,11 +381,13 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 99.0% | 99.9% | Median |
-| 20 | 0.4% | 0.9% |  |
-| 21 | 0.5% | 0.5% |  |
-| 22 | 0% | 0% |  |
+| 18 | 0.4% | 100% |  |
+| 19 | 95% | 99.6% | Median |
+| 20 | 4% | 5% |  |
+| 21 | 0.8% | 1.0% |  |
+| 22 | 0% | 0.2% |  |
+| 23 | 0.2% | 0.2% |  |
+| 24 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE) – Freie Wähler (RE)
 
@@ -399,11 +406,11 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 99.2% | 99.3% | Median |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0.1% | 0.1% |  |
+| 13 | 0% | 100% |  |
+| 14 | 2% | 100% |  |
+| 15 | 94% | 98% | Median |
+| 16 | 3% | 4% |  |
+| 17 | 0.8% | 0.8% |  |
 | 18 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
@@ -420,11 +427,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 99.1% | 100% | Median |
-| 11 | 0.8% | 0.9% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 95% | 99.7% | Median |
+| 11 | 1.3% | 5% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.5% | 0.5% |  |
+| 14 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -438,6 +446,6 @@
 ### Calculations
 
 + **Sample size:** 2052
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.15%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.68%
 
