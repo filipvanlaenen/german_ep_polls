@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.6–19.2% | 14.2–20.0% | 13.9–20.6% | 13.3–21.6% |
+| N/A | [Poll Average](average.html) | 16.4% | 14.7–19.0% | 14.3–19.9% | 14.0–20.5% | 13.4–21.5% |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 16.4% | 15.4–17.6% | 15.1–17.9% | 14.8–18.2% | 14.3–18.7% |
-| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17.2% | N/A | N/A | N/A | N/A |
-| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 16.4% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17.2% | 15.7–18.8% | 15.3–19.3% | 14.9–19.7% | 14.2–20.5% |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 16.4% | 15.3–17.6% | 15.0–18.0% | 14.7–18.3% | 14.2–18.8% |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 19.6% | 18.2–21.0% | 17.8–21.5% | 17.5–21.8% | 16.8–22.6% |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.1% | 13.5–17.7% |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 18.0% | 16.5–19.7% | 16.1–20.1% | 15.8–20.5% | 15.1–21.3% |
@@ -587,16 +587,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 1.0% | 100% |  |
-| 13.5–14.5% | 8% | 98.9% |  |
-| 14.5–15.5% | 22% | 91% |  |
-| 15.5–16.5% | 27% | 69% | Median |
-| 16.5–17.5% | 17% | 42% |  |
-| 17.5–18.5% | 9% | 24% |  |
-| 18.5–19.5% | 7% | 15% |  |
-| 19.5–20.5% | 5% | 8% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 0.8% | 100% |  |
+| 13.5–14.5% | 7% | 99.1% |  |
+| 14.5–15.5% | 20% | 92% |  |
+| 15.5–16.5% | 28% | 73% | Median |
+| 16.5–17.5% | 20% | 45% |  |
+| 17.5–18.5% | 11% | 24% |  |
+| 18.5–19.5% | 7% | 14% |  |
+| 19.5–20.5% | 4% | 7% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -609,16 +609,16 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–18 | 13–19 | 12–20 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–18 | 13–18 | 12–20 |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 17 | 16–17 | 16–17 | 16–17 | 15–17 |
-| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 16 | 15–16 | 15–17 | 14–18 | 13–18 |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 13 | 13 | 13–14 | 13–15 | 13–15 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 16 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa | 13 | 13–14 | 12–15 | 12–15 | 12–16 |
 | [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–17 | 13–17 | 13–17 |
-| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 14 | 13–16 | 13–16 | 13–16 | 13–19 |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 16 | 14–16 | 13–16 | 12–16 | 12–17 |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 15–18 | 15–19 | 14–19 | 13–20 |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 15 | 15 | 14–16 | 14–16 | 13–16 |
@@ -1186,17 +1186,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 1.1% | 100% |  |
-| 13 | 26% | 98.9% |  |
-| 14 | 5% | 73% |  |
-| 15 | 14% | 68% |  |
-| 16 | 23% | 54% | Median |
-| 17 | 16% | 31% |  |
-| 18 | 12% | 15% |  |
-| 19 | 1.3% | 3% |  |
-| 20 | 2% | 2% |  |
+| 12 | 1.2% | 100% |  |
+| 13 | 18% | 98.8% |  |
+| 14 | 8% | 81% |  |
+| 15 | 15% | 73% |  |
+| 16 | 29% | 58% | Median |
+| 17 | 17% | 29% |  |
+| 18 | 10% | 12% |  |
+| 19 | 0.9% | 2% |  |
+| 20 | 1.4% | 1.5% |  |
 | 21 | 0.1% | 0.1% |  |
-| 22 | 0.1% | 0.1% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 

@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% |
-| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | N/A | N/A | N/A | N/A |
-| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 0.5% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -574,8 +574,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 79% | 100% | Last Result, Median |
-| 0.5–1.5% | 21% | 21% |  |
+| 0.0–0.5% | 76% | 100% | Last Result, Median |
+| 0.5–1.5% | 24% | 24% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -589,14 +589,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0–1 |
-| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0–1 |
 | [31 August–6 September 2021](2021-09-06-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 August–3 September 2021](2021-09-03-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 August–2 September 2021](2021-09-02-TrendResearch.html) | Trend Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 August–2 September 2021](2021-09-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 August–1 September 2021](2021-09-01-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–31 August 2021](2021-08-31-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1153,8 +1153,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 31% | 31% | Last Result |
+| 0 | 59% | 100% | Median |
+| 1 | 41% | 41% | Last Result |
 | 2 | 0% | 0% |  |
 
 
