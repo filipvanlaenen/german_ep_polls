@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.8–27.4% | 23.4–27.9% | 23.0–28.4% | 22.2–29.4% |
+| N/A | [Poll Average](average.html) | 25.6% | 23.9–27.4% | 23.4–27.9% | 23.0–28.4% | 22.2–29.4% |
+| [10–13 September 2021](2021-09-13-INSAandYouGov.html) | INSA and YouGov | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.6–28.5% |
+| [8–13 September 2021](2021-09-13-GMS.html) | GMS | 25.0% | 23.3–26.8% | 22.8–27.4% | 22.4–27.8% | 21.6–28.7% |
+| [7–13 September 2021](2021-09-13-Forsa.html) | Forsa | 25.0% | 23.7–26.3% | 23.4–26.7% | 23.1–27.0% | 22.5–27.7% |
 | [6–10 September 2021](2021-09-10-INSAandYouGov.html) | INSA and YouGov | 26.0% | 24.4–27.8% | 24.0–28.2% | 23.6–28.7% | 22.8–29.5% |
-| [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 25.0% | 23.7–26.3% | 23.4–26.7% | 23.1–27.0% | 22.5–27.6% |
 | [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25.0% | 23.2–26.8% | 22.8–27.4% | 22.3–27.8% | 21.5–28.7% |
 | [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 26.0% | 24.7–27.4% | 24.3–27.8% | 24.0–28.2% | 23.3–28.8% |
+| [1–7 September 2021](2021-09-07-Kantar.html) | Kantar | 25.0% | N/A | N/A | N/A | N/A |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 27.0% | 25.5–28.7% | 25.0–29.2% | 24.6–29.6% | 23.9–30.4% |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 26.0% | 24.8–27.3% | 24.5–27.7% | 24.2–28.0% | 23.6–28.6% |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
@@ -599,10 +602,10 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.1% | 100% |  |
 | 21.5–22.5% | 1.0% | 99.9% |  |
 | 22.5–23.5% | 5% | 98.9% |  |
-| 23.5–24.5% | 17% | 94% |  |
-| 24.5–25.5% | 28% | 76% | Median |
-| 25.5–26.5% | 26% | 48% |  |
-| 26.5–27.5% | 14% | 22% |  |
+| 23.5–24.5% | 16% | 94% |  |
+| 24.5–25.5% | 27% | 78% |  |
+| 25.5–26.5% | 27% | 50% | Median |
+| 26.5–27.5% | 15% | 23% |  |
 | 27.5–28.5% | 6% | 8% |  |
 | 28.5–29.5% | 2% | 2% |  |
 | 29.5–30.5% | 0.3% | 0.4% |  |
@@ -617,11 +620,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–27 | 22–27 | 21–28 | 21–29 |
+| [10–13 September 2021](2021-09-13-INSAandYouGov.html) | INSA and YouGov | 24 | 24–27 | 22–27 | 22–27 | 22–27 |
+| [8–13 September 2021](2021-09-13-GMS.html) | GMS | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [7–13 September 2021](2021-09-13-Forsa.html) | Forsa | 24 | 23–27 | 23–27 | 22–27 | 22–27 |
 | [6–10 September 2021](2021-09-10-INSAandYouGov.html) | INSA and YouGov | 25 | 24–26 | 23–26 | 22–27 | 21–28 |
-| [1–9 September 2021](2021-09-09-Kantar.html) | Kantar | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [7–9 September 2021](2021-09-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25 | 22–25 | 22–25 | 22–25 | 20–27 |
 | [3–7 September 2021](2021-09-07-YouGov.html) | YouGov | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
+| [1–7 September 2021](2021-09-07-Kantar.html) | Kantar |  |  |  |  |  |
 | [1–7 September 2021](2021-09-07-Allensbach.html) | Allensbach | 27 | 24–28 | 24–29 | 24–29 | 23–29 |
 | [3–6 September 2021](2021-09-06-INSAandYouGov.html) | INSA and YouGov | 25 | 24–26 | 23–27 | 23–27 | 23–27 |
 | [1–6 September 2021](2021-09-06-GMS.html) | GMS | 24 | 23–25 | 23–26 | 22–27 | 21–27 |
@@ -1203,14 +1209,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.1% | 100% |  |
-| 21 | 0.6% | 99.9% |  |
-| 22 | 6% | 99.3% |  |
-| 23 | 24% | 93% |  |
-| 24 | 29% | 69% | Median |
-| 25 | 16% | 40% |  |
-| 26 | 18% | 25% |  |
-| 27 | 4% | 7% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 5% | 99.7% |  |
+| 22 | 11% | 95% |  |
+| 23 | 13% | 84% |  |
+| 24 | 27% | 71% | Median |
+| 25 | 18% | 44% |  |
+| 26 | 15% | 26% |  |
+| 27 | 7% | 10% |  |
 | 28 | 2% | 3% |  |
 | 29 | 0.9% | 0.9% |  |
 | 30 | 0% | 0% |  |
