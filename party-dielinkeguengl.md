@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.4–7.8% | 5.1–8.3% | 5.0–8.6% | 4.6–9.3% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.8% | 5.2–8.3% | 5.0–8.6% | 4.6–9.3% |
+| [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
+| [14–20 September 2021](2021-09-20-Forsa.html) | Forsa | 6.0% | 5.3–6.8% | 5.2–7.0% | 5.0–7.2% | 4.7–7.6% |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
 | [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.0% | 5.2–6.9% | 5.0–7.1% | 4.8–7.3% | 4.5–7.8% |
@@ -589,9 +591,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 15% | 99.6% |  |
-| 5.5–6.5% | 44% | 85% | Median |
-| 6.5–7.5% | 27% | 41% |  |
+| 4.5–5.5% | 13% | 99.6% |  |
+| 5.5–6.5% | 43% | 87% | Median |
+| 6.5–7.5% | 29% | 44% |  |
 | 7.5–8.5% | 11% | 14% |  |
 | 8.5–9.5% | 3% | 3% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
@@ -607,6 +609,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 7 | 7 | 6–7 |
+| [14–20 September 2021](2021-09-20-Forsa.html) | Forsa |  |  |  |  |  |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -1185,11 +1189,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 27% | 98.9% |  |
-| 6 | 40% | 71% | Median |
-| 7 | 19% | 32% |  |
-| 8 | 11% | 12% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 18% | 99.1% |  |
+| 6 | 39% | 81% | Median |
+| 7 | 29% | 43% |  |
+| 8 | 12% | 14% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
