@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.2–5.7% | 4.0–6.0% | 3.8–6.3% | 3.5–6.8% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.1–5.6% | 3.9–5.9% | 3.8–6.1% | 3.5–6.6% |
+| [22–23 September 2021](2021-09-23-Ipsos.html) | Ipsos | 4.8% | N/A | N/A | N/A | N/A |
+| [22–23 September 2021](2021-09-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | N/A | N/A | N/A | N/A |
+| [20–23 September 2021](2021-09-23-Forsa.html) | Forsa | 4.8% | N/A | N/A | N/A | N/A |
+| [16–23 September 2021](2021-09-23-Allensbach.html) | Allensbach | 5.5% | N/A | N/A | N/A | N/A |
 | [16–22 September 2021](2021-09-22-YouGov.html) | YouGov | 4.6% | 4.1–5.2% | 3.9–5.4% | 3.8–5.5% | 3.6–5.8% |
-| [15–21 September 2021](2021-09-21-Kantar.html) | Kantar | 4.6% | N/A | N/A | N/A | N/A |
+| [15–21 September 2021](2021-09-21-Kantar.html) | Kantar | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
 | [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [14–20 September 2021](2021-09-20-Forsa.html) | Forsa | 4.8% | 4.2–5.5% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
@@ -592,11 +596,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 28% | 99.5% |  |
-| 4.5–5.5% | 56% | 72% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 1.1% | 1.2% |  |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 31% | 99.2% |  |
+| 4.5–5.5% | 56% | 69% | Median |
+| 5.5–6.5% | 12% | 12% |  |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -608,9 +612,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [22–23 September 2021](2021-09-23-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [22–23 September 2021](2021-09-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [20–23 September 2021](2021-09-23-Forsa.html) | Forsa |  |  |  |  |  |
+| [16–23 September 2021](2021-09-23-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [16–22 September 2021](2021-09-22-YouGov.html) | YouGov | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [15–21 September 2021](2021-09-21-Kantar.html) | Kantar |  |  |  |  |  |
+| [15–21 September 2021](2021-09-21-Kantar.html) | Kantar | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [14–20 September 2021](2021-09-20-Forsa.html) | Forsa | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -1191,11 +1199,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 34% | 98% |  |
-| 5 | 50% | 64% | Median |
-| 6 | 14% | 14% |  |
-| 7 | 0.4% | 0.4% |  |
+| 3 | 3% | 100% |  |
+| 4 | 30% | 97% |  |
+| 5 | 47% | 67% | Median |
+| 6 | 20% | 20% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 
