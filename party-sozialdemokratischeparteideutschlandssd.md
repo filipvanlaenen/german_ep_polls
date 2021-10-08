@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.0% | 26.4–29.7% | 26.0–30.1% | 25.6–30.6% | 24.8–31.4% |
+| N/A | [Poll Average](average.html) | 27.4% | 25.5–29.2% | 25.1–29.7% | 24.8–30.1% | 24.3–30.9% |
+| [1–4 October 2021](2021-10-04-INSAandYouGov.html) | INSA and YouGov | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
+| [4 October 2021](2021-10-04-Forsa.html) | Forsa | 26.0% | 25.0–27.1% | 24.7–27.3% | 24.4–27.6% | 24.0–28.1% |
 | [1 October 2021](2021-10-01-INSAandYouGov.html) | INSA and YouGov | 28.0% | 26.4–29.7% | 26.0–30.1% | 25.6–30.5% | 24.8–31.4% |
 | [28–30 September 2021](2021-09-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28.0% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.4% |
 | [22–23 September 2021](2021-09-23-Ipsos.html) | Ipsos | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
@@ -619,15 +621,15 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 2% | 99.8% |  |
-| 25.5–26.5% | 10% | 98% |  |
-| 26.5–27.5% | 23% | 88% |  |
-| 27.5–28.5% | 30% | 65% | Median |
-| 28.5–29.5% | 22% | 34% |  |
-| 29.5–30.5% | 9% | 12% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
+| 23.5–24.5% | 1.1% | 100% |  |
+| 24.5–25.5% | 9% | 98.8% |  |
+| 25.5–26.5% | 21% | 90% |  |
+| 26.5–27.5% | 24% | 69% | Median |
+| 27.5–28.5% | 24% | 45% |  |
+| 28.5–29.5% | 15% | 22% |  |
+| 29.5–30.5% | 5% | 6% |  |
+| 30.5–31.5% | 1.0% | 1.1% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -639,9 +641,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 24–26 | 24–28 | 24–28 | 23–29 |
-| [1 October 2021](2021-10-01-INSAandYouGov.html) | INSA and YouGov | 24 | 24–28 | 24–28 | 24–28 | 23–28 |
-| [28–30 September 2021](2021-09-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25 | 25 | 25–26 | 25–27 | 25–29 |
+| N/A | [Poll Average](average.html) | 26 | 25–29 | 25–29 | 24–29 | 23–29 |
+| [1–4 October 2021](2021-10-04-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 24–28 | 24–29 | 24–29 |
+| [4 October 2021](2021-10-04-Forsa.html) | Forsa | 26 | 25–26 | 25–26 | 23–26 | 23–27 |
+| [1 October 2021](2021-10-01-INSAandYouGov.html) | INSA and YouGov | 26 | 24–28 | 24–29 | 24–30 | 23–30 |
+| [28–30 September 2021](2021-09-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 25–29 | 25–29 | 24–29 | 24–29 |
 | [22–23 September 2021](2021-09-23-Ipsos.html) | Ipsos | 25 | 23–26 | 22–27 | 22–27 | 22–28 |
 | [22–23 September 2021](2021-09-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [20–23 September 2021](2021-09-23-Forsa.html) | Forsa | 23 | 21–24 | 21–24 | 21–25 | 21–27 |
@@ -1248,13 +1252,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0.7% | 100% |  |
-| 24 | 26% | 99.3% |  |
-| 25 | 50% | 73% | Median |
-| 26 | 14% | 23% |  |
-| 27 | 1.4% | 9% |  |
-| 28 | 7% | 7% |  |
-| 29 | 0.6% | 0.6% |  |
+| 23 | 1.0% | 100% |  |
+| 24 | 4% | 98.9% |  |
+| 25 | 23% | 95% |  |
+| 26 | 35% | 72% | Median |
+| 27 | 19% | 37% |  |
+| 28 | 5% | 17% |  |
+| 29 | 12% | 12% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
