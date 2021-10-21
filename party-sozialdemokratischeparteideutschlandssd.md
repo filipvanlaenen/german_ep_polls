@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 25.6–29.4% | 25.2–29.9% | 24.8–30.4% | 24.2–31.3% |
+| N/A | [Poll Average](average.html) | 27.2% | 25.3–29.2% | 24.9–29.8% | 24.5–30.2% | 23.7–31.2% |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 28.0% | 26.8–29.3% | 26.4–29.6% | 26.1–29.9% | 25.5–30.6% |
 | [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 26.0% | 24.9–27.2% | 24.6–27.5% | 24.3–27.8% | 23.8–28.3% |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 28.0% | 26.4–29.8% | 25.9–30.2% | 25.6–30.7% | 24.8–31.5% |
@@ -630,16 +630,16 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 1.2% | 99.9% |  |
-| 24.5–25.5% | 8% | 98.7% |  |
-| 25.5–26.5% | 17% | 91% |  |
-| 26.5–27.5% | 24% | 74% |  |
-| 27.5–28.5% | 25% | 50% | Median |
-| 28.5–29.5% | 17% | 25% |  |
-| 29.5–30.5% | 6% | 8% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
+| 22.5–23.5% | 0.3% | 100% |  |
+| 23.5–24.5% | 3% | 99.7% |  |
+| 24.5–25.5% | 11% | 97% |  |
+| 25.5–26.5% | 21% | 86% |  |
+| 26.5–27.5% | 24% | 66% | Median |
+| 27.5–28.5% | 22% | 42% |  |
+| 28.5–29.5% | 14% | 20% |  |
+| 29.5–30.5% | 5% | 7% |  |
+| 30.5–31.5% | 1.3% | 2% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -651,11 +651,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 22–28 | 22–30 | 22–31 | 22–31 |
+| N/A | [Poll Average](average.html) | 26 | 23–28 | 22–30 | 22–30 | 22–31 |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 24 | 22–24 | 22–25 | 22–26 | 22–26 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 27 | 25–27 | 24–28 | 24–29 | 23–29 |
-| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 26–27 | 26–27 | 25–27 | 24–27 |
+| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 26–28 | 25–28 | 24–28 | 24–29 |
 | [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 27 | 25–31 | 25–31 | 24–31 | 24–31 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 28 | 27–29 | 27–29 | 26–29 | 25–30 |
@@ -1271,16 +1271,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 10% | 100% |  |
-| 23 | 1.1% | 90% |  |
-| 24 | 12% | 89% |  |
-| 25 | 18% | 76% |  |
-| 26 | 30% | 58% | Median |
-| 27 | 8% | 28% |  |
-| 28 | 11% | 20% |  |
-| 29 | 2% | 9% |  |
-| 30 | 5% | 8% |  |
-| 31 | 3% | 3% |  |
+| 22 | 8% | 100% |  |
+| 23 | 7% | 92% |  |
+| 24 | 19% | 85% |  |
+| 25 | 15% | 66% |  |
+| 26 | 21% | 51% | Median |
+| 27 | 8% | 30% |  |
+| 28 | 15% | 22% |  |
+| 29 | 2% | 8% |  |
+| 30 | 4% | 6% |  |
+| 31 | 2% | 2% |  |
 | 32 | 0% | 0% |  |
 
 
