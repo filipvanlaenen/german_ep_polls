@@ -633,12 +633,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 10 | 9–10 | 9–10 | 9–12 |
-| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [5–11 October 2021](2021-10-11-Forsa.html) | Forsa | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
@@ -1238,12 +1238,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.6% | 100% |  |
-| 8 | 21% | 99.4% |  |
-| 9 | 26% | 79% |  |
-| 10 | 37% | 52% | Median |
+| 7 | 0.2% | 100% |  |
+| 8 | 11% | 99.8% |  |
+| 9 | 36% | 89% |  |
+| 10 | 38% | 53% | Median |
 | 11 | 12% | 15% |  |
-| 12 | 3% | 4% |  |
+| 12 | 3% | 3% |  |
 | 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
 

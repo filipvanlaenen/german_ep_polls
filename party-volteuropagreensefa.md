@@ -625,7 +625,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0–1 | 0–1 |
-| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–11 October 2021](2021-10-11-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1219,8 +1219,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Median |
-| 1 | 33% | 33% | Last Result |
+| 0 | 77% | 100% | Median |
+| 1 | 23% | 23% | Last Result |
 | 2 | 0% | 0% |  |
 
 

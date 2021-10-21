@@ -639,12 +639,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–19 | 13–19 |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 12–17 | 12–17 |
 | [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 15 | 14–15 | 14–15 | 13–16 |
-| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 19 | 14–19 | 14–19 | 14–19 | 13–19 |
+| [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 16 | 14–19 | 14–19 | 14–19 | 13–19 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 14 | 14–15 | 13–15 | 13–15 | 12–17 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 14 | 14–15 | 14–15 | 14–16 | 13–17 |
 | [5–11 October 2021](2021-10-11-Forsa.html) | Forsa | 14 | 14–15 | 14–15 | 13–16 | 13–17 |
@@ -1249,14 +1249,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 13% | 99.8% |  |
-| 14 | 7% | 87% |  |
-| 15 | 46% | 80% | Median |
-| 16 | 17% | 33% |  |
-| 17 | 15% | 16% |  |
-| 18 | 0.4% | 0.6% |  |
-| 19 | 0.2% | 0.2% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 12% | 99.9% |  |
+| 14 | 10% | 87% |  |
+| 15 | 50% | 77% | Median |
+| 16 | 16% | 27% |  |
+| 17 | 6% | 11% |  |
+| 18 | 0.9% | 5% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0% | 0% |  |
 
 
