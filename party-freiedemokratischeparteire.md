@@ -637,11 +637,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
-| [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 14 | 14 | 14 | 14–15 | 13–15 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 11–14 | 10–15 | 10–15 |
-| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 12 | 12–14 | 11–14 | 11–14 | 11–14 |
+| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 12 | 12 | 12–14 | 11–14 | 10–15 |
 | [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 13 | 12–14 | 12–15 | 11–16 | 11–16 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
@@ -1245,12 +1245,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 3% | 99.9% |  |
-| 12 | 16% | 97% |  |
-| 13 | 27% | 81% |  |
-| 14 | 25% | 54% | Median |
-| 15 | 28% | 29% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 1.3% | 99.6% |  |
+| 12 | 23% | 98% |  |
+| 13 | 19% | 75% |  |
+| 14 | 37% | 56% | Median |
+| 15 | 18% | 19% |  |
 | 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |

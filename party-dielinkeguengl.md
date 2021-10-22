@@ -628,9 +628,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [15–18 October 2021](2021-10-18-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [12–18 October 2021](2021-10-18-Forsa.html) | Forsa | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [11–15 October 2021](2021-10-15-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 3–5 | 3–5 | 2–5 |
-| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [1–14 October 2021](2021-10-14-Allensbach.html) | Allensbach | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [6–12 October 2021](2021-10-12-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [8–11 October 2021](2021-10-11-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -1228,9 +1228,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.6% | 100% |  |
-| 4 | 22% | 99.4% |  |
-| 5 | 60% | 78% | Median |
-| 6 | 18% | 18% |  |
+| 4 | 43% | 99.4% |  |
+| 5 | 39% | 57% | Median |
+| 6 | 17% | 18% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
