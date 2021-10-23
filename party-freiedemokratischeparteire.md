@@ -648,7 +648,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [5–11 October 2021](2021-10-11-Forsa.html) | Forsa | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [4–8 October 2021](2021-10-08-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [5 October 2021](2021-10-05-Kantar.html) | Kantar | 13 | 11–14 | 11–14 | 11–14 | 11–14 |
-| [1–4 October 2021](2021-10-04-INSAandYouGov.html) | INSA and YouGov | 12 | 12–13 | 12–13 | 12–14 | 11–14 |
+| [1–4 October 2021](2021-10-04-INSAandYouGov.html) | INSA and YouGov | 12 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [4 October 2021](2021-10-04-Forsa.html) | Forsa | 14 | 13–15 | 12–15 | 12–15 | 12–15 |
 | [1 October 2021](2021-10-01-INSAandYouGov.html) | INSA and YouGov | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [28–30 September 2021](2021-09-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 12 | 12–13 | 11–13 | 11–13 | 10–14 |
