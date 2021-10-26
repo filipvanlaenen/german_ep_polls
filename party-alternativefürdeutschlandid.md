@@ -637,8 +637,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
-| [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
+| [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [19–25 October 2021](2021-10-25-Forsa.html) | Forsa | 9 | 9 | 9–10 | 9–10 | 8–10 |
 | [18–22 October 2021](2021-10-22-INSAandYouGov.html) | INSA and YouGov | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
 | [13–19 October 2021](2021-10-19-Kantar.html) | Kantar | 11 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -1249,9 +1249,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 7% | 99.9% |  |
 | 9 | 34% | 93% |  |
-| 10 | 11% | 59% | Median |
-| 11 | 39% | 48% |  |
-| 12 | 9% | 9% |  |
+| 10 | 14% | 59% | Median |
+| 11 | 41% | 45% |  |
+| 12 | 4% | 4% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
