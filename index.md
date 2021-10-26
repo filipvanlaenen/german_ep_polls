@@ -1,12 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 20 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
-| N/A | [Poll Average](average.html) | 14–18% <br> 13–19 | 24–30% <br> 22–30 | 14–18% <br> 12–17 | 4–6% <br> 4–6 | 8–12% <br> 8–12 | 3–6% <br> 3–5 | 12–17% <br> 12–15 | 1–2% <br> 1–2 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 14–17% <br> 13–16 | 26–30% <br> 25–28 | 14–18% <br> 14–15 | 4–6% <br> 4–6 | 10–12% <br> 11–12 | 4–5% <br> 3–6 | 13–16% <br> 12–15 | 1–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 14–18% <br> 13–19 | 24–30% <br> 22–30 | 14–18% <br> 12–17 | 4–6% <br> 4–6 | 8–12% <br> 8–12 | 3–6% <br> 3–5 | 12–17% <br> 12–16 | 1–2% <br> 1–2 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
+| [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 14–17% <br> 13–16 | 26–30% <br> 25–29 | 14–18% <br> 14–17 | 4–6% <br> 4–6 | 10–12% <br> 10–12 | 4–5% <br> 3–6 | 13–16% <br> 12–16 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [19–25 October 2021](2021-10-25-Forsa.html) | Forsa | 14–17% <br> 15–17 | 23–27% <br> 22–25 | 16–19% <br> 14–17 | 4–6% <br> 4–6 | 8–10% <br> 9–10 | 4–5% <br> 3–4 | 15–18% <br> 13–17 | 1–2% <br> 1–2 | 1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [13–19 October 2021](2021-10-19-Kantar.html) | Kantar | 15–18% <br> 14–18 | 23–27% <br> 22–27 | 14–18% <br> 13–16 | 4–6% <br> 4–6 | 9–13% <br> 9–11 | 4–6% <br> 4–5 | 11–15% <br> 12–14 | 1–2% <br> 1–2 | 1–2% <br> 1 | 0–1% <br> 1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
 | [12–14 October 2021](2021-10-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13–17% <br> 13–15 | 25–31% <br> 24–28 | 15–19% <br> 15–20 | 4–6% <br> 4–6 | 9–13% <br> 9–11 | 3–5% <br> 3–5 | 11–15% <br> 11–14 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
