@@ -643,12 +643,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 11–12 | 10–12 | 9–12 |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa | 9 | 9 | 8–9 | 8–9 | 7–10 |
-| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
 | [26–28 October 2021](2021-10-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 10 | 10 | 9–10 | 9–12 |
-| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
 | [19–26 October 2021](2021-10-26-Kantar.html) | Kantar | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [19–25 October 2021](2021-10-25-Forsa.html) | Forsa | 9 | 9 | 8–9 | 8–9 | 7–10 |
@@ -1259,10 +1259,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 14% | 99.8% |  |
-| 9 | 25% | 85% |  |
-| 10 | 29% | 61% | Median |
-| 11 | 30% | 31% |  |
+| 8 | 10% | 99.8% |  |
+| 9 | 27% | 90% |  |
+| 10 | 35% | 63% | Median |
+| 11 | 26% | 28% |  |
 | 12 | 1.3% | 1.4% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |

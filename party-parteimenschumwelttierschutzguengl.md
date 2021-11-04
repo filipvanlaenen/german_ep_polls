@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% | 0.4–1.8% |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
-| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
+| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [26–28 October 2021](2021-10-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 1.0% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [19–26 October 2021](2021-10-26-Kantar.html) | Kantar | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
@@ -634,9 +634,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
-| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [26–28 October 2021](2021-10-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1–2 |
+| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–26 October 2021](2021-10-26-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 0–1 |
 | [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 October 2021](2021-10-25-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |

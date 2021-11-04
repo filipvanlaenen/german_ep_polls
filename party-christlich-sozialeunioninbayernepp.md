@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.5–5.9% | 3.2–6.3% |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov | 4.3% | 3.8–5.0% | 3.7–5.2% | 3.6–5.3% | 3.3–5.6% |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa | 4.6% | 4.1–5.2% | 4.0–5.3% | 3.8–5.5% | 3.6–5.8% |
-| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.8% | 3.3–6.2% |
+| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
 | [26–28 October 2021](2021-10-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.8–6.2% | 3.5–6.6% |
 | [19–26 October 2021](2021-10-26-Kantar.html) | Kantar | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.8% | 3.3–6.2% |
@@ -639,9 +639,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [25–29 October 2021](2021-10-29-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [26–28 October 2021](2021-10-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
+| [26–27 October 2021](2021-10-27-Infratestdimap.html) | Infratest dimap | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [19–26 October 2021](2021-10-26-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–25 October 2021](2021-10-25-INSAandYouGov.html) | INSA and YouGov | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [19–25 October 2021](2021-10-25-Forsa.html) | Forsa | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -1247,10 +1247,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 61% | 98% | Median |
-| 5 | 25% | 37% |  |
-| 6 | 12% | 12% |  |
+| 3 | 1.5% | 100% |  |
+| 4 | 59% | 98.5% | Median |
+| 5 | 22% | 40% |  |
+| 6 | 18% | 18% |  |
 | 7 | 0% | 0% |  |
 
 
