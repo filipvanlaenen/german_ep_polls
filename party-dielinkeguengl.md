@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.0–5.7% | 3.7–6.0% | 3.5–6.2% | 3.0–6.7% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.0–5.9% | 3.7–6.1% | 3.5–6.3% | 3.0–6.8% |
+| [9–11 November 2021](2021-11-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [5–8 November 2021](2021-11-08-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
+| [2–8 November 2021](2021-11-08-Forsa.html) | Forsa | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
+| [1–5 November 2021](2021-11-05-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.9% |
 | [1–4 November 2021](2021-11-04-GMS.html) | GMS | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
 | [2 November 2021](2021-11-02-Kantar.html) | Kantar | 5.0% | 4.3–5.8% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
@@ -624,10 +628,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 25% | 97% |  |
-| 4.5–5.5% | 56% | 72% | Median |
-| 5.5–6.5% | 15% | 16% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 22% | 97% |  |
+| 4.5–5.5% | 53% | 74% | Median |
+| 5.5–6.5% | 20% | 21% |  |
+| 6.5–7.5% | 1.2% | 1.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -639,7 +643,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [9–11 November 2021](2021-11-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [5–8 November 2021](2021-11-08-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5 | 5 | 4–5 |
+| [2–8 November 2021](2021-11-08-Forsa.html) | Forsa | 4 | 4 | 4 | 4–5 | 4–6 |
+| [1–5 November 2021](2021-11-05-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [1–4 November 2021](2021-11-04-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [2 November 2021](2021-11-02-Kantar.html) | Kantar | 4 | 4–5 | 4–6 | 4–6 | 3–7 |
@@ -1254,9 +1262,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 35% | 98% |  |
-| 5 | 44% | 62% | Median |
-| 6 | 18% | 19% |  |
+| 4 | 46% | 98% |  |
+| 5 | 44% | 52% | Median |
+| 6 | 8% | 8% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

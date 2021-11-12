@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 24.4–28.6% | 23.9–29.2% | 23.5–29.7% | 22.7–30.7% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.4–28.8% | 23.9–29.5% | 23.5–30.0% | 22.8–31.1% |
+| [9–11 November 2021](2021-11-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 28.0% | 26.3–29.9% | 25.8–30.4% | 25.4–30.8% | 24.6–31.7% |
+| [5–8 November 2021](2021-11-08-INSAandYouGov.html) | INSA and YouGov | 26.5% | 25.3–27.7% | 24.9–28.1% | 24.6–28.4% | 24.1–29.0% |
+| [2–8 November 2021](2021-11-08-Forsa.html) | Forsa | 25.0% | 23.9–26.2% | 23.6–26.5% | 23.4–26.8% | 22.8–27.3% |
+| [1–5 November 2021](2021-11-05-INSAandYouGov.html) | INSA and YouGov | 27.0% | 25.4–28.7% | 24.9–29.1% | 24.6–29.6% | 23.8–30.4% |
 | [1–4 November 2021](2021-11-04-GMS.html) | GMS | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.5–29.7% |
 | [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 27.0% | 25.5–28.6% | 25.1–29.1% | 24.7–29.5% | 24.0–30.3% |
 | [2 November 2021](2021-11-02-Kantar.html) | Kantar | 25.0% | 23.5–26.5% | 23.1–26.9% | 22.8–27.3% | 22.1–28.0% |
@@ -644,15 +648,15 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.3% | 100% |  |
 | 22.5–23.5% | 2% | 99.7% |  |
-| 23.5–24.5% | 10% | 97% |  |
+| 23.5–24.5% | 9% | 97% |  |
 | 24.5–25.5% | 18% | 88% |  |
 | 25.5–26.5% | 22% | 70% | Median |
-| 26.5–27.5% | 22% | 47% |  |
-| 27.5–28.5% | 15% | 25% |  |
-| 28.5–29.5% | 7% | 10% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.6% | 0.7% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 20% | 48% |  |
+| 27.5–28.5% | 14% | 27% |  |
+| 28.5–29.5% | 8% | 13% |  |
+| 29.5–30.5% | 3% | 5% |  |
+| 30.5–31.5% | 1.0% | 1.2% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -664,7 +668,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 23–28 | 22–30 | 22–31 |
+| N/A | [Poll Average](average.html) | 25 | 24–27 | 23–28 | 22–30 | 22–31 |
+| [9–11 November 2021](2021-11-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 25–27 | 25–27 | 25–27 | 23–28 |
+| [5–8 November 2021](2021-11-08-INSAandYouGov.html) | INSA and YouGov | 26 | 24–26 | 24–26 | 24–26 | 24–28 |
+| [2–8 November 2021](2021-11-08-Forsa.html) | Forsa | 25 | 25 | 25 | 24–25 | 23–25 |
+| [1–5 November 2021](2021-11-05-INSAandYouGov.html) | INSA and YouGov | 26 | 24–28 | 24–28 | 24–28 | 23–28 |
 | [1–4 November 2021](2021-11-04-GMS.html) | GMS | 25 | 23–26 | 22–27 | 22–28 | 21–28 |
 | [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 26 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [2 November 2021](2021-11-02-Kantar.html) | Kantar | 24 | 22–26 | 22–26 | 22–26 | 21–26 |
@@ -1297,14 +1305,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.4% | 100% |  |
-| 22 | 3% | 99.6% |  |
-| 23 | 13% | 97% |  |
-| 24 | 31% | 84% |  |
-| 25 | 25% | 54% | Median |
-| 26 | 17% | 29% |  |
-| 27 | 5% | 12% |  |
-| 28 | 2% | 7% |  |
-| 29 | 0.6% | 5% |  |
+| 22 | 2% | 99.6% |  |
+| 23 | 5% | 97% |  |
+| 24 | 17% | 92% |  |
+| 25 | 32% | 75% | Median |
+| 26 | 27% | 43% |  |
+| 27 | 10% | 17% |  |
+| 28 | 1.4% | 6% |  |
+| 29 | 0.4% | 5% |  |
 | 30 | 3% | 4% |  |
 | 31 | 2% | 2% |  |
 | 32 | 0% | 0% |  |
