@@ -52,12 +52,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–23 September 2021](2021-09-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | N/A | N/A | N/A | N/A |
 | [20–23 September 2021](2021-09-23-Forsa.html) | Forsa | 10.0% | N/A | N/A | N/A | N/A |
 | [16–23 September 2021](2021-09-23-Allensbach.html) | Allensbach | 10.0% | N/A | N/A | N/A | N/A |
-| [16–22 September 2021](2021-09-22-YouGov.html) | YouGov | 12.1% | N/A | N/A | N/A | N/A |
+| [16–22 September 2021](2021-09-22-YouGov.html) | YouGov | 12.1% | 11.3–13.0% | 11.1–13.3% | 10.9–13.5% | 10.5–14.0% |
 | [15–21 September 2021](2021-09-21-Kantar.html) | Kantar | 11.0% | N/A | N/A | N/A | N/A |
 | [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
 | [14–20 September 2021](2021-09-20-Forsa.html) | Forsa | 11.0% | N/A | N/A | N/A | N/A |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
-| [13–16 September 2021](2021-09-16-TrendResearch.html) | Trend Research | 10.8% | N/A | N/A | N/A | N/A |
+| [13–16 September 2021](2021-09-16-TrendResearch.html) | Trend Research | 10.8% | 9.6–12.1% | 9.3–12.4% | 9.1–12.7% | 8.6–13.4% |
 | [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos | 11.0% | N/A | N/A | N/A | N/A |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap | 11.0% | N/A | N/A | N/A | N/A |
@@ -698,12 +698,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [22–23 September 2021](2021-09-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [20–23 September 2021](2021-09-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–23 September 2021](2021-09-23-Allensbach.html) | Allensbach |  |  |  |  |  |
-| [16–22 September 2021](2021-09-22-YouGov.html) | YouGov |  |  |  |  |  |
+| [16–22 September 2021](2021-09-22-YouGov.html) | YouGov | 10 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [15–21 September 2021](2021-09-21-Kantar.html) | Kantar |  |  |  |  |  |
 | [17–20 September 2021](2021-09-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–20 September 2021](2021-09-20-Forsa.html) | Forsa |  |  |  |  |  |
 | [13–17 September 2021](2021-09-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [13–16 September 2021](2021-09-16-TrendResearch.html) | Trend Research |  |  |  |  |  |
+| [13–16 September 2021](2021-09-16-TrendResearch.html) | Trend Research | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [15–16 September 2021](2021-09-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [14–16 September 2021](2021-09-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
