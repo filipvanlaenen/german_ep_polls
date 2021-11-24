@@ -672,7 +672,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–8 November 2021](2021-11-08-Forsa.html) | Forsa | 14 | 14 | 14 | 13–14 | 12–14 |
 | [1–5 November 2021](2021-11-05-INSAandYouGov.html) | INSA and YouGov | 13 | 11–13 | 11–14 | 11–15 | 10–15 |
 | [1–4 November 2021](2021-11-04-GMS.html) | GMS | 14 | 13–15 | 13–16 | 12–17 | 12–18 |
-| [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 12 | 12 | 12 | 12–13 | 12–13 |
+| [2–3 November 2021](2021-11-03-Infratestdimap.html) | Infratest dimap | 12 | 12–13 | 11–14 | 11–14 | 10–14 |
 | [2 November 2021](2021-11-02-Kantar.html) | Kantar |  |  |  |  |  |
 | [1 November 2021](2021-11-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 November 2021](2021-11-01-Forsa.html) | Forsa |  |  |  |  |  |
@@ -1291,11 +1291,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 1.4% | 100% |  |
-| 11 | 23% | 98.6% |  |
-| 12 | 36% | 76% | Median |
-| 13 | 25% | 40% |  |
-| 14 | 10% | 15% |  |
+| 10 | 1.5% | 100% |  |
+| 11 | 24% | 98.5% |  |
+| 12 | 28% | 75% | Median |
+| 13 | 30% | 46% |  |
+| 14 | 11% | 17% |  |
 | 15 | 4% | 5% |  |
 | 16 | 0.7% | 1.4% |  |
 | 17 | 0.6% | 0.7% |  |
