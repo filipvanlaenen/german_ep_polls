@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.8% | 9.4–12.2% | 9.0–12.6% | 8.6–12.9% | 8.0–13.6% |
 | [1 December 2021](2021-12-01-Infratestdimap.html) | Infratest dimap | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.4–12.8% | 9.0–13.4% |
+| [24–30 November 2021](2021-11-30-Kantar.html) | Kantar | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.3% |
 | [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.8% |
 | [23–29 November 2021](2021-11-29-Forsa.html) | Forsa | 10.0% | 9.3–10.8% | 9.1–11.1% | 8.9–11.2% | 8.6–11.6% |
 | [22–26 November 2021](2021-11-26-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
@@ -669,6 +670,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | [1 December 2021](2021-12-01-Infratestdimap.html) | Infratest dimap | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [24–30 November 2021](2021-11-30-Kantar.html) | Kantar | 10 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [23–29 November 2021](2021-11-29-Forsa.html) | Forsa | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [22–26 November 2021](2021-11-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1309,9 +1311,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.3% | 100% |  |
 | 8 | 7% | 99.7% |  |
 | 9 | 15% | 92% |  |
-| 10 | 32% | 78% | Median |
-| 11 | 23% | 45% |  |
-| 12 | 20% | 22% |  |
+| 10 | 31% | 78% | Median |
+| 11 | 21% | 46% |  |
+| 12 | 23% | 25% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
