@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3 December 2021](2021-12-03-INSAandYouGov.html) | INSA and YouGov | 16.4% | N/A | N/A | N/A | N/A |
 | [1 December 2021](2021-12-01-Infratestdimap.html) | Infratest dimap | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.4–20.9% |
 | [24–30 November 2021](2021-11-30-Kantar.html) | Kantar | 15.6% | 14.5–16.9% | 14.1–17.3% | 13.9–17.6% | 13.3–18.3% |
-| [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov | 17.0% | N/A | N/A | N/A | N/A |
+| [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.5–18.7% | 15.0–19.2% |
 | [23–29 November 2021](2021-11-29-Forsa.html) | Forsa | 17.2% | 16.3–18.2% | 16.0–18.5% | 15.8–18.7% | 15.3–19.2% |
 | [22–26 November 2021](2021-11-26-INSAandYouGov.html) | INSA and YouGov | 16.5% | N/A | N/A | N/A | N/A |
 | [23–25 November 2021](2021-11-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.9% | 13.6–16.3% | 13.2–16.8% | 12.9–17.1% | 12.3–17.8% |
@@ -691,7 +691,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [3 December 2021](2021-12-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 December 2021](2021-12-01-Infratestdimap.html) | Infratest dimap | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [24–30 November 2021](2021-11-30-Kantar.html) | Kantar | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
-| [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [26–29 November 2021](2021-11-29-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [23–29 November 2021](2021-11-29-Forsa.html) | Forsa | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [22–26 November 2021](2021-11-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [23–25 November 2021](2021-11-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
