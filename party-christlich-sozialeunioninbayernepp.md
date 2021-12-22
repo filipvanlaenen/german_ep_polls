@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.2–5.7% | 4.0–5.9% | 3.8–6.1% | 3.4–6.5% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.2–5.8% | 4.0–6.0% | 3.8–6.3% | 3.5–6.7% |
+| [17–20 December 2021](2021-12-20-INSAandYouGov.html) | INSA and YouGov | 4.7% | 4.1–5.3% | 4.0–5.5% | 3.8–5.7% | 3.6–6.0% |
+| [14–20 December 2021](2021-12-20-Forsa.html) | Forsa | 5.2% | 4.7–5.9% | 4.6–6.0% | 4.4–6.2% | 4.2–6.5% |
 | [13–18 December 2021](2021-12-18-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [1–15 December 2021](2021-12-15-Allensbach.html) | Allensbach | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.1–6.8% | 3.7–7.3% |
 | [10–14 December 2021](2021-12-14-YouGov.html) | YouGov | 5.0% | 4.3–5.7% | 4.2–5.9% | 4.0–6.1% | 3.7–6.5% |
 | [8–14 December 2021](2021-12-14-Kantar.html) | Kantar | 4.8% | 4.1–5.6% | 3.9–5.8% | 3.8–6.0% | 3.5–6.4% |
 | [10–13 December 2021](2021-12-13-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
@@ -659,9 +662,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.8% | 100% |  |
 | 3.5–4.5% | 24% | 99.2% |  |
-| 4.5–5.5% | 60% | 75% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 58% | 75% | Median |
+| 5.5–6.5% | 17% | 18% |  |
+| 6.5–7.5% | 0.9% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -674,7 +677,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [17–20 December 2021](2021-12-20-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [14–20 December 2021](2021-12-20-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [13–18 December 2021](2021-12-18-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [1–15 December 2021](2021-12-15-Allensbach.html) | Allensbach | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10–14 December 2021](2021-12-14-YouGov.html) | YouGov | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [8–14 December 2021](2021-12-14-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [10–13 December 2021](2021-12-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1322,10 +1328,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.8% | 100% |  |
-| 4 | 33% | 99.2% |  |
-| 5 | 54% | 66% | Median |
-| 6 | 12% | 12% |  |
-| 7 | 0.1% | 0.1% |  |
+| 4 | 32% | 99.2% |  |
+| 5 | 49% | 67% | Median |
+| 6 | 18% | 19% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 
