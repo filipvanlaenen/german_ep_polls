@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 24.2–27.7% | 23.7–28.2% | 23.3–28.7% | 22.4–29.7% |
+| N/A | [Poll Average](average.html) | 25.7% | 24.0–27.6% | 23.5–28.1% | 23.1–28.7% | 22.3–29.7% |
+| [18–19 January 2022](2022-01-19-Infratestdimap.html) | Infratest dimap | 25.0% | 23.6–26.5% | 23.2–26.9% | 22.8–27.3% | 22.1–28.1% |
 | [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov | 26.0% | 24.8–27.3% | 24.5–27.6% | 24.2–27.9% | 23.6–28.5% |
+| [11–17 January 2022](2022-01-17-Forsa.html) | Forsa | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.1–27.0% | 22.5–27.6% |
 | [10–14 January 2022](2022-01-14-INSAandYouGov.html) | INSA and YouGov | 27.0% | N/A | N/A | N/A | N/A |
 | [11–13 January 2022](2022-01-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 27.0% | 25.4–28.8% | 24.9–29.3% | 24.5–29.7% | 23.7–30.6% |
 | [5–11 January 2022](2022-01-11-Kantar.html) | Kantar | 26.0% | 24.6–27.6% | 24.2–28.0% | 23.8–28.4% | 23.1–29.1% |
@@ -693,14 +695,14 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.6% | 99.9% |  |
-| 22.5–23.5% | 3% | 99.3% |  |
-| 23.5–24.5% | 12% | 96% |  |
-| 24.5–25.5% | 25% | 84% |  |
-| 25.5–26.5% | 29% | 60% | Median |
-| 26.5–27.5% | 19% | 31% |  |
-| 27.5–28.5% | 8% | 11% |  |
-| 28.5–29.5% | 3% | 3% |  |
+| 21.5–22.5% | 0.8% | 99.9% |  |
+| 22.5–23.5% | 4% | 99.1% |  |
+| 23.5–24.5% | 14% | 95% |  |
+| 24.5–25.5% | 26% | 81% |  |
+| 25.5–26.5% | 27% | 55% | Median |
+| 26.5–27.5% | 17% | 28% |  |
+| 27.5–28.5% | 7% | 10% |  |
+| 28.5–29.5% | 2% | 3% |  |
 | 29.5–30.5% | 0.5% | 0.6% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
@@ -714,8 +716,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–26 | 23–26 | 22–27 | 22–28 |
+| N/A | [Poll Average](average.html) | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
+| [18–19 January 2022](2022-01-19-Infratestdimap.html) | Infratest dimap | 24 | 22–27 | 22–27 | 22–27 | 21–27 |
 | [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov | 25 | 23–26 | 23–27 | 23–27 | 23–27 |
+| [11–17 January 2022](2022-01-17-Forsa.html) | Forsa | 23 | 23–24 | 23–25 | 23–25 | 22–26 |
 | [10–14 January 2022](2022-01-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–13 January 2022](2022-01-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25 | 25–26 | 24–26 | 24–28 | 23–28 |
 | [5–11 January 2022](2022-01-11-Kantar.html) | Kantar | 26 | 23–27 | 23–27 | 22–27 | 22–28 |
@@ -1397,15 +1401,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 0.4% | 99.9% |  |
-| 22 | 2% | 99.5% |  |
-| 23 | 16% | 97% |  |
-| 24 | 31% | 81% |  |
-| 25 | 17% | 50% | Median |
-| 26 | 28% | 33% |  |
-| 27 | 4% | 5% |  |
-| 28 | 0.7% | 0.8% |  |
-| 29 | 0.1% | 0.1% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.5% | 99.9% |  |
+| 22 | 6% | 99.4% |  |
+| 23 | 22% | 94% |  |
+| 24 | 21% | 72% |  |
+| 25 | 16% | 50% | Median |
+| 26 | 26% | 34% |  |
+| 27 | 7% | 8% |  |
+| 28 | 0.7% | 0.7% |  |
+| 29 | 0% | 0% |  |
 
 
