@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.9–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.3% | 0.6–2.7% |
+| [21–24 January 2022](2022-01-24-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [18–24 January 2022](2022-01-24-Forsa.html) | Forsa | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [17–21 January 2022](2022-01-21-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.4–1.8% |
+| [6–20 January 2022](2022-01-20-Allensbach.html) | Allensbach | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [18–19 January 2022](2022-01-19-Infratestdimap.html) | Infratest dimap | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.9–2.1% | 0.7–2.3% |
 | [12–18 January 2022](2022-01-18-Kantar.html) | Kantar | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
-| [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov | 1.0% | N/A | N/A | N/A | N/A |
 | [11–17 January 2022](2022-01-17-Forsa.html) | Forsa | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [10–14 January 2022](2022-01-14-INSAandYouGov.html) | INSA and YouGov | 1.0% | N/A | N/A | N/A | N/A |
 | [11–13 January 2022](2022-01-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
@@ -675,10 +678,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% | Last Result |
-| 0.5–1.5% | 65% | 98.9% | Median |
-| 1.5–2.5% | 33% | 34% |  |
-| 2.5–3.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 68% | 99.9% | Median |
+| 1.5–2.5% | 31% | 32% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -691,10 +694,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [21–24 January 2022](2022-01-24-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
+| [18–24 January 2022](2022-01-24-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–21 January 2022](2022-01-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–2 |
+| [6–20 January 2022](2022-01-20-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [18–19 January 2022](2022-01-19-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 January 2022](2022-01-18-Kantar.html) | Kantar | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [14–17 January 2022](2022-01-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–17 January 2022](2022-01-17-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 January 2022](2022-01-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–13 January 2022](2022-01-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1357,10 +1363,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 72% | 99.6% | Last Result, Median |
+| 0 | 0.2% | 100% |  |
+| 1 | 73% | 99.8% | Last Result, Median |
 | 2 | 27% | 27% |  |
-| 3 | 0.6% | 0.6% |  |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 
