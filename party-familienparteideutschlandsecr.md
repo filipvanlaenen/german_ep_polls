@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.7% | 0.1–0.9% |
@@ -721,6 +722,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

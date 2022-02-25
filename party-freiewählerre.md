@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 1.5% | 1.2–1.9% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov | 1.0% | N/A | N/A | N/A | N/A |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.8–1.9% | 0.7–2.1% |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.3% |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -702,9 +703,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 73% | 99.7% | Median |
-| 1.5–2.5% | 26% | 27% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 74% | 99.6% | Median |
+| 1.5–2.5% | 26% | 26% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -722,6 +723,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
@@ -1412,9 +1414,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 73% | 99.9% | Last Result, Median |
-| 2 | 26% | 27% |  |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 75% | 99.9% | Last Result, Median |
+| 2 | 24% | 25% |  |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov | 0.5% | N/A | N/A | N/A | N/A |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 0.5% | 0.4–0.9% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
@@ -702,8 +703,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 38% | 100% | Last Result |
-| 0.5–1.5% | 62% | 62% | Median |
+| 0.0–0.5% | 39% | 100% | Last Result |
+| 0.5–1.5% | 61% | 61% | Median |
 | 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -721,6 +722,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [15–21 February 2022](2022-02-21-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 February 2022](2022-02-18-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [15–16 February 2022](2022-02-16-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–16 February 2022](2022-02-16-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–15 February 2022](2022-02-15-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–15 February 2022](2022-02-15-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 February 2022](2022-02-14-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1410,8 +1412,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 67% | 67% | Last Result, Median |
+| 0 | 34% | 100% |  |
+| 1 | 66% | 66% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
