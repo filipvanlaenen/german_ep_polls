@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 7.7–12.0% | 7.0–12.4% | 6.6–12.8% | 6.1–13.6% |
+| N/A | [Poll Average](average.html) | 10.4% | 7.8–12.0% | 7.0–12.5% | 6.7–12.9% | 6.1–13.6% |
 | [8–10 March 2022](2022-03-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.9–12.6% |
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 11.1% | 10.2–12.2% | 9.9–12.5% | 9.7–12.7% | 9.2–13.3% |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.3% |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.7–11.4% | 9.5–11.7% | 9.3–11.9% | 8.9–12.3% |
-| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.3% | 5.6–8.6% |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 11.0% | N/A | N/A | N/A | N/A |
+| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 11.0% | 9.8–12.4% | 9.4–12.8% | 9.2–13.2% | 8.6–13.9% |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 11.0% | 9.9–12.2% | 9.6–12.5% | 9.4–12.8% | 8.9–13.4% |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar | 10.0% | N/A | N/A | N/A | N/A |
@@ -726,13 +726,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 2% | 100% |  |
 | 6.5–7.5% | 7% | 98% |  |
-| 7.5–8.5% | 6% | 91% |  |
-| 8.5–9.5% | 14% | 85% |  |
-| 9.5–10.5% | 27% | 71% | Median |
-| 10.5–11.5% | 27% | 44% |  |
-| 11.5–12.5% | 13% | 17% |  |
-| 12.5–13.5% | 4% | 4% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 6% | 92% |  |
+| 8.5–9.5% | 13% | 86% |  |
+| 9.5–10.5% | 27% | 73% | Median |
+| 10.5–11.5% | 28% | 46% |  |
+| 11.5–12.5% | 14% | 19% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.5% | 0.6% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -744,13 +744,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 7–12 | 6–12 | 6–13 |
 | [8–10 March 2022](2022-03-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 9–11 | 8–11 | 8–11 | 7–12 |
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 11 | 10–12 | 10–12 | 9–12 | 8–12 |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 10 | 10 | 9–11 | 9–11 | 8–12 |
-| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa |  |  |  |  |  |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 12 | 12 | 12 | 11–12 | 10–12 |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 11 | 10–12 | 9–12 | 9–13 | 8–14 |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar |  |  |  |  |  |
@@ -1458,15 +1458,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 0.6% | 99.9% |  |
-| 8 | 5% | 99.3% |  |
-| 9 | 21% | 95% |  |
-| 10 | 38% | 73% | Median |
-| 11 | 22% | 36% |  |
-| 12 | 13% | 13% |  |
-| 13 | 0.6% | 0.8% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 3% | 99.8% |  |
+| 7 | 5% | 97% |  |
+| 8 | 7% | 93% |  |
+| 9 | 17% | 86% |  |
+| 10 | 30% | 69% | Median |
+| 11 | 18% | 38% |  |
+| 12 | 20% | 20% |  |
+| 13 | 0.5% | 0.6% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

@@ -15,8 +15,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.2–1.1% |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 0.4% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% |
-| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.1% |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 0.3% | N/A | N/A | N/A | N/A |
+| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar | 0.4% | N/A | N/A | N/A | N/A |
@@ -736,8 +736,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa |  |  |  |  |  |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0–1 |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar |  |  |  |  |  |
@@ -1441,8 +1441,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Median |
-| 1 | 44% | 44% | Last Result |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% | Last Result |
 | 2 | 0% | 0% |  |
 
 

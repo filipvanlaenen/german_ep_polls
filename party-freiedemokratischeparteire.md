@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 8.0–11.2% | 7.7–11.6% | 7.4–12.0% | 6.8–12.7% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.1–11.4% | 7.7–11.9% | 7.4–12.3% | 6.9–13.1% |
 | [8–10 March 2022](2022-03-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.9% | 7.0–11.5% |
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 9.1% | 8.2–10.1% | 8.0–10.3% | 7.8–10.6% | 7.4–11.1% |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.8% |
 | [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 11.0% | N/A | N/A | N/A | N/A |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 11.0% | 9.8–12.4% | 9.4–12.8% | 9.2–13.2% | 8.6–13.9% |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.2% |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar | 8.0% | N/A | N/A | N/A | N/A |
@@ -725,14 +725,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 4% | 99.8% |  |
-| 7.5–8.5% | 19% | 96% |  |
-| 8.5–9.5% | 34% | 77% | Median |
-| 9.5–10.5% | 23% | 44% |  |
-| 10.5–11.5% | 15% | 20% |  |
-| 11.5–12.5% | 5% | 6% |  |
-| 12.5–13.5% | 0.7% | 0.7% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 6.5–7.5% | 3% | 99.8% |  |
+| 7.5–8.5% | 17% | 97% |  |
+| 8.5–9.5% | 31% | 80% |  |
+| 9.5–10.5% | 23% | 49% | Median |
+| 10.5–11.5% | 17% | 25% |  |
+| 11.5–12.5% | 7% | 8% |  |
+| 12.5–13.5% | 1.3% | 1.5% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -749,8 +749,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 March 2022](2022-03-08-YouGov.html) | YouGov | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [2–8 March 2022](2022-03-08-Kantar.html) | Kantar | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [4–7 March 2022](2022-03-07-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
-| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa |  |  |  |  |  |
-| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–7 March 2022](2022-03-07-Forsa.html) | Forsa | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [4 March 2022](2022-03-04-Ipsos.html) | Ipsos | 11 | 11 | 11 | 11 | 9–11 |
 | [4 March 2022](2022-03-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 March 2022](2022-03-02-Infratestdimap.html) | Infratest dimap | 8 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [1 March 2022](2022-03-01-Kantar.html) | Kantar |  |  |  |  |  |
@@ -1461,11 +1461,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 4% | 99.9% |  |
-| 8 | 34% | 96% |  |
-| 9 | 27% | 62% | Median |
-| 10 | 17% | 35% |  |
-| 11 | 15% | 18% |  |
-| 12 | 4% | 4% |  |
+| 8 | 32% | 96% |  |
+| 9 | 25% | 64% | Median |
+| 10 | 14% | 39% |  |
+| 11 | 21% | 25% |  |
+| 12 | 3% | 3% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
