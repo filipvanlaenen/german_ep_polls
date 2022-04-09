@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 22.9–27.7% | 22.4–28.2% | 21.9–28.7% | 21.2–29.6% |
+| N/A | [Poll Average](average.html) | 25.5% | 23.0–27.9% | 22.5–28.4% | 22.0–28.9% | 21.2–29.7% |
 | [5–7 April 2022](2022-04-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 27.0% | 25.4–28.7% | 25.0–29.1% | 24.6–29.6% | 23.8–30.4% |
 | [4–6 April 2022](2022-04-06-Infratestdimap.html) | Infratest dimap | 24.0% | 22.5–25.6% | 22.1–26.0% | 21.8–26.4% | 21.1–27.1% |
-| [5 April 2022](2022-04-05-Kantar.html) | Kantar | 27.0% | N/A | N/A | N/A | N/A |
+| [5 April 2022](2022-04-05-Kantar.html) | Kantar | 27.0% | 25.5–28.5% | 25.1–29.0% | 24.8–29.4% | 24.1–30.1% |
 | [1–4 April 2022](2022-04-04-INSAandYouGov.html) | INSA and YouGov | 25.0% | 23.8–26.3% | 23.5–26.6% | 23.2–26.9% | 22.6–27.5% |
 | [4 April 2022](2022-04-04-Forsa.html) | Forsa | 27.0% | 25.7–28.4% | 25.4–28.7% | 25.1–29.1% | 24.5–29.7% |
 | [1 April 2022](2022-04-01-INSAandYouGov.html) | INSA and YouGov | 26.0% | N/A | N/A | N/A | N/A |
@@ -759,16 +759,16 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 1.1% | 99.9% |  |
-| 21.5–22.5% | 5% | 98.8% |  |
-| 22.5–23.5% | 13% | 93% |  |
-| 23.5–24.5% | 19% | 81% |  |
-| 24.5–25.5% | 19% | 62% | Median |
-| 25.5–26.5% | 17% | 43% |  |
-| 26.5–27.5% | 14% | 26% |  |
-| 27.5–28.5% | 8% | 11% |  |
-| 28.5–29.5% | 3% | 3% |  |
-| 29.5–30.5% | 0.5% | 0.5% |  |
+| 20.5–21.5% | 0.9% | 99.9% |  |
+| 21.5–22.5% | 5% | 99.0% |  |
+| 22.5–23.5% | 11% | 94% |  |
+| 23.5–24.5% | 16% | 83% |  |
+| 24.5–25.5% | 18% | 67% |  |
+| 25.5–26.5% | 18% | 50% | Median |
+| 26.5–27.5% | 17% | 31% |  |
+| 27.5–28.5% | 10% | 14% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -781,10 +781,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–26 | 21–27 | 21–27 | 20–28 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–27 | 21–27 | 20–28 |
 | [5–7 April 2022](2022-04-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 26 | 25–27 | 24–28 | 24–28 | 23–28 |
 | [4–6 April 2022](2022-04-06-Infratestdimap.html) | Infratest dimap | 25 | 23–25 | 21–25 | 21–25 | 21–25 |
-| [5 April 2022](2022-04-05-Kantar.html) | Kantar |  |  |  |  |  |
+| [5 April 2022](2022-04-05-Kantar.html) | Kantar | 26 | 25–27 | 25–28 | 23–28 | 23–28 |
 | [1–4 April 2022](2022-04-04-INSAandYouGov.html) | INSA and YouGov | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [4 April 2022](2022-04-04-Forsa.html) | Forsa | 26 | 25–26 | 25–26 | 25–27 | 24–28 |
 | [1 April 2022](2022-04-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1532,13 +1532,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 2% | 100% |  |
 | 21 | 3% | 98% |  |
-| 22 | 9% | 95% |  |
-| 23 | 16% | 85% |  |
-| 24 | 15% | 70% |  |
-| 25 | 30% | 55% | Median |
-| 26 | 19% | 25% |  |
-| 27 | 5% | 6% |  |
-| 28 | 1.3% | 1.3% |  |
-| 29 | 0% | 0% |  |
+| 22 | 8% | 95% |  |
+| 23 | 14% | 87% |  |
+| 24 | 13% | 74% |  |
+| 25 | 29% | 61% | Median |
+| 26 | 20% | 32% |  |
+| 27 | 9% | 11% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
