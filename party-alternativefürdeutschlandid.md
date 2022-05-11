@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.4–12.1% | 8.1–12.6% | 7.8–12.9% | 7.3–13.6% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.5–12.2% | 8.2–12.6% | 7.9–13.0% | 7.4–13.7% |
+| [6–9 May 2022](2022-05-09-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.3–11.9% | 8.9–12.3% |
+| [3–9 May 2022](2022-05-09-Forsa.html) | Forsa | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
+| [2–6 May 2022](2022-05-06-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
+| [3 May 2022](2022-05-03-Kantar.html) | Kantar | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.7–11.4% | 9.5–11.7% | 9.3–11.9% | 8.9–12.3% |
 | [2 May 2022](2022-05-02-Forsa.html) | Forsa | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
 | [25–29 April 2022](2022-04-29-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
@@ -767,14 +771,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.2% | 100% |  |
-| 7.5–8.5% | 12% | 98.8% |  |
-| 8.5–9.5% | 26% | 87% |  |
-| 9.5–10.5% | 23% | 61% | Median |
-| 10.5–11.5% | 20% | 38% |  |
-| 11.5–12.5% | 13% | 18% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 10% | 99.1% |  |
+| 8.5–9.5% | 24% | 89% |  |
+| 9.5–10.5% | 22% | 65% | Median |
+| 10.5–11.5% | 22% | 43% |  |
+| 11.5–12.5% | 15% | 20% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.7% | 0.7% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -786,7 +790,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 7–12 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
+| [6–9 May 2022](2022-05-09-INSAandYouGov.html) | INSA and YouGov | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [3–9 May 2022](2022-05-09-Forsa.html) | Forsa | 8 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [2–6 May 2022](2022-05-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3 May 2022](2022-05-03-Kantar.html) | Kantar | 8 | 8 | 7–9 | 7–10 | 7–10 |
 | [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [2 May 2022](2022-05-02-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–10 | 6–10 |
 | [25–29 April 2022](2022-04-29-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
@@ -1543,14 +1551,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 5% | 99.8% |  |
-| 8 | 23% | 95% |  |
-| 9 | 21% | 72% |  |
-| 10 | 15% | 51% | Median |
-| 11 | 30% | 36% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 3% | 99.9% |  |
+| 8 | 27% | 97% |  |
+| 9 | 14% | 69% |  |
+| 10 | 13% | 55% | Median |
+| 11 | 36% | 43% |  |
 | 12 | 6% | 6% |  |
-| 13 | 0.2% | 0.2% |  |
+| 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
