@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 7.6–11.7% | 7.2–12.4% | 7.0–12.9% | 6.5–13.7% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.2–11.7% | 6.7–12.4% | 6.3–12.9% | 5.7–13.7% |
+| [17–19 May 2022](2022-05-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.0–9.4% |
 | [13–16 May 2022](2022-05-16-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [10–16 May 2022](2022-05-16-Forsa.html) | Forsa | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
 | [9–13 May 2022](2022-05-13-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
@@ -777,14 +778,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 9% | 99.3% |  |
-| 7.5–8.5% | 27% | 91% |  |
-| 8.5–9.5% | 30% | 64% | Median |
-| 9.5–10.5% | 14% | 34% |  |
-| 10.5–11.5% | 8% | 20% |  |
-| 11.5–12.5% | 7% | 12% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 4% | 99.6% |  |
+| 6.5–7.5% | 13% | 96% |  |
+| 7.5–8.5% | 27% | 83% |  |
+| 8.5–9.5% | 26% | 57% | Median |
+| 9.5–10.5% | 11% | 30% |  |
+| 10.5–11.5% | 8% | 19% |  |
+| 11.5–12.5% | 7% | 11% |  |
 | 12.5–13.5% | 3% | 4% |  |
 | 13.5–14.5% | 0.6% | 0.7% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
@@ -799,7 +800,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 8 | 7–11 | 6–11 | 6–12 | 5–13 |
+| [17–19 May 2022](2022-05-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [13–16 May 2022](2022-05-16-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [10–16 May 2022](2022-05-16-Forsa.html) | Forsa | 8 | 8 | 8 | 8 | 7–9 |
 | [9–13 May 2022](2022-05-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1567,13 +1569,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 1.2% | 99.8% |  |
-| 7 | 16% | 98.6% |  |
-| 8 | 27% | 82% |  |
-| 9 | 32% | 55% | Median |
-| 10 | 10% | 23% |  |
-| 11 | 9% | 14% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 6% | 98.9% |  |
+| 7 | 18% | 93% |  |
+| 8 | 30% | 75% | Median |
+| 9 | 22% | 45% |  |
+| 10 | 9% | 23% |  |
+| 11 | 9% | 13% |  |
 | 12 | 4% | 4% |  |
 | 13 | 0.5% | 0.8% |  |
 | 14 | 0.3% | 0.3% |  |
