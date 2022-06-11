@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.4% | 3.3–5.7% | 3.1–6.0% | 2.8–6.5% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.6% | 3.1–6.1% | 3.0–6.5% | 2.7–7.1% |
+| [3–7 June 2022](2022-06-07-YouGov.html) | YouGov | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.9–7.2% | 4.6–7.6% |
+| [1–7 June 2022](2022-06-07-Kantar.html) | Kantar | 4.0% | 3.4–4.7% | 3.2–5.0% | 3.1–5.2% | 2.8–5.5% |
+| [3–7 June 2022](2022-06-07-INSAandYouGov.html) | INSA and YouGov | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
 | [3 June 2022](2022-06-03-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
+| [3 June 2022](2022-06-03-Forsa.html) | Forsa | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [1 June 2022](2022-06-01-Infratestdimap.html) | Infratest dimap | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% | 2.8–5.7% |
 | [24–31 May 2022](2022-05-31-Kantar.html) | Kantar | 4.0% | 3.4–4.7% | 3.2–5.0% | 3.1–5.2% | 2.8–5.5% |
 | [27–30 May 2022](2022-05-30-INSAandYouGov.html) | INSA and YouGov | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
@@ -788,13 +792,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 11% | 99.9% |  |
-| 3.5–4.5% | 49% | 88% | Median |
-| 4.5–5.5% | 32% | 40% |  |
-| 5.5–6.5% | 7% | 8% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 18% | 99.8% |  |
+| 3.5–4.5% | 51% | 81% | Median |
+| 4.5–5.5% | 19% | 30% |  |
+| 5.5–6.5% | 9% | 11% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -805,8 +810,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [3–7 June 2022](2022-06-07-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [1–7 June 2022](2022-06-07-Kantar.html) | Kantar | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [3–7 June 2022](2022-06-07-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [3 June 2022](2022-06-03-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [3 June 2022](2022-06-03-Forsa.html) | Forsa | 4 | 4 | 4 | 4 | 3–5 |
 | [1 June 2022](2022-06-01-Infratestdimap.html) | Infratest dimap | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [24–31 May 2022](2022-05-31-Kantar.html) | Kantar | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [27–30 May 2022](2022-05-30-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -1584,12 +1593,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.9% | 100% |  |
-| 3 | 25% | 99.1% |  |
-| 4 | 46% | 74% | Median |
-| 5 | 22% | 29% |  |
-| 6 | 5% | 6% |  |
-| 7 | 0.8% | 0.8% |  |
+| 2 | 1.1% | 100% |  |
+| 3 | 19% | 98.9% |  |
+| 4 | 51% | 80% | Median |
+| 5 | 24% | 29% |  |
+| 6 | 4% | 5% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 
