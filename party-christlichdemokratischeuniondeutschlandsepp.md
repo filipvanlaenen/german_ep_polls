@@ -10,12 +10,29 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 19.7–23.6% | 19.2–24.1% | 18.7–24.6% | 17.8–25.5% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.3–22.9% | 18.8–23.5% | 18.4–24.0% | 17.6–25.1% |
+| [8–11 July 2022](2022-07-11-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.3–22.7% | 20.0–23.0% | 19.7–23.3% | 19.2–23.9% |
+| [5–11 July 2022](2022-07-11-Forsa.html) | Forsa | 20.3% | 19.2–21.6% | 18.9–21.9% | 18.6–22.2% | 18.1–22.8% |
+| [4–8 July 2022](2022-07-08-INSAandYouGov.html) | INSA and YouGov | 21.9% | N/A | N/A | N/A | N/A |
+| [4–6 July 2022](2022-07-06-Infratestdimap.html) | Infratest dimap | 21.1% | 19.7–22.6% | 19.3–23.0% | 19.0–23.4% | 18.3–24.1% |
+| [1–5 July 2022](2022-07-05-YouGov.html) | YouGov | 21.9% | 20.6–23.2% | 20.2–23.6% | 19.9–23.9% | 19.3–24.6% |
+| [5 July 2022](2022-07-05-Kantar.html) | Kantar | 19.6% | 18.3–21.0% | 17.9–21.4% | 17.6–21.7% | 17.0–22.4% |
+| [1–4 July 2022](2022-07-04-INSAandYouGov.html) | INSA and YouGov | 23.0% | N/A | N/A | N/A | N/A |
+| [4 July 2022](2022-07-04-Forsa.html) | Forsa | 20.3% | N/A | N/A | N/A | N/A |
+| [1–2 July 2022](2022-07-02-Ipsos.html) | Ipsos | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
+| [2 July 2022](2022-07-02-INSAandYouGov.html) | INSA and YouGov | 21.1% | N/A | N/A | N/A | N/A |
+| [28–30 June 2022](2022-06-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21.0% | 19.4–22.8% | 18.9–23.3% | 18.5–23.7% | 17.8–24.6% |
+| [21–28 June 2022](2022-06-28-Kantar.html) | Kantar | 20.4% | 19.0–21.8% | 18.7–22.2% | 18.3–22.5% | 17.7–23.2% |
+| [24–27 June 2022](2022-06-27-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.5–23.5% | 20.3–23.8% | 19.7–24.4% |
+| [21–27 June 2022](2022-06-27-Forsa.html) | Forsa | 20.3% | 19.2–21.5% | 18.9–21.9% | 18.6–22.2% | 18.0–22.7% |
+| [20–24 June 2022](2022-06-24-INSAandYouGov.html) | INSA and YouGov | 20.4% | N/A | N/A | N/A | N/A |
 | [21–22 June 2022](2022-06-22-Infratestdimap.html) | Infratest dimap | 20.3% | 18.9–21.8% | 18.5–22.2% | 18.1–22.6% | 17.5–23.4% |
+| [14–21 June 2022](2022-06-21-Kantar.html) | Kantar | 20.4% | N/A | N/A | N/A | N/A |
 | [17–20 June 2022](2022-06-20-INSAandYouGov.html) | INSA and YouGov | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.7–23.4% |
 | [15–20 June 2022](2022-06-20-GMS.html) | GMS | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.5–26.3% |
 | [14–20 June 2022](2022-06-20-Forsa.html) | Forsa | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.8% | 19.5–24.4% |
 | [13–17 June 2022](2022-06-17-INSAandYouGov.html) | INSA and YouGov | 21.1% | N/A | N/A | N/A | N/A |
+| [3–17 June 2022](2022-06-17-Allensbach.html) | Allensbach | 21.0% | 19.5–22.7% | 19.0–23.2% | 18.7–23.6% | 17.9–24.4% |
 | [13–15 June 2022](2022-06-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20.4% | 18.7–22.2% | 18.2–22.7% | 17.8–23.2% | 17.1–24.1% |
 | [8–14 June 2022](2022-06-14-Kantar.html) | Kantar | 21.9% | 20.7–23.2% | 20.4–23.5% | 20.1–23.8% | 19.5–24.4% |
 | [10–13 June 2022](2022-06-13-INSAandYouGov.html) | INSA and YouGov | 21.5% | N/A | N/A | N/A | N/A |
@@ -818,18 +835,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 2% | 99.7% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 16% | 91% |  |
-| 20.5–21.5% | 25% | 76% |  |
-| 21.5–22.5% | 25% | 51% | Median |
-| 22.5–23.5% | 16% | 26% |  |
-| 23.5–24.5% | 7% | 10% |  |
-| 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.4% | 0.5% |  |
+| 16.5–17.5% | 0.4% | 100% |  |
+| 17.5–18.5% | 3% | 99.6% |  |
+| 18.5–19.5% | 11% | 97% |  |
+| 19.5–20.5% | 22% | 86% |  |
+| 20.5–21.5% | 28% | 64% | Median |
+| 21.5–22.5% | 22% | 37% |  |
+| 22.5–23.5% | 10% | 15% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 1.0% | 1.2% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
-| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -840,12 +856,29 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–24 | 18–24 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 18–21 | 17–22 | 16–24 | 16–24 |
+| [8–11 July 2022](2022-07-11-INSAandYouGov.html) | INSA and YouGov | 21 | 20–21 | 19–22 | 19–22 | 18–23 |
+| [5–11 July 2022](2022-07-11-Forsa.html) | Forsa | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
+| [4–8 July 2022](2022-07-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [4–6 July 2022](2022-07-06-Infratestdimap.html) | Infratest dimap | 21 | 21 | 21 | 19–21 | 18–21 |
+| [1–5 July 2022](2022-07-05-YouGov.html) | YouGov | 21 | 20–21 | 20–22 | 20–22 | 18–24 |
+| [5 July 2022](2022-07-05-Kantar.html) | Kantar | 18 | 17–20 | 17–21 | 16–21 | 16–21 |
+| [1–4 July 2022](2022-07-04-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [4 July 2022](2022-07-04-Forsa.html) | Forsa |  |  |  |  |  |
+| [1–2 July 2022](2022-07-02-Ipsos.html) | Ipsos | 19 | 16–20 | 16–21 | 16–21 | 16–22 |
+| [2 July 2022](2022-07-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [28–30 June 2022](2022-06-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 18–20 | 18–22 | 18–22 | 17–23 |
+| [21–28 June 2022](2022-06-28-Kantar.html) | Kantar | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [24–27 June 2022](2022-06-27-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 20–22 | 20–23 | 20–23 |
+| [21–27 June 2022](2022-06-27-Forsa.html) | Forsa | 18 | 18–21 | 18–21 | 18–21 | 18–21 |
+| [20–24 June 2022](2022-06-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [21–22 June 2022](2022-06-22-Infratestdimap.html) | Infratest dimap | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
+| [14–21 June 2022](2022-06-21-Kantar.html) | Kantar |  |  |  |  |  |
 | [17–20 June 2022](2022-06-20-INSAandYouGov.html) | INSA and YouGov | 20 | 18–21 | 18–21 | 18–22 | 18–22 |
 | [15–20 June 2022](2022-06-20-GMS.html) | GMS | 21 | 19–24 | 18–24 | 18–24 | 18–25 |
 | [14–20 June 2022](2022-06-20-Forsa.html) | Forsa | 20 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [13–17 June 2022](2022-06-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–17 June 2022](2022-06-17-Allensbach.html) | Allensbach | 21 | 19–21 | 18–21 | 18–21 | 17–23 |
 | [13–15 June 2022](2022-06-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 18–21 | 17–22 | 17–22 | 17–22 |
 | [8–14 June 2022](2022-06-14-Kantar.html) | Kantar | 20 | 20–21 | 19–21 | 18–22 | 18–22 |
 | [10–13 June 2022](2022-06-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1648,16 +1681,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 1.4% | 99.8% |  |
-| 18 | 10% | 98% |  |
-| 19 | 19% | 89% |  |
-| 20 | 34% | 70% | Median |
-| 21 | 11% | 36% |  |
-| 22 | 15% | 24% |  |
-| 23 | 2% | 9% |  |
-| 24 | 7% | 7% |  |
-| 25 | 0.1% | 0.2% |  |
+| 16 | 3% | 100% |  |
+| 17 | 2% | 97% |  |
+| 18 | 16% | 94% |  |
+| 19 | 14% | 79% |  |
+| 20 | 18% | 65% | Median |
+| 21 | 39% | 47% |  |
+| 22 | 3% | 8% |  |
+| 23 | 1.4% | 5% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
