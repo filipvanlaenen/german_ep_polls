@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.2% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.3% | 0.9–2.4% | 0.7–2.7% |
+| [18–22 July 2022](2022-07-22-INSAandYouGov.html) | INSA and YouGov | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.1% | 0.7–2.3% |
 | [19–20 July 2022](2022-07-20-Infratestdimap.html) | Infratest dimap | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 0.9–2.9% |
+| [13–19 July 2022](2022-07-19-Kantar.html) | Kantar | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.2–2.6% | 1.0–2.9% |
 | [15–18 July 2022](2022-07-18-INSAandYouGov.html) | INSA and YouGov | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% | 1.0–2.5% |
 | [12–18 July 2022](2022-07-18-Forsa.html) | Forsa | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% |
 | [11–15 July 2022](2022-07-15-INSAandYouGov.html) | INSA and YouGov | 1.6% | N/A | N/A | N/A | N/A |
@@ -824,10 +826,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 40% | 99.9% |  |
-| 1.5–2.5% | 58% | 59% | Median |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 42% | 99.8% |  |
+| 1.5–2.5% | 56% | 58% | Median |
+| 2.5–3.5% | 1.4% | 1.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -840,7 +842,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [18–22 July 2022](2022-07-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [19–20 July 2022](2022-07-20-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [13–19 July 2022](2022-07-19-Kantar.html) | Kantar | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [15–18 July 2022](2022-07-18-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 July 2022](2022-07-18-Forsa.html) | Forsa | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [11–15 July 2022](2022-07-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1655,9 +1659,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 63% | 65% | Median |
-| 3 | 1.5% | 1.5% |  |
+| 1 | 36% | 100% | Last Result |
+| 2 | 63% | 64% | Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 
