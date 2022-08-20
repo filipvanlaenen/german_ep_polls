@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 19.5–22.8% | 19.1–23.2% | 18.7–23.6% | 18.0–24.4% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.5–22.7% | 19.1–23.2% | 18.7–23.6% | 18.0–24.3% |
+| [16–17 August 2022](2022-08-17-Infratestdimap.html) | Infratest dimap | 21.8% | 20.4–23.4% | 20.0–23.8% | 19.6–24.2% | 19.0–25.0% |
 | [12–15 August 2022](2022-08-15-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.6–23.5% | 20.3–23.8% | 19.8–24.4% |
 | [9–15 August 2022](2022-08-15-Forsa.html) | Forsa | 20.3% | 19.1–21.6% | 18.8–21.9% | 18.5–22.3% | 18.0–22.9% |
 | [8–12 August 2022](2022-08-12-INSAandYouGov.html) | INSA and YouGov | 21.1% | N/A | N/A | N/A | N/A |
@@ -865,8 +866,8 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0.2% | 100% |  |
 | 17.5–18.5% | 2% | 99.8% |  |
 | 18.5–19.5% | 9% | 98% |  |
-| 19.5–20.5% | 22% | 90% |  |
-| 20.5–21.5% | 30% | 68% | Median |
+| 19.5–20.5% | 22% | 89% |  |
+| 20.5–21.5% | 31% | 67% | Median |
 | 21.5–22.5% | 24% | 37% |  |
 | 22.5–23.5% | 10% | 13% |  |
 | 23.5–24.5% | 2% | 3% |  |
@@ -883,6 +884,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 19–22 | 18–22 | 17–23 |
+| [16–17 August 2022](2022-08-17-Infratestdimap.html) | Infratest dimap | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
 | [12–15 August 2022](2022-08-15-INSAandYouGov.html) | INSA and YouGov | 21 | 21 | 21–22 | 21–22 | 20–22 |
 | [9–15 August 2022](2022-08-15-Forsa.html) | Forsa | 20 | 19–20 | 18–21 | 18–22 | 16–23 |
 | [8–12 August 2022](2022-08-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1736,13 +1738,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.2% | 100% |  |
 | 17 | 2% | 99.8% |  |
-| 18 | 2% | 98% |  |
-| 19 | 21% | 96% |  |
+| 18 | 3% | 98% |  |
+| 19 | 22% | 95% |  |
 | 20 | 30% | 74% | Median |
 | 21 | 31% | 44% |  |
-| 22 | 12% | 14% |  |
-| 23 | 1.0% | 1.3% |  |
-| 24 | 0.3% | 0.3% |  |
+| 22 | 11% | 13% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 
