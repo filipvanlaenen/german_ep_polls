@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-08-25T23:00:23.24516+02:00</updated>
+  <updated>2022-08-26T21:57:21.351915+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 16.9–20.2%, 17–19 seats</li><li>Alternative für Deutschland (ID): 11.6–14.5%, 11–13 seats</li><li>Freie Demokratische Partei (RE): 6.4–8.7%, 6–8 seats</li><li>Die Linke (GUE/NGL): 4.6–6.6%, 4–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 19.3–22.8%, 19–22 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 20.3–23.8%, 20–22 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 5.0–7.1%, 5–6 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%, 0 seats</li><li>Freie Wähler (RE): 0.7–1.6%, 1 seats</li><li>Die PARTEI (Greens/EFA): 0.8–1.8%, 1 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.8%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2022-08-22-INSAandYouGov.html</id>
@@ -96,6 +96,14 @@
     <dc:date>2022-08-18T22:23:47.219505+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 16.7–21.6%, 16–20 seats</li><li>Alternative für Deutschland (ID): 9.2–13.1%, 9–12 seats</li><li>Freie Demokratische Partei (RE): 6.5–9.9%, 6–9 seats</li><li>Die Linke (GUE/NGL): 3.8–6.5%, 4–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 19.5–24.7%, 19–23 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 18.7–23.7%, 16–22 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.6–7.5%, 4–7 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Freie Wähler (RE): 0.8–2.2%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.9–2.5%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.7%, 0–2 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.3%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–1.2%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2022-08-08-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2022-08-08-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos, 5–8 August 2022</title>
+    <updated>2022-08-26T20:36:35.144017+02:00</updated>
+    <dc:date>2022-08-26T20:36:35.144017+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 15.0–19.1%, 15–17 seats</li><li>Alternative für Deutschland (ID): 11.3–15.0%, 11–14 seats</li><li>Freie Demokratische Partei (RE): 5.7–8.5%, 6–8 seats</li><li>Die Linke (GUE/NGL): 3.1–5.2%, 3–4 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 20.8–25.4%, 20–23 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.8–24.3%, 19–23 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.9–7.5%, 5–6 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.9%, 0–1 seats</li><li>Freie Wähler (RE): 0.8–2.1%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.9–2.3%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.6%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.2%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–1.0%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.9%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2022-08-03-Infratestdimap.html</id>
     <link href="https://filipvanlaenen.github.io/german_ep_polls/2022-08-03-Infratestdimap.html"/>
@@ -142,6 +150,14 @@
     <title>Opinion Poll by INSA and YouGov, 18–22 July 2022</title>
     <updated>2022-07-24T11:45:25.197321+02:00</updated>
     <dc:date>2022-07-24T11:45:25.197321+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 19.5–24.6%, 19–23 seats</li><li>Alternative für Deutschland (ID): 9.2–13.1%, 9–12 seats</li><li>Freie Demokratische Partei (RE): 5.5–8.7%, 5–8 seats</li><li>Die Linke (GUE/NGL): 3.8–6.5%, 4–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 19.5–24.6%, 19–23 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.1–24.2%, 18–23 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.7–7.6%, 4–7 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.1–0.9%, 0–1 seats</li><li>Freie Wähler (RE): 0.5–1.7%, 0–1 seats</li><li>Die PARTEI (Greens/EFA): 0.5–1.8%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.3–1.3%, 0–1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.1–0.9%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.1–0.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2022-07-21-Allensbach.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2022-07-21-Allensbach.html"/>
+    <title>Opinion Poll by Allensbach, 8–21 July 2022</title>
+    <updated>2022-08-26T21:57:21.351915+02:00</updated>
+    <dc:date>2022-08-26T21:57:21.351915+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 16.9–21.3%, 16–19 seats</li><li>Alternative für Deutschland (ID): 10.3–13.9%, 10–13 seats</li><li>Freie Demokratische Partei (RE): 5.7–8.6%, 6–8 seats</li><li>Die Linke (GUE/NGL): 3.0–5.2%, 3–5 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 19.7–24.4%, 19–23 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 18.9–23.6%, 18–22 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.7–7.3%, 4–6 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.1%, 0–1 seats</li><li>Freie Wähler (RE): 0.9–2.3%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 1.1–2.5%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.7%, 1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–1.3%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–1.1%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.1%, 0–1 seats</li></ul></div></content>
@@ -5663,5 +5679,5 @@
     <updated>2020-05-08T18:32:59+02:00</updated>
     <dc:date>2020-05-08T18:32:59+02:00</dc:date>
   </entry>
-  <dc:date>2022-08-25T23:00:23.24516+02:00</dc:date>
+  <dc:date>2022-08-26T21:57:21.351915+02:00</dc:date>
 </feed>
