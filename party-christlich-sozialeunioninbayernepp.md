@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–4 September 2022](2022-09-04-Ipsos.html) | Ipsos | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [2 September 2022](2022-09-02-INSAandYouGov.html) | INSA and YouGov | 6.2% | N/A | N/A | N/A | N/A |
 | [29–31 August 2022](2022-08-31-Infratestdimap.html) | Infratest dimap | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.7–7.3% | 4.4–7.8% |
-| [24–30 August 2022](2022-08-30-Kantar.html) | Kantar | 5.2% | N/A | N/A | N/A | N/A |
+| [24–30 August 2022](2022-08-30-Kantar.html) | Kantar | 5.2% | 4.6–6.1% | 4.4–6.3% | 4.2–6.5% | 3.9–7.0% |
 | [26–29 August 2022](2022-08-29-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [23–29 August 2022](2022-08-29-Forsa.html) | Forsa | 5.6% | 5.0–6.4% | 4.8–6.6% | 4.7–6.8% | 4.4–7.2% |
 | [22–26 August 2022](2022-08-26-INSAandYouGov.html) | INSA and YouGov | 6.1% | N/A | N/A | N/A | N/A |
@@ -893,7 +893,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–4 September 2022](2022-09-04-Ipsos.html) | Ipsos | 5 | 4–6 | 4–6 | 4–7 | 4–8 |
 | [2 September 2022](2022-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [29–31 August 2022](2022-08-31-Infratestdimap.html) | Infratest dimap | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
-| [24–30 August 2022](2022-08-30-Kantar.html) | Kantar |  |  |  |  |  |
+| [24–30 August 2022](2022-08-30-Kantar.html) | Kantar | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | [26–29 August 2022](2022-08-29-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [23–29 August 2022](2022-08-29-Forsa.html) | Forsa | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [22–26 August 2022](2022-08-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
