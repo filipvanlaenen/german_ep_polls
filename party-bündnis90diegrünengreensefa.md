@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.2–22.5% | 17.8–23.4% | 17.5–24.1% | 16.8–25.4% |
+| N/A | [Poll Average](average.html) | 19.9% | 18.3–22.5% | 17.9–23.4% | 17.5–24.1% | 16.8–25.4% |
+| [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 19.5% | 18.4–20.7% | 18.1–21.0% | 17.9–21.3% | 17.4–21.8% |
+| [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov | 19.0% | N/A | N/A | N/A | N/A |
 | [14–20 September 2022](2022-09-20-Kantar.html) | Kantar | 20.0% | 18.7–21.4% | 18.3–21.8% | 18.0–22.2% | 17.4–22.8% |
 | [14–20 September 2022](2022-09-20-GMS.html) | GMS | 19.6% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [16–19 September 2022](2022-09-19-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.4–20.7% | 16.9–21.3% |
@@ -893,11 +895,11 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 3% | 99.7% |  |
-| 17.5–18.5% | 13% | 97% |  |
-| 18.5–19.5% | 26% | 84% |  |
-| 19.5–20.5% | 23% | 58% | Median |
-| 20.5–21.5% | 15% | 35% |  |
+| 16.5–17.5% | 2% | 99.7% |  |
+| 17.5–18.5% | 12% | 97% |  |
+| 18.5–19.5% | 25% | 86% |  |
+| 19.5–20.5% | 25% | 60% | Median |
+| 20.5–21.5% | 16% | 36% |  |
 | 21.5–22.5% | 9% | 19% |  |
 | 22.5–23.5% | 5% | 10% |  |
 | 23.5–24.5% | 3% | 4% |  |
@@ -916,6 +918,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 17–22 | 16–24 |
+| [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 19 | 17–19 | 17–20 | 17–20 | 17–20 |
+| [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–20 September 2022](2022-09-20-Kantar.html) | Kantar | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [14–20 September 2022](2022-09-20-GMS.html) | GMS | 17 | 17–20 | 17–21 | 16–21 | 16–21 |
 | [16–19 September 2022](2022-09-19-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 17–19 | 16–20 | 16–21 |
@@ -1799,10 +1803,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 2% | 99.9% |  |
-| 17 | 12% | 98% |  |
-| 18 | 18% | 85% |  |
-| 19 | 21% | 67% | Median |
-| 20 | 24% | 46% |  |
+| 17 | 14% | 98% |  |
+| 18 | 15% | 84% |  |
+| 19 | 23% | 70% | Median |
+| 20 | 25% | 47% |  |
 | 21 | 19% | 22% |  |
 | 22 | 2% | 3% |  |
 | 23 | 0.3% | 1.0% |  |
