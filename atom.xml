@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/german_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-10-07T18:56:04.733634+02:00</updated>
+  <updated>2022-10-07T22:28:40.346437+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 15.0–19.1%, 15–17 seats</li><li>Alternative für Deutschland (ID): 13.2–17.0%, 12–16 seats</li><li>Freie Demokratische Partei (RE): 5.7–8.5%, 5–8 seats</li><li>Die Linke (GUE/NGL): 3.9–6.3%, 5 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 16.9–21.2%, 17–19 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.7–24.2%, 18–24 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.9–7.6%, 5–7 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Freie Wähler (RE): 1.0–2.4%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 1.1–2.5%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.7%, 1–2 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.4–1.3%, 1 seats</li><li>Familienpartei Deutschlands (ECR): 0.3–1.1%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.0%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/german_ep_polls/2022-10-05-Infratestdimap.html</id>
@@ -38,6 +38,22 @@
     <title>Opinion Poll by Forsa, 27–30 September 2022</title>
     <updated>2022-10-07T18:56:04.733634+02:00</updated>
     <dc:date>2022-10-07T18:56:04.733634+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 15.7–20.5%, 14–19 seats</li><li>Alternative für Deutschland (ID): 11.9–16.3%, 12–15 seats</li><li>Freie Demokratische Partei (RE): 5.5–8.7%, 5–8 seats</li><li>Die Linke (GUE/NGL): 3.8–6.5%, 4–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 19.6–24.7%, 19–25 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 18.7–23.8%, 19–22 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.6–7.5%, 4–7 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–1.0%, 0–1 seats</li><li>Freie Wähler (RE): 0.7–2.1%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.8–2.2%, 1–3 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.6%, 0–1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.2%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–1.0%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–1.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2022-09-29-ForschungsgruppeWahlen.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2022-09-29-ForschungsgruppeWahlen.html"/>
+    <title>Opinion Poll by Forschungsgruppe Wahlen, 27–29 September 2022</title>
+    <updated>2022-10-07T21:46:26.140427+02:00</updated>
+    <dc:date>2022-10-07T21:46:26.140427+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 17.0–21.1%, 16–20 seats</li><li>Alternative für Deutschland (ID): 11.4–14.9%, 11–13 seats</li><li>Freie Demokratische Partei (RE): 6.6–9.5%, 6–8 seats</li><li>Die Linke (GUE/NGL): 4.0–6.3%, 4–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 18.9–23.2%, 18–22 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.1–23.4%, 18–23 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 4.7–7.2%, 5–7 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.9%, 0–1 seats</li><li>Freie Wähler (RE): 0.7–1.9%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.8–2.1%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.4%, 0–1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.2–1.1%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.9%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/german_ep_polls/2022-09-27-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/german_ep_polls/2022-09-27-Kantar.html"/>
+    <title>Opinion Poll by Kantar, 22–27 September 2022</title>
+    <updated>2022-10-07T22:28:40.346437+02:00</updated>
+    <dc:date>2022-10-07T22:28:40.346437+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Deutschlands (S&amp;D): 16.4–19.7%, 16–19 seats</li><li>Alternative für Deutschland (ID): 13.5–16.6%, 14–15 seats</li><li>Freie Demokratische Partei (RE): 6.9–9.2%, 7–8 seats</li><li>Die Linke (GUE/NGL): 4.6–6.6%, 5–6 seats</li><li>Bündnis 90/Die Grünen (Greens/EFA): 17.9–21.3%, 17–20 seats</li><li>Christlich Demokratische Union Deutschlands (EPP): 19.8–23.3%, 19–23 seats</li><li>Christlich-Soziale Union in Bayern (EPP): 5.0–7.1%, 5–6 seats</li><li>Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%, 0–1 seats</li><li>Freie Wähler (RE): 0.7–1.6%, 1–2 seats</li><li>Die PARTEI (Greens/EFA): 0.8–1.8%, 1–2 seats</li><li>Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.2%, 0–1 seats</li><li>Ökologisch-Demokratische Partei (Greens/EFA): 0.3–0.9%, 0–1 seats</li><li>Familienpartei Deutschlands (ECR): 0.2–0.8%, 0–1 seats</li><li>Volt Europa (Greens/EFA): 0.2–0.7%, 0–1 seats</li></ul></div></content>
@@ -5871,5 +5887,5 @@
     <updated>2020-05-08T18:32:59+02:00</updated>
     <dc:date>2020-05-08T18:32:59+02:00</dc:date>
   </entry>
-  <dc:date>2022-10-07T18:56:04.733634+02:00</dc:date>
+  <dc:date>2022-10-07T22:28:40.346437+02:00</dc:date>
 </feed>
