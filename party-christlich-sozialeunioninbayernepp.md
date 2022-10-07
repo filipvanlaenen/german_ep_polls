@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.4–7.2% | 5.2–7.4% | 5.0–7.7% | 4.6–8.3% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.6% | 4.5–8.2% |
 | [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
 | [3 October 2022](2022-10-03-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
 | [26–30 September 2022](2022-09-30-INSAandYouGov.html) | INSA and YouGov | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.6% | 4.5–8.1% |
 | [27–30 September 2022](2022-09-30-Forsa.html) | Forsa | 6.1% | 5.4–7.0% | 5.2–7.3% | 5.0–7.5% | 4.7–7.9% |
-| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.9% | N/A | N/A | N/A | N/A |
-| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar | 5.9% | N/A | N/A | N/A | N/A |
+| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.1% |
+| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar | 5.9% | 5.1–6.8% | 4.9–7.0% | 4.7–7.2% | 4.4–7.7% |
 | [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
 | [20–26 September 2022](2022-09-26-Forsa.html) | Forsa | 6.1% | N/A | N/A | N/A | N/A |
 | [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov | 6.1% | N/A | N/A | N/A | N/A |
@@ -889,11 +889,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 15% | 99.6% |  |
-| 5.5–6.5% | 53% | 85% | Median |
-| 6.5–7.5% | 28% | 32% |  |
-| 7.5–8.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 18% | 99.2% |  |
+| 5.5–6.5% | 53% | 81% | Median |
+| 6.5–7.5% | 25% | 28% |  |
+| 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -906,13 +906,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [3 October 2022](2022-10-03-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [26–30 September 2022](2022-09-30-INSAandYouGov.html) | INSA and YouGov | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [27–30 September 2022](2022-09-30-Forsa.html) | Forsa | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar |  |  |  |  |  |
+| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [20–26 September 2022](2022-09-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1786,11 +1786,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 29% | 99.7% |  |
-| 6 | 43% | 71% | Median |
-| 7 | 24% | 28% |  |
-| 8 | 4% | 4% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 30% | 99.1% |  |
+| 6 | 46% | 69% | Median |
+| 7 | 20% | 24% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
