@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.2–6.9% | 3.8–7.3% | 3.5–7.7% | 3.0–8.3% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.0–7.0% | 3.6–7.5% | 3.3–7.8% | 2.9–8.4% |
+| [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
+| [3 October 2022](2022-10-03-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
+| [26–30 September 2022](2022-09-30-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.5–8.0% |
+| [27–30 September 2022](2022-09-30-Forsa.html) | Forsa | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | N/A | N/A | N/A | N/A |
+| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar | 5.0% | N/A | N/A | N/A | N/A |
 | [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.8–6.4% | 4.6–6.6% | 4.3–6.9% |
+| [20–26 September 2022](2022-09-26-Forsa.html) | Forsa | 5.0% | N/A | N/A | N/A | N/A |
 | [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [14–20 September 2022](2022-09-20-Kantar.html) | Kantar | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.7% |
 | [14–20 September 2022](2022-09-20-GMS.html) | GMS | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
@@ -880,14 +887,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 16% | 97% |  |
-| 4.5–5.5% | 42% | 81% | Median |
-| 5.5–6.5% | 26% | 40% |  |
-| 6.5–7.5% | 11% | 14% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 18% | 96% |  |
+| 4.5–5.5% | 38% | 78% | Median |
+| 5.5–6.5% | 24% | 40% |  |
+| 6.5–7.5% | 12% | 16% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -899,8 +906,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–8 | 2–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
+| [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 5 | 5 | 5 | 5 | 4–6 |
+| [3 October 2022](2022-10-03-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [26–30 September 2022](2022-09-30-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [27–30 September 2022](2022-09-30-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 4–7 |
+| [27–29 September 2022](2022-09-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [22–27 September 2022](2022-09-27-Kantar.html) | Kantar |  |  |  |  |  |
 | [23–26 September 2022](2022-09-26-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [20–26 September 2022](2022-09-26-Forsa.html) | Forsa |  |  |  |  |  |
 | [19–23 September 2022](2022-09-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–20 September 2022](2022-09-20-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [14–20 September 2022](2022-09-20-GMS.html) | GMS | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
@@ -1770,13 +1784,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 2% | 100% |  |
-| 3 | 6% | 98% |  |
-| 4 | 25% | 92% |  |
-| 5 | 37% | 67% | Median |
-| 6 | 20% | 30% |  |
-| 7 | 7% | 9% |  |
-| 8 | 3% | 3% |  |
+| 2 | 3% | 100% |  |
+| 3 | 9% | 97% |  |
+| 4 | 13% | 88% |  |
+| 5 | 49% | 75% | Median |
+| 6 | 14% | 27% |  |
+| 7 | 9% | 13% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 
