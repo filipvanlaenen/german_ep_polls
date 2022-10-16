@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.3–7.1% | 5.1–7.4% | 4.9–7.6% | 4.5–8.2% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.4–8.2% |
+| [10–14 October 2022](2022-10-14-INSAandYouGov.html) | INSA and YouGov | 6.1% | 5.3–7.0% | 5.1–7.3% | 4.9–7.5% | 4.6–8.0% |
+| [7–12 October 2022](2022-10-12-YouGov.html) | YouGov | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.6% | 4.9–8.0% |
+| [11–12 October 2022](2022-10-12-Infratestdimap.html) | Infratest dimap | 5.7% | 4.9–6.7% | 4.7–6.9% | 4.5–7.2% | 4.2–7.7% |
+| [5–11 October 2022](2022-10-11-Kantar.html) | Kantar | 5.4% | N/A | N/A | N/A | N/A |
 | [4–10 October 2022](2022-10-10-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
 | [4–10 October 2022](2022-10-10-Forsa.html) | Forsa | 6.1% | 5.4–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.7% |
+| [7–9 October 2022](2022-10-09-Ipsos.html) | Ipsos | 5.9% | N/A | N/A | N/A | N/A |
 | [4–7 October 2022](2022-10-07-INSAandYouGov.html) | INSA and YouGov | 5.9% | 5.1–6.8% | 4.9–7.0% | 4.7–7.3% | 4.4–7.7% |
 | [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
 | [4 October 2022](2022-10-04-Kantar.html) | Kantar | 5.9% | 5.2–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
@@ -893,10 +898,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 17% | 99.4% |  |
-| 5.5–6.5% | 55% | 82% | Median |
-| 6.5–7.5% | 24% | 28% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 19% | 99.0% |  |
+| 5.5–6.5% | 52% | 80% | Median |
+| 6.5–7.5% | 25% | 28% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -911,8 +916,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [10–14 October 2022](2022-10-14-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [7–12 October 2022](2022-10-12-YouGov.html) | YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [11–12 October 2022](2022-10-12-Infratestdimap.html) | Infratest dimap | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [5–11 October 2022](2022-10-11-Kantar.html) | Kantar |  |  |  |  |  |
 | [4–10 October 2022](2022-10-10-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [4–10 October 2022](2022-10-10-Forsa.html) | Forsa | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [7–9 October 2022](2022-10-09-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [4–7 October 2022](2022-10-07-INSAandYouGov.html) | INSA and YouGov | 7 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [3–5 October 2022](2022-10-05-Infratestdimap.html) | Infratest dimap | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [4 October 2022](2022-10-04-Kantar.html) | Kantar | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -1794,12 +1804,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.8% | 100% |  |
-| 5 | 30% | 99.2% |  |
-| 6 | 43% | 69% | Median |
-| 7 | 22% | 26% |  |
+| 4 | 2% | 100% |  |
+| 5 | 39% | 98% |  |
+| 6 | 45% | 59% | Median |
+| 7 | 11% | 14% |  |
 | 8 | 3% | 3% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
 
 
