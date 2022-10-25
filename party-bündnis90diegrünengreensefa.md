@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 17.9–21.7% | 17.4–22.2% | 17.0–22.7% | 16.2–23.7% |
-| [17–22 October 2022](2022-10-22-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.8–19.4% | 16.5–19.7% | 16.2–20.1% | 15.6–20.7% |
+| N/A | [Poll Average](average.html) | 19.8% | 17.6–21.7% | 17.1–22.2% | 16.7–22.7% | 16.0–23.7% |
+| [21–24 October 2022](2022-10-24-INSAandYouGov.html) | INSA and YouGov | 17.5% | 16.4–18.6% | 16.1–18.9% | 15.9–19.2% | 15.4–19.8% |
+| [18–24 October 2022](2022-10-24-Forsa.html) | Forsa | 20.0% | 18.9–21.2% | 18.5–21.5% | 18.3–21.8% | 17.7–22.4% |
+| [17–21 October 2022](2022-10-21-INSAandYouGov.html) | INSA and YouGov | 18.0% | N/A | N/A | N/A | N/A |
 | [18–20 October 2022](2022-10-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21.0% | 19.4–22.6% | 19.0–23.1% | 18.6–23.5% | 17.9–24.3% |
 | [12–18 October 2022](2022-10-18-Kantar.html) | Kantar | 20.0% | 18.7–21.4% | 18.3–21.8% | 18.0–22.2% | 17.4–22.8% |
 | [14–17 October 2022](2022-10-17-INSAandYouGov.html) | INSA and YouGov | 18.5% | 17.4–19.7% | 17.1–20.0% | 16.9–20.3% | 16.4–20.8% |
@@ -916,13 +918,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.0% | 99.9% |  |
-| 16.5–17.5% | 5% | 99.0% |  |
-| 17.5–18.5% | 14% | 94% |  |
-| 18.5–19.5% | 24% | 80% |  |
-| 19.5–20.5% | 27% | 56% | Median |
+| 15.5–16.5% | 2% | 99.9% |  |
+| 16.5–17.5% | 7% | 98% |  |
+| 17.5–18.5% | 14% | 91% |  |
+| 18.5–19.5% | 22% | 77% |  |
+| 19.5–20.5% | 26% | 55% | Median |
 | 20.5–21.5% | 18% | 30% |  |
-| 21.5–22.5% | 8% | 11% |  |
+| 21.5–22.5% | 8% | 12% |  |
 | 22.5–23.5% | 3% | 3% |  |
 | 23.5–24.5% | 0.6% | 0.7% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
@@ -937,8 +939,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 15–22 |
-| [17–22 October 2022](2022-10-22-INSAandYouGov.html) | INSA and YouGov | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–22 | 16–22 | 15–22 |
+| [21–24 October 2022](2022-10-24-INSAandYouGov.html) | INSA and YouGov | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [18–24 October 2022](2022-10-24-Forsa.html) | Forsa | 20 | 18–21 | 17–21 | 17–21 | 17–22 |
+| [17–21 October 2022](2022-10-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–20 October 2022](2022-10-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 19–22 | 19–22 | 18–22 | 17–22 |
 | [12–18 October 2022](2022-10-18-Kantar.html) | Kantar | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
 | [14–17 October 2022](2022-10-17-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 17–19 | 17–19 | 16–19 |
@@ -1842,14 +1846,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 2% | 99.3% |  |
-| 17 | 10% | 97% |  |
-| 18 | 21% | 87% |  |
-| 19 | 42% | 66% | Median |
-| 20 | 12% | 24% |  |
-| 21 | 6% | 12% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 0.7% | 99.8% |  |
+| 16 | 6% | 99.2% |  |
+| 17 | 10% | 93% |  |
+| 18 | 16% | 83% |  |
+| 19 | 37% | 67% | Median |
+| 20 | 12% | 29% |  |
+| 21 | 12% | 18% |  |
 | 22 | 6% | 6% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0.1% | 0.1% |  |
