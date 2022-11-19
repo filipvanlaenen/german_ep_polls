@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 12.9–16.2% | 12.4–16.6% | 12.0–17.0% | 11.3–17.8% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.9–16.2% | 12.4–16.7% | 12.0–17.0% | 11.2–17.8% |
+| [11–14 November 2022](2022-11-14-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.8–16.4% | 13.5–16.7% | 13.1–17.2% |
+| [8–14 November 2022](2022-11-14-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.1–16.2% |
 | [8–11 November 2022](2022-11-11-INSAandYouGov.html) | INSA and YouGov | 15.0% | 13.7–16.3% | 13.4–16.7% | 13.1–17.1% | 12.5–17.7% |
 | [8–10 November 2022](2022-11-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [4–9 November 2022](2022-11-09-YouGov.html) | YouGov | 15.9% | 14.7–17.1% | 14.4–17.4% | 14.1–17.7% | 13.6–18.3% |
@@ -931,10 +933,10 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 0.9% | 99.9% |  |
 | 11.5–12.5% | 5% | 99.0% |  |
-| 12.5–13.5% | 17% | 94% |  |
-| 13.5–14.5% | 30% | 76% | Median |
-| 14.5–15.5% | 26% | 47% |  |
-| 15.5–16.5% | 15% | 21% |  |
+| 12.5–13.5% | 16% | 94% |  |
+| 13.5–14.5% | 29% | 78% |  |
+| 14.5–15.5% | 28% | 49% | Median |
+| 15.5–16.5% | 16% | 22% |  |
 | 16.5–17.5% | 5% | 6% |  |
 | 17.5–18.5% | 0.8% | 0.9% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
@@ -950,6 +952,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [11–14 November 2022](2022-11-14-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 13–15 | 13–15 | 12–16 |
+| [8–14 November 2022](2022-11-14-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [8–11 November 2022](2022-11-11-INSAandYouGov.html) | INSA and YouGov | 13 | 13 | 13–14 | 12–15 | 12–15 |
 | [8–10 November 2022](2022-11-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [4–9 November 2022](2022-11-09-YouGov.html) | YouGov | 14 | 14–16 | 13–17 | 13–17 | 13–17 |
@@ -1868,13 +1872,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.4% | 100% |  |
-| 10 | 1.1% | 99.6% |  |
-| 11 | 5% | 98.6% |  |
-| 12 | 17% | 93% |  |
-| 13 | 34% | 76% | Median |
-| 14 | 29% | 42% |  |
-| 15 | 5% | 13% |  |
-| 16 | 7% | 8% |  |
+| 10 | 1.2% | 99.6% |  |
+| 11 | 6% | 98% |  |
+| 12 | 13% | 93% |  |
+| 13 | 33% | 79% | Median |
+| 14 | 24% | 47% |  |
+| 15 | 14% | 23% |  |
+| 16 | 8% | 9% |  |
 | 17 | 0.7% | 0.8% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
