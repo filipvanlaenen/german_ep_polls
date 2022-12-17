@@ -25,7 +25,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–30 November 2022](2022-11-30-Infratestdimap.html) | Infratest dimap | 6.5% | 5.7–7.5% | 5.5–7.8% | 5.3–8.0% | 5.0–8.5% |
 | [22–29 November 2022](2022-11-29-Kantar.html) | Kantar | 5.9% | 5.1–6.8% | 4.9–7.0% | 4.8–7.2% | 4.4–7.7% |
 | [25–28 November 2022](2022-11-28-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
-| [22–28 November 2022](2022-11-28-Forsa.html) | Forsa | 6.3% | N/A | N/A | N/A | N/A |
+| [22–28 November 2022](2022-11-28-Forsa.html) | Forsa | 6.3% | 5.6–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.9% |
 | [21–25 November 2022](2022-11-25-INSAandYouGov.html) | INSA and YouGov | 5.9% | N/A | N/A | N/A | N/A |
 | [22–24 November 2022](2022-11-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.9% | 4.4–8.5% |
 | [15–22 November 2022](2022-11-22-Kantar.html) | Kantar | 6.4% | N/A | N/A | N/A | N/A |
@@ -979,7 +979,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [28–30 November 2022](2022-11-30-Infratestdimap.html) | Infratest dimap | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–29 November 2022](2022-11-29-Kantar.html) | Kantar | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [25–28 November 2022](2022-11-28-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [22–28 November 2022](2022-11-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [22–28 November 2022](2022-11-28-Forsa.html) | Forsa | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [21–25 November 2022](2022-11-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [22–24 November 2022](2022-11-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | [15–22 November 2022](2022-11-22-Kantar.html) | Kantar |  |  |  |  |  |
