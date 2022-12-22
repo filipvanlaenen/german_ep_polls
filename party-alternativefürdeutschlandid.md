@@ -10,8 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 11.8–16.1% | 11.3–16.5% | 11.0–16.8% | 10.3–17.5% |
+| N/A | [Poll Average](average.html) | 13.8% | 11.7–15.6% | 11.2–16.1% | 10.8–16.5% | 10.1–17.3% |
+| [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 13.9% | 12.8–15.0% | 12.5–15.4% | 12.3–15.7% | 11.8–16.2% |
+| [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 14.5% | 13.5–15.6% | 13.3–15.9% | 13.0–16.1% | 12.6–16.6% |
+| [13–19 December 2022](2022-12-19-Forsa.html) | Forsa | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.5–14.6% | 11.1–15.1% |
+| [12–16 December 2022](2022-12-16-INSAandYouGov.html) | INSA and YouGov | 15.0% | N/A | N/A | N/A | N/A |
 | [12–15 December 2022](2022-12-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
+| [2–15 December 2022](2022-12-15-Allensbach.html) | Allensbach | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
+| [7–12 December 2022](2022-12-12-Kantar.html) | Kantar | 14.0% | N/A | N/A | N/A | N/A |
 | [9–12 December 2022](2022-12-12-INSAandYouGov.html) | INSA and YouGov | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.1% | 13.5–17.7% |
 | [6–12 December 2022](2022-12-12-Forsa.html) | Forsa | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.6% | 10.2–14.1% |
 | [2–9 December 2022](2022-12-09-INSAandYouGov.html) | INSA and YouGov | 15.0% | N/A | N/A | N/A | N/A |
@@ -953,15 +959,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 0.9% | 99.9% |  |
-| 10.5–11.5% | 6% | 99.0% |  |
-| 11.5–12.5% | 13% | 93% |  |
-| 12.5–13.5% | 14% | 80% |  |
-| 13.5–14.5% | 21% | 66% | Median |
-| 14.5–15.5% | 25% | 45% |  |
-| 15.5–16.5% | 16% | 20% |  |
-| 16.5–17.5% | 4% | 4% |  |
-| 17.5–18.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 1.4% | 99.9% |  |
+| 10.5–11.5% | 7% | 98% |  |
+| 11.5–12.5% | 14% | 92% |  |
+| 12.5–13.5% | 22% | 78% |  |
+| 13.5–14.5% | 26% | 56% | Median |
+| 14.5–15.5% | 20% | 31% |  |
+| 15.5–16.5% | 9% | 11% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -973,8 +979,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–16 | 10–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–15 | 10–16 | 10–16 |
+| [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
+| [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 14 | 13–14 | 13–15 | 13–15 | 12–16 |
+| [13–19 December 2022](2022-12-19-Forsa.html) | Forsa | 11 | 11–12 | 11–13 | 11–13 | 10–13 |
+| [12–16 December 2022](2022-12-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [12–15 December 2022](2022-12-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
+| [2–15 December 2022](2022-12-15-Allensbach.html) | Allensbach | 10 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [7–12 December 2022](2022-12-12-Kantar.html) | Kantar |  |  |  |  |  |
 | [9–12 December 2022](2022-12-12-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [6–12 December 2022](2022-12-12-Forsa.html) | Forsa | 11 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [2–9 December 2022](2022-12-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1916,16 +1928,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 0.1% | 99.9% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 10% | 97% |  |
-| 12 | 16% | 87% |  |
-| 13 | 17% | 72% |  |
-| 14 | 19% | 55% | Median |
-| 15 | 29% | 36% |  |
-| 16 | 6% | 7% |  |
-| 17 | 0.9% | 1.0% |  |
-| 18 | 0.1% | 0.2% |  |
+| 9 | 0.2% | 99.9% |  |
+| 10 | 11% | 99.8% |  |
+| 11 | 13% | 89% |  |
+| 12 | 14% | 76% |  |
+| 13 | 22% | 62% | Median |
+| 14 | 22% | 39% |  |
+| 15 | 13% | 17% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0.3% | 0.4% |  |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
