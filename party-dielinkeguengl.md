@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.0–6.0% | 3.7–6.3% | 3.5–6.7% | 3.1–7.4% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.0–6.0% | 3.8–6.4% | 3.5–6.7% | 3.1–7.4% |
+| [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% | 3.6–6.8% |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 5.0% | 4.3–5.7% | 4.2–6.0% | 4.0–6.2% | 3.7–6.5% |
 | [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [13–19 December 2022](2022-12-19-Forsa.html) | Forsa | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.4% |
 | [12–16 December 2022](2022-12-16-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
+| [13–15 December 2022](2022-12-15-Kantar.html) | Kantar | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.1–6.2% | 3.8–6.5% |
 | [12–15 December 2022](2022-12-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [2–15 December 2022](2022-12-15-Allensbach.html) | Allensbach | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [7–12 December 2022](2022-12-12-Kantar.html) | Kantar | 5.0% | 4.3–5.8% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
@@ -953,10 +955,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 28% | 97% |  |
-| 4.5–5.5% | 48% | 69% | Median |
-| 5.5–6.5% | 17% | 20% |  |
-| 6.5–7.5% | 3% | 3% |  |
+| 3.5–4.5% | 24% | 97% |  |
+| 4.5–5.5% | 50% | 73% | Median |
+| 5.5–6.5% | 19% | 22% |  |
+| 6.5–7.5% | 3% | 4% |  |
 | 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -970,10 +972,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–19 December 2022](2022-12-19-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [12–16 December 2022](2022-12-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [13–15 December 2022](2022-12-15-Kantar.html) | Kantar | 5 | 5 | 4–5 | 4–6 | 3–6 |
 | [12–15 December 2022](2022-12-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 3–5 | 3–6 | 3–6 | 3–7 |
 | [2–15 December 2022](2022-12-15-Allensbach.html) | Allensbach | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [7–12 December 2022](2022-12-12-Kantar.html) | Kantar | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -1912,10 +1916,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 30% | 93% |  |
-| 5 | 50% | 63% | Median |
-| 6 | 12% | 13% |  |
+| 3 | 6% | 100% |  |
+| 4 | 24% | 94% |  |
+| 5 | 56% | 70% | Median |
+| 6 | 12% | 14% |  |
 | 7 | 1.4% | 1.5% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
