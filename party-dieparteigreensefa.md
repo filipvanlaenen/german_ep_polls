@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.6–2.9% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 0.9–2.3% | 0.8–2.5% | 0.6–2.9% |
+| [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.2–2.4% | 1.0–2.7% |
 | [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.8–2.2% |
@@ -952,8 +953,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 47% | 99.8% |  |
-| 1.5–2.5% | 50% | 52% | Median |
+| 0.5–1.5% | 46% | 99.8% |  |
+| 1.5–2.5% | 52% | 54% | Median |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -967,6 +968,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [16–19 December 2022](2022-12-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1911,7 +1913,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
 | 1 | 52% | 99.8% | Last Result, Median |
-| 2 | 46% | 48% |  |
+| 2 | 46% | 47% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
