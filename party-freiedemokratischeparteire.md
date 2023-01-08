@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.8–8.0% | 5.5–8.3% | 5.2–8.6% | 4.7–9.2% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.8–7.9% | 5.4–8.3% | 5.2–8.6% | 4.7–9.2% |
+| [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.5–8.9% |
+| [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
+| [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov | 7.5% | N/A | N/A | N/A | N/A |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 6.9% | 6.1–7.8% | 5.9–8.0% | 5.8–8.3% | 5.4–8.7% |
@@ -958,10 +962,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 6% | 99.8% |  |
-| 5.5–6.5% | 28% | 94% |  |
-| 6.5–7.5% | 44% | 66% | Median |
-| 7.5–8.5% | 19% | 21% |  |
-| 8.5–9.5% | 3% | 3% |  |
+| 5.5–6.5% | 29% | 94% |  |
+| 6.5–7.5% | 45% | 65% | Median |
+| 7.5–8.5% | 18% | 21% |  |
+| 8.5–9.5% | 2% | 3% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -974,7 +978,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [16–21 December 2022](2022-12-21-YouGov.html) | YouGov | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
@@ -1921,12 +1929,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 10% | 99.7% |  |
-| 6 | 38% | 90% |  |
-| 7 | 34% | 51% | Median |
-| 8 | 17% | 18% |  |
-| 9 | 0.4% | 0.4% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 8% | 99.6% |  |
+| 6 | 42% | 92% | Median |
+| 7 | 31% | 50% |  |
+| 8 | 18% | 18% |  |
+| 9 | 0.4% | 0.5% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
