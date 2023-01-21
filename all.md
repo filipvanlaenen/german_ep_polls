@@ -970,9 +970,9 @@ Only polls for which at least the sample size has been published are included in
 + **FW:** Freie Wähler (RE)
 + **Tierschutz:** Partei Mensch Umwelt Tierschutz (GUE/NGL)
 + **ÖDP:** Ökologisch-Demokratische Partei (Greens/EFA)
-+ **PARTEI:** Die PARTEI (Greens/EFA)
++ **PARTEI:** Die PARTEI (NI)
 + **Volt:** Volt Europa (Greens/EFA)
-+ **FAMILIE:** Familienpartei Deutschlands (ECR)
++ **FAMILIE:** Familienpartei Deutschlands (EPP)
 + **PIRATEN:** Piratenpartei Deutschland (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
