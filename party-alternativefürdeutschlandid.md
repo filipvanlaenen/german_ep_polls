@@ -219,7 +219,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 May 2022](2022-05-06-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
 | [4 May 2022](2022-05-04-pollytix.html) | pollytix | 12.0% | 10.9–13.2% | 10.6–13.5% | 10.3–13.9% | 9.8–14.5% |
 | [3 May 2022](2022-05-03-Kantar.html) | Kantar | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
-| [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.7–11.4% | 9.5–11.7% | 9.3–11.9% | 8.9–12.3% |
+| [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov | 10.5% | N/A | N/A | N/A | N/A |
 | [2 May 2022](2022-05-02-Forsa.html) | Forsa | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
 | [25–29 April 2022](2022-04-29-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
 | [26–28 April 2022](2022-04-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11.0% | 9.8–12.5% | 9.5–12.9% | 9.2–13.2% | 8.6–13.9% |
@@ -1208,7 +1208,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–6 May 2022](2022-05-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4 May 2022](2022-05-04-pollytix.html) | pollytix | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 | [3 May 2022](2022-05-03-Kantar.html) | Kantar | 8 | 8 | 7–9 | 7–10 | 7–10 |
-| [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [2 May 2022](2022-05-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 May 2022](2022-05-02-Forsa.html) | Forsa | 8 | 8–9 | 8–9 | 8–10 | 6–10 |
 | [25–29 April 2022](2022-04-29-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [26–28 April 2022](2022-04-28-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
