@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7 February 2023](2023-02-07-Kantar.html) | Kantar | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
 | [3–6 February 2023](2023-02-06-INSAandYouGov.html) | INSA and YouGov | 0.4% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [6 February 2023](2023-02-06-Forsa.html) | Forsa | 0.4% | 0.3–0.7% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% |
-| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos | 0.5% | N/A | N/A | N/A | N/A |
+| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [3 February 2023](2023-02-03-INSAandYouGov.html) | INSA and YouGov | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
 | [1 February 2023](2023-02-01-Infratestdimap.html) | Infratest dimap | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
 | [25–31 January 2023](2023-01-31-Kantar.html) | Kantar | 0.4% | 0.3–0.8% | 0.2–0.9% | 0.2–0.9% | 0.1–1.1% |
@@ -984,9 +984,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 63% | 100% | Last Result, Median |
-| 0.5–1.5% | 37% | 37% |  |
+| 0.0–0.5% | 61% | 100% | Last Result, Median |
+| 0.5–1.5% | 39% | 39% |  |
 | 1.5–2.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1002,7 +1003,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [7 February 2023](2023-02-07-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 February 2023](2023-02-06-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6 February 2023](2023-02-06-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3 February 2023](2023-02-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 February 2023](2023-02-01-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–31 January 2023](2023-01-31-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1974,7 +1975,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 57% | 100% | Median |
-| 1 | 43% | 43% | Last Result |
+| 1 | 42% | 43% | Last Result |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
