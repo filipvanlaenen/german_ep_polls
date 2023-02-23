@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–1.9% | 0.6–2.1% | 0.4–2.3% |
-| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
-| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 0.9% | N/A | N/A | N/A | N/A |
-| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 1.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
+| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.4–1.4% |
+| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [13–17 February 2023](2023-02-17-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [14–16 February 2023](2023-02-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
@@ -995,9 +995,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 76% | 98% | Median |
-| 1.5–2.5% | 21% | 21% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 81% | 97% | Median |
+| 1.5–2.5% | 15% | 16% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -1010,13 +1010,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [15–20 February 2023](2023-02-20-GMS.html) | GMS |  |  |  |  |  |
-| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [13–17 February 2023](2023-02-17-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [14–16 February 2023](2023-02-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 0–1 | 0–1 |
-| [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1–2 |
 | [8–14 February 2023](2023-02-14-Kantar.html) | Kantar | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–13 February 2023](2023-02-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [7–13 February 2023](2023-02-13-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1997,10 +1997,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 59% | 99.5% | Last Result, Median |
-| 2 | 34% | 40% |  |
-| 3 | 6% | 6% |  |
+| 0 | 3% | 100% |  |
+| 1 | 78% | 97% | Last Result, Median |
+| 2 | 19% | 19% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 

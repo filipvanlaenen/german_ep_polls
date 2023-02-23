@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 15.4–19.3% | 14.9–19.9% | 14.6–20.4% | 13.9–21.4% |
-| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 15.5% | N/A | N/A | N/A | N/A |
-| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 17.0% | N/A | N/A | N/A | N/A |
-| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 17.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 16.9% | 15.2–18.9% | 14.8–19.6% | 14.5–20.1% | 13.8–21.2% |
+| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.2% | 13.5–17.7% |
+| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
+| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.5% | 15.2–19.0% |
 | [13–17 February 2023](2023-02-17-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [14–16 February 2023](2023-02-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.5% | 16.0–22.3% |
 | [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.3% | 14.4–20.0% |
@@ -1009,17 +1009,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 11% | 98% |  |
-| 15.5–16.5% | 22% | 87% |  |
-| 16.5–17.5% | 26% | 65% | Median |
-| 17.5–18.5% | 19% | 39% |  |
-| 18.5–19.5% | 12% | 20% |  |
-| 19.5–20.5% | 5% | 7% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.4% | 0.4% |  |
-| 22.5–23.5% | 0% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 13.5–14.5% | 3% | 99.8% |  |
+| 14.5–15.5% | 13% | 97% |  |
+| 15.5–16.5% | 25% | 84% |  |
+| 16.5–17.5% | 27% | 60% | Median |
+| 17.5–18.5% | 19% | 33% |  |
+| 18.5–19.5% | 9% | 14% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 1.2% | 1.4% |  |
+| 21.5–22.5% | 0.2% | 0.3% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1030,13 +1029,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–19 | 14–21 | 14–21 | 13–21 |
-| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [15–20 February 2023](2023-02-20-GMS.html) | GMS |  |  |  |  |  |
-| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–21 | 13–21 | 13–21 |
+| [17–20 February 2023](2023-02-20-INSAandYouGov.html) | INSA and YouGov | 13 | 13–15 | 13–15 | 13–16 | 13–16 |
+| [15–20 February 2023](2023-02-20-GMS.html) | GMS | 17 | 16–18 | 16–18 | 15–18 | 14–19 |
+| [14–20 February 2023](2023-02-20-Forsa.html) | Forsa | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [13–17 February 2023](2023-02-17-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–18 | 14–18 | 14–18 |
 | [14–16 February 2023](2023-02-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 16–21 | 16–21 | 16–21 | 16–21 |
-| [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 16 | 15–17 | 14–18 | 14–18 | 14–20 |
+| [14–15 February 2023](2023-02-15-Infratestdimap.html) | Infratest dimap | 16 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [8–14 February 2023](2023-02-14-Kantar.html) | Kantar | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [10–13 February 2023](2023-02-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [7–13 February 2023](2023-02-13-Forsa.html) | Forsa | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
@@ -2029,15 +2028,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 2% | 99.9% |  |
-| 14 | 6% | 98% |  |
-| 15 | 26% | 92% |  |
-| 16 | 25% | 66% | Median |
-| 17 | 22% | 41% |  |
-| 18 | 5% | 19% |  |
-| 19 | 6% | 14% |  |
-| 20 | 0.8% | 9% |  |
-| 21 | 8% | 8% |  |
+| 13 | 9% | 99.9% |  |
+| 14 | 6% | 91% |  |
+| 15 | 19% | 84% |  |
+| 16 | 30% | 65% | Median |
+| 17 | 20% | 35% |  |
+| 18 | 5% | 14% |  |
+| 19 | 4% | 9% |  |
+| 20 | 0.3% | 6% |  |
+| 21 | 5% | 5% |  |
 | 22 | 0% | 0% |  |
 
 
