@@ -1058,20 +1058,20 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 18 | 17–19 | 17–19 | 17–19 | 16–21 |
-| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 16 | 15–18 | 15–18 | 14–18 | 13–20 |
+| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 17 | 15–19 | 14–19 | 14–19 | 13–19 |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 18 | 18–20 | 17–20 | 17–21 | 16–22 |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 20 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [9–13 January 2023](2023-01-13-INSAandYouGov.html) | INSA and YouGov | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [10–12 January 2023](2023-01-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
-| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 16 | 16–18 | 16–18 | 15–18 | 14–18 |
 | [4–10 January 2023](2023-01-10-Kantar.html) | Kantar | 18 | 17–18 | 16–18 | 16–18 | 15–19 |
-| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 18 | 16–18 | 15–19 | 15–19 | 14–19 |
+| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 18 | 17–19 | 16–19 | 16–19 | 14–19 |
 | [6–9 January 2023](2023-01-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 January 2023](2023-01-09-Forsa.html) | Forsa | 19 | 18–21 | 17–21 | 17–21 | 17–21 |
 | [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 18 | 15–18 | 15–18 | 15–18 | 15–20 |
 | [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 18 | 17–19 | 17–19 | 16–20 | 15–21 |
-| [3 January 2023](2023-01-03-GMS.html) | GMS | 14 | 14–17 | 13–17 | 13–18 | 13–19 |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 16 | 14–18 | 14–18 | 14–19 | 13–21 |
 | [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 15–17 | 15–18 | 14–18 |

@@ -1045,15 +1045,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 6 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–13 January 2023](2023-01-13-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [10–12 January 2023](2023-01-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
-| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [4–10 January 2023](2023-01-10-Kantar.html) | Kantar | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
+| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [6–9 January 2023](2023-01-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 January 2023](2023-01-09-Forsa.html) | Forsa | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 5–6 | 4–7 |

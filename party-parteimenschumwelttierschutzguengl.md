@@ -39,7 +39,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa | 1.0% | N/A | N/A | N/A | N/A |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
-| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 0.7% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 0.7% | 0.4–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 0.8% | 0.7–1.3% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
@@ -1038,7 +1038,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1–2 | 0–2 |
-| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 1 | 1 | 1 | 1–2 | 0–2 |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
@@ -1046,12 +1046,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [10–12 January 2023](2023-01-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 January 2023](2023-01-10-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 1–2 |
-| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–9 January 2023](2023-01-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 January 2023](2023-01-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
 | [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 0–2 | 0–2 |
-| [3 January 2023](2023-01-03-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–2 |

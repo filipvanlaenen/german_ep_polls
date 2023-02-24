@@ -45,14 +45,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 1.8% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
 | [9–13 January 2023](2023-01-13-INSAandYouGov.html) | INSA and YouGov | 1.6% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [10–12 January 2023](2023-01-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.2% | 0.7–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
-| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 1.4% | 1.0–1.8% | 0.9–1.9% | 0.9–2.1% | 0.7–2.3% |
+| [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.4% |
 | [4–10 January 2023](2023-01-10-Kantar.html) | Kantar | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.1–3.0% |
-| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 1.6% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [6–9 January 2023](2023-01-09-INSAandYouGov.html) | INSA and YouGov | 1.6% | N/A | N/A | N/A | N/A |
 | [3–9 January 2023](2023-01-09-Forsa.html) | Forsa | 1.6% | 1.2–1.9% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 1.6% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% |
 | [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 1.6% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% |
-| [3 January 2023](2023-01-03-GMS.html) | GMS | 1.8% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov | 1.7% | N/A | N/A | N/A | N/A |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
@@ -1039,7 +1039,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 January 2023](2023-01-16-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -1047,12 +1047,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [10–12 January 2023](2023-01-12-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [6–10 January 2023](2023-01-10-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–10 January 2023](2023-01-10-Kantar.html) | Kantar | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [9–10 January 2023](2023-01-10-Ipsos.html) | Ipsos | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [6–9 January 2023](2023-01-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 January 2023](2023-01-09-Forsa.html) | Forsa | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [2–6 January 2023](2023-01-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–4 January 2023](2023-01-04-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3 January 2023](2023-01-03-GMS.html) | GMS | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
+| [3 January 2023](2023-01-03-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2 January 2023](2023-01-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [27–29 December 2022](2022-12-29-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–22 December 2022](2022-12-22-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
