@@ -1032,19 +1032,19 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [7 February 2023](2023-02-07-Kantar.html) | Kantar | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–6 February 2023](2023-02-06-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [6 February 2023](2023-02-06-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [3 February 2023](2023-02-03-Ipsos.html) | Ipsos | 6 | 4–6 | 4–6 | 4–6 | 4–8 |
 | [3 February 2023](2023-02-03-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1 February 2023](2023-02-01-Infratestdimap.html) | Infratest dimap | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [25–31 January 2023](2023-01-31-Kantar.html) | Kantar | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [27–30 January 2023](2023-01-30-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
-| [24–30 January 2023](2023-01-30-Forsa.html) | Forsa | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [25–31 January 2023](2023-01-31-Kantar.html) | Kantar | 5 | 5 | 5 | 5 | 5 |
+| [27–30 January 2023](2023-01-30-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [24–30 January 2023](2023-01-30-Forsa.html) | Forsa | 6 | 6 | 6 | 6 | 5–6 |
 | [24–27 January 2023](2023-01-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [24–26 January 2023](2023-01-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
+| [24–26 January 2023](2023-01-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [18–24 January 2023](2023-01-24-Kantar.html) | Kantar |  |  |  |  |  |
 | [20–23 January 2023](2023-01-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [17–23 January 2023](2023-01-23-Forsa.html) | Forsa |  |  |  |  |  |
 | [16–21 January 2023](2023-01-21-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [17–18 January 2023](2023-01-18-Infratestdimap.html) | Infratest dimap | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [5–18 January 2023](2023-01-18-Allensbach.html) | Allensbach | 6 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [11–17 January 2023](2023-01-17-Kantar.html) | Kantar | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [13–16 January 2023](2023-01-16-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -2006,11 +2006,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 34% | 97% |  |
-| 6 | 44% | 63% | Median |
-| 7 | 17% | 19% |  |
-| 8 | 1.4% | 2% |  |
+| 4 | 4% | 100% |  |
+| 5 | 33% | 96% |  |
+| 6 | 46% | 63% | Median |
+| 7 | 15% | 17% |  |
+| 8 | 1.5% | 2% |  |
 | 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 
