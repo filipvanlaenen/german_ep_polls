@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | [14–16 March 2023](2023-03-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.6–2.8% |
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.7% | 1.0–3.0% |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.8–2.2% |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 1.8% | 1.4–2.2% | 1.4–2.4% | 1.3–2.5% | 1.1–2.7% |
-| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 1.4% | N/A | N/A | N/A | N/A |
-| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 1.6% | N/A | N/A | N/A | N/A |
+| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 1.4% | 1.1–1.8% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% |
+| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.1–2.4% | 0.9–2.6% |
 | [3–6 March 2023](2023-03-06-INSAandYouGov.html) | INSA and YouGov | 1.4% | N/A | N/A | N/A | N/A |
 | [6 March 2023](2023-03-06-Forsa.html) | Forsa | 1.8% | N/A | N/A | N/A | N/A |
-| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 1.6% | N/A | N/A | N/A | N/A |
+| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [3 March 2023](2023-03-03-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.5% |
 | [2 March 2023](2023-03-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.6–2.7% |
 | [1 March 2023](2023-03-01-Infratestdimap.html) | Infratest dimap | 1.8% | 1.4–2.3% | 1.2–2.5% | 1.2–2.6% | 1.0–2.9% |
@@ -1013,8 +1013,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 41% | 100% |  |
-| 1.5–2.5% | 57% | 59% | Median |
+| 0.5–1.5% | 44% | 100% |  |
+| 1.5–2.5% | 55% | 56% | Median |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -1032,11 +1032,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov |  |  |  |  |  |
-| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar |  |  |  |  |  |
+| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–6 March 2023](2023-03-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [6 March 2023](2023-03-06-Forsa.html) | Forsa |  |  |  |  |  |
-| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3 March 2023](2023-03-03-INSAandYouGov.html) | INSA and YouGov | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [2 March 2023](2023-03-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1 March 2023](2023-03-01-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -2031,10 +2031,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 27% | 99.2% | Last Result |
-| 2 | 71% | 72% | Median |
-| 3 | 2% | 2% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 36% | 99.5% | Last Result |
+| 2 | 62% | 63% | Median |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 

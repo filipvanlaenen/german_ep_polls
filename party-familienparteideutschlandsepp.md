@@ -15,11 +15,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.7% | 0.1–0.9% |
-| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 0.3% | N/A | N/A | N/A | N/A |
-| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 0.3% | N/A | N/A | N/A | N/A |
+| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.9% |
+| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% |
 | [3–6 March 2023](2023-03-06-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
 | [6 March 2023](2023-03-06-Forsa.html) | Forsa | 0.4% | N/A | N/A | N/A | N/A |
-| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 0.3% | N/A | N/A | N/A | N/A |
+| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [3 March 2023](2023-03-03-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
 | [2 March 2023](2023-03-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% |
 | [1 March 2023](2023-03-01-Infratestdimap.html) | Infratest dimap | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
@@ -1030,11 +1030,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov |  |  |  |  |  |
-| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar |  |  |  |  |  |
+| [3–7 March 2023](2023-03-07-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 March 2023](2023-03-07-Kantar.html) | Kantar | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–6 March 2023](2023-03-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [6 March 2023](2023-03-06-Forsa.html) | Forsa |  |  |  |  |  |
-| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [3–4 March 2023](2023-03-04-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3 March 2023](2023-03-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2 March 2023](2023-03-02-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1 March 2023](2023-03-01-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2029,9 +2029,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% | Last Result |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% | Last Result |
+| 2 | 0% | 0% |  |
 
 
