@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–17 March 2023](2023-03-17-INSAandYouGov.html) | INSA and YouGov | 16.0% | N/A | N/A | N/A | N/A |
 | [14–16 March 2023](2023-03-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.0% | 12.6–15.6% | 12.2–16.1% | 11.9–16.5% | 11.2–17.3% |
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 15.0% | 13.7–16.4% | 13.4–16.8% | 13.1–17.1% | 12.5–17.8% |
-| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 15.0% | N/A | N/A | N/A | N/A |
+| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 15.0% | 13.7–16.4% | 13.3–16.9% | 13.0–17.2% | 12.4–17.9% |
 | [8–14 March 2023](2023-03-14-Kantar.html) | Kantar | 15.0% | 13.9–16.3% | 13.5–16.6% | 13.2–17.0% | 12.7–17.6% |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.6% | 12.1–16.2% |
@@ -1029,15 +1029,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 2% | 99.8% |  |
 | 12.5–13.5% | 9% | 98% |  |
 | 13.5–14.5% | 23% | 89% |  |
-| 14.5–15.5% | 28% | 66% | Median |
+| 14.5–15.5% | 29% | 66% | Median |
 | 15.5–16.5% | 23% | 38% |  |
-| 16.5–17.5% | 12% | 16% |  |
-| 17.5–18.5% | 4% | 4% |  |
-| 18.5–19.5% | 0.5% | 0.6% |  |
+| 16.5–17.5% | 11% | 15% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.5% | 0.5% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -1055,7 +1055,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–17 March 2023](2023-03-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–16 March 2023](2023-03-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 13–15 | 12–15 | 11–15 | 11–16 |
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 14 | 13–16 | 13–16 | 13–16 | 11–17 |
-| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 15 | 12–15 | 12–16 | 12–17 | 12–18 |
 | [8–14 March 2023](2023-03-14-Kantar.html) | Kantar | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 14 | 14–15 | 14–16 | 14–17 | 14–17 |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
@@ -2070,13 +2070,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.7% | 100% |  |
-| 12 | 5% | 99.3% |  |
-| 13 | 24% | 94% |  |
-| 14 | 19% | 71% |  |
-| 15 | 26% | 51% | Median |
-| 16 | 22% | 26% |  |
+| 12 | 6% | 99.3% |  |
+| 13 | 21% | 94% |  |
+| 14 | 21% | 72% |  |
+| 15 | 28% | 51% | Median |
+| 16 | 20% | 24% |  |
 | 17 | 3% | 4% |  |
-| 18 | 0.7% | 0.7% |  |
+| 18 | 0.7% | 0.8% |  |
 | 19 | 0% | 0% |  |
 
 

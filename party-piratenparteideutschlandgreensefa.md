@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–17 March 2023](2023-03-17-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [14–16 March 2023](2023-03-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.1% |
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% |
-| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 0.2% | N/A | N/A | N/A | N/A |
+| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [8–14 March 2023](2023-03-14-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -1018,8 +1018,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 87% | 100% | Last Result, Median |
-| 0.5–1.5% | 13% | 13% |  |
+| 0.0–0.5% | 88% | 100% | Last Result, Median |
+| 0.5–1.5% | 12% | 12% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -1037,7 +1037,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–17 March 2023](2023-03-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–16 March 2023](2023-03-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–15 March 2023](2023-03-15-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [2–15 March 2023](2023-03-15-Allensbach.html) | Allensbach | 0 | 0 | 0 | 0–1 | 0–1 |
 | [8–14 March 2023](2023-03-14-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 March 2023](2023-03-13-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–13 March 2023](2023-03-13-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2041,8 +2041,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Median |
-| 1 | 30% | 30% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 
