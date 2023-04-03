@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [27–31 March 2023](2023-03-31-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [28–30 March 2023](2023-03-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [21–28 March 2023](2023-03-28-Kantar.html) | Kantar | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% |
+| [24–27 March 2023](2023-03-27-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
+| [21–27 March 2023](2023-03-27-Forsa.html) | Forsa | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.8% | 0.2–1.0% |
 | [20–24 March 2023](2023-03-24-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [14–21 March 2023](2023-03-21-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% |
 | [17–20 March 2023](2023-03-20-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -1020,8 +1025,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 83% | 100% | Last Result, Median |
-| 0.5–1.5% | 17% | 17% |  |
+| 0.0–0.5% | 80% | 100% | Last Result, Median |
+| 0.5–1.5% | 20% | 20% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -1034,6 +1039,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–31 March 2023](2023-03-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28–30 March 2023](2023-03-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–28 March 2023](2023-03-28-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–27 March 2023](2023-03-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [21–27 March 2023](2023-03-27-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 March 2023](2023-03-24-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–21 March 2023](2023-03-21-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 March 2023](2023-03-20-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2045,8 +2055,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Median |
-| 1 | 30% | 30% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 
