@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.7–8.6% | 5.4–9.0% | 5.1–9.3% | 4.7–9.9% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.7–8.5% | 5.4–8.9% | 5.1–9.2% | 4.7–9.8% |
+| [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [11–17 April 2023](2023-04-17-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [11–14 April 2023](2023-04-14-INSAandYouGov.html) | INSA and YouGov | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [11–12 April 2023](2023-04-12-Infratestdimap.html) | Infratest dimap | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [5–11 April 2023](2023-04-11-Kantar.html) | Kantar | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.5% | 6.2–10.0% |
@@ -1044,11 +1046,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.3% | 100% |  |
 | 4.5–5.5% | 7% | 99.7% |  |
-| 5.5–6.5% | 24% | 93% |  |
-| 6.5–7.5% | 32% | 69% | Median |
-| 7.5–8.5% | 26% | 37% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 1.3% | 1.3% |  |
+| 5.5–6.5% | 23% | 93% |  |
+| 6.5–7.5% | 33% | 70% | Median |
+| 7.5–8.5% | 27% | 37% |  |
+| 8.5–9.5% | 9% | 10% |  |
+| 9.5–10.5% | 1.0% | 1.0% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -1061,7 +1063,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 4–9 | 4–10 | 4–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 4–10 | 4–10 | 4–10 |
+| [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
+| [11–17 April 2023](2023-04-17-Forsa.html) | Forsa | 7 | 7 | 7 | 6–7 | 6–8 |
 | [11–14 April 2023](2023-04-14-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [11–12 April 2023](2023-04-12-Infratestdimap.html) | Infratest dimap | 7 | 6–7 | 5–7 | 5–7 | 5–9 |
 | [5–11 April 2023](2023-04-11-Kantar.html) | Kantar | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -2095,12 +2099,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 6% | 100% |  |
-| 5 | 6% | 94% |  |
-| 6 | 29% | 89% |  |
-| 7 | 35% | 60% | Median |
-| 8 | 18% | 24% |  |
-| 9 | 2% | 6% |  |
-| 10 | 4% | 4% |  |
+| 5 | 4% | 94% |  |
+| 6 | 21% | 90% |  |
+| 7 | 44% | 69% | Median |
+| 8 | 17% | 26% |  |
+| 9 | 3% | 9% |  |
+| 10 | 6% | 6% |  |
 | 11 | 0% | 0% |  |
 
 
