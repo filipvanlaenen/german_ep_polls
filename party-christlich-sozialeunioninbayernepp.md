@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
+| [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
+| [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov | 6.2% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.8% | 6.0–7.8% | 5.7–8.1% | 5.5–8.3% | 5.2–8.8% |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 6.3% | 5.6–7.2% | 5.3–7.5% | 5.2–7.7% | 4.8–8.2% |
 | [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
@@ -1049,7 +1051,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.3% | 100% |  |
 | 4.5–5.5% | 10% | 99.7% |  |
 | 5.5–6.5% | 48% | 89% | Median |
-| 6.5–7.5% | 34% | 41% |  |
+| 6.5–7.5% | 34% | 42% |  |
 | 7.5–8.5% | 7% | 7% |  |
 | 8.5–9.5% | 0.5% | 0.5% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -1064,6 +1066,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 7 | 7 | 7 | 6–7 | 5–7 |
 | [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -2100,11 +2104,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 14% | 99.7% |  |
-| 6 | 42% | 86% | Median |
-| 7 | 43% | 44% |  |
-| 8 | 0.6% | 0.6% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 17% | 99.6% |  |
+| 6 | 43% | 83% | Median |
+| 7 | 40% | 40% |  |
+| 8 | 0.5% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
 
