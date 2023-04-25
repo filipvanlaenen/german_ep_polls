@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
+| [18–24 April 2023](2023-04-24-Forsa.html) | Forsa | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
 | [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov | 6.2% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.8% | 6.0–7.8% | 5.7–8.1% | 5.5–8.3% | 5.2–8.8% |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 6.3% | 5.6–7.2% | 5.3–7.5% | 5.2–7.7% | 4.8–8.2% |
@@ -1050,8 +1051,8 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.3% | 100% |  |
 | 4.5–5.5% | 10% | 99.7% |  |
-| 5.5–6.5% | 48% | 89% | Median |
-| 6.5–7.5% | 34% | 42% |  |
+| 5.5–6.5% | 47% | 90% | Median |
+| 6.5–7.5% | 36% | 43% |  |
 | 7.5–8.5% | 7% | 7% |  |
 | 8.5–9.5% | 0.5% | 0.5% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -1067,6 +1068,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [18–24 April 2023](2023-04-24-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 7 | 7 | 7 | 6–7 | 5–7 |
@@ -2105,10 +2107,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.4% | 100% |  |
-| 5 | 17% | 99.6% |  |
-| 6 | 43% | 83% | Median |
-| 7 | 40% | 40% |  |
-| 8 | 0.5% | 0.6% |  |
+| 5 | 15% | 99.6% |  |
+| 6 | 36% | 85% | Median |
+| 7 | 48% | 49% |  |
+| 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
 
