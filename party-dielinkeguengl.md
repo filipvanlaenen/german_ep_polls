@@ -10,12 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.6% | 3.3–6.1% | 3.1–6.5% | 2.8–7.1% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.7% | 3.5–6.0% | 3.4–6.3% | 3.1–6.8% |
+| [2–4 May 2023](2023-05-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.1% | 4.2–6.1% | 4.0–6.5% | 3.8–6.7% | 3.4–7.3% |
+| [2–3 May 2023](2023-05-03-Infratestdimap.html) | Infratest dimap | 5.0% | 4.3–5.9% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [2 May 2023](2023-05-02-Kantar.html) | Kantar | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
+| [2 May 2023](2023-05-02-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
+| [24–28 April 2023](2023-04-28-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
+| [25–28 April 2023](2023-04-28-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
+| [18–25 April 2023](2023-04-25-Kantar.html) | Kantar | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.7% |
 | [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [18–24 April 2023](2023-04-24-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.1–5.3% | 2.8–5.7% |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 4.0% | 3.4–4.7% | 3.2–5.0% | 3.1–5.1% | 2.8–5.5% |
+| [3–18 April 2023](2023-04-18-Allensbach.html) | Allensbach | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [11–17 April 2023](2023-04-17-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [11–14 April 2023](2023-04-14-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% | 3.6–6.8% |
@@ -1047,13 +1055,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 13% | 99.9% |  |
-| 3.5–4.5% | 54% | 87% | Median |
-| 4.5–5.5% | 22% | 32% |  |
-| 5.5–6.5% | 8% | 10% |  |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 43% | 95% |  |
+| 4.5–5.5% | 39% | 52% | Median |
+| 5.5–6.5% | 11% | 13% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -1065,12 +1073,20 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
+| [2–4 May 2023](2023-05-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 4–8 |
+| [2–3 May 2023](2023-05-03-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–5 | 4–6 | 4–7 |
+| [2 May 2023](2023-05-02-Kantar.html) | Kantar | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [2 May 2023](2023-05-02-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 4–5 | 4–5 | 4–6 |
+| [24–28 April 2023](2023-04-28-INSAandYouGov.html) | INSA and YouGov | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [25–28 April 2023](2023-04-28-Forsa.html) | Forsa | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [18–25 April 2023](2023-04-25-Kantar.html) | Kantar | 5 | 5 | 5 | 5 | 4–5 |
 | [21–24 April 2023](2023-04-24-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–24 April 2023](2023-04-24-Forsa.html) | Forsa | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [17–21 April 2023](2023-04-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4 | 4 | 4 | 3–5 |
 | [12–18 April 2023](2023-04-18-Kantar.html) | Kantar | 4 | 4 | 4 | 4 | 3–4 |
+| [3–18 April 2023](2023-04-18-Allensbach.html) | Allensbach | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [14–17 April 2023](2023-04-17-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [11–17 April 2023](2023-04-17-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [11–14 April 2023](2023-04-14-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -2103,12 +2119,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.1% | 100% |  |
-| 3 | 13% | 99.9% |  |
-| 4 | 58% | 87% | Median |
-| 5 | 19% | 29% |  |
-| 6 | 9% | 9% |  |
-| 7 | 0.2% | 0.2% |  |
-| 8 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 16% | 100% |  |
+| 4 | 40% | 84% | Median |
+| 5 | 31% | 44% |  |
+| 6 | 12% | 13% |  |
+| 7 | 1.4% | 2% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
