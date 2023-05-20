@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.7–17.7% | 14.2–18.1% | 13.8–18.5% | 13.0–19.2% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.5–17.6% | 14.0–18.0% | 13.5–18.4% | 12.7–19.2% |
 | [12–15 May 2023](2023-05-15-INSAandYouGov.html) | INSA and YouGov | 16.5% | 15.5–17.6% | 15.2–17.9% | 15.0–18.2% | 14.5–18.7% |
 | [9–15 May 2023](2023-05-15-Forsa.html) | Forsa | 16.0% | 15.1–17.0% | 14.8–17.2% | 14.6–17.5% | 14.2–18.0% |
 | [8–12 May 2023](2023-05-12-INSAandYouGov.html) | INSA and YouGov | 16.0% | N/A | N/A | N/A | N/A |
 | [9–10 May 2023](2023-05-10-Infratestdimap.html) | Infratest dimap | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
+| [10 May 2023](2023-05-10-Allensbach.html) | Allensbach | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [5–9 May 2023](2023-05-09-YouGov.html) | YouGov | 17.4% | 16.2–18.6% | 15.9–18.9% | 15.6–19.2% | 15.1–19.8% |
 | [3–9 May 2023](2023-05-09-Kantar.html) | Kantar | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.6–18.7% |
 | [5–8 May 2023](2023-05-08-INSAandYouGov.html) | INSA and YouGov | 16.5% | N/A | N/A | N/A | N/A |
@@ -1075,13 +1076,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 1.4% | 99.8% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 21% | 92% |  |
-| 15.5–16.5% | 34% | 71% | Median |
-| 16.5–17.5% | 25% | 37% |  |
-| 17.5–18.5% | 10% | 12% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 2% | 99.7% |  |
+| 13.5–14.5% | 9% | 97% |  |
+| 14.5–15.5% | 22% | 89% |  |
+| 15.5–16.5% | 33% | 67% | Median |
+| 16.5–17.5% | 23% | 34% |  |
+| 17.5–18.5% | 9% | 11% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.2% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -1095,11 +1096,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 13–18 |
 | [12–15 May 2023](2023-05-15-INSAandYouGov.html) | INSA and YouGov | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [9–15 May 2023](2023-05-15-Forsa.html) | Forsa | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [8–12 May 2023](2023-05-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–10 May 2023](2023-05-10-Infratestdimap.html) | Infratest dimap | 15 | 15–16 | 14–16 | 14–17 | 12–17 |
+| [10 May 2023](2023-05-10-Allensbach.html) | Allensbach | 14 | 14 | 14 | 14–15 | 13–15 |
 | [5–9 May 2023](2023-05-09-YouGov.html) | YouGov | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [3–9 May 2023](2023-05-09-Kantar.html) | Kantar | 15 | 15–16 | 15–16 | 15–16 | 14–17 |
 | [5–8 May 2023](2023-05-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2162,13 +2164,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
 | 12 | 0.4% | 99.9% |  |
-| 13 | 7% | 99.5% |  |
-| 14 | 7% | 93% |  |
-| 15 | 36% | 85% | Median |
-| 16 | 24% | 49% |  |
-| 17 | 16% | 25% |  |
-| 18 | 8% | 9% |  |
-| 19 | 1.1% | 1.1% |  |
+| 13 | 6% | 99.5% |  |
+| 14 | 18% | 93% |  |
+| 15 | 37% | 75% | Median |
+| 16 | 18% | 38% |  |
+| 17 | 13% | 20% |  |
+| 18 | 7% | 7% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
 
