@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–22 May 2023](2023-05-22-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [16–22 May 2023](2023-05-22-Forsa.html) | Forsa | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.2–0.7% | 0.1–0.9% |
 | [15–19 May 2023](2023-05-19-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
-| [9–16 May 2023](2023-05-16-Kantar.html) | Kantar | 0.3% | N/A | N/A | N/A | N/A |
+| [9–16 May 2023](2023-05-16-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [12–15 May 2023](2023-05-15-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [9–15 May 2023](2023-05-15-Forsa.html) | Forsa | 0.4% | 0.2–0.6% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
 | [8–12 May 2023](2023-05-12-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
@@ -1085,7 +1085,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [19–22 May 2023](2023-05-22-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [16–22 May 2023](2023-05-22-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–19 May 2023](2023-05-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [9–16 May 2023](2023-05-16-Kantar.html) | Kantar |  |  |  |  |  |
+| [9–16 May 2023](2023-05-16-Kantar.html) | Kantar | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–15 May 2023](2023-05-15-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
 | [9–15 May 2023](2023-05-15-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 May 2023](2023-05-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2141,8 +2141,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Median |
-| 1 | 35% | 35% | Last Result |
+| 0 | 58% | 100% | Median |
+| 1 | 42% | 42% | Last Result |
 | 2 | 0% | 0% |  |
 
 
