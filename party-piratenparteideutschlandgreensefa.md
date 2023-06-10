@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [2 June 2023](2023-06-02-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [30–31 May 2023](2023-05-31-Infratestdimap.html) | Infratest dimap | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
-| [23–30 May 2023](2023-05-30-Kantar.html) | Kantar | 0.3% | N/A | N/A | N/A | N/A |
+| [23–30 May 2023](2023-05-30-Kantar.html) | Kantar | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [26–30 May 2023](2023-05-30-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [22–26 May 2023](2023-05-26-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [23–26 May 2023](2023-05-26-Forsa.html) | Forsa | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% |
@@ -1102,7 +1102,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2 June 2023](2023-06-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [30–31 May 2023](2023-05-31-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–30 May 2023](2023-05-30-Kantar.html) | Kantar |  |  |  |  |  |
+| [23–30 May 2023](2023-05-30-Kantar.html) | Kantar | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 May 2023](2023-05-30-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [22–26 May 2023](2023-05-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [23–26 May 2023](2023-05-26-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
