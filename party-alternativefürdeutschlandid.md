@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.9–21.3% | 17.5–21.7% | 17.1–22.1% | 16.4–22.8% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.2–21.3% | 16.5–21.7% | 16.0–22.1% | 15.0–22.8% |
+| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap | 20.0% | N/A | N/A | N/A | N/A |
 | [3 July 2023](2023-07-03-INSAandYouGov.html) | INSA and YouGov | 21.0% | 20.0–22.0% | 19.8–22.3% | 19.5–22.5% | 19.1–23.0% |
 | [3 July 2023](2023-07-03-GMS.html) | GMS | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [3 July 2023](2023-07-03-Forsa.html) | Forsa | 19.0% | 17.8–20.2% | 17.5–20.5% | 17.3–20.8% | 16.7–21.4% |
@@ -20,7 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–26 June 2023](2023-06-26-INSAandYouGov.html) | INSA and YouGov | 20.5% | 19.4–21.7% | 19.1–22.0% | 18.8–22.3% | 18.3–22.9% |
 | [20–26 June 2023](2023-06-26-Forsa.html) | Forsa | 19.0% | 17.9–20.2% | 17.5–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [19–23 June 2023](2023-06-23-INSAandYouGov.html) | INSA and YouGov | 20.0% | N/A | N/A | N/A | N/A |
-| [9–22 June 2023](2023-06-22-Allensbach.html) | Allensbach | 17.0% | N/A | N/A | N/A | N/A |
+| [9–22 June 2023](2023-06-22-Allensbach.html) | Allensbach | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.9–19.4% | 14.2–20.2% |
 | [20–21 June 2023](2023-06-21-Infratestdimap.html) | Infratest dimap | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.8–21.3% | 16.2–22.1% |
 | [14–20 June 2023](2023-06-20-Kantar.html) | Kantar | 20.0% | 18.7–21.4% | 18.3–21.8% | 18.0–22.2% | 17.4–22.9% |
 | [16–19 June 2023](2023-06-19-INSAandYouGov.html) | INSA and YouGov | 20.0% | 18.9–21.2% | 18.6–21.6% | 18.3–21.8% | 17.8–22.4% |
@@ -1116,16 +1117,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.7% | 100% |  |
-| 16.5–17.5% | 5% | 99.3% |  |
-| 17.5–18.5% | 17% | 94% |  |
-| 18.5–19.5% | 28% | 77% |  |
-| 19.5–20.5% | 26% | 50% | Median |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 1.1% | 99.8% |  |
+| 15.5–16.5% | 4% | 98.7% |  |
+| 16.5–17.5% | 8% | 95% |  |
+| 17.5–18.5% | 16% | 87% |  |
+| 18.5–19.5% | 24% | 71% | Median |
+| 19.5–20.5% | 23% | 47% |  |
 | 20.5–21.5% | 17% | 24% |  |
 | 21.5–22.5% | 6% | 7% |  |
-| 22.5–23.5% | 0.8% | 0.8% |  |
+| 22.5–23.5% | 0.8% | 0.9% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -1138,7 +1139,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–22 | 15–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
+| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [3 July 2023](2023-07-03-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [3 July 2023](2023-07-03-GMS.html) | GMS | 19 | 18–23 | 17–23 | 17–24 | 16–24 |
 | [3 July 2023](2023-07-03-Forsa.html) | Forsa | 18 | 17–19 | 17–19 | 17–19 | 15–21 |
@@ -1148,7 +1150,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–26 June 2023](2023-06-26-INSAandYouGov.html) | INSA and YouGov | 19 | 18–22 | 18–22 | 18–22 | 18–22 |
 | [20–26 June 2023](2023-06-26-Forsa.html) | Forsa | 18 | 18 | 18–19 | 18–19 | 17–19 |
 | [19–23 June 2023](2023-06-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [9–22 June 2023](2023-06-22-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [9–22 June 2023](2023-06-22-Allensbach.html) | Allensbach | 17 | 17 | 15–17 | 15–17 | 15–18 |
 | [20–21 June 2023](2023-06-21-Infratestdimap.html) | Infratest dimap | 17 | 17–19 | 16–19 | 16–20 | 15–21 |
 | [14–20 June 2023](2023-06-20-Kantar.html) | Kantar | 19 | 18–21 | 17–21 | 17–21 | 17–21 |
 | [16–19 June 2023](2023-06-19-INSAandYouGov.html) | INSA and YouGov | 18 | 18–19 | 18–20 | 17–20 | 17–21 |
@@ -2245,17 +2247,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 0.5% | 99.8% |  |
-| 16 | 3% | 99.3% |  |
-| 17 | 17% | 96% |  |
-| 18 | 26% | 79% |  |
-| 19 | 24% | 53% | Median |
-| 20 | 20% | 29% |  |
-| 21 | 4% | 9% |  |
-| 22 | 3% | 5% |  |
-| 23 | 0.9% | 1.3% |  |
-| 24 | 0.4% | 0.4% |  |
+| 14 | 0% | 100% |  |
+| 15 | 1.1% | 100% |  |
+| 16 | 2% | 98.9% |  |
+| 17 | 23% | 97% |  |
+| 18 | 23% | 73% |  |
+| 19 | 21% | 50% | Median |
+| 20 | 19% | 29% |  |
+| 21 | 5% | 10% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.1% | 2% |  |
+| 24 | 0.5% | 0.5% |  |
 | 25 | 0% | 0% |  |
 
 
