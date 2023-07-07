@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
-| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap | 0.5% | N/A | N/A | N/A | N/A |
+| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
 | [3 July 2023](2023-07-03-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.4–0.7% | 0.3–0.8% | 0.3–0.8% | 0.2–0.9% |
 | [3 July 2023](2023-07-03-GMS.html) | GMS | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [3 July 2023](2023-07-03-Forsa.html) | Forsa | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
@@ -1103,8 +1103,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% | Last Result |
-| 0.5–1.5% | 52% | 52% | Median |
+| 0.0–0.5% | 47% | 100% | Last Result |
+| 0.5–1.5% | 52% | 53% | Median |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -1118,7 +1118,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [3–5 July 2023](2023-07-05-Infratestdimap.html) | Infratest dimap | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3 July 2023](2023-07-03-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3 July 2023](2023-07-03-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3 July 2023](2023-07-03-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
@@ -2212,8 +2212,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 69% | 69% | Last Result, Median |
+| 0 | 30% | 100% |  |
+| 1 | 70% | 70% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
