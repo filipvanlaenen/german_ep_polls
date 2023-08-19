@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.6–6.2% | 3.4–6.6% | 3.2–6.9% | 2.8–7.4% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.6–6.2% | 3.4–6.6% | 3.2–6.9% | 2.9–7.4% |
+| [15–17 August 2023](2023-08-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.6% | 3.5–7.1% |
+| [15–16 August 2023](2023-08-16-Infratestdimap.html) | Infratest dimap | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.7% |
 | [11–14 August 2023](2023-08-14-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
+| [8–14 August 2023](2023-08-14-Forsa.html) | Forsa | 4.0% | 3.5–4.7% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [7–11 August 2023](2023-08-11-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [2–9 August 2023](2023-08-09-GMS.html) | GMS | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [2–8 August 2023](2023-08-08-Kantar.html) | Kantar | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
@@ -1139,10 +1142,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 9% | 99.9% |  |
-| 3.5–4.5% | 41% | 91% |  |
-| 4.5–5.5% | 26% | 50% | Median |
-| 5.5–6.5% | 18% | 24% |  |
+| 2.5–3.5% | 8% | 99.9% |  |
+| 3.5–4.5% | 39% | 92% |  |
+| 4.5–5.5% | 29% | 53% | Median |
+| 5.5–6.5% | 19% | 24% |  |
 | 6.5–7.5% | 5% | 5% |  |
 | 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -1156,8 +1159,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–7 | 3–7 | 3–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
+| [15–17 August 2023](2023-08-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–6 | 3–6 | 3–7 | 3–7 |
+| [15–16 August 2023](2023-08-16-Infratestdimap.html) | Infratest dimap | 4 | 4 | 4 | 3–4 | 3–5 |
 | [11–14 August 2023](2023-08-14-INSAandYouGov.html) | INSA and YouGov | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [8–14 August 2023](2023-08-14-Forsa.html) | Forsa | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [7–11 August 2023](2023-08-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–9 August 2023](2023-08-09-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [2–8 August 2023](2023-08-08-Kantar.html) | Kantar | 6 | 6 | 5–6 | 5–6 | 5–7 |
@@ -2286,12 +2292,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0.1% | 100% |  |
-| 3 | 18% | 99.9% |  |
-| 4 | 36% | 82% | Median |
-| 5 | 16% | 46% |  |
-| 6 | 20% | 30% |  |
-| 7 | 10% | 10% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 3 | 12% | 99.9% |  |
+| 4 | 45% | 88% | Median |
+| 5 | 12% | 43% |  |
+| 6 | 22% | 31% |  |
+| 7 | 9% | 9% |  |
+| 8 | 0% | 0% |  |
 
 
