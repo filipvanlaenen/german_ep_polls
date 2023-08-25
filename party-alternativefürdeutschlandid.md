@@ -1139,8 +1139,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
-| [31 July 2023](2023-07-31-INSAandYouGov.html) | INSA and YouGov | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
+| N/A | [Poll Average](average.html) | 21 | 21–22 | 21–22 | 21–23 | 19–24 |
+| [31 July 2023](2023-07-31-INSAandYouGov.html) | INSA and YouGov | 21 | 21–22 | 21–22 | 21–23 | 19–24 |
 | [26–30 June 2023](2023-06-30-INSAandYouGov.html) | INSA and YouGov | 18 | 18–19 | 17–20 | 17–21 | 16–22 |
 | [27–29 June 2023](2023-06-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 16–20 | 16–20 | 16–20 | 16–20 |
 | [20–27 June 2023](2023-06-27-Kantar.html) | Kantar | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
@@ -2248,14 +2248,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.6% | 100% |  |
-| 19 | 7% | 99.4% |  |
-| 20 | 3% | 92% |  |
-| 21 | 65% | 89% | Median |
-| 22 | 4% | 24% |  |
-| 23 | 16% | 20% |  |
-| 24 | 3% | 3% |  |
-| 25 | 0.5% | 0.5% |  |
+| 18 | 0.4% | 100% |  |
+| 19 | 0.9% | 99.5% |  |
+| 20 | 0.6% | 98.7% |  |
+| 21 | 68% | 98% | Median |
+| 22 | 26% | 30% |  |
+| 23 | 3% | 4% |  |
+| 24 | 0.5% | 0.6% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
