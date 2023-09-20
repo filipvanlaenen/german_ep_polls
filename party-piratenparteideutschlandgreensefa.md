@@ -11,8 +11,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.6% |
+| [15–18 September 2023](2023-09-18-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
+| [13–18 September 2023](2023-09-18-GMS.html) | GMS | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
+| [12–18 September 2023](2023-09-18-Forsa.html) | Forsa | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
+| [11–15 September 2023](2023-09-15-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
 | [12–14 September 2023](2023-09-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [12–13 September 2023](2023-09-13-Infratestdimap.html) | Infratest dimap | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [6–12 September 2023](2023-09-12-Kantar.html) | Kantar | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
 | [8–11 September 2023](2023-09-11-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [5–11 September 2023](2023-09-11-Forsa.html) | Forsa | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% |
 | [4–8 September 2023](2023-09-08-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
@@ -1173,9 +1178,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–18 September 2023](2023-09-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
+| [13–18 September 2023](2023-09-18-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0 |
+| [12–18 September 2023](2023-09-18-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0 |
+| [11–15 September 2023](2023-09-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [12–14 September 2023](2023-09-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0 | 0 |
 | [12–13 September 2023](2023-09-13-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0 | 0–1 |
+| [6–12 September 2023](2023-09-12-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [8–11 September 2023](2023-09-11-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [5–11 September 2023](2023-09-11-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
 | [4–8 September 2023](2023-09-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2325,8 +2335,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Median |
-| 1 | 5% | 5% | Last Result |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0.2% | 0.2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
