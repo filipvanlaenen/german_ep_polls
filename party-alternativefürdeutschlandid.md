@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 19.6–23.4% | 18.8–24.0% | 18.1–24.5% | 17.0–25.4% |
+| N/A | [Poll Average](average.html) | 21.4% | 19.5–23.3% | 18.8–23.9% | 18.1–24.4% | 17.0–25.4% |
+| [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.7% | 20.0–23.1% | 19.8–23.4% | 19.2–24.0% |
+| [19–25 September 2023](2023-09-25-Forsa.html) | Forsa | 21.0% | 20.0–22.1% | 19.7–22.4% | 19.5–22.7% | 19.0–23.2% |
+| [18–22 September 2023](2023-09-22-INSAandYouGov.html) | INSA and YouGov | 22.0% | N/A | N/A | N/A | N/A |
+| [13–19 September 2023](2023-09-19-Kantar.html) | Kantar | 21.0% | 19.7–22.5% | 19.3–22.9% | 18.9–23.3% | 18.3–24.0% |
 | [15–18 September 2023](2023-09-18-INSAandYouGov.html) | INSA and YouGov | 21.0% | 19.9–22.2% | 19.6–22.6% | 19.3–22.9% | 18.7–23.4% |
 | [13–18 September 2023](2023-09-18-GMS.html) | GMS | 23.0% | 21.3–24.7% | 20.9–25.2% | 20.5–25.7% | 19.7–26.5% |
 | [12–18 September 2023](2023-09-18-Forsa.html) | Forsa | 22.0% | 21.0–23.1% | 20.7–23.4% | 20.4–23.7% | 19.9–24.2% |
@@ -1185,15 +1189,15 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0.2% | 100% |  |
 | 16.5–17.5% | 1.0% | 99.8% |  |
 | 17.5–18.5% | 3% | 98.9% |  |
-| 18.5–19.5% | 6% | 96% |  |
-| 19.5–20.5% | 13% | 90% |  |
-| 20.5–21.5% | 24% | 77% |  |
-| 21.5–22.5% | 27% | 52% | Median |
-| 22.5–23.5% | 17% | 26% |  |
-| 23.5–24.5% | 7% | 9% |  |
+| 18.5–19.5% | 7% | 96% |  |
+| 19.5–20.5% | 16% | 89% |  |
+| 20.5–21.5% | 27% | 73% | Median |
+| 21.5–22.5% | 24% | 46% |  |
+| 22.5–23.5% | 14% | 22% |  |
+| 23.5–24.5% | 6% | 8% |  |
 | 24.5–25.5% | 2% | 2% |  |
 | 25.5–26.5% | 0.3% | 0.4% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -1205,7 +1209,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–23 | 17–23 | 17–23 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–23 | 17–23 | 17–23 | 16–23 |
+| [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 22 | 21–23 | 20–23 | 19–23 | 18–23 |
+| [19–25 September 2023](2023-09-25-Forsa.html) | Forsa | 20 | 20 | 20 | 20–21 | 19–22 |
+| [18–22 September 2023](2023-09-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [13–19 September 2023](2023-09-19-Kantar.html) | Kantar | 20 | 20 | 20–21 | 20–21 | 19–22 |
 | [15–18 September 2023](2023-09-18-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 20 | 20–21 | 19–21 |
 | [13–18 September 2023](2023-09-18-GMS.html) | GMS | 23 | 23 | 23 | 23 | 23 |
 | [12–18 September 2023](2023-09-18-Forsa.html) | Forsa | 22 | 19–22 | 19–22 | 19–22 | 19–22 |
@@ -2381,12 +2389,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.8% | 99.9% |  |
 | 17 | 6% | 99.1% |  |
 | 18 | 5% | 93% |  |
-| 19 | 13% | 89% |  |
-| 20 | 23% | 76% |  |
-| 21 | 22% | 53% | Median |
-| 22 | 19% | 31% |  |
-| 23 | 12% | 12% |  |
-| 24 | 0.3% | 0.3% |  |
+| 19 | 12% | 89% |  |
+| 20 | 33% | 77% | Median |
+| 21 | 17% | 44% |  |
+| 22 | 11% | 27% |  |
+| 23 | 15% | 16% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 
