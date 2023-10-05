@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.5–23.3% | 18.8–23.9% | 18.1–24.4% | 17.0–25.4% |
+| N/A | [Poll Average](average.html) | 21.4% | 19.3–23.4% | 18.6–23.9% | 18.1–24.4% | 17.0–25.4% |
+| [2 October 2023](2023-10-02-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
+| [25–29 September 2023](2023-09-29-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.5–23.6% | 20.1–24.0% | 19.7–24.4% | 19.0–25.2% |
+| [26–29 September 2023](2023-09-29-Forsa.html) | Forsa | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
+| [25–27 September 2023](2023-09-27-Infratestdimap.html) | Infratest dimap | 22.0% | 20.5–23.5% | 20.1–23.9% | 19.8–24.3% | 19.1–25.0% |
+| [20–26 September 2023](2023-09-26-Kantar.html) | Kantar | 21.0% | 19.6–22.5% | 19.3–22.9% | 18.9–23.3% | 18.3–24.0% |
 | [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.4–22.7% | 20.0–23.1% | 19.8–23.4% | 19.2–24.0% |
 | [19–25 September 2023](2023-09-25-Forsa.html) | Forsa | 21.0% | 20.0–22.1% | 19.7–22.4% | 19.5–22.7% | 19.0–23.2% |
 | [18–22 September 2023](2023-09-22-INSAandYouGov.html) | INSA and YouGov | 22.0% | N/A | N/A | N/A | N/A |
@@ -1188,12 +1193,12 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
 | 16.5–17.5% | 1.0% | 99.8% |  |
-| 17.5–18.5% | 3% | 98.9% |  |
-| 18.5–19.5% | 7% | 96% |  |
-| 19.5–20.5% | 16% | 89% |  |
-| 20.5–21.5% | 27% | 73% | Median |
-| 21.5–22.5% | 24% | 46% |  |
-| 22.5–23.5% | 14% | 22% |  |
+| 17.5–18.5% | 3% | 98.8% |  |
+| 18.5–19.5% | 9% | 95% |  |
+| 19.5–20.5% | 17% | 87% |  |
+| 20.5–21.5% | 24% | 69% | Median |
+| 21.5–22.5% | 23% | 46% |  |
+| 22.5–23.5% | 15% | 23% |  |
 | 23.5–24.5% | 6% | 8% |  |
 | 24.5–25.5% | 2% | 2% |  |
 | 25.5–26.5% | 0.3% | 0.4% |  |
@@ -1210,6 +1215,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 17–23 | 17–23 | 16–23 |
+| [2 October 2023](2023-10-02-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 20–22 | 19–22 | 18–23 |
+| [25–29 September 2023](2023-09-29-INSAandYouGov.html) | INSA and YouGov | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
+| [26–29 September 2023](2023-09-29-Forsa.html) | Forsa | 18 | 17–20 | 17–20 | 17–21 | 17–21 |
+| [25–27 September 2023](2023-09-27-Infratestdimap.html) | Infratest dimap | 20 | 19–20 | 19–21 | 19–23 | 17–23 |
+| [20–26 September 2023](2023-09-26-Kantar.html) | Kantar | 19 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 22 | 21–23 | 20–23 | 19–23 | 18–23 |
 | [19–25 September 2023](2023-09-25-Forsa.html) | Forsa | 20 | 20 | 20 | 20–21 | 19–22 |
 | [18–22 September 2023](2023-09-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2387,13 +2397,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 0.8% | 99.9% |  |
-| 17 | 6% | 99.1% |  |
-| 18 | 5% | 93% |  |
-| 19 | 12% | 89% |  |
-| 20 | 33% | 77% | Median |
-| 21 | 17% | 44% |  |
-| 22 | 11% | 27% |  |
-| 23 | 15% | 16% |  |
+| 17 | 8% | 99.1% |  |
+| 18 | 14% | 92% |  |
+| 19 | 20% | 77% |  |
+| 20 | 17% | 58% | Median |
+| 21 | 16% | 40% |  |
+| 22 | 13% | 25% |  |
+| 23 | 12% | 12% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
