@@ -10,10 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 15.2–18.6% | 14.8–19.1% | 14.4–19.5% | 13.7–20.3% |
+| N/A | [Poll Average](average.html) | 16.9% | 15.3–18.5% | 14.8–19.0% | 14.5–19.4% | 13.8–20.3% |
+| [6–9 October 2023](2023-10-09-INSAandYouGov.html) | INSA and YouGov | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
+| [4–9 October 2023](2023-10-09-Forsa.html) | Forsa | 18.0% | 16.9–19.2% | 16.7–19.5% | 16.4–19.8% | 15.9–20.3% |
+| [6–8 October 2023](2023-10-08-Ipsos.html) | Ipsos | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
+| [2–6 October 2023](2023-10-06-INSAandYouGov.html) | INSA and YouGov | 17.0% | N/A | N/A | N/A | N/A |
 | [2 October 2023](2023-10-02-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.9–19.2% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [25–29 September 2023](2023-09-29-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.3–21.0% |
 | [26–29 September 2023](2023-09-29-Forsa.html) | Forsa | 18.0% | 16.9–19.2% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
+| [26–28 September 2023](2023-09-28-Kantar.html) | Kantar | 16.0% | 14.8–17.4% | 14.5–17.7% | 14.2–18.1% | 13.6–18.7% |
 | [25–27 September 2023](2023-09-27-Infratestdimap.html) | Infratest dimap | 16.0% | 14.7–17.3% | 14.4–17.7% | 14.1–18.1% | 13.5–18.7% |
 | [20–26 September 2023](2023-09-26-Kantar.html) | Kantar | 16.0% | 14.8–17.3% | 14.4–17.7% | 14.1–18.1% | 13.6–18.7% |
 | [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 17.5% | 16.5–18.7% | 16.2–19.0% | 15.9–19.3% | 15.4–19.8% |
@@ -1190,11 +1195,11 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.3% | 100% |  |
 | 13.5–14.5% | 3% | 99.7% |  |
-| 14.5–15.5% | 13% | 97% |  |
-| 15.5–16.5% | 24% | 84% |  |
-| 16.5–17.5% | 27% | 59% | Median |
-| 17.5–18.5% | 21% | 33% |  |
-| 18.5–19.5% | 9% | 11% |  |
+| 14.5–15.5% | 11% | 97% |  |
+| 15.5–16.5% | 25% | 86% |  |
+| 16.5–17.5% | 30% | 61% | Median |
+| 17.5–18.5% | 21% | 31% |  |
+| 18.5–19.5% | 8% | 10% |  |
 | 19.5–20.5% | 2% | 2% |  |
 | 20.5–21.5% | 0.3% | 0.3% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -1208,10 +1213,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
+| [6–9 October 2023](2023-10-09-INSAandYouGov.html) | INSA and YouGov | 14 | 14–17 | 14–18 | 14–18 | 14–18 |
+| [4–9 October 2023](2023-10-09-Forsa.html) | Forsa | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [6–8 October 2023](2023-10-08-Ipsos.html) | Ipsos | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [2–6 October 2023](2023-10-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 October 2023](2023-10-02-INSAandYouGov.html) | INSA and YouGov | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [25–29 September 2023](2023-09-29-INSAandYouGov.html) | INSA and YouGov | 17 | 15–18 | 15–19 | 15–19 | 14–22 |
 | [26–29 September 2023](2023-09-29-Forsa.html) | Forsa | 16 | 16–18 | 16–18 | 16–20 | 16–20 |
+| [26–28 September 2023](2023-09-28-Kantar.html) | Kantar | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [25–27 September 2023](2023-09-27-Infratestdimap.html) | Infratest dimap | 16 | 16–18 | 16–18 | 16–18 | 14–18 |
 | [20–26 September 2023](2023-09-26-Kantar.html) | Kantar | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
 | [22–25 September 2023](2023-09-25-INSAandYouGov.html) | INSA and YouGov | 16 | 16–19 | 16–19 | 16–19 | 15–19 |
@@ -2387,14 +2397,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 6% | 99.8% |  |
-| 15 | 16% | 94% |  |
-| 16 | 52% | 78% | Median |
-| 17 | 16% | 26% |  |
-| 18 | 8% | 10% |  |
-| 19 | 1.4% | 2% |  |
-| 20 | 0.4% | 0.4% |  |
+| 13 | 0.9% | 100% |  |
+| 14 | 11% | 99.1% |  |
+| 15 | 15% | 89% |  |
+| 16 | 44% | 74% | Median |
+| 17 | 18% | 30% |  |
+| 18 | 11% | 12% |  |
+| 19 | 0.9% | 0.9% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
