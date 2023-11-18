@@ -40,7 +40,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 1 | 24 | 23–25 |22–25 |22–26 |22–28 |
 | <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 18 | 15–18 |15–21 |15–21 |15–21 |
-| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 17 | 16–19 |16–19 |15–19 |14–19 |
+| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 17 | 16–19 |16–19 |16–19 |14–19 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 13 | 12–13 |11–13 |11–13 |11–15 |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 8 | 7–8 |6–8 |6–9 |6–9 |
 | <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 5 | 4–7 |4–7 |4–7 |4–7 |
@@ -147,8 +147,8 @@
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
 | 14 | 0.9% | 99.8% |  |
-| 15 | 2% | 98.9% |  |
-| 16 | 46% | 97% |  |
+| 15 | 1.3% | 98.9% |  |
+| 16 | 46% | 98% |  |
 | 17 | 13% | 52% | Median |
 | 18 | 25% | 39% |  |
 | 19 | 14% | 15% |  |
@@ -348,7 +348,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 32 | 0% | 31–33 | 29–33 | 29–33 | 29–35 |
 | Alternative für Deutschland (ID) | 1 | 18 | 0% | 15–18 | 15–21 | 15–21 | 15–21 |
-| Sozialdemokratische Partei Deutschlands (S&D) | 1 | 17 | 0% | 16–19 | 16–19 | 15–19 | 14–19 |
+| Sozialdemokratische Partei Deutschlands (S&D) | 1 | 17 | 0% | 16–19 | 16–19 | 16–19 | 14–19 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 9 | 0% | 8–11 | 8–11 | 7–11 | 7–11 |
 | Die PARTEI (NI) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 
@@ -445,8 +445,8 @@
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
 | 14 | 0.9% | 99.8% |  |
-| 15 | 2% | 98.9% |  |
-| 16 | 46% | 97% |  |
+| 15 | 1.3% | 98.9% |  |
+| 16 | 46% | 98% |  |
 | 17 | 13% | 52% | Median |
 | 18 | 25% | 39% |  |
 | 19 | 14% | 15% |  |
