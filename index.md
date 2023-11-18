@@ -2,19 +2,19 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN | dieBasis |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
-| N/A | [Poll Average](average.html) | 19–28% <br> 19–25 | 14–19% <br> 14–18 | 12–17% <br> 11–16 | 2–7% <br> 2–7 | 18–24% <br> 17–23 | 5–8% <br> 5–8 | 4–8% <br> 4–7 | 2–5% <br> 2–5 | 1–2% <br> 0–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [3 November 2023](2023-11-03-INSAandYouGov.html) | INSA and YouGov | 21–26% <br> 20–24 | 14–18% <br> 14–17 | 11–15% <br> 11–13 | 3–5% <br> 3–5 | 20–24% <br> 20–23 | 5–8% <br> 5–7 | 5–7% <br> 5–7 | 2–4% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 |
-| [1 November 2023](2023-11-01-Infratestdimap.html) | Infratest dimap | 21–26% <br> 21–24 | 14–18% <br> 15–16 | 12–16% <br> 11–13 | 4–6% <br> 5 | 20–24% <br> 20–21 | 5–8% <br> 6 | 3–5% <br> 3–5 | 2–4% <br> 3–4 | 1–2% <br> 1 | 0–1% <br> 0 | 1–2% <br> 1–2 | 0–1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 |
-| [25–31 October 2023](2023-10-31-Kantar.html) | Kantar | 19–23% <br> 17–22 | 15–19% <br> 14–19 | 14–18% <br> 13–18 | 3–5% <br> 3–5 | 19–23% <br> 17–22 | 5–7% <br> 5–7 | 4–6% <br> 4–6 | 2–4% <br> 2–4 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [24–30 October 2023](2023-10-30-Forsa.html) | Forsa | 21–24% <br> 20–23 | 14–16% <br> 14–16 | 13–15% <br> 12–15 | 2–4% <br> 2–3 | 20–24% <br> 19–23 | 5–7% <br> 5–7 | 4–6% <br> 4–6 | 2–4% <br> 2–3 | 1–2% <br> 1–2 | 1% <br> 1 | 2–3% <br> 2–3 | 1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [17–19 October 2023](2023-10-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21–26% <br> 21–22 | 13–17% <br> 13–15 | 12–16% <br> 12–14 | 4–6% <br> 4–5 | 19–23% <br> 19–23 | 5–8% <br> 5–8 | 4–6% <br> 4–6 | 2–4% <br> 3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [6–19 October 2023](2023-10-19-Allensbach.html) | Allensbach | 24–29% <br> 22–26 | 15–19% <br> 15–19 | 11–15% <br> 11–13 | 2–4% <br> 2–4 | 17–22% <br> 15–21 | 6–9% <br> 6–9 | 4–7% <br> 4–7 | 3–5% <br> 3–5 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 |
-| [6–10 October 2023](2023-10-10-YouGov.html) | YouGov | 21–25% <br> 20–24 | 14–18% <br> 14–16 | 13–17% <br> 13–17 | 5–7% <br> 5–7 | 19–23% <br> 18–21 | 5–8% <br> 5–7 | 4–6% <br> 4–6 | 1–3% <br> 1–2 | 1% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 |
-| [6–8 October 2023](2023-10-08-Ipsos.html) | Ipsos | 19–22% <br> 18–23 | 15–19% <br> 14–17 | 13–16% <br> 12–16 | 4–6% <br> 4–5 | 20–24% <br> 20–23 | 5–7% <br> 5–6 | 6–8% <br> 5–8 | 2–4% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 |
-| 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
+| Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN | dieBasis | BSW |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
+| N/A | [Poll Average](average.html) | 21–28% <br> 20–25 | 13–18% <br> 13–18 | 12–17% <br> 12–16 | 3–6% <br> 3–5 | 18–23% <br> 17–22 | 5–8% <br> 5–8 | 4–7% <br> 4–7 | 2–5% <br> 2–5 | 1–2% <br> 0–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [10–13 November 2023](2023-11-13-INSAandYouGov.html) | INSA and YouGov | 22–26% <br> 21–26 | 15–18% <br> 13–17 | 12–15% <br> 12–15 | 4–5% <br> 4–5 | 20–23% <br> 19–22 | 6–8% <br> 5–8 | 4–6% <br> 4–6 | 2–4% <br> 2–4 | 1% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [7–13 November 2023](2023-11-13-Forsa.html) | Forsa | 22–25% <br> 21–24 | 13–15% <br> 12–14 | 13–15% <br> 13–15 | 3–5% <br> 3–4 | 19–23% <br> 19–22 | 6–8% <br> 6–7 | 4–6% <br> 4–6 | 2–4% <br> 3–4 | 1–2% <br> 1–2 | 1% <br> 0–1 | 2–3% <br> 1–2 | 1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [7–9 November 2023](2023-11-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21–26% <br> 20–25 | 14–18% <br> 13–18 | 13–17% <br> 12–16 | 3–5% <br> 3–6 | 19–24% <br> 17–23 | 5–8% <br> 5–9 | 4–7% <br> 4–6 | 2–4% <br> 2–4 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [7–8 November 2023](2023-11-08-Infratestdimap.html) | Infratest dimap | 21–26% <br> 20–25 | 13–17% <br> 12–16 | 13–17% <br> 13–15 | 3–5% <br> 3–4 | 19–23% <br> 19–22 | 5–8% <br> 6–8 | 4–6% <br> 3–6 | 2–4% <br> 2–4 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
+| [3–7 November 2023](2023-11-07-YouGov.html) | YouGov | 21–25% <br> 19–24 | 13–17% <br> 12–17 | 13–17% <br> 13–16 | 4–6% <br> 4–6 | 20–24% <br> 19–22 | 5–8% <br> 5–7 | 4–6% <br> 4–6 | 1–3% <br> 1–3 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [1–7 November 2023](2023-11-07-Kantar.html) | Kantar | 20–24% <br> 20–24 | 14–18% <br> 15–16 | 14–18% <br> 13–16 | 3–5% <br> 3–4 | 18–22% <br> 19–22 | 5–7% <br> 5–7 | 5–7% <br> 5–6 | 2–4% <br> 2–4 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [3–5 November 2023](2023-11-05-Ipsos.html) | Ipsos | 20–24% <br> 19–23 | 15–19% <br> 14–18 | 13–17% <br> 13–16 | 4–6% <br> 4–6 | 18–22% <br> 18–22 | 5–7% <br> 5–7 | 5–7% <br> 5–7 | 2–4% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
+| [6–19 October 2023](2023-10-19-Allensbach.html) | Allensbach | 24–29% <br> 22–26 | 15–19% <br> 16–19 | 11–15% <br> 11–13 | 2–4% <br> 2–4 | 17–22% <br> 15–21 | 6–9% <br> 6–9 | 4–7% <br> 4–7 | 3–5% <br> 3–5 | 0–2% <br> 0–1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
+| 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -36,6 +36,7 @@ Only polls for which at least the sample size has been published are included in
 + **FAMILIE:** Familienpartei Deutschlands (EPP)
 + **PIRATEN:** Piratenpartei Deutschland (Greens/EFA)
 + **dieBasis:** Basisdemokratische Partei Deutschland (*)
++ **BSW:** Bündnis Sahra Wagenknecht (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
