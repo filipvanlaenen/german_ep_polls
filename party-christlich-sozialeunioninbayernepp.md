@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.5% | 5.5–7.8% | 5.3–8.1% | 5.0–8.7% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.4% | 5.5–7.8% | 5.3–8.0% | 5.0–8.6% |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 6.4% | 5.8–7.2% | 5.6–7.4% | 5.4–7.6% | 5.1–8.0% |
-| [4 December 2023](2023-12-04-Forsa.html) | Forsa | 6.6% | N/A | N/A | N/A | N/A |
+| [4 December 2023](2023-12-04-Forsa.html) | Forsa | 6.6% | 6.0–7.2% | 5.8–7.4% | 5.6–7.6% | 5.4–7.9% |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov | 6.6% | N/A | N/A | N/A | N/A |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 6.3% | 5.6–7.1% | 5.4–7.3% | 5.3–7.5% | 5.0–7.9% |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
@@ -1231,9 +1231,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 6% | 100% |  |
 | 5.5–6.5% | 47% | 94% |  |
-| 6.5–7.5% | 38% | 47% | Median |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 40% | 48% | Median |
+| 7.5–8.5% | 7% | 8% |  |
+| 8.5–9.5% | 0.6% | 0.7% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -1245,9 +1245,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–9 | 5–9 | 5–9 |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [4 December 2023](2023-12-04-Forsa.html) | Forsa |  |  |  |  |  |
+| [4 December 2023](2023-12-04-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -2465,11 +2465,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
-| 5 | 11% | 99.8% |  |
-| 6 | 43% | 89% | Median |
-| 7 | 35% | 46% |  |
-| 8 | 2% | 11% |  |
-| 9 | 8% | 8% |  |
+| 5 | 10% | 99.8% |  |
+| 6 | 44% | 90% | Median |
+| 7 | 36% | 45% |  |
+| 8 | 2% | 9% |  |
+| 9 | 7% | 7% |  |
 | 10 | 0% | 0% |  |
 
 
