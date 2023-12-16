@@ -18,10 +18,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–8 December 2023](2023-12-08-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
 | [1–6 December 2023](2023-12-06-YouGov.html) | YouGov | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% |
 | [4–6 December 2023](2023-12-06-Infratestdimap.html) | Infratest dimap | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.7% |
-| [5 December 2023](2023-12-05-Verian.html) | Verian | 0.8% | N/A | N/A | N/A | N/A |
+| [5 December 2023](2023-12-05-Verian.html) | Verian | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [4 December 2023](2023-12-04-Forsa.html) | Forsa | 0.8% | 0.6–1.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% |
-| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 0.7% | N/A | N/A | N/A | N/A |
+| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 0.7% | 0.5–1.1% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
@@ -1233,8 +1233,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 23% | 100% | Last Result |
-| 0.5–1.5% | 77% | 77% | Median |
+| 0.0–0.5% | 21% | 100% | Last Result |
+| 0.5–1.5% | 79% | 79% | Median |
 | 1.5–2.5% | 0.4% | 0.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -1255,10 +1255,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 December 2023](2023-12-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–6 December 2023](2023-12-06-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–6 December 2023](2023-12-06-Infratestdimap.html) | Infratest dimap | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [5 December 2023](2023-12-05-Verian.html) | Verian |  |  |  |  |  |
+| [5 December 2023](2023-12-05-Verian.html) | Verian | 1 | 1 | 1 | 1 | 0–1 |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4 December 2023](2023-12-04-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2472,9 +2472,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 74% | 74% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 21% | 100% |  |
+| 1 | 79% | 79% | Last Result, Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 

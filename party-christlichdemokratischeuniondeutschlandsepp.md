@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 22.8–26.3% | 22.4–26.8% | 22.0–27.3% | 21.3–28.2% |
+| N/A | [Poll Average](average.html) | 24.1% | 22.4–26.1% | 21.9–26.6% | 21.6–27.1% | 20.9–28.1% |
 | [12–14 December 2023](2023-12-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25.0% | 23.5–26.7% | 23.0–27.2% | 22.6–27.6% | 21.9–28.5% |
 | [8–11 December 2023](2023-12-11-INSAandYouGov.html) | INSA and YouGov | 23.5% | 22.3–24.7% | 21.9–25.1% | 21.6–25.4% | 21.1–26.0% |
 | [6–11 December 2023](2023-12-11-GMS.html) | GMS | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
@@ -18,10 +18,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–8 December 2023](2023-12-08-INSAandYouGov.html) | INSA and YouGov | 23.4% | N/A | N/A | N/A | N/A |
 | [1–6 December 2023](2023-12-06-YouGov.html) | YouGov | 23.4% | 22.1–24.8% | 21.8–25.2% | 21.4–25.5% | 20.9–26.2% |
 | [4–6 December 2023](2023-12-06-Infratestdimap.html) | Infratest dimap | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.8–27.4% | 22.1–28.1% |
-| [5 December 2023](2023-12-05-Verian.html) | Verian | 23.5% | N/A | N/A | N/A | N/A |
+| [5 December 2023](2023-12-05-Verian.html) | Verian | 23.5% | 22.1–25.0% | 21.7–25.4% | 21.3–25.8% | 20.7–26.5% |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 23.1% | 21.9–24.3% | 21.6–24.7% | 21.3–25.0% | 20.7–25.6% |
 | [4 December 2023](2023-12-04-Forsa.html) | Forsa | 23.5% | 22.4–24.6% | 22.1–24.9% | 21.8–25.2% | 21.3–25.7% |
-| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 22.6% | N/A | N/A | N/A | N/A |
+| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 22.6% | 21.5–23.9% | 21.1–24.2% | 20.9–24.5% | 20.3–25.1% |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov | 23.5% | N/A | N/A | N/A | N/A |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 22.6% | 21.4–24.0% | 21.1–24.3% | 20.8–24.6% | 20.2–25.3% |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 24.5% | 23.3–25.8% | 23.0–26.1% | 22.7–26.5% | 22.1–27.1% |
@@ -1253,15 +1253,15 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.9% | 100% |  |
-| 21.5–22.5% | 6% | 99.1% |  |
-| 22.5–23.5% | 18% | 93% |  |
-| 23.5–24.5% | 28% | 75% | Median |
-| 24.5–25.5% | 25% | 47% |  |
-| 25.5–26.5% | 15% | 22% |  |
-| 26.5–27.5% | 6% | 7% |  |
-| 27.5–28.5% | 1.4% | 2% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 2% | 99.8% |  |
+| 21.5–22.5% | 10% | 98% |  |
+| 22.5–23.5% | 22% | 87% |  |
+| 23.5–24.5% | 27% | 65% | Median |
+| 24.5–25.5% | 21% | 38% |  |
+| 25.5–26.5% | 12% | 18% |  |
+| 26.5–27.5% | 4% | 6% |  |
+| 27.5–28.5% | 1.1% | 1.3% |  |
 | 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -1274,7 +1274,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–25 | 21–26 | 21–26 | 20–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | [12–14 December 2023](2023-12-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 25 | 23–26 | 22–27 | 21–27 | 20–27 |
 | [8–11 December 2023](2023-12-11-INSAandYouGov.html) | INSA and YouGov | 23 | 21–24 | 21–24 | 21–24 | 20–24 |
 | [6–11 December 2023](2023-12-11-GMS.html) | GMS | 24 | 22–26 | 22–26 | 21–27 | 20–29 |
@@ -1282,10 +1282,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [4–8 December 2023](2023-12-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–6 December 2023](2023-12-06-YouGov.html) | YouGov | 24 | 21–24 | 21–25 | 20–25 | 20–25 |
 | [4–6 December 2023](2023-12-06-Infratestdimap.html) | Infratest dimap | 24 | 22–24 | 22–26 | 21–26 | 21–28 |
-| [5 December 2023](2023-12-05-Verian.html) | Verian |  |  |  |  |  |
+| [5 December 2023](2023-12-05-Verian.html) | Verian | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [1–4 December 2023](2023-12-04-INSAandYouGov.html) | INSA and YouGov | 24 | 22–24 | 20–24 | 20–24 | 20–24 |
 | [4 December 2023](2023-12-04-Forsa.html) | Forsa | 23 | 21–23 | 20–23 | 20–24 | 20–24 |
-| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–3 December 2023](2023-12-03-Ipsos.html) | Ipsos | 21 | 19–21 | 19–22 | 19–22 | 19–23 |
 | [1 December 2023](2023-12-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–28 November 2023](2023-11-28-Verian.html) | Verian | 20 | 19–22 | 19–23 | 19–23 | 18–23 |
 | [24–27 November 2023](2023-11-27-INSAandYouGov.html) | INSA and YouGov | 24 | 24–25 | 24–25 | 23–25 | 21–26 |
@@ -2517,17 +2517,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.9% | 99.9% |  |
-| 21 | 15% | 99.0% |  |
-| 22 | 11% | 84% |  |
-| 23 | 11% | 73% |  |
-| 24 | 43% | 62% | Median |
-| 25 | 12% | 19% |  |
-| 26 | 6% | 7% |  |
-| 27 | 0.9% | 1.4% |  |
-| 28 | 0.3% | 0.6% |  |
-| 29 | 0.3% | 0.3% |  |
+| 19 | 2% | 100% |  |
+| 20 | 1.2% | 98% |  |
+| 21 | 24% | 97% |  |
+| 22 | 13% | 73% |  |
+| 23 | 10% | 60% | Median |
+| 24 | 35% | 49% |  |
+| 25 | 9% | 15% |  |
+| 26 | 5% | 6% |  |
+| 27 | 0.7% | 1.1% |  |
+| 28 | 0.2% | 0.5% |  |
+| 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
 
