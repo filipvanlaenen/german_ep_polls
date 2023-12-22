@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.8% | 1.9–4.0% | 1.7–4.2% | 1.5–4.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.0% | 1.9–4.3% | 1.7–4.5% | 1.5–5.1% |
+| [18–20 December 2023](2023-12-20-Infratestdimap.html) | Infratest dimap | 4.0% | 3.3–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.7% |
 | [15–18 December 2023](2023-12-18-INSAandYouGov.html) | INSA and YouGov | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
 | [12–18 December 2023](2023-12-18-Forsa.html) | Forsa | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.4% | 2.5–4.7% |
 | [11–15 December 2023](2023-12-15-INSAandYouGov.html) | INSA and YouGov | 2.0% | N/A | N/A | N/A | N/A |
 | [12–14 December 2023](2023-12-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
+| [1–14 December 2023](2023-12-14-Allensbach.html) | Allensbach | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [6–12 December 2023](2023-12-12-Verian.html) | Verian | 3.2% | 2.7–3.8% | 2.5–4.0% | 2.4–4.2% | 2.2–4.5% |
 | [8–11 December 2023](2023-12-11-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [6–11 December 2023](2023-12-11-GMS.html) | GMS | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -40,7 +42,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 November 2023](2023-11-14-Verian.html) | Verian | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.4–4.2% | 2.1–4.6% |
 | [10–13 November 2023](2023-11-13-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [7–13 November 2023](2023-11-13-Forsa.html) | Forsa | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
-| [6–10 November 2023](2023-11-10-INSAandYouGov.html) | INSA and YouGov | 3.0% | N/A | N/A | N/A | N/A |
+| [9–10 November 2023](2023-11-10-INSAandYouGov.html) | INSA and YouGov | 3.0% | N/A | N/A | N/A | N/A |
 | [7–9 November 2023](2023-11-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [7–8 November 2023](2023-11-08-Infratestdimap.html) | Infratest dimap | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [3–7 November 2023](2023-11-07-YouGov.html) | YouGov | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.1% |
@@ -1238,12 +1240,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 24% | 99.1% |  |
-| 2.5–3.5% | 57% | 75% | Median |
-| 3.5–4.5% | 18% | 18% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 22% | 99.2% |  |
+| 2.5–3.5% | 52% | 77% | Median |
+| 3.5–4.5% | 23% | 25% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1255,10 +1258,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [18–20 December 2023](2023-12-20-Infratestdimap.html) | Infratest dimap | 3 | 3 | 3–4 | 3–4 | 3–5 |
 | [15–18 December 2023](2023-12-18-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–18 December 2023](2023-12-18-Forsa.html) | Forsa | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [11–15 December 2023](2023-12-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [12–14 December 2023](2023-12-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [1–14 December 2023](2023-12-14-Allensbach.html) | Allensbach | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [6–12 December 2023](2023-12-12-Verian.html) | Verian | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [8–11 December 2023](2023-12-11-INSAandYouGov.html) | INSA and YouGov | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [6–11 December 2023](2023-12-11-GMS.html) | GMS | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
@@ -1284,7 +1289,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–14 November 2023](2023-11-14-Verian.html) | Verian | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [10–13 November 2023](2023-11-13-INSAandYouGov.html) | INSA and YouGov | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [7–13 November 2023](2023-11-13-Forsa.html) | Forsa | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [6–10 November 2023](2023-11-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [9–10 November 2023](2023-11-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [7–9 November 2023](2023-11-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–8 November 2023](2023-11-08-Infratestdimap.html) | Infratest dimap | 3 | 3 | 3 | 2–4 | 2–4 |
 | [3–7 November 2023](2023-11-07-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -2484,10 +2489,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 27% | 98% |  |
-| 3 | 56% | 71% | Median |
-| 4 | 15% | 15% |  |
-| 5 | 0.5% | 0.5% |  |
+| 2 | 25% | 98% |  |
+| 3 | 62% | 74% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 
