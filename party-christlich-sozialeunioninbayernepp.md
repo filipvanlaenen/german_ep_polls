@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 6.1–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.3% |
+| N/A | [Poll Average](average.html) | 6.9% | 6.0–7.9% | 5.8–8.3% | 5.6–8.6% | 5.3–9.3% |
+| [5–8 January 2024](2024-01-08-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [2–8 January 2024](2024-01-08-Forsa.html) | Forsa | 6.6% | 6.0–7.2% | 5.8–7.4% | 5.6–7.6% | 5.4–7.9% |
+| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 6.6% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
+| [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov | 6.7% | N/A | N/A | N/A | N/A |
 | [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 6.7% | 5.9–7.7% | 5.7–8.0% | 5.5–8.2% | 5.1–8.7% |
 | [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [2 January 2024](2024-01-02-GMS.html) | GMS | 7.2% | 6.2–8.3% | 6.0–8.7% | 5.7–8.9% | 5.3–9.5% |
@@ -1252,9 +1256,9 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 28% | 98% |  |
-| 6.5–7.5% | 49% | 70% | Median |
-| 7.5–8.5% | 19% | 21% |  |
+| 5.5–6.5% | 30% | 98% |  |
+| 6.5–7.5% | 48% | 69% | Median |
+| 7.5–8.5% | 17% | 20% |  |
 | 8.5–9.5% | 3% | 3% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -1268,7 +1272,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [5–8 January 2024](2024-01-08-INSAandYouGov.html) | INSA and YouGov | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [2–8 January 2024](2024-01-08-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 6 | 5–7 | 5–7 | 5–8 | 5–9 |
 | [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [2 January 2024](2024-01-02-GMS.html) | GMS | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -2510,11 +2518,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 12% | 100% |  |
-| 6 | 27% | 88% |  |
-| 7 | 45% | 60% | Median |
-| 8 | 14% | 15% |  |
-| 9 | 0.6% | 0.7% |  |
+| 5 | 5% | 100% |  |
+| 6 | 41% | 95% |  |
+| 7 | 39% | 54% | Median |
+| 8 | 15% | 16% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
 
