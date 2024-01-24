@@ -10,21 +10,23 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.2–1.7% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.7% | 0.5–1.8% | 0.4–1.9% | 0.3–2.2% |
+| [19–22 January 2024](2024-01-22-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.8–2.2% |
+| [16–22 January 2024](2024-01-22-Forsa.html) | Forsa | 1.6% | 1.4–2.0% | 1.3–2.1% | 1.2–2.2% | 1.1–2.4% |
 | [15–19 January 2024](2024-01-19-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
-| [12–15 January 2024](2024-01-15-INSAandYouGov.html) | INSA and YouGov | 0.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
-| [9–15 January 2024](2024-01-15-Forsa.html) | Forsa | 0.9% | 0.7–1.2% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% |
+| [12–15 January 2024](2024-01-15-INSAandYouGov.html) | INSA and YouGov | 0.9% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
+| [9–15 January 2024](2024-01-15-Forsa.html) | Forsa | 1.1% | 0.7–1.2% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% |
 | [11–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov | 1.2% | N/A | N/A | N/A | N/A |
-| [9–11 January 2024](2024-01-11-Verian.html) | Verian | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [9–11 January 2024](2024-01-11-Verian.html) | Verian | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.4% | 0.3–1.6% |
 | [9–11 January 2024](2024-01-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.9% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
-| [5–8 January 2024](2024-01-08-INSAandYouGov.html) | INSA and YouGov | 0.5% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
-| [2–8 January 2024](2024-01-08-Forsa.html) | Forsa | 0.8% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% |
-| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 0.8% | 0.5–1.1% | 0.5–1.2% | 0.5–1.2% | 0.4–1.4% |
-| [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov | 0.6% | N/A | N/A | N/A | N/A |
-| [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
-| [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 0.5% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
-| [2 January 2024](2024-01-02-GMS.html) | GMS | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 0.8% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% |
+| [5–8 January 2024](2024-01-08-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
+| [2–8 January 2024](2024-01-08-Forsa.html) | Forsa | 1.0% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% |
+| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 0.8% | 0.6–1.2% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% |
+| [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
+| [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 0.6% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
+| [2 January 2024](2024-01-02-GMS.html) | GMS | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [22–27 December 2023](2023-12-27-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.8–2.2% |
 | [18–22 December 2023](2023-12-22-INSAandYouGov.html) | INSA and YouGov | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
@@ -1093,7 +1095,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–14 February 2020](2020-02-14-Forsa.html) | Forsa | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 0.9–2.3% |
 | [11–13 February 2020](2020-02-13-Infratestdimap.html) | Infratest dimap | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [6–12 February 2020](2020-02-12-Kantar.html) | Kantar | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
-| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 0.6% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% | 0.4–1.8% |
+| [1–12 February 2020](2020-02-12-Allensbach.html) | Allensbach | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% | 0.4–1.8% |
 | [7–10 February 2020](2020-02-10-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% |
 | [3–7 February 2020](2020-02-07-Forsa.html) | Forsa | 1.5% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% |
 | [4–6 February 2020](2020-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.6–2.5% |
@@ -1258,9 +1260,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% | Last Result |
-| 0.5–1.5% | 83% | 85% | Median |
-| 1.5–2.5% | 1.5% | 1.5% |  |
+| 0.0–0.5% | 7% | 100% | Last Result |
+| 0.5–1.5% | 79% | 93% | Median |
+| 1.5–2.5% | 14% | 14% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1272,21 +1274,23 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [19–22 January 2024](2024-01-22-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–22 January 2024](2024-01-22-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 January 2024](2024-01-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [12–15 January 2024](2024-01-15-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [9–15 January 2024](2024-01-15-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
 | [11–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [9–11 January 2024](2024-01-11-Verian.html) | Verian | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–11 January 2024](2024-01-11-Verian.html) | Verian | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–11 January 2024](2024-01-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 0–1 | 0–2 |
-| [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 0–2 |
+| [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [5–8 January 2024](2024-01-08-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [2–8 January 2024](2024-01-08-Forsa.html) | Forsa | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 1 |
+| [5–7 January 2024](2024-01-07-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 1–2 |
 | [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1 |
+| [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2 January 2024](2024-01-02-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1 |
+| [2 January 2024](2024-01-02-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–27 December 2023](2023-12-27-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–22 December 2023](2023-12-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -2522,9 +2526,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 90% | 91% | Last Result, Median |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 23% | 100% |  |
+| 1 | 55% | 77% | Last Result, Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 
