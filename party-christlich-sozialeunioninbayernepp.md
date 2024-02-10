@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2 February 2024](2024-02-02-INSAandYouGov.html) | INSA and YouGov | 6.6% | N/A | N/A | N/A | N/A |
 | [1 February 2024](2024-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.3–8.5% | 4.9–9.1% |
 | [29–31 January 2024](2024-01-31-Infratestdimap.html) | Infratest dimap | 6.5% | 5.7–7.5% | 5.5–7.8% | 5.3–8.0% | 4.9–8.5% |
-| [26–29 January 2024](2024-01-29-INSAandYouGov.html) | INSA and YouGov | 6.6% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
+| [26–29 January 2024](2024-01-29-INSAandYouGov.html) | INSA and YouGov | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–8.0% | 5.1–8.4% |
 | [23–29 January 2024](2024-01-29-Forsa.html) | Forsa | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.1–8.1% | 5.8–8.4% |
 | [22–26 January 2024](2024-01-26-INSAandYouGov.html) | INSA and YouGov | 6.7% | N/A | N/A | N/A | N/A |
 | [16–23 January 2024](2024-01-23-Verian.html) | Verian | 6.3% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.9% |
@@ -1301,7 +1301,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2 February 2024](2024-02-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 February 2024](2024-02-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [29–31 January 2024](2024-01-31-Infratestdimap.html) | Infratest dimap | 8 | 8 | 8 | 6–8 | 5–8 |
-| [26–29 January 2024](2024-01-29-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [26–29 January 2024](2024-01-29-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 5–6 | 5–7 |
 | [23–29 January 2024](2024-01-29-Forsa.html) | Forsa | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [22–26 January 2024](2024-01-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [16–23 January 2024](2024-01-23-Verian.html) | Verian | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
