@@ -704,54 +704,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (NI) | 3 | 30 | 0% | 27–32 | 27–33 | 27–34 | 26–34 |
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 29 | 0% | 27–31 | 26–31 | 25–32 | 25–33 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 29 | 0% | 27–32 | 26–32 | 26–32 | 25–33 |
 | Alternative für Deutschland (ID) | 1 | 18 | 0% | 17–22 | 17–24 | 16–24 | 14–24 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 15 | 0% | 13–16 | 13–16 | 12–16 | 12–17 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 7 | 0% | 6–8 | 6–8 | 6–9 | 5–11 |
-| Die PARTEI (NI) – Familienpartei Deutschlands (NI) | 2 | 1 | 0% | 1–2 | 1–3 | 1–3 | 0–3 |
-| Die PARTEI (NI) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
-
-### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (NI)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdu–csu–familie.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0% | 100% |  |
-| 24 | 0% | 100% |  |
-| 25 | 0.2% | 100% |  |
-| 26 | 0.9% | 99.8% |  |
-| 27 | 39% | 98.9% |  |
-| 28 | 0.8% | 60% |  |
-| 29 | 8% | 59% | Median |
-| 30 | 3% | 51% |  |
-| 31 | 3% | 48% |  |
-| 32 | 38% | 45% |  |
-| 33 | 2% | 7% |  |
-| 34 | 4% | 5% |  |
-| 35 | 0.3% | 0.3% |  |
-| 36 | 0% | 0% |  |
+| Die PARTEI (NI) – Familienpartei Deutschlands (NI) | 2 | 1 | 0% | 1–2 | 1–2 | 1–3 | 0–3 |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP)
 
@@ -782,17 +739,18 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 3% | 100% |  |
-| 26 | 4% | 97% |  |
-| 27 | 8% | 93% |  |
-| 28 | 11% | 85% |  |
-| 29 | 43% | 73% | Median |
-| 30 | 10% | 31% |  |
-| 31 | 17% | 21% |  |
-| 32 | 3% | 5% |  |
-| 33 | 1.0% | 1.2% |  |
-| 34 | 0.1% | 0.2% |  |
-| 35 | 0% | 0% |  |
+| 25 | 2% | 100% |  |
+| 26 | 4% | 98% |  |
+| 27 | 14% | 94% |  |
+| 28 | 9% | 80% |  |
+| 29 | 36% | 70% | Median |
+| 30 | 8% | 35% |  |
+| 31 | 14% | 27% |  |
+| 32 | 11% | 13% |  |
+| 33 | 2% | 2% |  |
+| 34 | 0.3% | 0.4% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
 
@@ -878,28 +836,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 53% | 99.2% | Median |
-| 2 | 41% | 46% | Last Result |
-| 3 | 5% | 5% |  |
+| 0 | 0.9% | 100% |  |
+| 1 | 61% | 99.1% | Median |
+| 2 | 34% | 39% | Last Result |
+| 3 | 4% | 4% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
-
-### Die PARTEI (NI)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-partei.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 98% | 98% | Last Result, Median |
-| 2 | 0.5% | 0.5% |  |
-| 3 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 4.02%
