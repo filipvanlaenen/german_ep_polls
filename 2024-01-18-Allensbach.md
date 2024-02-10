@@ -25,7 +25,7 @@
 | Volt Europa (Greens/EFA) | 0.0% | 0.2% | 0.1–0.5% |0.1–0.6% |0.1–0.7% |0.0–0.9% |
 | Basisdemokratische Partei Deutschland (*) | 0.0% | 0.1% | 0.0–0.4% |0.0–0.5% |0.0–0.5% |0.0–0.7% |
 | Piratenpartei Deutschland (Greens/EFA) | 0.0% | 0.1% | 0.0–0.4% |0.0–0.5% |0.0–0.5% |0.0–0.7% |
-| Familienpartei Deutschlands (EPP) | 0.0% | 0.1% | 0.0–0.4% |0.0–0.5% |0.0–0.5% |0.0–0.7% |
+| Familienpartei Deutschlands (NI) | 0.0% | 0.1% | 0.0–0.4% |0.0–0.5% |0.0–0.5% |0.0–0.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -54,7 +54,7 @@
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#basisdemokratische-partei-deutschland-(*)">Basisdemokratische Partei Deutschland (*)</a> | 1 | 0 | 0 |0 |0 |0–1 |
 | <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0–1 |
-| <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#familienpartei-deutschlands-(ni)">Familienpartei Deutschlands (NI)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Christlich Demokratische Union Deutschlands (EPP)
 
@@ -337,11 +337,11 @@
 | 1 | 1.1% | 1.1% | Last Result |
 | 2 | 0% | 0% |  |
 
-### Familienpartei Deutschlands (EPP)
+### Familienpartei Deutschlands (NI)
 
-*For a full overview of the results for this party, see the [Familienpartei Deutschlands (EPP)](party-familienparteideutschlandsepp.html) page.*
+*For a full overview of the results for this party, see the [Familienpartei Deutschlands (NI)](party-familienparteideutschlandsni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-seats-pmf-familienparteideutschlandsni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -358,19 +358,20 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 32 | 0% | 31–33 | 31–34 | 29–34 | 29–35 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 32 | 0% | 31–32 | 31–33 | 29–33 | 29–34 |
 | Alternative für Deutschland (ID) | 1 | 18 | 0% | 18–20 | 17–20 | 15–21 | 15–21 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 15 | 0% | 14–15 | 12–15 | 12–15 | 11–16 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 8 | 0% | 8–9 | 8–11 | 8–11 | 7–11 |
-| Die PARTEI (NI) | 1 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
+| Die PARTEI (NI) – Familienpartei Deutschlands (NI) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 
-### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP)
+### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP)
 
-![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-coalitions-seats-pmf-cdu–csu–familie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-coalitions-seats-pmf-cdu–csu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
+| 2 | 0% | 100% | Last Result |
+| 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
@@ -398,11 +399,11 @@
 | 28 | 0% | 100% |  |
 | 29 | 3% | 100% |  |
 | 30 | 2% | 97% |  |
-| 31 | 5% | 95% |  |
-| 32 | 76% | 90% | Median |
-| 33 | 5% | 14% |  |
-| 34 | 9% | 9% |  |
-| 35 | 0.6% | 0.6% |  |
+| 31 | 6% | 95% |  |
+| 32 | 80% | 90% | Median |
+| 33 | 7% | 10% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.4% | 0.4% |  |
 | 36 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
@@ -478,15 +479,15 @@
 | 11 | 6% | 6% |  |
 | 12 | 0% | 0% |  |
 
-### Die PARTEI (NI)
+### Die PARTEI (NI) – Familienpartei Deutschlands (NI)
 
-![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-coalitions-seats-pmf-partei.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-18-Allensbach-coalitions-seats-pmf-partei–familie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 97% | 97% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 2% | 100% |  |
+| 1 | 86% | 98% | Median |
+| 2 | 12% | 12% | Last Result |
 | 3 | 0% | 0% |  |
 
 
