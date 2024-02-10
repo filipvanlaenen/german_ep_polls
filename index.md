@@ -35,7 +35,7 @@ Only polls for which at least the sample size has been published are included in
 + **ÖDP:** Ökologisch-Demokratische Partei (Greens/EFA)
 + **PARTEI:** Die PARTEI (NI)
 + **Volt:** Volt Europa (Greens/EFA)
-+ **FAMILIE:** Familienpartei Deutschlands (EPP)
++ **FAMILIE:** Familienpartei Deutschlands (NI)
 + **PIRATEN:** Piratenpartei Deutschland (Greens/EFA)
 + **dieBasis:** Basisdemokratische Partei Deutschland (*)
 + **BSW:** Bündnis Sahra Wagenknecht (GUE/NGL)
