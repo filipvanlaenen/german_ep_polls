@@ -39,7 +39,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–5 January 2024](2024-01-05-INSAandYouGov.html) | INSA and YouGov | 24.3% | N/A | N/A | N/A | N/A |
 | [2–3 January 2024](2024-01-03-Infratestdimap.html) | Infratest dimap | 24.2% | 22.8–25.8% | 22.3–26.2% | 22.0–26.6% | 21.3–27.4% |
 | [2 January 2024](2024-01-02-INSAandYouGov.html) | INSA and YouGov | 25.0% | 23.8–26.3% | 23.5–26.7% | 23.2–27.0% | 22.6–27.6% |
-| [2 January 2024](2024-01-02-GMS.html) | GMS | 25.8% | 23.9–28.0% | 23.5–28.4% | 23.0–28.8% | 22.2–29.6% |
+| [2 January 2024](2024-01-02-GMS.html) | GMS | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
 | [22–27 December 2023](2023-12-27-INSAandYouGov.html) | INSA and YouGov | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
 | [18–22 December 2023](2023-12-22-INSAandYouGov.html) | INSA and YouGov | 25.0% | 23.5–26.7% | 23.0–27.2% | 22.7–27.6% | 21.9–28.4% |
