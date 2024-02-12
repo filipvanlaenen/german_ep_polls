@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.2% | 11.7–15.4% | 11.3–16.1% | 11.0–16.7% | 10.5–17.5% |
+| [2–6 February 2024](2024-02-06-YouGov.html) | YouGov | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [2–5 February 2024](2024-02-05-INSAandYouGov.html) | INSA and YouGov | 12.5% | 11.6–13.5% | 11.4–13.8% | 11.1–14.1% | 10.7–14.5% |
 | [5 February 2024](2024-02-05-GMS.html) | GMS | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [5 February 2024](2024-02-05-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.1–16.2% |
@@ -29,7 +30,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–18 January 2024](2024-01-18-Allensbach.html) | Allensbach | 13.5% | 12.2–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
 | [12–15 January 2024](2024-01-15-INSAandYouGov.html) | INSA and YouGov | 12.0% | 11.1–13.0% | 10.8–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [9–15 January 2024](2024-01-15-Forsa.html) | Forsa | 14.0% | 13.2–15.0% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
-| [8–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
+| [11–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
 | [9–11 January 2024](2024-01-11-Verian.html) | Verian | 16.0% | 14.8–17.3% | 14.4–17.7% | 14.1–18.0% | 13.5–18.7% |
 | [9–11 January 2024](2024-01-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.0–16.2% | 11.4–17.0% |
 | [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.7–13.5% | 10.2–14.0% |
@@ -90,7 +91,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–31 October 2023](2023-10-31-Kantar.html) | Kantar | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.6–18.7% |
 | [27–30 October 2023](2023-10-30-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [24–30 October 2023](2023-10-30-Forsa.html) | Forsa | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
-| [26–27 October 2023](2023-10-27-INSAandYouGov.html) | INSA and YouGov | 12.0% | N/A | N/A | N/A | N/A |
+| [23–27 October 2023](2023-10-27-INSAandYouGov.html) | INSA and YouGov | 13.0% | N/A | N/A | N/A | N/A |
 | [18–24 October 2023](2023-10-24-Kantar.html) | Kantar | 16.0% | N/A | N/A | N/A | N/A |
 | [20–23 October 2023](2023-10-23-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.2–15.1% |
 | [17–23 October 2023](2023-10-23-Forsa.html) | Forsa | 14.0% | 13.2–15.0% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
@@ -1304,6 +1305,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [2–6 February 2024](2024-02-06-YouGov.html) | YouGov | 11 | 11–14 | 10–14 | 10–14 | 10–14 |
 | [2–5 February 2024](2024-02-05-INSAandYouGov.html) | INSA and YouGov | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [5 February 2024](2024-02-05-GMS.html) | GMS | 12 | 12–13 | 12–14 | 11–14 | 10–16 |
 | [5 February 2024](2024-02-05-Forsa.html) | Forsa | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
@@ -1322,7 +1324,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [5–18 January 2024](2024-01-18-Allensbach.html) | Allensbach | 13 | 13 | 13–14 | 13–14 | 11–14 |
 | [12–15 January 2024](2024-01-15-INSAandYouGov.html) | INSA and YouGov | 12 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [9–15 January 2024](2024-01-15-Forsa.html) | Forsa | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [8–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [11–12 January 2024](2024-01-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [9–11 January 2024](2024-01-11-Verian.html) | Verian | 16 | 16 | 14–16 | 14–16 | 13–17 |
 | [9–11 January 2024](2024-01-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 14 | 14 | 13–14 | 12–16 |
 | [3–8 January 2024](2024-01-08-YouGov.html) | YouGov | 11 | 11–13 | 11–13 | 11–13 | 9–13 |
@@ -1383,7 +1385,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25–31 October 2023](2023-10-31-Kantar.html) | Kantar | 15 | 14–16 | 14–17 | 13–18 | 12–18 |
 | [27–30 October 2023](2023-10-30-INSAandYouGov.html) | INSA and YouGov | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [24–30 October 2023](2023-10-30-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
-| [26–27 October 2023](2023-10-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [23–27 October 2023](2023-10-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–24 October 2023](2023-10-24-Kantar.html) | Kantar |  |  |  |  |  |
 | [20–23 October 2023](2023-10-23-INSAandYouGov.html) | INSA and YouGov | 11 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [17–23 October 2023](2023-10-23-Forsa.html) | Forsa | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
@@ -2578,10 +2580,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 2% | 99.9% |  |
-| 11 | 25% | 98% |  |
-| 12 | 19% | 74% |  |
-| 13 | 28% | 54% | Median |
-| 14 | 16% | 26% |  |
+| 11 | 26% | 98% |  |
+| 12 | 18% | 72% |  |
+| 13 | 26% | 53% | Median |
+| 14 | 17% | 27% |  |
 | 15 | 4% | 10% |  |
 | 16 | 5% | 6% |  |
 | 17 | 0.7% | 0.7% |  |
