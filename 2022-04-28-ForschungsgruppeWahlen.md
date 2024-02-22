@@ -12,18 +12,18 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 25.0% | 23.2–26.9% |22.7–27.4% |22.3–27.9% |21.5–28.8% |
 | Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 21.0% | 19.3–22.8% |18.9–23.3% |18.5–23.7% |17.7–24.6% |
-| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 18.1% | 16.5–19.8% |16.1–20.3% |15.7–20.7% |15.0–21.5% |
+| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 18.0% | 16.5–19.8% |16.1–20.3% |15.7–20.7% |15.0–21.5% |
 | Alternative für Deutschland (ID) | 0.0% | 11.0% | 9.8–12.5% |9.5–12.9% |9.2–13.2% |8.6–13.9% |
 | Freie Demokratische Partei (RE) | 0.0% | 9.0% | 7.9–10.3% |7.6–10.7% |7.3–11.0% |6.8–11.7% |
 | Christlich-Soziale Union in Bayern (EPP) | 0.0% | 5.0% | 4.2–6.0% |3.9–6.3% |3.7–6.6% |3.4–7.1% |
 | Die Linke (GUE/NGL) | 0.0% | 4.0% | 3.3–5.0% |3.1–5.2% |2.9–5.5% |2.6–6.0% |
-| Die PARTEI (Greens/EFA) | 0.0% | 1.3% | 0.9–1.9% |0.8–2.1% |0.7–2.3% |0.6–2.6% |
-| Freie Wähler (RE) | 0.0% | 1.2% | 0.8–1.8% |0.7–2.0% |0.7–2.1% |0.5–2.5% |
+| Die PARTEI (NI) | 0.0% | 1.3% | 0.9–1.9% |0.8–2.1% |0.7–2.3% |0.6–2.6% |
+| Freie Wähler (RE) | 0.0% | 1.1% | 0.8–1.8% |0.7–2.0% |0.7–2.1% |0.5–2.5% |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 0.8% | 0.5–1.3% |0.4–1.4% |0.4–1.6% |0.3–1.8% |
-| Ökologisch-Demokratische Partei (Greens/EFA) | 0.0% | 0.5% | 0.3–1.0% |0.3–1.1% |0.2–1.3% |0.2–1.5% |
-| Familienpartei Deutschlands (ECR) | 0.0% | 0.4% | 0.3–0.9% |0.2–1.0% |0.2–1.1% |0.1–1.4% |
-| Piratenpartei Deutschland (Greens/EFA) | 0.0% | 0.3% | 0.2–0.7% |0.1–0.8% |0.1–0.9% |0.1–1.2% |
+| Ökologisch-Demokratische Partei (Greens/EFA) | 0.0% | 0.4% | 0.3–1.0% |0.3–1.1% |0.2–1.3% |0.2–1.5% |
 | Volt Europa (Greens/EFA) | 0.0% | 0.3% | 0.2–0.7% |0.1–0.8% |0.1–0.9% |0.1–1.2% |
+| Familienpartei Deutschlands (NI) | 0.0% | 0.3% | 0.3–0.9% |0.2–1.0% |0.2–1.1% |0.1–1.4% |
+| Piratenpartei Deutschland (Greens/EFA) | 0.0% | 0.3% | 0.2–0.7% |0.1–0.8% |0.1–0.9% |0.1–1.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -44,13 +44,13 @@
 | <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 9 | 9 |8–9 |8–10 |7–11 |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 4 | 4 |4–5 |4–6 |3–6 |
 | <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 5 | 4–5 |3–5 |3–5 |3–6 |
-| <a href="#die-partei-(greens/efa)">Die PARTEI (Greens/EFA)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 1 | 1 |1 |1–2 |1–3 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
-| <a href="#familienpartei-deutschlands-(ecr)">Familienpartei Deutschlands (ECR)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0–1 |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#familienpartei-deutschlands-(ni)">Familienpartei Deutschlands (NI)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0–1 |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
@@ -231,11 +231,11 @@
 | 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 
-### Die PARTEI (Greens/EFA)
+### Die PARTEI (NI)
 
-*For a full overview of the results for this party, see the [Die PARTEI (Greens/EFA)](party-dieparteigreensefa.html) page.*
+*For a full overview of the results for this party, see the [Die PARTEI (NI)](party-dieparteini.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-dieparteigreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-dieparteini.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -284,11 +284,23 @@
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### Familienpartei Deutschlands (ECR)
+### Volt Europa (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Familienpartei Deutschlands (ECR)](party-familienparteideutschlandsecr.html) page.*
+*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-familienparteideutschlandsecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 91% | 100% | Median |
+| 1 | 9% | 9% | Last Result |
+| 2 | 0% | 0% |  |
+
+### Familienpartei Deutschlands (NI)
+
+*For a full overview of the results for this party, see the [Familienpartei Deutschlands (NI)](party-familienparteideutschlandsni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-familienparteideutschlandsni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -306,18 +318,6 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Median |
 | 1 | 2% | 2% | Last Result |
-| 2 | 0% | 0% |  |
-
-### Volt Europa (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2022-04-28-ForschungsgruppeWahlen-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Median |
-| 1 | 9% | 9% | Last Result |
 | 2 | 0% | 0% |  |
 
 
