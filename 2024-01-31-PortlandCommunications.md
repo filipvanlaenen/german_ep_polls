@@ -17,14 +17,14 @@
 | Christlich-Soziale Union in Bayern (EPP) | 0.0% | 6.3% | 5.2–7.8% |4.8–8.3% |4.6–8.7% |4.1–9.4% |
 | Bündnis Sahra Wagenknecht (GUE/NGL) | 0.0% | 5.9% | 4.8–7.4% |4.5–7.9% |4.3–8.2% |3.8–9.0% |
 | Freie Demokratische Partei (RE) | 0.0% | 5.0% | 4.0–6.4% |3.7–6.8% |3.5–7.2% |3.1–7.9% |
-| Freie Wähler (RE) | 0.0% | 3.1% | 2.3–4.2% |2.1–4.6% |1.9–4.9% |1.6–5.5% |
 | Die Linke (GUE/NGL) | 0.0% | 3.1% | 2.3–4.2% |2.1–4.6% |1.9–4.9% |1.6–5.5% |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 3.1% | 2.3–4.2% |2.1–4.6% |1.9–4.9% |1.6–5.5% |
+| Freie Wähler (RE) | 0.0% | 3.1% | 2.3–4.2% |2.1–4.6% |1.9–4.9% |1.6–5.5% |
+| Piratenpartei Deutschland (Greens/EFA) | 0.0% | 1.1% | 0.7–1.9% |0.6–2.1% |0.5–2.3% |0.4–2.8% |
 | Volt Europa (Greens/EFA) | 0.0% | 1.1% | 0.7–1.9% |0.6–2.1% |0.5–2.3% |0.4–2.8% |
 | Die PARTEI (NI) | 0.0% | 1.1% | 0.7–1.9% |0.6–2.1% |0.5–2.3% |0.4–2.8% |
-| Piratenpartei Deutschland (Greens/EFA) | 0.0% | 1.1% | 0.7–1.9% |0.6–2.1% |0.5–2.3% |0.4–2.8% |
 | Ökologisch-Demokratische Partei (Greens/EFA) | 0.0% | 0.2% | 0.1–0.7% |0.1–0.9% |0.0–1.0% |0.0–1.3% |
-| Familienpartei Deutschlands (NI) | 0.0% | 0.2% | 0.1–0.7% |0.1–0.9% |0.0–1.0% |0.0–1.3% |
+| Familienpartei Deutschlands (EPP) | 0.0% | 0.2% | 0.1–0.7% |0.1–0.9% |0.0–1.0% |0.0–1.3% |
 | Basisdemokratische Partei Deutschland (*) | 0.0% | 0.2% | 0.1–0.7% |0.1–0.9% |0.0–1.0% |0.0–1.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -46,14 +46,14 @@
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 5 | 3–7 |3–7 |3–7 |3–8 |
 | <a href="#bündnis-sahra-wagenknecht-(gue/ngl)">Bündnis Sahra Wagenknecht (GUE/NGL)</a> | 1 | 5 | 5–8 |4–8 |4–8 |3–8 |
 | <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 5 | 4–6 |4–8 |4–8 |3–8 |
-| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 3 | 2–4 |2–4 |2–4 |1–4 |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 3 | 3–4 |3–5 |2–5 |1–5 |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 3 | 2–4 |2–4 |2–4 |2–5 |
-| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1–2 |1–2 |0–2 |0–2 |
-| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |0–3 |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 3 | 2–4 |2–4 |2–4 |1–4 |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 3 | 3–4 |3–5 |2–5 |1–5 |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 3 | 2–4 |2–4 |2–4 |2–5 |
+| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |0–2 |0–2 |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1–2 |1–2 |1–2 |0–3 |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#familienpartei-deutschlands-(ni)">Familienpartei Deutschlands (NI)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#basisdemokratische-partei-deutschland-(*)">Basisdemokratische Partei Deutschland (*)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Christlich Demokratische Union Deutschlands (EPP)
@@ -235,11 +235,11 @@
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
-### Freie Wähler (RE)
+### Die Linke (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Freie Wähler (RE)](party-freiewählerre.html) page.*
+*For a full overview of the results for this party, see the [Die Linke (GUE/NGL)](party-dielinkeguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-freiewählerre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-dielinkeguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -250,11 +250,11 @@
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
-### Die Linke (GUE/NGL)
+### Partei Mensch Umwelt Tierschutz (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Die Linke (GUE/NGL)](party-dielinkeguengl.html) page.*
+*For a full overview of the results for this party, see the [Partei Mensch Umwelt Tierschutz (GUE/NGL)](party-parteimenschumwelttierschutzguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-dielinkeguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-parteimenschumwelttierschutzguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -265,11 +265,11 @@
 | 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
-### Partei Mensch Umwelt Tierschutz (GUE/NGL)
+### Freie Wähler (RE)
 
-*For a full overview of the results for this party, see the [Partei Mensch Umwelt Tierschutz (GUE/NGL)](party-parteimenschumwelttierschutzguengl.html) page.*
+*For a full overview of the results for this party, see the [Freie Wähler (RE)](party-freiewählerre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-parteimenschumwelttierschutzguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-freiewählerre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -280,11 +280,11 @@
 | 5 | 1.0% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
-### Volt Europa (Greens/EFA)
+### Piratenpartei Deutschland (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
+*For a full overview of the results for this party, see the [Piratenpartei Deutschland (Greens/EFA)](party-piratenparteideutschlandgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-piratenparteideutschlandgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -294,11 +294,11 @@
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
-### Die PARTEI (NI)
+### Volt Europa (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Die PARTEI (NI)](party-dieparteini.html) page.*
+*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-dieparteini.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -309,11 +309,11 @@
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
-### Piratenpartei Deutschland (Greens/EFA)
+### Die PARTEI (NI)
 
-*For a full overview of the results for this party, see the [Piratenpartei Deutschland (Greens/EFA)](party-piratenparteideutschlandgreensefa.html) page.*
+*For a full overview of the results for this party, see the [Die PARTEI (NI)](party-dieparteini.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-piratenparteideutschlandgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-dieparteini.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -335,11 +335,11 @@
 | 1 | 33% | 33% | Last Result |
 | 2 | 0% | 0% |  |
 
-### Familienpartei Deutschlands (NI)
+### Familienpartei Deutschlands (EPP)
 
-*For a full overview of the results for this party, see the [Familienpartei Deutschlands (NI)](party-familienparteideutschlandsni.html) page.*
+*For a full overview of the results for this party, see the [Familienpartei Deutschlands (EPP)](party-familienparteideutschlandsepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-familienparteideutschlandsni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -370,20 +370,19 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) | 2 | 25 | 0% | 24–27 | 24–27 | 24–28 | 22–31 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 26 | 0% | 24–28 | 24–28 | 24–28 | 23–32 |
 | Alternative für Deutschland (ID) | 1 | 16 | 0% | 14–19 | 14–19 | 14–20 | 12–20 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 15 | 0% | 12–17 | 12–17 | 12–17 | 12–18 |
-| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 8 | 0% | 7–10 | 6–10 | 6–10 | 6–10 |
-| Die PARTEI (NI) – Familienpartei Deutschlands (NI) | 2 | 1 | 0% | 1–2 | 1–3 | 0–3 | 0–3 |
+| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 8 | 0% | 7–10 | 7–10 | 6–10 | 5–10 |
+| Die PARTEI (NI) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–3 |
 
-### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP)
+### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP)
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-coalitions-seats-pmf-cdu–csu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-coalitions-seats-pmf-cdu–csu–familie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 0% | 100% |  |
+| 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
@@ -402,17 +401,17 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.7% | 100% |  |
-| 23 | 2% | 99.3% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 2% | 99.9% |  |
 | 24 | 38% | 98% | Median |
-| 25 | 28% | 60% |  |
-| 26 | 18% | 31% |  |
-| 27 | 9% | 14% |  |
-| 28 | 2% | 4% |  |
-| 29 | 0.1% | 2% |  |
-| 30 | 1.3% | 2% |  |
-| 31 | 0.6% | 0.7% |  |
-| 32 | 0% | 0.1% |  |
+| 25 | 8% | 60% |  |
+| 26 | 37% | 51% |  |
+| 27 | 3% | 15% |  |
+| 28 | 10% | 12% |  |
+| 29 | 0.2% | 2% |  |
+| 30 | 1.0% | 2% |  |
+| 31 | 0.4% | 1.1% |  |
+| 32 | 0.5% | 0.6% |  |
 | 33 | 0% | 0.1% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
@@ -481,29 +480,27 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 0.3% | 99.9% |  |
-| 6 | 5% | 99.6% |  |
-| 7 | 21% | 95% |  |
-| 8 | 39% | 74% | Median |
-| 9 | 21% | 34% |  |
-| 10 | 12% | 13% |  |
-| 11 | 0.4% | 0.4% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 2% | 99.0% |  |
+| 7 | 14% | 97% |  |
+| 8 | 52% | 83% | Median |
+| 9 | 3% | 31% |  |
+| 10 | 27% | 28% |  |
+| 11 | 0.2% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
-### Die PARTEI (NI) – Familienpartei Deutschlands (NI)
+### Die PARTEI (NI)
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-coalitions-seats-pmf-partei–familie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-coalitions-seats-pmf-partei.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 53% | 97% | Median |
-| 2 | 34% | 44% | Last Result |
-| 3 | 9% | 9% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.6% | 100% |  |
+| 1 | 64% | 99.4% | Last Result, Median |
+| 2 | 35% | 36% |  |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Technical Information

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.5% | 14.0–18.1% | 13.5–18.6% | 12.6–19.8% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.7–17.8% | 14.2–18.3% | 13.7–18.8% | 12.7–19.8% |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 16.5% | 15.1–18.1% | 14.7–18.6% | 14.3–19.0% | 13.7–19.8% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 15.9% | 14.0–18.0% | 13.5–18.6% | 13.0–19.1% | 12.2–20.2% |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
@@ -1258,15 +1259,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 99.9% |  |
-| 12.5–13.5% | 2% | 99.5% |  |
-| 13.5–14.5% | 8% | 97% |  |
-| 14.5–15.5% | 23% | 89% |  |
-| 15.5–16.5% | 36% | 66% | Median |
-| 16.5–17.5% | 21% | 30% |  |
-| 17.5–18.5% | 7% | 9% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.7% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 2% | 99.7% |  |
+| 13.5–14.5% | 6% | 98% |  |
+| 14.5–15.5% | 21% | 92% |  |
+| 15.5–16.5% | 34% | 71% | Median |
+| 16.5–17.5% | 24% | 37% |  |
+| 17.5–18.5% | 10% | 13% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.6% | 0.7% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -1279,7 +1280,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–17 | 12–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 14–16 | 13–17 | 12–17 | 12–18 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 15 | 15 | 15 | 15–16 | 14–18 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 15 | 12–17 | 12–17 | 12–17 | 12–18 |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 13 | 13–16 | 13–16 | 13–17 | 13–17 |
@@ -2527,15 +2529,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 6% | 99.8% |  |
-| 13 | 4% | 94% |  |
-| 14 | 12% | 90% |  |
-| 15 | 44% | 78% | Median |
-| 16 | 22% | 34% |  |
-| 17 | 11% | 12% |  |
-| 18 | 1.1% | 1.2% |  |
-| 19 | 0.1% | 0.2% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 4% | 99.9% |  |
+| 13 | 3% | 96% |  |
+| 14 | 8% | 93% |  |
+| 15 | 61% | 85% | Median |
+| 16 | 15% | 24% |  |
+| 17 | 8% | 9% |  |
+| 18 | 0.7% | 1.0% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
