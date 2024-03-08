@@ -5,8 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN | dieBasis | BSW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 18–23% <br> 18–20 | 14–19% <br> 15–16 | 8–12% <br> 9–10 | 2–4% <br> 3 | 13–17% <br> 14–16 | 4–7% <br> 5–6 | 5–8% <br> 5–6 | 3–6% <br> 4 | 2–4% <br> 3 | 0–1% <br> 0–1 | 2–4% <br> 3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1 | 0–1% <br> 0 | 8–11% <br> 8–9 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 19–23% <br> 18–22 | 14–18% <br> 13–17 | 9–12% <br> 9–12 | 4–6% <br> 4–5 | 20–24% <br> 19–22 | 5–7% <br> 4–7 | 2–4% <br> 2–4 | 3–5% <br> 3–5 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 1–2% <br> 1–3 | 1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 5–7% <br> 4–6 |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19–26% <br> 18–23 | 13–19% <br> 12–17 | 10–16% <br> 10–16 | 2–5% <br> 2–5 | 14–20% <br> 14–20 | 5–9% <br> 3–7 | 4–7% <br> 4–8 | 2–5% <br> 2–4 | 2–5% <br> 2–4 | 0–1% <br> 0–1 | 1–2% <br> 0–2 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 4–8% <br> 4–8 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19–26% <br> 18–23 | 13–19% <br> 12–17 | 10–16% <br> 10–16 | 2–5% <br> 2–4 | 14–20% <br> 14–20 | 5–9% <br> 3–7 | 4–7% <br> 4–8 | 2–5% <br> 2–4 | 2–5% <br> 2–5 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 1–2% <br> 0–2 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 4–8% <br> 4–8 |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov | 22–28% <br> 22–24 | 13–17% <br> 13–17 | 10–14% <br> 10–13 | 3–5% <br> 3–5 | 20–26% <br> 21–23 | 6–9% <br> 6–8 | 4–7% <br> 3–6 | 2–4% <br> 2–4 | 1–2% <br> 1 | 0–1% <br> 0–1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | N/A <br> N/A |
 | [22–27 December 2023](2023-12-27-INSAandYouGov.html) | INSA and YouGov | 23–27% <br> 23–26 | 13–17% <br> 13–15 | 11–14% <br> 11–13 | 3–5% <br> 3–4 | 21–25% <br> 21–23 | 6–8% <br> 6–8 | 4–6% <br> 4–6 | 2–4% <br> 2–3 | 1% <br> 1 | 0–1% <br> 1 | 1–2% <br> 1–2 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
 | [18–22 December 2023](2023-12-22-INSAandYouGov.html) | INSA and YouGov | 23–28% <br> 23–25 | 13–17% <br> 12–15 | 10–14% <br> 10–12 | 3–5% <br> 3–4 | 20–24% <br> 20–23 | 6–9% <br> 6–7 | 4–6% <br> 4–5 | 2–4% <br> 3 | 1–2% <br> 1–2 | 0–1% <br> 1 | 1–3% <br> 1–2 | 0–1% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
@@ -1252,7 +1253,7 @@ Only polls for which at least the sample size has been published are included in
 + **ÖDP:** Ökologisch-Demokratische Partei (Greens/EFA)
 + **PARTEI:** Die PARTEI (NI)
 + **Volt:** Volt Europa (Greens/EFA)
-+ **FAMILIE:** Familienpartei Deutschlands (NI)
++ **FAMILIE:** Familienpartei Deutschlands (EPP)
 + **PIRATEN:** Piratenpartei Deutschland (Greens/EFA)
 + **dieBasis:** Basisdemokratische Partei Deutschland (*)
 + **BSW:** Bündnis Sahra Wagenknecht (GUE/NGL)
