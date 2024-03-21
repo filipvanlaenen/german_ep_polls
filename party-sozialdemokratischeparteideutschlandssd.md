@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.7–17.8% | 14.2–18.3% | 13.7–18.8% | 12.7–19.8% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.9–17.6% | 14.5–18.1% | 14.2–18.5% | 13.5–19.4% |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
+| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17.0% | N/A | N/A | N/A | N/A |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 16.5% | 15.1–18.1% | 14.7–18.6% | 14.3–19.0% | 13.7–19.8% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 15.9% | 14.0–18.0% | 13.5–18.6% | 13.0–19.1% | 12.2–20.2% |
@@ -1259,17 +1262,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 6% | 98% |  |
-| 14.5–15.5% | 21% | 92% |  |
-| 15.5–16.5% | 34% | 71% | Median |
-| 16.5–17.5% | 24% | 37% |  |
-| 17.5–18.5% | 10% | 13% |  |
-| 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.6% | 0.7% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.5% | 100% |  |
+| 13.5–14.5% | 5% | 99.4% |  |
+| 14.5–15.5% | 21% | 94% |  |
+| 15.5–16.5% | 37% | 73% | Median |
+| 16.5–17.5% | 25% | 36% |  |
+| 17.5–18.5% | 9% | 11% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.3% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1280,7 +1282,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–16 | 13–17 | 12–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 15 | 15 | 15 | 15–16 | 14–18 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 15 | 12–17 | 12–17 | 12–17 | 12–18 |
@@ -2529,16 +2534,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 4% | 99.9% |  |
-| 13 | 3% | 96% |  |
-| 14 | 8% | 93% |  |
-| 15 | 61% | 85% | Median |
-| 16 | 15% | 24% |  |
-| 17 | 8% | 9% |  |
-| 18 | 0.7% | 1.0% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 24% | 99.7% |  |
+| 15 | 38% | 76% | Median |
+| 16 | 9% | 37% |  |
+| 17 | 28% | 28% |  |
+| 18 | 0.1% | 0.3% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 
