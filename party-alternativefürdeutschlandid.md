@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 13.9–20.5% | 13.5–20.9% | 13.1–21.3% | 12.5–22.0% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.2–20.2% | 13.7–20.8% | 13.3–21.1% | 12.6–21.8% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.3% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16.0% | N/A | N/A | N/A | N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16.0% | 15.2–16.9% | 14.9–17.1% | 14.7–17.4% | 14.3–17.8% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 15.1% | 13.7–16.7% | 13.3–17.1% | 13.0–17.5% | 12.4–18.3% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 22.0% | 20.9–23.2% | 20.5–23.5% | 20.3–23.8% | 19.7–24.4% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 16.9% | 15.0–19.1% | 14.5–19.8% | 14.0–20.3% | 13.2–21.4% |
@@ -1262,17 +1262,17 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.6% | 100% |  |
-| 12.5–13.5% | 5% | 99.4% |  |
-| 13.5–14.5% | 16% | 95% |  |
-| 14.5–15.5% | 22% | 79% |  |
-| 15.5–16.5% | 16% | 56% | Median |
-| 16.5–17.5% | 6% | 40% |  |
-| 17.5–18.5% | 3% | 35% |  |
-| 18.5–19.5% | 9% | 32% |  |
-| 19.5–20.5% | 14% | 23% |  |
-| 20.5–21.5% | 8% | 9% |  |
-| 21.5–22.5% | 1.3% | 1.4% |  |
+| 11.5–12.5% | 0.4% | 100% |  |
+| 12.5–13.5% | 4% | 99.5% |  |
+| 13.5–14.5% | 12% | 96% |  |
+| 14.5–15.5% | 23% | 84% |  |
+| 15.5–16.5% | 26% | 61% | Median |
+| 16.5–17.5% | 9% | 36% |  |
+| 17.5–18.5% | 2% | 26% |  |
+| 18.5–19.5% | 6% | 24% |  |
+| 19.5–20.5% | 11% | 18% |  |
+| 20.5–21.5% | 6% | 7% |  |
+| 21.5–22.5% | 1.0% | 1.1% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -1285,10 +1285,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–20 | 13–20 | 13–21 | 12–21 |
+| N/A | [Poll Average](average.html) | 16 | 14–20 | 14–20 | 13–21 | 12–21 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14 | 13–14 | 13–16 | 13–16 | 12–16 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 16 | 16 | 15–16 | 14–16 | 12–16 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 19–22 | 19–22 | 18–22 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 16 | 14–19 | 14–19 | 14–20 | 12–20 |
@@ -2538,17 +2538,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 4% | 99.2% |  |
-| 14 | 27% | 95% |  |
-| 15 | 0.8% | 68% |  |
-| 16 | 34% | 67% | Median |
-| 17 | 0.8% | 34% |  |
-| 18 | 9% | 33% |  |
-| 19 | 8% | 23% |  |
-| 20 | 12% | 16% |  |
-| 21 | 4% | 4% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 12 | 0.6% | 100% |  |
+| 13 | 3% | 99.4% |  |
+| 14 | 20% | 96% |  |
+| 15 | 7% | 76% |  |
+| 16 | 43% | 69% | Median |
+| 17 | 2% | 26% |  |
+| 18 | 7% | 25% |  |
+| 19 | 6% | 18% |  |
+| 20 | 9% | 12% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0% | 0% |  |
 
 
