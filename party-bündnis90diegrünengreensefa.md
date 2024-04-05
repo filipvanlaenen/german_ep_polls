@@ -1280,10 +1280,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 9–15 | 9–16 | 8–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–16 | 9–16 | 9–16 | 8–17 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14 | 14 | 13–15 | 13–15 | 11–15 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 14 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 9 | 9 | 9 | 9–10 | 7–11 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 11 | 9–12 | 9–12 | 9–12 | 8–12 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 11 | 10–16 | 10–16 | 10–16 | 10–16 |
@@ -2535,10 +2535,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 10% | 65% |  |
 | 12 | 5% | 54% | Median |
 | 13 | 2% | 50% |  |
-| 14 | 36% | 48% |  |
-| 15 | 9% | 12% |  |
-| 16 | 3% | 3% |  |
-| 17 | 0.4% | 0.4% |  |
+| 14 | 21% | 48% |  |
+| 15 | 8% | 27% |  |
+| 16 | 18% | 19% |  |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
 
 

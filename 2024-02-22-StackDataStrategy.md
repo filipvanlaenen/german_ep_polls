@@ -14,7 +14,7 @@
 | Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 16.5% | 15.1–18.1% |14.7–18.6% |14.3–19.0% |13.7–19.8% |
 | Alternative für Deutschland (ID) | 0.0% | 15.1% | 13.7–16.7% |13.3–17.1% |13.0–17.5% |12.4–18.3% |
 | Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 9.8% | 8.7–11.1% |8.4–11.5% |8.1–11.8% |7.6–12.5% |
-| Bündnis Sahra Wagenknecht (GUE/NGL) | 0.0% | 9.3% | 8.2–10.6% |7.9–10.9% |7.6–11.3% |7.1–11.9% |
+| Bündnis Sahra Wagenknecht (NI) | 0.0% | 9.3% | 8.2–10.6% |7.9–10.9% |7.6–11.3% |7.1–11.9% |
 | Freie Demokratische Partei (RE) | 0.0% | 6.0% | 5.2–7.1% |4.9–7.4% |4.7–7.7% |4.3–8.2% |
 | Christlich-Soziale Union in Bayern (EPP) | 0.0% | 5.6% | 4.8–6.7% |4.5–7.0% |4.3–7.2% |4.0–7.8% |
 | Freie Wähler (RE) | 0.0% | 4.1% | 3.4–5.0% |3.2–5.3% |3.0–5.5% |2.7–6.0% |
@@ -43,7 +43,7 @@
 | <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 1 | 15 | 15 |15 |15–16 |14–18 |
 | <a href="#alternative-für-deutschland-(id)">Alternative für Deutschland (ID)</a> | 1 | 16 | 16 |15–16 |14–16 |12–16 |
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 9 | 9 |9 |9–10 |7–11 |
-| <a href="#bündnis-sahra-wagenknecht-(gue/ngl)">Bündnis Sahra Wagenknecht (GUE/NGL)</a> | 1 | 8 | 8 |8 |8–9 |7–10 |
+| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 1 | 8 | 8 |8 |8–9 |7–10 |
 | <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 6 | 6 |6 |5–6 |4–7 |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 6 | 6 |6 |5–6 |4–7 |
 | <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 4 | 4 |4 |4 |3–5 |
@@ -168,11 +168,11 @@
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
-### Bündnis Sahra Wagenknecht (GUE/NGL)
+### Bündnis Sahra Wagenknecht (NI)
 
-*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (GUE/NGL)](party-bündnissahrawagenknechtguengl.html) page.*
+*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (NI)](party-bündnissahrawagenknechtni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-02-22-StackDataStrategy-seats-pmf-bündnissahrawagenknechtguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-02-22-StackDataStrategy-seats-pmf-bündnissahrawagenknechtni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -357,8 +357,8 @@
 | Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 25 | 0% | 25 | 25 | 25–26 | 22–26 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 15 | 0% | 15 | 15 | 15–16 | 14–18 |
 | Alternative für Deutschland (ID) | 1 | 16 | 0% | 16 | 15–16 | 14–16 | 12–16 |
+| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 2 | 11 | 0% | 11 | 11 | 11–12 | 11–14 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 10 | 0% | 10 | 10 | 10 | 8–11 |
-| Die PARTEI (NI) | 1 | 3 | 0% | 3 | 3 | 3 | 2–4 |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP)
 
@@ -447,6 +447,27 @@
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
+### Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI)
+
+![Graph with seats probability mass function not yet produced](2024-02-22-StackDataStrategy-coalitions-seats-pmf-bsw–partei.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 0% | 100% | Last Result |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.3% | 99.9% |  |
+| 11 | 96% | 99.6% | Median |
+| 12 | 2% | 3% |  |
+| 13 | 0.8% | 1.5% |  |
+| 14 | 0.6% | 0.7% |  |
+| 15 | 0% | 0% |  |
+
 ### Freie Demokratische Partei (RE) – Freie Wähler (RE)
 
 ![Graph with seats probability mass function not yet produced](2024-02-22-StackDataStrategy-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
@@ -465,18 +486,6 @@
 | 11 | 1.0% | 1.3% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
-
-### Die PARTEI (NI)
-
-![Graph with seats probability mass function not yet produced](2024-02-22-StackDataStrategy-coalitions-seats-pmf-partei.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 1.3% | 100% |  |
-| 3 | 97% | 98.7% | Median |
-| 4 | 1.2% | 1.2% |  |
-| 5 | 0% | 0% |  |
 
 
 ## Technical Information

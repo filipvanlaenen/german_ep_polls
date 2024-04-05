@@ -16,14 +16,14 @@
 | Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 11.0% | 10.1–11.9% |9.9–12.1% |9.7–12.4% |9.3–12.8% |
 | Christlich-Soziale Union in Bayern (EPP) | 0.0% | 6.2% | 5.6–6.9% |5.4–7.1% |5.2–7.3% |4.9–7.7% |
 | Freie Demokratische Partei (RE) | 0.0% | 6.0% | 5.3–6.7% |5.2–6.9% |5.0–7.1% |4.7–7.4% |
-| Bündnis Sahra Wagenknecht (GUE/NGL) | 0.0% | 5.5% | 4.9–6.2% |4.7–6.4% |4.6–6.5% |4.3–6.9% |
+| Bündnis Sahra Wagenknecht (NI) | 0.0% | 5.5% | 4.9–6.2% |4.7–6.4% |4.6–6.5% |4.3–6.9% |
 | Die Linke (GUE/NGL) | 0.0% | 4.5% | 3.9–5.1% |3.8–5.3% |3.7–5.5% |3.4–5.8% |
 | Freie Wähler (RE) | 0.0% | 2.5% | 2.1–3.0% |2.0–3.1% |1.9–3.2% |1.7–3.5% |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 2.0% | 1.6–2.5% |1.6–2.6% |1.5–2.7% |1.3–2.9% |
 | Piratenpartei Deutschland (Greens/EFA) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.5% |0.5–1.7% |
 | Die PARTEI (NI) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.5% |0.5–1.7% |
-| Volt Europa (Greens/EFA) | 0.0% | 0.5% | 0.3–0.7% |0.3–0.8% |0.3–0.9% |0.2–1.0% |
 | Familienpartei Deutschlands (EPP) | 0.0% | 0.5% | 0.3–0.7% |0.3–0.8% |0.3–0.9% |0.2–1.0% |
+| Volt Europa (Greens/EFA) | 0.0% | 0.5% | 0.3–0.7% |0.3–0.8% |0.3–0.9% |0.2–1.0% |
 | Ökologisch-Demokratische Partei (Greens/EFA) | 0.0% | 0.3% | 0.2–0.6% |0.2–0.6% |0.2–0.7% |0.1–0.8% |
 | Basisdemokratische Partei Deutschland (*) | 0.0% | 0.1% | 0.1–0.3% |0.1–0.4% |0.0–0.4% |0.0–0.5% |
 
@@ -45,14 +45,14 @@
 | <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 1 | 11 | 9–12 |9–12 |9–12 |9–13 |
 | <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 1 | 6 | 6–7 |5–7 |5–7 |4–7 |
 | <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 1 | 5 | 5–6 |5–7 |5–7 |4–7 |
-| <a href="#bündnis-sahra-wagenknecht-(gue/ngl)">Bündnis Sahra Wagenknecht (GUE/NGL)</a> | 1 | 5 | 4–6 |4–6 |4–6 |4–7 |
+| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 1 | 5 | 4–6 |4–6 |4–6 |4–7 |
 | <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 1 | 4 | 4–5 |4–5 |3–5 |3–5 |
 | <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 1 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–3 |
-| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |0–2 |0–2 |
+| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#basisdemokratische-partei-deutschland-(*)">Basisdemokratische Partei Deutschland (*)</a> | 1 | 0 | 0 |0 |0 |0 |
 
@@ -209,11 +209,11 @@
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Bündnis Sahra Wagenknecht (GUE/NGL)
+### Bündnis Sahra Wagenknecht (NI)
 
-*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (GUE/NGL)](party-bündnissahrawagenknechtguengl.html) page.*
+*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (NI)](party-bündnissahrawagenknechtni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-bündnissahrawagenknechtguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-bündnissahrawagenknechtni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -264,8 +264,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 46% | 100% | Last Result |
-| 2 | 52% | 54% | Median |
+| 1 | 37% | 100% | Last Result |
+| 2 | 61% | 63% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -278,8 +278,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
-| 1 | 87% | 97% | Last Result, Median |
-| 2 | 10% | 10% |  |
+| 1 | 96% | 97% | Last Result, Median |
+| 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
 ### Die PARTEI (NI)
@@ -295,11 +295,11 @@
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### Volt Europa (Greens/EFA)
+### Familienpartei Deutschlands (EPP)
 
-*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
+*For a full overview of the results for this party, see the [Familienpartei Deutschlands (EPP)](party-familienparteideutschlandsepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -307,11 +307,11 @@
 | 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
-### Familienpartei Deutschlands (EPP)
+### Volt Europa (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Familienpartei Deutschlands (EPP)](party-familienparteideutschlandsepp.html) page.*
+*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -352,11 +352,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 29 | 0% | 27–31 | 27–31 | 26–31 | 26–31 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 3 | 29 | 0% | 26–31 | 26–31 | 26–31 | 25–32 |
 | Alternative für Deutschland (ID) | 1 | 19 | 0% | 18–21 | 17–21 | 17–21 | 17–21 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 1 | 15 | 0% | 14–16 | 14–16 | 13–17 | 13–17 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 2 | 8 | 0% | 7–9 | 7–9 | 7–10 | 7–10 |
-| Die PARTEI (NI) | 1 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 2 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP)
 
@@ -386,14 +386,15 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.1% | 99.9% |  |
-| 26 | 2% | 99.9% |  |
-| 27 | 14% | 97% |  |
-| 28 | 26% | 84% |  |
-| 29 | 18% | 58% | Median |
-| 30 | 24% | 40% |  |
-| 31 | 16% | 16% |  |
-| 32 | 0% | 0% |  |
+| 25 | 0.8% | 100% |  |
+| 26 | 13% | 99.2% |  |
+| 27 | 15% | 86% |  |
+| 28 | 16% | 71% | Median |
+| 29 | 35% | 55% |  |
+| 30 | 4% | 20% |  |
+| 31 | 14% | 16% |  |
+| 32 | 2% | 2% |  |
+| 33 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ID)
 
@@ -467,16 +468,20 @@
 | 10 | 5% | 5% |  |
 | 11 | 0% | 0% |  |
 
-### Die PARTEI (NI)
+### Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI)
 
-![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-coalitions-seats-pmf-partei.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-03-11-INSAandYouGov-coalitions-seats-pmf-bsw–partei.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 93% | 94% | Last Result, Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 0% | 100% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 29% | 99.9% |  |
+| 6 | 43% | 71% | Median |
+| 7 | 27% | 28% |  |
+| 8 | 1.1% | 1.1% |  |
+| 9 | 0% | 0% |  |
 
 
 ## Technical Information

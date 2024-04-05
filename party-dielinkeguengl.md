@@ -1271,7 +1271,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 3 | 3 | 3 | 3 | 2–4 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
@@ -2512,9 +2512,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% | Last Result |
 | 2 | 23% | 99.6% |  |
-| 3 | 29% | 77% | Median |
-| 4 | 39% | 48% |  |
-| 5 | 9% | 9% |  |
+| 3 | 32% | 77% | Median |
+| 4 | 37% | 45% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 
