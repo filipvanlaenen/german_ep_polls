@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.6–3.3% | 0.5–3.6% | 0.5–3.9% | 0.4–4.4% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.2–2.4% | 1.1–2.5% | 1.0–2.6% | 0.8–2.9% |
+| [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
@@ -1250,13 +1251,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 33% | 94% |  |
-| 1.5–2.5% | 38% | 61% | Median |
-| 2.5–3.5% | 18% | 24% |  |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 27% | 100% |  |
+| 1.5–2.5% | 69% | 73% | Median |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1267,7 +1266,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–3 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -2509,11 +2509,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 50% | 92% | Last Result, Median |
-| 2 | 16% | 42% |  |
-| 3 | 25% | 25% |  |
-| 4 | 0.2% | 0.2% |  |
-| 5 | 0% | 0% |  |
+| 1 | 58% | 100% | Last Result, Median |
+| 2 | 36% | 42% |  |
+| 3 | 6% | 6% |  |
+| 4 | 0% | 0% |  |
 
 
