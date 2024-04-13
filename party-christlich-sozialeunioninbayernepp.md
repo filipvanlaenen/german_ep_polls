@@ -1273,8 +1273,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
-| [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 5–7 | 5–7 | 4–7 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6 | 6–7 | 5–7 | 5–7 |
@@ -2520,9 +2520,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 11% | 100% |  |
-| 6 | 35% | 89% |  |
-| 7 | 12% | 55% | Median |
+| 5 | 3% | 100% |  |
+| 6 | 25% | 97% |  |
+| 7 | 29% | 72% | Median |
 | 8 | 40% | 43% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
