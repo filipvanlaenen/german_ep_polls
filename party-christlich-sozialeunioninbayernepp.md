@@ -1275,8 +1275,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 5–7 | 5–7 | 4–7 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 6 | 6 | 6 | 5–6 | 4–7 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
@@ -2521,9 +2521,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 25% | 97% |  |
-| 7 | 29% | 72% | Median |
-| 8 | 40% | 43% |  |
+| 6 | 29% | 97% |  |
+| 7 | 34% | 68% | Median |
+| 8 | 30% | 34% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 

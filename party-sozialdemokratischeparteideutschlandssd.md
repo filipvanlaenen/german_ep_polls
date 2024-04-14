@@ -1283,10 +1283,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–17 | 14–17 | 14–17 | 14–18 |
+| N/A | [Poll Average](average.html) | 17 | 15–17 | 14–17 | 14–17 | 12–18 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 14–17 | 13–17 |
-| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 13–17 | 12–17 |
+| [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17 | 16–18 | 16–18 | 15–18 | 15–18 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 15 | 15 | 15 | 15–16 | 14–18 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
@@ -2537,13 +2537,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 9% | 99.6% |  |
-| 15 | 11% | 91% |  |
-| 16 | 23% | 80% |  |
-| 17 | 56% | 56% | Median |
-| 18 | 0.7% | 0.8% |  |
+| 12 | 1.2% | 100% |  |
+| 13 | 0.3% | 98.8% |  |
+| 14 | 7% | 98% |  |
+| 15 | 17% | 92% |  |
+| 16 | 24% | 75% |  |
+| 17 | 50% | 51% | Median |
+| 18 | 0.8% | 0.8% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
