@@ -1276,7 +1276,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 8 | 8 | 8 | 8–9 | 7–10 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 8 | 8 | 8–9 | 8–9 | 7–11 |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 5 | 5–8 | 4–8 | 4–8 | 3–8 |
 | [28–29 December 2023](2023-12-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
