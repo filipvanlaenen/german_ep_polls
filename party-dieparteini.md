@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 0.9–2.4% | 0.9–2.7% | 0.8–2.8% | 0.7–3.2% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2.0% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.4% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
@@ -1254,9 +1255,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 51% | 100% |  |
-| 1.5–2.5% | 41% | 49% | Median |
-| 2.5–3.5% | 7% | 7% |  |
+| 0.5–1.5% | 20% | 100% |  |
+| 1.5–2.5% | 71% | 80% | Median |
+| 2.5–3.5% | 9% | 9% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -1270,6 +1271,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2 | 2 | 2 | 2 | 2–3 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 2 | 2 | 1–3 | 1–3 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
@@ -2514,9 +2516,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result |
-| 2 | 50% | 50% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 1 | 29% | 100% | Last Result |
+| 2 | 71% | 71% | Median |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
