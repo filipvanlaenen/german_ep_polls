@@ -1294,10 +1294,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–23 | 21–24 | 20–24 | 19–25 |
+| N/A | [Poll Average](average.html) | 22 | 19–23 | 19–24 | 19–24 | 19–25 |
 | [29–30 April 2024](2024-04-30-Infratestdimap.html) | Infratest dimap | 22 | 22–24 | 22–24 | 21–24 | 21–24 |
-| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 23 | 21–23 | 20–23 | 20–23 | 20–25 |
-| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 21–22 | 21–22 | 19–23 | 19–24 |
+| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 23 | 21–23 | 20–23 | 20–23 | 18–25 |
+| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 19–23 | 19–23 | 19–23 | 19–24 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 19–23 | 19–24 | 19–25 | 19–27 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 22 | 20–22 | 20–22 | 20–23 | 19–24 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 24 | 23–24 | 22–25 | 22–26 | 22–28 |
@@ -2558,14 +2558,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 1.0% | 100% |  |
-| 20 | 2% | 98.9% |  |
-| 21 | 32% | 97% |  |
-| 22 | 34% | 65% | Median |
-| 23 | 23% | 31% |  |
-| 24 | 8% | 9% |  |
-| 25 | 0.6% | 0.6% |  |
-| 26 | 0% | 0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 27% | 99.7% |  |
+| 20 | 2% | 73% |  |
+| 21 | 11% | 71% |  |
+| 22 | 23% | 59% | Median |
+| 23 | 27% | 36% |  |
+| 24 | 9% | 9% |  |
+| 25 | 0.4% | 0.5% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 

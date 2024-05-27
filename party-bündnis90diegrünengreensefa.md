@@ -1287,10 +1287,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 13–16 | 13–17 | 12–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 13 | 13–16 | 12–16 | 11–16 | 11–18 |
 | [29–30 April 2024](2024-04-30-Infratestdimap.html) | Infratest dimap | 13 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 13 | 13 | 12–13 | 12–13 | 11–13 |
-| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 16 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14 | 13–14 | 13–15 | 12–15 | 11–15 |
@@ -2544,14 +2544,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 54% | 97% | Median |
-| 14 | 10% | 43% |  |
-| 15 | 10% | 33% |  |
-| 16 | 16% | 24% |  |
-| 17 | 7% | 8% |  |
-| 18 | 0.5% | 0.5% |  |
+| 11 | 5% | 100% |  |
+| 12 | 4% | 95% |  |
+| 13 | 52% | 92% | Median |
+| 14 | 0.4% | 40% |  |
+| 15 | 11% | 39% |  |
+| 16 | 27% | 29% |  |
+| 17 | 0.6% | 2% |  |
+| 18 | 1.1% | 1.2% |  |
 | 19 | 0% | 0% |  |
 
 
