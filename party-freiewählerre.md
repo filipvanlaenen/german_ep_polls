@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.8–5.2% | 2.6–5.5% | 2.4–5.7% | 2.1–6.2% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.1–5.6% | 3.9–5.8% | 3.7–6.0% | 3.4–6.5% |
+| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 3.0% | N/A | N/A | N/A | N/A |
+| [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.2% | N/A | N/A | N/A | N/A |
+| [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov | 3.0% | N/A | N/A | N/A | N/A |
+| [3–8 May 2024](2024-05-08-YouGov.html) | YouGov | 1.8% | N/A | N/A | N/A | N/A |
 | [29–30 April 2024](2024-04-30-Infratestdimap.html) | Infratest dimap | 4.8% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% | 3.4–6.5% |
 | [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.2% | 3.5–5.0% | 3.3–5.2% | 3.2–5.4% | 2.9–5.9% |
@@ -1257,12 +1261,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 27% | 95% |  |
-| 3.5–4.5% | 37% | 68% | Median |
-| 4.5–5.5% | 27% | 31% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.9% | 100% |  |
+| 3.5–4.5% | 32% | 99.1% |  |
+| 4.5–5.5% | 55% | 67% | Median |
+| 5.5–6.5% | 11% | 11% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -1274,10 +1278,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–8 May 2024](2024-05-08-YouGov.html) | YouGov |  |  |  |  |  |
 | [29–30 April 2024](2024-04-30-Infratestdimap.html) | Infratest dimap | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [25–26 April 2024](2024-04-26-INSAandYouGov.html) | INSA and YouGov | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -2522,11 +2530,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 6% | 100% |  |
-| 3 | 23% | 94% |  |
-| 4 | 33% | 71% | Median |
-| 5 | 29% | 38% |  |
-| 6 | 9% | 9% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 70% | 99.5% | Median |
+| 5 | 15% | 30% |  |
+| 6 | 14% | 14% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
