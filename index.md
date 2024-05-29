@@ -1,15 +1,13 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 14 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | CDU | SPD | GRÜNEN | LINKE | AfD | CSU | FDP | FW | Tierschutz | ÖDP | PARTEI | Volt | FAMILIE | PIRATEN | dieBasis | BSW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
-| N/A | [Poll Average](average.html) | 21–26% <br> 20–24 | 12–16% <br> 11–15 | 13–17% <br> 13–15 | N/A <br> N/A | 13–17% <br> 13–15 | 5–8% <br> 6–7 | 3–5% <br> 3–5 | 4–6% <br> 4–6 | 1–2% <br> 1–2 | 0–2% <br> 1 | 2–3% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 6–8% <br> 6–8 |
-| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–26% <br> 19–24 | 12–16% <br> 11–16 | 11–15% <br> 11–13 | 2–4% <br> 2–4 | 15–19% <br> 15–18 | 5–8% <br> 5–8 | 3–5% <br> 3–5 | 2–4% <br> 3–4 | 1–2% <br> 1–2 | 0–2% <br> 0–1 | 1–3% <br> 2–3 | 0–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 6–9% <br> 5–8 |
+| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 21–26% <br> 19–24 | 12–16% <br> 11–16 | 11–15% <br> 11–13 | 2–4% <br> 2–4 | 15–19% <br> 15–18 | 5–8% <br> 5–8 | 3–5% <br> 3–5 | 2–4% <br> 3–4 | 1–2% <br> 1–2 | 0–2% <br> 0–1 | 1–3% <br> 2–3 | 0–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 6–9% <br> 5–8 |
 | [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–8 May 2024](2024-05-08-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29–30 April 2024](2024-04-30-Infratestdimap.html) | Infratest dimap | 21–26% <br> 20–24 | 12–16% <br> 11–15 | 13–17% <br> 13–15 | N/A <br> N/A | 13–17% <br> 13–15 | 5–8% <br> 6–7 | 3–5% <br> 3–5 | 4–6% <br> 4–6 | 1–3% <br> 1–2 | 1–2% <br> 1 | 2–3% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 0–1% <br> 0–1 | 6–9% <br> 6–8 |
 | 26 May 2019 | General Election | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 | 0.0% <br> 1 |
 
 Only polls for which at least the sample size has been published are included in the table above.
