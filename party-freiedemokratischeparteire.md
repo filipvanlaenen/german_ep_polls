@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
-| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 4.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.0% | N/A | N/A | N/A | N/A |
 | [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [3–8 May 2024](2024-05-08-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
@@ -1261,11 +1261,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 17% | 99.9% |  |
-| 3.5–4.5% | 65% | 83% | Median |
-| 4.5–5.5% | 18% | 18% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 20% | 99.7% |  |
+| 3.5–4.5% | 58% | 80% | Median |
+| 4.5–5.5% | 20% | 22% |  |
+| 5.5–6.5% | 1.5% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -1277,8 +1277,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 3–5 | 2–6 |
+| [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 3–5 | 2–6 |
 | [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
 | [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–8 May 2024](2024-05-08-YouGov.html) | YouGov |  |  |  |  |  |
@@ -2529,10 +2529,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.1% | 100% |  |
-| 3 | 49% | 99.9% |  |
-| 4 | 43% | 51% | Median |
-| 5 | 8% | 8% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0.8% | 100% |  |
+| 3 | 3% | 99.2% |  |
+| 4 | 7% | 97% |  |
+| 5 | 89% | 89% | Median |
+| 6 | 0.6% | 0.6% |  |
+| 7 | 0% | 0% |  |
 
 
