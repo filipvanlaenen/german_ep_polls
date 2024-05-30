@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.4% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.5–1.7% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.9% | 0.7–1.2% | 0.7–1.4% | 0.5–1.4% | 0.5–1.5% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.9% | 0.7–1.2% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 3.2% | 2.5–4.0% | 2.4–4.3% | 2.2–4.5% | 2.0–4.9% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 1.8% | 1.5–2.2% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 1.1% | 0.7–1.9% | 0.6–2.1% | 0.5–2.3% | 0.4–2.8% |
@@ -1285,7 +1285,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2 | 2 | 2 | 2 | 2–3 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 2 | 2 | 1–3 | 1–3 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 1 | 1 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 3 | 3–4 | 3–4 | 3–4 | 2–4 |

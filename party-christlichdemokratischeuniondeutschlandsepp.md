@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 22.3% | 21.1–23.5% | 20.8–23.8% | 20.5–24.1% | 20.0–24.7% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 26.6% | 24.9–28.4% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 22.2% | 21.0–23.4% | 20.7–23.7% | 20.5–24.0% | 19.9–24.6% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 22.7% | 21.7–23.7% | 21.4–24.0% | 21.1–24.3% | 20.7–24.7% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 22.7% | 21.7–23.7% | 21.4–24.0% | 21.2–24.2% | 20.7–24.7% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 19.9% | 18.3–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.4% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 21.1% | 20.0–22.3% | 19.7–22.6% | 19.4–22.9% | 18.9–23.5% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 22.5% | 20.4–24.9% | 19.8–25.6% | 19.2–26.2% | 18.2–27.4% |
@@ -1309,7 +1309,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 21–22 | 21–22 | 19–23 | 19–24 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 19–23 | 19–24 | 19–25 | 19–27 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 22 | 20–22 | 20–22 | 20–23 | 19–24 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 24 | 24 | 23–24 | 23–25 | 23–28 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 24 | 23–24 | 22–25 | 22–26 | 22–28 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 21 | 21–22 | 20–23 | 20–23 | 19–24 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 22 | 22–23 | 21–23 | 21–23 | 20–24 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 18 | 18–20 | 18–20 | 18–20 | 17–22 |

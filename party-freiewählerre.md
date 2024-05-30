@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% | 1.7–3.5% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3.0% | 2.6–3.6% | 2.5–3.6% | 2.3–3.7% | 2.2–4.0% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 3.7% | 3.2–4.3% | 3.0–4.4% | 2.9–4.6% | 2.7–4.9% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 3.1% | 2.3–4.2% | 2.1–4.6% | 1.9–4.9% | 1.6–5.5% |

@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 16.5% | 15.5–17.6% | 15.2–17.9% | 15.0–18.2% | 14.5–18.7% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 15.9% | 14.9–17.0% | 14.6–17.3% | 14.4–17.5% | 13.9–18.1% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17.0% | 16.0–18.0% | 15.8–18.2% | 15.6–18.5% | 15.2–18.9% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17.0% | 16.1–17.9% | 15.9–18.2% | 15.7–18.4% | 15.3–18.8% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 16.5% | 15.1–18.1% | 14.7–18.6% | 14.3–19.0% | 13.7–19.8% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 15.9% | 14.0–18.0% | 13.5–18.6% | 13.0–19.1% | 12.2–20.2% |
@@ -1299,7 +1299,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 13–15 | 13–16 | 13–17 | 13–17 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 13–17 | 13–17 | 13–17 | 13–18 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 13–17 | 12–17 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17 | 16–18 | 16–18 | 15–18 | 15–18 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 15 | 15–18 | 15–18 | 15–18 | 14–18 |

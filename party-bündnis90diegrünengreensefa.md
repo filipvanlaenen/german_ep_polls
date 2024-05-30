@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 11.5% | 10.7–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.4% |
 | [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 11.0% | 10.1–11.9% | 9.9–12.1% | 9.7–12.4% | 9.3–12.8% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16.0% | 15.1–17.0% | 14.8–17.1% | 14.7–17.4% | 14.3–17.8% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16.0% | 15.2–16.9% | 14.9–17.1% | 14.7–17.4% | 14.3–17.8% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [8–12 February 2024](2024-02-12-INSAandYouGov.html) | INSA and YouGov | 10.5% | 9.7–11.4% | 9.5–11.7% | 9.3–11.9% | 8.9–12.4% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 13.0% | 11.3–15.0% | 10.8–15.5% | 10.4–16.0% | 9.7–17.0% |
@@ -1299,7 +1299,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23–25 April 2024](2024-04-25-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [9–11 April 2024](2024-04-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [5–8 April 2024](2024-04-08-INSAandYouGov.html) | INSA and YouGov | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14 | 14 | 13–15 | 13–15 | 11–15 |
+| [12–13 March 2024](2024-03-13-Forsa.html) | Forsa | 14 | 13–14 | 13–15 | 12–15 | 11–15 |
 | [8–11 March 2024](2024-03-11-INSAandYouGov.html) | INSA and YouGov | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 9 | 9 | 9 | 9–10 | 7–11 |
