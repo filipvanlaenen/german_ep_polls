@@ -1291,9 +1291,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–17 | 11–17 | 9–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 11–15 | 9–16 |
 | [27–29 May 2024](2024-05-29-Infratestdimap.html) | Infratest dimap | 13 | 13 | 12–13 | 12–13 | 12–15 |
-| [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 13–17 | 13–17 | 12–17 | 12–17 |
+| [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 15 | 15 | 15 | 13–17 |
 | [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 11 | 11–13 | 11–15 | 10–15 | 9–15 |
 | [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2555,12 +2555,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.6% | 100% |  |
 | 10 | 0.9% | 99.4% |  |
 | 11 | 23% | 98% |  |
-| 12 | 9% | 75% |  |
-| 13 | 35% | 67% | Median |
-| 14 | 3% | 32% |  |
-| 15 | 9% | 28% |  |
-| 16 | 4% | 20% |  |
-| 17 | 15% | 15% |  |
+| 12 | 7% | 76% |  |
+| 13 | 33% | 68% | Median |
+| 14 | 1.1% | 36% |  |
+| 15 | 34% | 35% |  |
+| 16 | 0.2% | 0.7% |  |
+| 17 | 0.5% | 0.5% |  |
 | 18 | 0% | 0% |  |
 
 
