@@ -1284,7 +1284,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
 | [27–29 May 2024](2024-05-29-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6 | 6 | 5–8 |
-| [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–7 | 5–8 | 4–8 | 4–8 |
+| [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 5–7 | 5–8 | 5–9 |
 | [14–16 May 2024](2024-05-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 6–7 | 6–8 | 6–9 | 5–9 |
 | [10–13 May 2024](2024-05-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -2538,12 +2538,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 21% | 98.8% |  |
-| 6 | 62% | 77% | Median |
-| 7 | 11% | 15% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.9% | 0.9% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 11% | 99.2% |  |
+| 6 | 76% | 88% | Median |
+| 7 | 10% | 13% |  |
+| 8 | 2% | 3% |  |
+| 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% |  |
 
 
