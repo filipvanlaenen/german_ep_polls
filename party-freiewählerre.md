@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 2.8–6.1% | 2.5–6.4% | 2.3–6.7% | 2.0–7.2% |
+| [30–31 May 2024](2024-05-31-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [27–29 May 2024](2024-05-29-Infratestdimap.html) | Infratest dimap | 5.7% | 5.0–6.6% | 4.8–6.8% | 4.7–7.0% | 4.4–7.5% |
 | [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.1% | 3.4–4.9% | 3.3–5.2% | 3.1–5.4% | 2.8–5.8% |
 | [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
@@ -1282,6 +1283,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
+| [30–31 May 2024](2024-05-31-INSAandYouGov.html) | INSA and YouGov | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [27–29 May 2024](2024-05-29-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6 | 6 | 5–6 |
 | [27–29 May 2024](2024-05-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4 | 4 | 4 | 3–4 |
 | [23–24 May 2024](2024-05-24-INSAandYouGov.html) | INSA and YouGov | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -2534,11 +2536,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 3% | 100% |  |
-| 3 | 8% | 97% |  |
-| 4 | 55% | 88% | Median |
-| 5 | 0.9% | 33% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 4% | 99.9% |  |
+| 3 | 28% | 96% |  |
+| 4 | 35% | 69% | Median |
+| 5 | 2% | 34% |  |
 | 6 | 32% | 33% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
