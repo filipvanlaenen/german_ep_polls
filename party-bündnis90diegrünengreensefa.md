@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.6% | 11.0–14.2% | 10.6–14.7% | 10.3–15.2% | 9.8–16.1% |
+| N/A | [Poll Average](average.html) | 12.4% | 10.9–14.2% | 10.5–14.7% | 10.3–15.2% | 9.8–16.1% |
+| [12–15 July 2024](2024-07-15-INSAandYouGov.html) | INSA and YouGov | 11.5% | 10.7–12.4% | 10.5–12.6% | 10.3–12.8% | 10.0–13.3% |
+| [9–15 July 2024](2024-07-15-Forsa.html) | Forsa | 11.0% | 10.2–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [8–12 July 2024](2024-07-12-INSAandYouGov.html) | INSA and YouGov | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.4–13.8% | 10.0–14.4% |
 | [9–11 July 2024](2024-07-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13.0% | 11.8–14.3% | 11.4–14.7% | 11.2–15.1% | 10.6–15.7% |
 | [3–9 July 2024](2024-07-09-Verian.html) | Verian | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.4–14.8% | 10.9–15.4% |
@@ -53,13 +55,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 4% | 99.8% |  |
-| 10.5–11.5% | 17% | 96% |  |
-| 11.5–12.5% | 28% | 79% |  |
-| 12.5–13.5% | 28% | 50% | Median |
-| 13.5–14.5% | 16% | 22% |  |
+| 9.5–10.5% | 5% | 99.8% |  |
+| 10.5–11.5% | 21% | 95% |  |
+| 11.5–12.5% | 29% | 74% | Median |
+| 12.5–13.5% | 25% | 45% |  |
+| 13.5–14.5% | 14% | 21% |  |
 | 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 1.1% | 1.3% |  |
+| 15.5–16.5% | 1.2% | 1.4% |  |
 | 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -72,7 +74,9 @@ Last result: **1** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 10–15 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
+| [12–15 July 2024](2024-07-15-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 10–12 | 10–12 | 10–14 |
+| [9–15 July 2024](2024-07-15-Forsa.html) | Forsa | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [8–12 July 2024](2024-07-12-INSAandYouGov.html) | INSA and YouGov | 12 | 10–14 | 10–14 | 10–14 | 9–14 |
 | [9–11 July 2024](2024-07-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 12 | 11–13 | 10–14 | 9–14 | 9–15 |
 | [3–9 July 2024](2024-07-09-Verian.html) | Verian | 12 | 12–13 | 11–13 | 11–13 | 10–14 |
@@ -115,13 +119,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 1.0% | 100% |  |
-| 10 | 13% | 99.0% |  |
-| 11 | 26% | 86% |  |
-| 12 | 36% | 60% | Median |
-| 13 | 16% | 23% |  |
-| 14 | 4% | 7% |  |
-| 15 | 3% | 3% |  |
+| 9 | 6% | 100% |  |
+| 10 | 20% | 94% |  |
+| 11 | 31% | 74% | Median |
+| 12 | 31% | 43% |  |
+| 13 | 10% | 12% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.3% | 0.4% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
