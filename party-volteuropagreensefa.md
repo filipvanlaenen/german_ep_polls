@@ -55,7 +55,7 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **1** seats (General Election of 9 June 2024)
+Last result: **0** seats (General Election of 9 June 2024)
 
 ### Confidence Intervals
 
@@ -98,7 +98,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result, Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 50% | 100% | Median |
 | 2 | 39% | 50% |  |
 | 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
