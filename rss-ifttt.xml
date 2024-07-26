@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 14 Jul 2024 17:09:02 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov, 19–22 July 2024 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov, 19–22 July 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov-seating-plan.png" length="533014" type="image/png"/>
+      <pubDate>Fri, 26 Jul 2024 18:30:36 +0200</pubDate>
+      <dc:date>2024-07-26T18:30:36.426874109+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 19–22 July 2024 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov, 19–22 July 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov-seats.png" length="400177" type="image/png"/>
+      <pubDate>Fri, 26 Jul 2024 18:30:36 +0200</pubDate>
+      <dc:date>2024-07-26T18:30:36.426874109+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 19–22 July 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSA and YouGov, 19–22 July 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-07-22-INSAandYouGov.png" length="465100" type="image/png"/>
+      <pubDate>Fri, 26 Jul 2024 18:30:36 +0200</pubDate>
+      <dc:date>2024-07-26T18:30:36.426874109+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov, 12–15 July 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2024-07-15-INSAandYouGov.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov, 12–15 July 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-07-15-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-07-15-INSAandYouGov-seating-plan.png"/>]]></description>
@@ -244,30 +268,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-06-24-Forsa.png" length="462849" type="image/png"/>
       <pubDate>Sat, 20 Jul 2024 10:24:59 +0200</pubDate>
       <dc:date>2024-07-20T10:24:59.141543035+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GMS, 11–17 June 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by GMS, 11–17 June 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS-seating-plan.png" length="526455" type="image/png"/>
-      <pubDate>Sat, 20 Jul 2024 12:23:15 +0200</pubDate>
-      <dc:date>2024-07-20T12:23:15.727256104+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GMS, 11–17 June 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by GMS, 11–17 June 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS-seats.png" length="409800" type="image/png"/>
-      <pubDate>Sat, 20 Jul 2024 12:23:15 +0200</pubDate>
-      <dc:date>2024-07-20T12:23:15.727256104+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GMS, 11–17 June 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GMS, 11–17 June 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-06-17-GMS.png" length="484730" type="image/png"/>
-      <pubDate>Sat, 20 Jul 2024 12:23:15 +0200</pubDate>
-      <dc:date>2024-07-20T12:23:15.727256104+02:00</dc:date>
     </item>
   </channel>
 </rss>
