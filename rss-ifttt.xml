@@ -149,5 +149,13 @@
       <pubDate>Sun, 4 Aug 2024 11:47:41 +0200</pubDate>
       <dc:date>2024-08-04T11:47:41.277099371+02:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by YouGov, 3 July 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-07-03-YouGov.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by YouGov, 3 July 2024<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2024-07-03-YouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2024-07-03-YouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-07-03-YouGov.png" length="466556" type="image/png"/>
+      <pubDate>Sun, 4 Aug 2024 12:51:33 +0200</pubDate>
+      <dc:date>2024-08-04T12:51:33.819634792+02:00</dc:date>
+    </item>
   </channel>
 </rss>
