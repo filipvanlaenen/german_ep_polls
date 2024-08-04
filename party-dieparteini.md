@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–2.0% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 1.8% | 1.4–2.2% | 1.3–2.3% | 1.3–2.5% | 1.1–2.7% |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov | 1.1% | N/A | N/A | N/A | N/A |
@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov | 1.3% | N/A | N/A | N/A | N/A |
 | [3 July 2024](2024-07-03-YouGov.html) | YouGov | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 1.2% | N/A | N/A | N/A | N/A |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov | 1.2% | N/A | N/A | N/A | N/A |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa | 1.6% | N/A | N/A | N/A | N/A |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov | 1.2% | N/A | N/A | N/A | N/A |
@@ -53,9 +53,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 67% | 99.5% | Median |
-| 1.5–2.5% | 32% | 32% |  |
-| 2.5–3.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 69% | 99.5% | Median |
+| 1.5–2.5% | 29% | 30% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3 July 2024](2024-07-03-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 2 | 2 | 2 | 1–2 | 1–2 |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -112,8 +112,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 63% | 99.9% | Median |
-| 2 | 37% | 37% |  |
+| 1 | 55% | 99.9% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 

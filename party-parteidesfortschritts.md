@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
 | [3 July 2024](2024-07-03-YouGov.html) | YouGov | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 0.3% | N/A | N/A | N/A | N/A |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa | 0.4% | N/A | N/A | N/A | N/A |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov | 0.3% | N/A | N/A | N/A | N/A |
@@ -52,8 +52,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 76% | 100% | Last Result, Median |
-| 0.5–1.5% | 24% | 24% |  |
+| 0.0–0.5% | 77% | 100% | Last Result, Median |
+| 0.5–1.5% | 23% | 23% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3 July 2024](2024-07-03-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0 | 0–1 |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -109,8 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 23% | 23% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 

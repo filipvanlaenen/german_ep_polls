@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.6–26.1% | 22.2–26.7% | 21.8–27.2% | 21.1–28.2% |
+| N/A | [Poll Average](average.html) | 24.2% | 22.6–26.1% | 22.2–26.6% | 21.8–27.1% | 21.1–28.1% |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 23.7% | 22.5–24.9% | 22.1–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 23.7% | 22.5–25.0% | 22.1–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov | 23.7% | N/A | N/A | N/A | N/A |
@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov | 23.7% | N/A | N/A | N/A | N/A |
 | [3 July 2024](2024-07-03-YouGov.html) | YouGov | 23.4% | 22.2–24.8% | 21.8–25.2% | 21.5–25.5% | 20.9–26.2% |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 24.5% | N/A | N/A | N/A | N/A |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 24.5% | 23.0–26.1% | 22.6–26.5% | 22.2–26.9% | 21.5–27.7% |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov | 24.0% | N/A | N/A | N/A | N/A |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa | 24.5% | N/A | N/A | N/A | N/A |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov | 23.7% | N/A | N/A | N/A | N/A |
@@ -73,14 +73,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 1.4% | 99.9% |  |
-| 21.5–22.5% | 8% | 98% |  |
-| 22.5–23.5% | 22% | 90% |  |
-| 23.5–24.5% | 30% | 68% | Median |
-| 24.5–25.5% | 21% | 38% |  |
-| 25.5–26.5% | 11% | 17% |  |
+| 20.5–21.5% | 1.3% | 99.9% |  |
+| 21.5–22.5% | 8% | 98.6% |  |
+| 22.5–23.5% | 21% | 91% |  |
+| 23.5–24.5% | 30% | 70% | Median |
+| 24.5–25.5% | 22% | 40% |  |
+| 25.5–26.5% | 12% | 17% |  |
 | 26.5–27.5% | 4% | 6% |  |
-| 27.5–28.5% | 1.2% | 1.4% |  |
+| 27.5–28.5% | 1.1% | 1.3% |  |
 | 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -110,8 +110,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–8 July 2024](2024-07-08-Forsa.html) | Forsa |  |  |  |  |  |
 | [5–7 July 2024](2024-07-07-Ipsos.html) | Ipsos | 22 | 22–24 | 22–25 | 20–25 | 20–25 |
 | [1–5 July 2024](2024-07-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3 July 2024](2024-07-03-YouGov.html) | YouGov | 22 | 22 | 22–24 | 22–24 | 21–24 |
-| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [3 July 2024](2024-07-03-YouGov.html) | YouGov | 22 | 22–24 | 22–24 | 22–24 | 21–24 |
+| [1–3 July 2024](2024-07-03-Infratestdimap.html) | Infratest dimap | 24 | 24 | 24 | 24 | 22–24 |
 | [1 July 2024](2024-07-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1 July 2024](2024-07-01-Forsa.html) | Forsa |  |  |  |  |  |
 | [24–28 June 2024](2024-06-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -158,13 +158,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
 | 20 | 3% | 99.9% |  |
-| 21 | 5% | 97% |  |
-| 22 | 37% | 92% |  |
-| 23 | 29% | 54% | Median |
-| 24 | 7% | 26% |  |
-| 25 | 10% | 19% |  |
-| 26 | 9% | 9% |  |
-| 27 | 0.6% | 0.7% |  |
+| 21 | 4% | 97% |  |
+| 22 | 29% | 93% |  |
+| 23 | 28% | 64% | Median |
+| 24 | 19% | 36% |  |
+| 25 | 9% | 17% |  |
+| 26 | 8% | 8% |  |
+| 27 | 0.6% | 0.6% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
