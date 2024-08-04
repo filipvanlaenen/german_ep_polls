@@ -37,7 +37,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–24 June 2024](2024-06-24-Forsa.html) | Forsa | 3.0% | N/A | N/A | N/A | N/A |
 | [17–21 June 2024](2024-06-21-INSAandYouGov.html) | INSA and YouGov | 2.0% | N/A | N/A | N/A | N/A |
 | [14–17 June 2024](2024-06-17-INSAandYouGov.html) | INSA and YouGov | 2.0% | N/A | N/A | N/A | N/A |
-| [11–17 June 2024](2024-06-17-GMS.html) | GMS | 2.0% | N/A | N/A | N/A | N/A |
+| [11–17 June 2024](2024-06-17-GMS.html) | GMS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [11–17 June 2024](2024-06-17-Forsa.html) | Forsa | 2.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2024](2024-06-15-INSAandYouGov.html) | INSA and YouGov | 2.0% | N/A | N/A | N/A | N/A |
 | [1–13 June 2024](2024-06-13-Allensbach.html) | Allensbach | 1.5% | N/A | N/A | N/A | N/A |
@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–24 June 2024](2024-06-24-Forsa.html) | Forsa |  |  |  |  |  |
 | [17–21 June 2024](2024-06-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–17 June 2024](2024-06-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [11–17 June 2024](2024-06-17-GMS.html) | GMS |  |  |  |  |  |
+| [11–17 June 2024](2024-06-17-GMS.html) | GMS | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [11–17 June 2024](2024-06-17-Forsa.html) | Forsa |  |  |  |  |  |
 | [10–15 June 2024](2024-06-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–13 June 2024](2024-06-13-Allensbach.html) | Allensbach |  |  |  |  |  |
