@@ -111,7 +111,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–24 June 2024](2024-06-24-Forsa.html) | Forsa |  |  |  |  |  |
 | [17–21 June 2024](2024-06-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [14–17 June 2024](2024-06-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [11–17 June 2024](2024-06-17-GMS.html) | GMS | 14 | 12–14 | 12–14 | 12–15 | 11–16 |
+| [11–17 June 2024](2024-06-17-GMS.html) | GMS | 13 | 13–14 | 12–15 | 12–15 | 11–16 |
 | [11–17 June 2024](2024-06-17-Forsa.html) | Forsa |  |  |  |  |  |
 | [10–15 June 2024](2024-06-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–13 June 2024](2024-06-13-Allensbach.html) | Allensbach |  |  |  |  |  |
