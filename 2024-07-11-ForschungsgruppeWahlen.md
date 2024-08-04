@@ -22,7 +22,7 @@
 | Volt Europa (Greens/EFA) | 0.0% | 1.8% | 1.3–2.4% |1.2–2.5% |1.1–2.7% |1.0–3.0% |
 | Die PARTEI (NI) | 0.0% | 1.3% | 1.0–1.9% |0.9–2.0% |0.8–2.2% |0.7–2.5% |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.6% |0.5–1.7% |0.4–2.0% |
-| Ökologisch-Demokratische Partei (Greens/EFA) | 0.0% | 0.4% | 0.3–0.8% |0.2–0.9% |0.2–1.0% |0.1–1.2% |
+| Ökologisch-Demokratische Partei (EPP) | 0.0% | 0.4% | 0.3–0.8% |0.2–0.9% |0.2–1.0% |0.1–1.2% |
 | Familienpartei Deutschlands (EPP) | 0.0% | 0.4% | 0.2–0.7% |0.2–0.8% |0.1–0.9% |0.1–1.1% |
 | Partei des Fortschritts (*) | 0.0% | 0.4% | 0.2–0.7% |0.2–0.8% |0.1–0.9% |0.1–1.1% |
 | Piratenpartei Deutschland (Greens/EFA) | 0.0% | 0.3% | 0.2–0.6% |0.1–0.7% |0.1–0.8% |0.0–1.0% |
@@ -51,7 +51,7 @@
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0 | 1 | 1 |1–2 |0–2 |0–2 |
-| <a href="#ökologisch-demokratische-partei-(greens/efa)">Ökologisch-Demokratische Partei (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
+| <a href="#ökologisch-demokratische-partei-(epp)">Ökologisch-Demokratische Partei (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#partei-des-fortschritts-(*)">Partei des Fortschritts (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -308,11 +308,11 @@
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
-### Ökologisch-Demokratische Partei (Greens/EFA)
+### Ökologisch-Demokratische Partei (EPP)
 
-*For a full overview of the results for this party, see the [Ökologisch-Demokratische Partei (Greens/EFA)](party-ökologisch-demokratischeparteigreensefa.html) page.*
+*For a full overview of the results for this party, see the [Ökologisch-Demokratische Partei (EPP)](party-ökologisch-demokratischeparteiepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-11-ForschungsgruppeWahlen-seats-pmf-ökologisch-demokratischeparteigreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-11-ForschungsgruppeWahlen-seats-pmf-ökologisch-demokratischeparteiepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -366,15 +366,15 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) | 0 | 31 | 0% | 29–32 | 29–33 | 29–34 | 28–34 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Ökologisch-Demokratische Partei (EPP) – Familienpartei Deutschlands (EPP) | 0 | 31 | 0% | 30–33 | 30–33 | 29–34 | 29–35 |
 | Alternative für Deutschland (ESN) | 0 | 17 | 0% | 14–18 | 14–19 | 14–19 | 13–19 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 0 | 13 | 0% | 11–15 | 11–15 | 11–15 | 11–16 |
 | Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 8 | 0% | 7–9 | 7–9 | 7–10 | 6–10 |
 | Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 6 | 0% | 5–7 | 5–7 | 5–8 | 4–8 |
 
-### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP)
+### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Ökologisch-Demokratische Partei (EPP) – Familienpartei Deutschlands (EPP)
 
-![Graph with seats probability mass function not yet produced](2024-07-11-ForschungsgruppeWahlen-coalitions-seats-pmf-cdu–csu–familie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-11-ForschungsgruppeWahlen-coalitions-seats-pmf-cdu–csu–ödp–familie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -405,15 +405,15 @@
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
-| 27 | 0.1% | 100% |  |
-| 28 | 0.8% | 99.8% |  |
-| 29 | 14% | 99.0% |  |
-| 30 | 24% | 85% |  |
-| 31 | 45% | 62% | Median |
-| 32 | 8% | 17% |  |
-| 33 | 6% | 9% |  |
-| 34 | 3% | 3% |  |
-| 35 | 0.1% | 0.2% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0.2% | 100% |  |
+| 29 | 3% | 99.7% |  |
+| 30 | 18% | 97% |  |
+| 31 | 45% | 79% |  |
+| 32 | 20% | 34% | Median |
+| 33 | 10% | 14% |  |
+| 34 | 2% | 3% |  |
+| 35 | 2% | 2% |  |
 | 36 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ESN)
