@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 3.9–6.3% | 3.6–6.6% | 3.4–6.9% | 3.1–7.5% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
@@ -73,6 +76,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5 | 5 | 5 |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |

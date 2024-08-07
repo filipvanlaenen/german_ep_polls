@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.2% | 22.6–26.1% | 22.2–26.6% | 21.8–27.1% | 21.1–28.1% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 24.1% | 22.9–25.3% | 22.5–25.7% | 22.3–26.0% | 21.7–26.6% |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 23.7% | 22.5–25.0% | 22.2–25.3% | 21.9–25.6% | 21.3–26.2% |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 24.4% | N/A | N/A | N/A | N/A |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 23.7% | 22.5–24.9% | 22.1–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 23.7% | 22.5–25.0% | 22.1–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov | 23.7% | N/A | N/A | N/A | N/A |
@@ -94,6 +97,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 22 | 22 | 22 | 22–24 | 22–24 |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 23 | 21–23 | 21–24 | 21–24 | 20–25 |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 23 | 23 | 22–23 | 22–24 | 21–24 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 23 | 20–23 | 20–23 | 20–24 | 20–25 |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |

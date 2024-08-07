@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.9% | 6.6–9.6% | 6.3–9.9% | 6.1–10.2% | 5.6–10.8% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.9% | 7.9–11.3% |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 7.9–11.3% |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov | 10.0% | N/A | N/A | N/A | N/A |
@@ -76,6 +79,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 10 | 10 | 10 | 9–10 | 9–10 |
+| [5 August 2024](2024-08-05-Forsa.html) | Forsa | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 9 | 9–10 | 8–10 | 8–10 | 7–10 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [22–26 July 2024](2024-07-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
