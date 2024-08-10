@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.7–7.4% | 5.4–7.8% | 5.3–8.0% | 4.9–8.6% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.7–7.5% | 5.5–7.8% | 5.3–8.1% | 4.9–8.7% |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 6.7% | 5.9–7.7% | 5.7–8.0% | 5.5–8.2% | 5.1–8.7% |
 | [6 August 2024](2024-08-06-Verian.html) | Verian | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–8.0% | 5.0–8.4% |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.4% | 5.7–7.1% | 5.5–7.4% | 5.4–7.6% | 5.1–7.9% |
@@ -63,11 +63,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 7% | 99.9% |  |
-| 5.5–6.5% | 47% | 93% |  |
-| 6.5–7.5% | 38% | 47% | Median |
-| 7.5–8.5% | 8% | 8% |  |
-| 8.5–9.5% | 0.6% | 0.6% |  |
+| 4.5–5.5% | 6% | 99.9% |  |
+| 5.5–6.5% | 43% | 94% |  |
+| 6.5–7.5% | 41% | 51% | Median |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.7% | 0.8% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–8 | 5–9 |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [6 August 2024](2024-08-06-Verian.html) | Verian | 7 | 7 | 7 | 6–7 | 5–8 |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 5–6 | 5–6 |
@@ -133,12 +133,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 26% | 99.9% |  |
-| 6 | 38% | 74% | Median |
-| 7 | 30% | 36% |  |
-| 8 | 5% | 6% |  |
-| 9 | 1.0% | 1.0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 6% | 99.8% |  |
+| 6 | 51% | 94% | Median |
+| 7 | 38% | 42% |  |
+| 8 | 3% | 4% |  |
+| 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |
 
 

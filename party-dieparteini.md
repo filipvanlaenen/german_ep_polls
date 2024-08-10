@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.5% |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% |
 | [6 August 2024](2024-08-06-Verian.html) | Verian | 1.2% | 0.9–1.7% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
@@ -58,10 +58,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 69% | 99.5% | Median |
-| 1.5–2.5% | 29% | 30% |  |
-| 2.5–3.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 71% | 99.6% | Median |
+| 1.5–2.5% | 28% | 28% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -124,9 +124,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 55% | 99.9% | Median |
-| 2 | 44% | 44% |  |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 72% | 99.9% | Median |
+| 2 | 28% | 28% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 

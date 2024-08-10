@@ -58,8 +58,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 77% | 100% | Last Result, Median |
-| 0.5–1.5% | 23% | 23% |  |
+| 0.0–0.5% | 78% | 100% | Last Result, Median |
+| 0.5–1.5% | 22% | 22% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -121,8 +121,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% |  |
 
 
