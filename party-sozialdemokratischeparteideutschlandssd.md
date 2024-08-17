@@ -11,8 +11,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.1% | 13.5–16.8% | 13.0–17.4% | 12.6–17.8% | 11.9–18.8% |
+| [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
+| [6–12 August 2024](2024-08-12-GMS.html) | GMS | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [6–12 August 2024](2024-08-12-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
+| [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 16.0% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 15.0% | 13.8–16.4% | 13.5–16.7% | 13.2–17.1% | 12.6–17.7% |
-| [6 August 2024](2024-08-06-Verian.html) | Verian | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.7–18.6% |
+| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.7–18.6% |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -90,9 +94,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–18 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–18 | 11–18 |
+| [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 13 | 13–15 | 13–15 | 13–16 | 12–17 |
+| [6–12 August 2024](2024-08-12-GMS.html) | GMS | 14 | 13–15 | 12–15 | 12–15 | 12–15 |
+| [6–12 August 2024](2024-08-12-Forsa.html) | Forsa | 15 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
-| [6 August 2024](2024-08-06-Verian.html) | Verian | 16 | 16 | 16 | 14–16 | 14–18 |
+| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 16 | 16 | 16 | 14–16 | 14–18 |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 14 | 14 | 14 | 13–14 | 13–14 |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 15 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 12 | 12–14 | 12–14 | 10–15 | 10–15 |
@@ -151,12 +159,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.4% | 100% |  |
-| 11 | 3% | 99.6% |  |
-| 12 | 14% | 97% |  |
-| 13 | 7% | 82% |  |
-| 14 | 30% | 75% | Median |
-| 15 | 22% | 46% |  |
-| 16 | 18% | 23% |  |
+| 11 | 0.3% | 99.6% |  |
+| 12 | 14% | 99.4% |  |
+| 13 | 11% | 85% |  |
+| 14 | 29% | 74% | Median |
+| 15 | 23% | 45% |  |
+| 16 | 18% | 22% |  |
 | 17 | 2% | 5% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.1% | 0.2% |  |
