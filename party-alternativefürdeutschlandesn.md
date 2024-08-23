@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 15.2–18.9% | 14.7–19.4% | 14.4–19.9% | 13.7–20.6% |
+| N/A | [Poll Average](average.html) | 16.9% | 15.1–19.3% | 14.7–19.8% | 14.3–20.2% | 13.7–20.9% |
+| [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.3% |
+| [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.5% | 15.2–19.0% |
+| [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov | 19.0% | N/A | N/A | N/A | N/A |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 16.0% | N/A | N/A | N/A | N/A |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16.0% | 14.7–17.5% | 14.3–17.9% | 14.0–18.3% | 13.4–19.0% |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
@@ -78,15 +82,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.7% |  |
+| 13.5–14.5% | 3% | 99.6% |  |
 | 14.5–15.5% | 13% | 96% |  |
-| 15.5–16.5% | 25% | 84% |  |
-| 16.5–17.5% | 26% | 59% | Median |
-| 17.5–18.5% | 19% | 33% |  |
-| 18.5–19.5% | 10% | 14% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.6% | 0.6% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 15.5–16.5% | 24% | 83% |  |
+| 16.5–17.5% | 23% | 58% | Median |
+| 17.5–18.5% | 16% | 36% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 6% | 7% |  |
+| 20.5–21.5% | 1.1% | 1.2% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -97,7 +102,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–18 | 13–18 | 13–18 | 13–21 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 13–19 | 13–19 | 13–21 |
+| [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 17 | 16–18 | 16–18 | 15–18 | 15–18 |
+| [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13 | 13–16 | 13–17 | 13–17 | 13–17 |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 18 | 17–21 | 17–21 | 16–21 | 15–21 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 18 | 17–18 | 17–18 | 16–19 | 16–20 |
@@ -166,15 +175,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
-| 13 | 9% | 99.8% |  |
-| 14 | 3% | 91% |  |
-| 15 | 42% | 88% | Median |
-| 16 | 13% | 46% |  |
-| 17 | 17% | 34% |  |
-| 18 | 14% | 16% |  |
-| 19 | 0.7% | 2% |  |
-| 20 | 0.2% | 1.5% |  |
-| 21 | 1.3% | 1.3% |  |
+| 13 | 10% | 99.8% |  |
+| 14 | 2% | 90% |  |
+| 15 | 41% | 87% | Median |
+| 16 | 10% | 46% |  |
+| 17 | 16% | 37% |  |
+| 18 | 14% | 20% |  |
+| 19 | 5% | 7% |  |
+| 20 | 0.5% | 2% |  |
+| 21 | 1.5% | 1.5% |  |
 | 22 | 0% | 0% |  |
 
 
