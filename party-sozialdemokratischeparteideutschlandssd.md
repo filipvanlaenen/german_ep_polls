@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.9% | 13.3–16.3% | 12.9–16.8% | 12.5–17.1% | 11.8–17.9% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.4–16.5% | 12.9–17.0% | 12.6–17.4% | 11.8–18.3% |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.2% | 13.5–17.7% |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 15.0% | 14.1–15.9% | 13.8–16.2% | 13.6–16.4% | 13.2–16.9% |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov | 16.0% | N/A | N/A | N/A | N/A |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 16.0% | N/A | N/A | N/A | N/A |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.3% | 13.3–19.1% |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14.0% | 12.8–15.4% | 12.4–15.8% | 12.1–16.2% | 11.6–16.9% |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.2% |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.1% |
@@ -79,15 +79,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 2% | 99.7% |  |
-| 12.5–13.5% | 10% | 97% |  |
-| 13.5–14.5% | 25% | 87% |  |
-| 14.5–15.5% | 34% | 62% | Median |
-| 15.5–16.5% | 21% | 28% |  |
-| 16.5–17.5% | 6% | 7% |  |
-| 17.5–18.5% | 1.0% | 1.1% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 2% | 99.8% |  |
+| 12.5–13.5% | 9% | 98% |  |
+| 13.5–14.5% | 23% | 88% |  |
+| 14.5–15.5% | 33% | 65% | Median |
+| 15.5–16.5% | 23% | 32% |  |
+| 16.5–17.5% | 8% | 10% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 15–16 | 14–16 | 13–17 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 14 | 12–15 | 12–15 | 12–17 | 12–17 |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–14 | 12–14 | 12–16 | 11–17 |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 13 | 13–15 | 13–15 | 13–16 | 12–17 |
@@ -171,13 +171,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.3% | 100% |  |
 | 11 | 0.3% | 99.7% |  |
-| 12 | 14% | 99.4% |  |
-| 13 | 17% | 86% |  |
-| 14 | 31% | 69% | Median |
-| 15 | 14% | 38% |  |
-| 16 | 23% | 24% |  |
-| 17 | 0.4% | 0.5% |  |
-| 18 | 0.1% | 0.1% |  |
+| 12 | 14% | 99.5% |  |
+| 13 | 15% | 86% |  |
+| 14 | 35% | 70% | Median |
+| 15 | 14% | 35% |  |
+| 16 | 20% | 21% |  |
+| 17 | 0.6% | 0.8% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

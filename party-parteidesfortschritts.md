@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 0.4% | 0.3–0.7% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 0.3% | N/A | N/A | N/A | N/A |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -141,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
 
