@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 4.1–5.8% | 3.8–6.0% | 3.6–6.3% | 3.1–6.8% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.1–5.8% | 3.8–6.1% | 3.6–6.3% | 3.1–6.8% |
+| [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
@@ -72,10 +73,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 23% | 98% |  |
-| 4.5–5.5% | 57% | 74% | Median |
-| 5.5–6.5% | 16% | 18% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
+| 3.5–4.5% | 24% | 98% |  |
+| 4.5–5.5% | 55% | 74% | Median |
+| 5.5–6.5% | 17% | 18% |  |
+| 6.5–7.5% | 1.1% | 1.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -88,6 +89,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–6 | 3–6 | 3–7 |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -151,9 +153,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 27% | 97% |  |
-| 5 | 52% | 71% | Median |
-| 6 | 18% | 19% |  |
+| 4 | 24% | 97% |  |
+| 5 | 56% | 73% | Median |
+| 6 | 17% | 17% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
