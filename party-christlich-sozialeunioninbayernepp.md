@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.3% | 4.9–8.9% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.9–7.7% | 5.6–8.0% | 5.4–8.3% | 5.0–8.9% |
+| [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 6.5% | 5.9–7.2% | 5.7–7.4% | 5.6–7.6% | 5.3–7.9% |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.7–7.5% | 5.4–7.8% | 5.2–8.0% | 4.8–8.5% |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 6.4% | 5.8–7.2% | 5.6–7.4% | 5.4–7.6% | 5.1–8.0% |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 6.5% | 5.9–7.2% | 5.7–7.4% | 5.6–7.6% | 5.3–7.9% |
@@ -24,7 +26,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 6.7% | 5.9–7.7% | 5.7–8.0% | 5.5–8.2% | 5.1–8.7% |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–8.0% | 5.0–8.4% |
-| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.7–7.1% | 5.5–7.4% | 5.4–7.6% | 5.1–7.9% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.4% | 5.7–7.1% | 5.5–7.4% | 5.4–7.6% | 5.1–7.9% |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 6.3% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.8% |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
@@ -74,10 +76,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 39% | 95% |  |
-| 6.5–7.5% | 44% | 56% | Median |
-| 7.5–8.5% | 11% | 12% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 37% | 96% |  |
+| 6.5–7.5% | 46% | 59% | Median |
+| 7.5–8.5% | 12% | 13% |  |
 | 8.5–9.5% | 1.1% | 1.2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -91,7 +93,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 5–8 | 5–9 |
+| [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–9 | 6–9 | 6–9 |
+| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -156,12 +160,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 6% | 99.7% |  |
-| 6 | 40% | 93% |  |
-| 7 | 45% | 53% | Median |
-| 8 | 8% | 8% |  |
-| 9 | 0.1% | 0.1% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 5% | 99.9% |  |
+| 6 | 46% | 95% | Median |
+| 7 | 39% | 49% |  |
+| 8 | 9% | 10% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
 
