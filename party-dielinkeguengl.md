@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.6% | 1.7–3.8% | 1.5–4.0% | 1.3–4.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.5–4.0% | 2.4–4.3% | 2.2–4.6% | 2.0–5.2% |
+| [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
+| [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.4% |
+| [3 September 2024](2024-09-03-Verian.html) | Verian | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.0% | 2.0–4.4% |
+| [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov | 2.5% | N/A | N/A | N/A | N/A |
+| [2 September 2024](2024-09-02-Forsa.html) | Forsa | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
+| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
@@ -72,12 +79,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 19% | 97% |  |
-| 2.5–3.5% | 65% | 78% | Median |
-| 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 66% | 89% | Median |
+| 3.5–4.5% | 20% | 23% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,7 +96,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [3 September 2024](2024-09-03-Verian.html) | Verian | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [2 September 2024](2024-09-02-Forsa.html) | Forsa | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -152,11 +167,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 38% | 98% |  |
-| 3 | 54% | 60% | Median |
-| 4 | 6% | 6% |  |
-| 5 | 0.1% | 0.1% |  |
+| 1 | 0% | 100% |  |
+| 2 | 24% | 100% |  |
+| 3 | 51% | 76% | Median |
+| 4 | 20% | 25% |  |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
 
