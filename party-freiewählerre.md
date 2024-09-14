@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.3% | 0.9–2.5% | 0.8–2.7% | 0.7–3.0% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.3% | 0.9–2.5% | 0.8–2.6% | 0.6–2.9% |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov | 1.4% | N/A | N/A | N/A | N/A |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 0.9–2.8% |
@@ -79,8 +83,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 39% | 99.9% |  |
-| 1.5–2.5% | 57% | 61% | Median |
+| 0.5–1.5% | 46% | 99.9% |  |
+| 1.5–2.5% | 50% | 54% | Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -94,6 +98,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
+| [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 2–3 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -164,8 +172,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 32% | 100% |  |
-| 2 | 55% | 68% | Median |
+| 1 | 36% | 100% |  |
+| 2 | 52% | 64% | Median |
 | 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 

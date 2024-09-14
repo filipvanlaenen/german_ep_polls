@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.7–19.4% | 15.2–19.9% | 14.8–20.4% | 14.0–21.2% |
+| N/A | [Poll Average](average.html) | 17.3% | 15.7–19.1% | 15.2–19.7% | 14.8–20.2% | 14.0–21.1% |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.1% |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 18.0% | 16.8–19.2% | 16.5–19.6% | 16.2–19.9% | 15.7–20.5% |
+| [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov | 19.5% | N/A | N/A | N/A | N/A |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.5% | 15.1–19.0% |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.8–21.3% | 16.2–22.0% |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17.0% | 15.6–18.5% | 15.2–18.9% | 14.9–19.3% | 14.3–20.0% |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 17.0% | 15.8–18.4% | 15.4–18.8% | 15.1–19.2% | 14.5–19.9% |
@@ -91,15 +95,15 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
 | 13.5–14.5% | 1.4% | 99.8% |  |
 | 14.5–15.5% | 7% | 98% |  |
 | 15.5–16.5% | 20% | 92% |  |
-| 16.5–17.5% | 28% | 72% | Median |
-| 17.5–18.5% | 22% | 44% |  |
-| 18.5–19.5% | 14% | 22% |  |
-| 19.5–20.5% | 6% | 8% |  |
-| 20.5–21.5% | 2% | 2% |  |
+| 16.5–17.5% | 31% | 72% | Median |
+| 17.5–18.5% | 24% | 41% |  |
+| 18.5–19.5% | 12% | 17% |  |
+| 19.5–20.5% | 4% | 6% |  |
+| 20.5–21.5% | 1.2% | 1.4% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -112,7 +116,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–20 | 14–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 14–20 | 14–20 | 14–20 |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 20 | 17–20 | 17–20 | 16–20 | 16–20 |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 17 | 17 | 17 | 17–18 | 16–18 |
+| [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 15 | 15 | 15 | 15 | 15–17 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 18–20 | 18–20 | 16–20 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 14–18 | 14–18 | 14–18 | 14–18 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 16 | 15–16 | 15–16 | 15–17 | 14–18 |
@@ -195,15 +203,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 7% | 99.8% |  |
-| 15 | 26% | 93% |  |
-| 16 | 19% | 66% | Median |
-| 17 | 22% | 48% |  |
-| 18 | 17% | 26% |  |
-| 19 | 1.1% | 9% |  |
-| 20 | 6% | 7% |  |
-| 21 | 1.5% | 1.5% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 8% | 99.7% |  |
+| 15 | 33% | 92% |  |
+| 16 | 17% | 59% | Median |
+| 17 | 25% | 42% |  |
+| 18 | 6% | 17% |  |
+| 19 | 3% | 11% |  |
+| 20 | 8% | 8% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
