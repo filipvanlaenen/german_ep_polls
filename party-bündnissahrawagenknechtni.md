@@ -107,14 +107,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–10 | 5–11 |
-| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 7 | 7–10 | 7–10 | 7–11 | 7–11 |
-| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 8 | 8 | 8 | 7–8 | 7–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 9 | 9 | 7–10 | 7–10 | 7–11 |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 7 | 7 | 7 | 7 | 6–8 |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 9 | 9 | 9–11 | 9–11 | 9–11 |
-| [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 7 | 7 | 7–8 | 7–8 | 6–9 |
+| [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [3 September 2024](2024-09-03-Verian.html) | Verian | 8 | 7–8 | 7–8 | 7–8 | 6–10 |
 | [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 September 2024](2024-09-02-Forsa.html) | Forsa | 7 | 7 | 7 | 7 | 6–7 |
@@ -186,13 +186,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
-| 5 | 0.7% | 99.8% |  |
-| 6 | 20% | 99.1% |  |
-| 7 | 42% | 79% | Median |
-| 8 | 30% | 37% |  |
-| 9 | 3% | 7% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.5% | 0.5% |  |
+| 5 | 2% | 99.8% |  |
+| 6 | 18% | 98% |  |
+| 7 | 31% | 80% | Median |
+| 8 | 34% | 49% |  |
+| 9 | 15% | 16% |  |
+| 10 | 0.6% | 1.0% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 

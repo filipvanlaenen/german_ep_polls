@@ -109,14 +109,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
-| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 10 | 9–10 | 9–10 | 9–11 | 8–12 |
-| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 11 | 11–13 | 11–13 | 11–14 | 11–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
+| [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 10 | 10 | 9–10 | 9–10 | 8–10 |
+| [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 13 | 11–13 | 11–13 | 11–14 | 11–15 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 11 | 11 | 11 | 11 | 9–11 |
+| [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 11 | 11 | 11–12 | 10–12 | 9–12 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 11 | 9–11 | 8–11 | 8–12 | 8–12 |
-| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 9 | 9–12 | 9–12 | 9–13 | 9–14 |
+| [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [3 September 2024](2024-09-03-Verian.html) | Verian | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 September 2024](2024-09-02-Forsa.html) | Forsa | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
@@ -190,15 +190,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 1.0% | 99.9% |  |
-| 9 | 12% | 98.9% |  |
-| 10 | 14% | 86% |  |
-| 11 | 51% | 73% | Median |
-| 12 | 9% | 22% |  |
-| 13 | 11% | 13% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.2% |  |
+| 7 | 0% | 100% |  |
+| 8 | 1.1% | 100% |  |
+| 9 | 5% | 98.9% |  |
+| 10 | 28% | 94% |  |
+| 11 | 44% | 67% | Median |
+| 12 | 10% | 22% |  |
+| 13 | 11% | 12% |  |
+| 14 | 1.5% | 2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
