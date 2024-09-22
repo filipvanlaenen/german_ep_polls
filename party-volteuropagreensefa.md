@@ -10,11 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–2.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.0% |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.8–1.7% | 0.7–1.9% |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 2.4% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.7–3.3% |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1.2% | 0.8–1.8% | 0.7–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1.3% | 1.0–1.7% | 0.9–1.9% | 0.9–2.0% | 0.7–2.2% |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov | 1.3% | N/A | N/A | N/A | N/A |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 2.2% | 1.8–2.6% | 1.7–2.7% | 1.6–2.8% | 1.5–3.0% |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.5% |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.1–2.5% | 0.9–2.7% |
@@ -82,10 +87,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 46% | 100% |  |
-| 1.5–2.5% | 51% | 54% | Median |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 48% | 99.9% |  |
+| 1.5–2.5% | 47% | 52% | Median |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -97,36 +102,41 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 2–3 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3 September 2024](2024-09-03-Verian.html) | Verian | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 September 2024](2024-09-02-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 2 |
-| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 1–3 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [6–12 August 2024](2024-08-12-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–12 August 2024](2024-08-12-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 1–3 |
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 2 | 2 | 2 | 1–2 | 1–2 |
+| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 2 | 2 | 2 |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 2 | 2 | 2 | 2–3 | 1–3 |
-| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -171,10 +181,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 33% | 100% |  |
-| 2 | 67% | 67% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 48% | 99.5% |  |
+| 2 | 42% | 51% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 

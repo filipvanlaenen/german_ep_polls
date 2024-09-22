@@ -10,11 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.5% | 0.4–1.6% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.4–1.6% | 0.3–1.9% |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 0.6% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 1.3% | 1.0–1.6% | 1.0–1.7% | 0.9–1.8% | 0.8–2.0% |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.4–1.5% |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov | 0.7% | N/A | N/A | N/A | N/A |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.8–1.7% | 0.7–1.9% |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
@@ -82,9 +87,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% | Last Result |
-| 0.5–1.5% | 87% | 90% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 9% | 100% | Last Result |
+| 0.5–1.5% | 87% | 91% | Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -96,11 +101,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1 | 1 | 1 | 0–2 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–1 |
@@ -115,17 +125,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 1 | 0–2 |
-| [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [6–12 August 2024](2024-08-12-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–12 August 2024](2024-08-12-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1–2 |
+| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1 |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 1 | 1 | 1 | 1 | 1 |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1–2 | 0–2 |
+| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -170,8 +180,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 88% | 92% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 88% | 93% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 

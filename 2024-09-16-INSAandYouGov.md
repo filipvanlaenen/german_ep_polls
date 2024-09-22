@@ -1,66 +1,66 @@
-# Opinion Poll by YouGov, 9–13 August 2024
+# Opinion Poll by INSA and YouGov, 13–16 September 2024
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2024-08-13-YouGov.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2024-09-16-INSAandYouGov.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 24.5% | 23.3–25.7% |22.9–26.1% |22.6–26.4% |22.1–27.0% |
-| Alternative für Deutschland (ESN) | 0.0% | 19.0% | 17.9–20.2% |17.6–20.5% |17.3–20.8% |16.8–21.4% |
-| Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 15.0% | 14.0–16.1% |13.7–16.4% |13.5–16.7% |13.0–17.2% |
-| Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 12.0% | 11.1–13.0% |10.9–13.3% |10.7–13.5% |10.2–14.0% |
-| Bündnis Sahra Wagenknecht (NI) | 0.0% | 8.0% | 7.3–8.8% |7.1–9.1% |6.9–9.3% |6.6–9.7% |
-| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 6.5% | 5.8–7.3% |5.7–7.5% |5.5–7.7% |5.2–8.1% |
-| Freie Demokratische Partei (RE) | 0.0% | 5.0% | 4.4–5.7% |4.3–5.9% |4.1–6.1% |3.9–6.4% |
-| Die Linke (GUE/NGL) | 0.0% | 3.0% | 2.6–3.6% |2.4–3.7% |2.3–3.9% |2.1–4.1% |
-| Volt Europa (Greens/EFA) | 0.0% | 1.3% | 1.0–1.7% |0.9–1.8% |0.9–1.9% |0.8–2.1% |
-| Freie Wähler (RE) | 0.0% | 1.0% | 0.8–1.4% |0.7–1.5% |0.6–1.6% |0.5–1.7% |
-| Die PARTEI (NI) | 0.0% | 1.0% | 0.8–1.4% |0.7–1.5% |0.6–1.6% |0.5–1.7% |
-| Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 0.7% | 0.5–1.0% |0.5–1.1% |0.4–1.2% |0.3–1.3% |
-| Ökologisch-Demokratische Partei (EPP) | 0.0% | 0.3% | 0.2–0.5% |0.2–0.6% |0.1–0.7% |0.1–0.8% |
-| Familienpartei Deutschlands (EPP) | 0.0% | 0.3% | 0.2–0.5% |0.2–0.6% |0.1–0.7% |0.1–0.8% |
-| Partei des Fortschritts (*) | 0.0% | 0.3% | 0.2–0.5% |0.1–0.5% |0.1–0.6% |0.1–0.7% |
+| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 26.0% | 24.8–27.3% |24.4–27.6% |24.1–28.0% |23.5–28.6% |
+| Alternative für Deutschland (ESN) | 0.0% | 19.5% | 18.4–20.7% |18.1–21.0% |17.8–21.3% |17.3–21.9% |
+| Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 14.0% | 13.0–15.0% |12.8–15.3% |12.5–15.6% |12.1–16.1% |
+| Bündnis Sahra Wagenknecht (NI) | 0.0% | 10.0% | 9.2–10.9% |9.0–11.2% |8.8–11.4% |8.4–11.9% |
+| Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 10.0% | 9.2–10.9% |9.0–11.2% |8.8–11.4% |8.4–11.9% |
+| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 7.0% | 6.3–7.8% |6.1–8.0% |6.0–8.2% |5.7–8.6% |
+| Freie Demokratische Partei (RE) | 0.0% | 4.5% | 3.9–5.1% |3.8–5.3% |3.7–5.5% |3.4–5.8% |
+| Die Linke (GUE/NGL) | 0.0% | 2.5% | 2.1–3.0% |2.0–3.1% |1.9–3.3% |1.7–3.5% |
+| Freie Wähler (RE) | 0.0% | 1.2% | 0.9–1.6% |0.9–1.7% |0.8–1.8% |0.7–2.0% |
+| Volt Europa (Greens/EFA) | 0.0% | 1.1% | 0.9–1.5% |0.8–1.6% |0.8–1.7% |0.7–1.9% |
+| Die PARTEI (NI) | 0.0% | 0.8% | 0.6–1.2% |0.6–1.3% |0.5–1.4% |0.4–1.5% |
+| Partei Mensch Umwelt Tierschutz (GUE/NGL) | 0.0% | 0.6% | 0.5–0.9% |0.4–1.0% |0.4–1.1% |0.3–1.3% |
+| Ökologisch-Demokratische Partei (EPP) | 0.0% | 0.2% | 0.2–0.5% |0.1–0.5% |0.1–0.6% |0.1–0.7% |
+| Familienpartei Deutschlands (EPP) | 0.0% | 0.2% | 0.2–0.5% |0.1–0.5% |0.1–0.6% |0.1–0.7% |
+| Partei des Fortschritts (*) | 0.0% | 0.2% | 0.2–0.5% |0.1–0.5% |0.1–0.6% |0.1–0.7% |
 | Piratenpartei Deutschland (Greens/EFA) | 0.0% | 0.2% | 0.1–0.4% |0.1–0.5% |0.1–0.5% |0.0–0.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2024-08-13-YouGov-seats.png "Seats")
+![Graph with seats not yet produced](2024-09-16-INSAandYouGov-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2024-08-13-YouGov-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2024-09-16-INSAandYouGov-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0 | 23 | 21–25 |21–26 |21–26 |21–26 |
-| <a href="#alternative-für-deutschland-(esn)">Alternative für Deutschland (ESN)</a> | 0 | 18 | 17–20 |17–21 |16–21 |15–21 |
-| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0 | 14 | 12–15 |12–16 |12–16 |12–16 |
-| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0 | 12 | 10–13 |10–13 |10–13 |9–14 |
-| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 0 | 9 | 7–9 |7–9 |6–9 |6–9 |
-| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–8 |
-| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0 | 3 | 2–4 |2–4 |2–4 |2–4 |
+| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0 | 25 | 24–25 |23–25 |23–26 |22–27 |
+| <a href="#alternative-für-deutschland-(esn)">Alternative für Deutschland (ESN)</a> | 0 | 19 | 17–19 |17–20 |17–21 |17–21 |
+| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0 | 14 | 12–14 |12–14 |12–14 |11–15 |
+| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 0 | 9 | 9–10 |9–11 |9–11 |8–12 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0 | 9 | 8–10 |8–11 |8–12 |8–12 |
+| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0 | 8 | 6–8 |6–8 |6–8 |6–8 |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–5 |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0 | 2 | 2–4 |2–4 |2–4 |2–4 |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
-| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 0 | 1 | 1 |1 |1 |0–2 |
+| <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#ökologisch-demokratische-partei-(epp)">Ökologisch-Demokratische Partei (EPP)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#familienpartei-deutschlands-(epp)">Familienpartei Deutschlands (EPP)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#partei-des-fortschritts-(*)">Partei des Fortschritts (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#partei-des-fortschritts-(*)">Partei des Fortschritts (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#piratenpartei-deutschland-(greens/efa)">Piratenpartei Deutschland (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Christlich Demokratische Union Deutschlands (EPP)
 
 *For a full overview of the results for this party, see the [Christlich Demokratische Union Deutschlands (EPP)](party-christlichdemokratischeuniondeutschlandsepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-christlichdemokratischeuniondeutschlandsepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-christlichdemokratischeuniondeutschlandsepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -84,21 +84,21 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.1% | 100% |  |
-| 21 | 17% | 99.9% |  |
-| 22 | 24% | 83% |  |
-| 23 | 35% | 58% | Median |
-| 24 | 11% | 24% |  |
-| 25 | 8% | 13% |  |
-| 26 | 5% | 5% |  |
-| 27 | 0.1% | 0.1% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 1.4% | 100% |  |
+| 23 | 6% | 98.6% |  |
+| 24 | 11% | 92% |  |
+| 25 | 79% | 81% | Median |
+| 26 | 2% | 3% |  |
+| 27 | 0.5% | 0.5% |  |
 | 28 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ESN)
 
 *For a full overview of the results for this party, see the [Alternative für Deutschland (ESN)](party-alternativefürdeutschlandesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-alternativefürdeutschlandesn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-alternativefürdeutschlandesn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -117,20 +117,20 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 2% | 99.4% |  |
-| 17 | 14% | 97% |  |
-| 18 | 47% | 83% | Median |
-| 19 | 3% | 37% |  |
-| 20 | 26% | 34% |  |
-| 21 | 7% | 7% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 13% | 100% |  |
+| 18 | 24% | 87% |  |
+| 19 | 55% | 63% | Median |
+| 20 | 4% | 8% |  |
+| 21 | 4% | 4% |  |
 | 22 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
 *For a full overview of the results for this party, see the [Sozialdemokratische Partei Deutschlands (S&D)](party-sozialdemokratischeparteideutschlandssd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-sozialdemokratischeparteideutschlandssd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-sozialdemokratischeparteideutschlandssd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -145,20 +145,18 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 13% | 100% |  |
-| 13 | 25% | 87% |  |
-| 14 | 22% | 62% | Median |
-| 15 | 31% | 40% |  |
-| 16 | 9% | 9% |  |
-| 17 | 0.4% | 0.4% |  |
-| 18 | 0% | 0% |  |
+| 11 | 1.4% | 100% |  |
+| 12 | 9% | 98.6% |  |
+| 13 | 27% | 90% |  |
+| 14 | 61% | 63% | Median |
+| 15 | 1.4% | 1.4% |  |
+| 16 | 0% | 0% |  |
 
-### Bündnis 90/Die Grünen (Greens/EFA)
+### Bündnis Sahra Wagenknecht (NI)
 
-*For a full overview of the results for this party, see the [Bündnis 90/Die Grünen (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
+*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (NI)](party-bündnissahrawagenknechtni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-bündnissahrawagenknechtni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -170,20 +168,18 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 1.0% | 100% |  |
-| 10 | 22% | 99.0% |  |
-| 11 | 24% | 77% |  |
-| 12 | 29% | 53% | Median |
-| 13 | 23% | 24% |  |
-| 14 | 1.2% | 1.2% |  |
-| 15 | 0% | 0% |  |
+| 8 | 2% | 100% |  |
+| 9 | 67% | 98% | Median |
+| 10 | 25% | 31% |  |
+| 11 | 5% | 6% |  |
+| 12 | 1.0% | 1.0% |  |
+| 13 | 0% | 0% |  |
 
-### Bündnis Sahra Wagenknecht (NI)
+### Bündnis 90/Die Grünen (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Bündnis Sahra Wagenknecht (NI)](party-bündnissahrawagenknechtni.html) page.*
+*For a full overview of the results for this party, see the [Bündnis 90/Die Grünen (Greens/EFA)](party-bündnis90diegrünengreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-bündnissahrawagenknechtni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-bündnis90diegrünengreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -193,18 +189,20 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 9% | 97% |  |
-| 8 | 37% | 88% |  |
-| 9 | 51% | 51% | Median |
-| 10 | 0.3% | 0.3% |  |
-| 11 | 0% | 0% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 44% | 100% |  |
+| 9 | 14% | 56% | Median |
+| 10 | 36% | 42% |  |
+| 11 | 4% | 6% |  |
+| 12 | 3% | 3% |  |
+| 13 | 0% | 0% |  |
 
 ### Christlich-Soziale Union in Bayern (EPP)
 
 *For a full overview of the results for this party, see the [Christlich-Soziale Union in Bayern (EPP)](party-christlich-sozialeunioninbayernepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-christlich-sozialeunioninbayernepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-christlich-sozialeunioninbayernepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -213,67 +211,67 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 18% | 100% |  |
-| 6 | 51% | 82% | Median |
-| 7 | 29% | 31% |  |
-| 8 | 2% | 2% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 32% | 99.7% |  |
+| 7 | 18% | 68% |  |
+| 8 | 50% | 50% | Median |
 | 9 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE)
 
 *For a full overview of the results for this party, see the [Freie Demokratische Partei (RE)](party-freiedemokratischeparteire.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-freiedemokratischeparteire.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-freiedemokratischeparteire.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 47% | 99.9% |  |
-| 5 | 37% | 53% | Median |
-| 6 | 16% | 16% |  |
+| 3 | 1.0% | 100% |  |
+| 4 | 87% | 99.0% | Median |
+| 5 | 12% | 12% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### Die Linke (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Die Linke (GUE/NGL)](party-dielinkeguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-dielinkeguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-dielinkeguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 75% | 87% | Median |
-| 4 | 11% | 11% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 68% | 99.9% | Median |
+| 3 | 16% | 32% |  |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
-
-### Volt Europa (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 68% | 100% | Median |
-| 2 | 32% | 32% |  |
-| 3 | 0% | 0% |  |
 
 ### Freie Wähler (RE)
 
 *For a full overview of the results for this party, see the [Freie Wähler (RE)](party-freiewählerre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-freiewählerre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-freiewählerre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 83% | 99.2% | Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
+| 3 | 0% | 0% |  |
+
+### Volt Europa (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Volt Europa (Greens/EFA)](party-volteuropagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-volteuropagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 83% | 100% | Median |
 | 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
@@ -281,93 +279,93 @@
 
 *For a full overview of the results for this party, see the [Die PARTEI (NI)](party-dieparteini.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-dieparteini.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-dieparteini.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 96% | 98% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.0% | 99.7% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Partei Mensch Umwelt Tierschutz (GUE/NGL)](party-parteimenschumwelttierschutzguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-parteimenschumwelttierschutzguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-parteimenschumwelttierschutzguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 93% | 93% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
 | 2 | 0% | 0% |  |
 
 ### Ökologisch-Demokratische Partei (EPP)
 
 *For a full overview of the results for this party, see the [Ökologisch-Demokratische Partei (EPP)](party-ökologisch-demokratischeparteiepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-ökologisch-demokratischeparteiepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-ökologisch-demokratischeparteiepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Familienpartei Deutschlands (EPP)
 
 *For a full overview of the results for this party, see the [Familienpartei Deutschlands (EPP)](party-familienparteideutschlandsepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-familienparteideutschlandsepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% |  |
 
 ### Partei des Fortschritts (*)
 
 *For a full overview of the results for this party, see the [Partei des Fortschritts (*)](party-parteidesfortschritts.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-parteidesfortschritts.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-parteidesfortschritts.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% |  |
 
 ### Piratenpartei Deutschland (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Piratenpartei Deutschland (Greens/EFA)](party-piratenparteideutschlandgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-seats-pmf-piratenparteideutschlandgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-seats-pmf-piratenparteideutschlandgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2024-08-13-YouGov-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2024-09-16-INSAandYouGov-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) – Ökologisch-Demokratische Partei (EPP) | 0 | 29 | 0% | 27–32 | 27–32 | 27–33 | 27–33 |
-| Alternative für Deutschland (ESN) | 0 | 18 | 0% | 17–20 | 17–21 | 16–21 | 15–21 |
-| Sozialdemokratische Partei Deutschlands (S&D) | 0 | 14 | 0% | 12–15 | 12–16 | 12–16 | 12–16 |
-| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 10 | 0% | 8–10 | 8–10 | 7–10 | 7–10 |
-| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–7 |
+| Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) – Ökologisch-Demokratische Partei (EPP) | 0 | 33 | 0% | 31–33 | 31–33 | 30–34 | 29–34 |
+| Alternative für Deutschland (ESN) | 0 | 19 | 0% | 17–19 | 17–20 | 17–21 | 17–21 |
+| Sozialdemokratische Partei Deutschlands (S&D) | 0 | 14 | 0% | 12–14 | 12–14 | 12–14 | 11–15 |
+| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 10 | 0% | 10–11 | 10–12 | 10–12 | 9–13 |
+| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–7 |
 
 ### Christlich Demokratische Union Deutschlands (EPP) – Christlich-Soziale Union in Bayern (EPP) – Familienpartei Deutschlands (EPP) – Ökologisch-Demokratische Partei (EPP)
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-coalitions-seats-pmf-cdu–csu–familie–ödp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-coalitions-seats-pmf-cdu–csu–familie–ödp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -398,19 +396,20 @@
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
-| 27 | 21% | 100% |  |
-| 28 | 18% | 79% |  |
-| 29 | 17% | 61% | Median |
-| 30 | 24% | 44% |  |
-| 31 | 8% | 21% |  |
-| 32 | 10% | 13% |  |
-| 33 | 2% | 3% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 1.3% | 100% |  |
+| 30 | 3% | 98.7% |  |
+| 31 | 15% | 96% |  |
+| 32 | 29% | 81% |  |
+| 33 | 49% | 52% | Median |
+| 34 | 3% | 3% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 ### Alternative für Deutschland (ESN)
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-coalitions-seats-pmf-afd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -429,18 +428,18 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 2% | 99.4% |  |
-| 17 | 14% | 97% |  |
-| 18 | 47% | 83% | Median |
-| 19 | 3% | 37% |  |
-| 20 | 26% | 34% |  |
-| 21 | 7% | 7% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 13% | 100% |  |
+| 18 | 24% | 87% |  |
+| 19 | 55% | 63% | Median |
+| 20 | 4% | 8% |  |
+| 21 | 4% | 4% |  |
 | 22 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-coalitions-seats-pmf-spd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -455,18 +454,16 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 13% | 100% |  |
-| 13 | 25% | 87% |  |
-| 14 | 22% | 62% | Median |
-| 15 | 31% | 40% |  |
-| 16 | 9% | 9% |  |
-| 17 | 0.4% | 0.4% |  |
-| 18 | 0% | 0% |  |
+| 11 | 1.4% | 100% |  |
+| 12 | 9% | 98.6% |  |
+| 13 | 27% | 90% |  |
+| 14 | 61% | 63% | Median |
+| 15 | 1.4% | 1.4% |  |
+| 16 | 0% | 0% |  |
 
 ### Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI)
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-coalitions-seats-pmf-bsw–partei.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-coalitions-seats-pmf-bsw–partei.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -477,16 +474,18 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 9% | 97% |  |
-| 9 | 36% | 88% |  |
-| 10 | 51% | 52% | Median |
-| 11 | 0.4% | 0.4% |  |
-| 12 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 2% | 99.9% |  |
+| 10 | 67% | 98% | Median |
+| 11 | 26% | 31% |  |
+| 12 | 5% | 6% |  |
+| 13 | 1.0% | 1.0% |  |
+| 14 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE) – Freie Wähler (RE)
 
-![Graph with seats probability mass function not yet produced](2024-08-13-YouGov-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-09-16-INSAandYouGov-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -494,10 +493,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 34% | 99.9% |  |
-| 6 | 48% | 66% | Median |
-| 7 | 19% | 19% |  |
+| 4 | 0.6% | 100% |  |
+| 5 | 84% | 99.4% | Median |
+| 6 | 13% | 15% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -506,13 +505,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** YouGov
++ **Polling firm:** INSA and YouGov
 + **Commissioner(s):** —
-+ **Fieldwork period:** 9–13 August 2024
++ **Fieldwork period:** 13–16 September 2024
 
 ### Calculations
 
-+ **Sample size:** 1998
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 2.94%
++ **Sample size:** 2008
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.98%
 

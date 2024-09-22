@@ -10,11 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 13.3–16.3% | 13.0–16.8% | 12.7–17.3% | 12.1–18.2% |
+| N/A | [Poll Average](average.html) | 14.6% | 13.0–16.2% | 12.5–16.7% | 12.1–17.2% | 11.3–18.1% |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 15.0% | 14.1–16.0% | 13.9–16.2% | 13.6–16.5% | 13.2–16.9% |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 14.0% | 12.8–15.4% | 12.5–15.8% | 12.2–16.1% | 11.6–16.8% |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.4–15.7% | 12.0–16.2% |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov | 14.0% | N/A | N/A | N/A | N/A |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 14.0% | 13.1–14.9% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 15.0% | 13.7–16.4% | 13.4–16.8% | 13.1–17.1% | 12.5–17.8% |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15.0% | 13.7–16.4% | 13.3–16.8% | 13.0–17.2% | 12.4–17.9% |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 15.0% | 13.8–16.3% | 13.4–16.7% | 13.1–17.0% | 12.6–17.7% |
@@ -92,15 +97,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 13% | 98% |  |
-| 13.5–14.5% | 32% | 85% |  |
-| 14.5–15.5% | 29% | 53% | Median |
-| 15.5–16.5% | 17% | 24% |  |
-| 16.5–17.5% | 6% | 8% |  |
-| 17.5–18.5% | 1.5% | 2% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 0.8% | 99.9% |  |
+| 11.5–12.5% | 4% | 99.1% |  |
+| 12.5–13.5% | 15% | 95% |  |
+| 13.5–14.5% | 29% | 80% |  |
+| 14.5–15.5% | 29% | 51% | Median |
+| 15.5–16.5% | 16% | 22% |  |
+| 16.5–17.5% | 5% | 6% |  |
+| 17.5–18.5% | 1.2% | 1.5% |  |
 | 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -113,36 +118,41 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 12–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–17 | 11–18 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 14 | 12–14 | 12–14 | 12–14 | 11–15 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 14 | 11–14 | 11–14 | 11–14 | 10–18 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 16 | 12–16 | 12–16 | 12–16 | 11–16 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 15 | 14–17 | 13–18 | 11–18 | 11–19 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 14 | 13–14 | 12–14 | 12–15 | 11–15 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 13 | 13 | 12–13 | 12–14 | 12–15 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 11 | 11–15 | 11–15 | 10–15 | 10–15 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 14 | 14 | 14–15 | 14–15 | 13–15 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 13–16 | 12–17 | 12–18 | 12–18 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
 | [3 September 2024](2024-09-03-Verian.html) | Verian | 14 | 12–15 | 12–16 | 12–16 | 12–16 |
 | [2 September 2024](2024-09-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2 September 2024](2024-09-02-Forsa.html) | Forsa | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 18 | 16–18 | 15–18 | 14–18 | 14–18 |
+| [26–30 August 2024](2024-08-30-INSAandYouGov.html) | INSA and YouGov | 18 | 14–18 | 14–18 | 14–18 | 13–18 |
 | [23–26 August 2024](2024-08-26-INSAandYouGov.html) | INSA and YouGov | 14 | 13–16 | 12–16 | 12–16 | 12–16 |
-| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
+| [20–26 August 2024](2024-08-26-Forsa.html) | Forsa | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [19–23 August 2024](2024-08-23-INSAandYouGov.html) | INSA and YouGov | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [16–19 August 2024](2024-08-19-INSAandYouGov.html) | INSA and YouGov | 16 | 15–16 | 15–16 | 14–16 | 13–17 |
 | [13–19 August 2024](2024-08-19-Forsa.html) | Forsa | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [12–16 August 2024](2024-08-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 14 | 12–15 | 12–15 | 12–17 | 12–17 |
-| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–14 | 12–14 | 12–16 | 11–17 |
-| [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [3–15 August 2024](2024-08-15-Allensbach.html) | Allensbach | 14 | 12–16 | 12–16 | 12–17 | 12–18 |
+| [12–14 August 2024](2024-08-14-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 12–14 | 12–15 | 12–16 | 11–17 |
+| [9–13 August 2024](2024-08-13-YouGov.html) | YouGov | 14 | 12–15 | 12–16 | 12–16 | 12–16 |
 | [9–12 August 2024](2024-08-12-INSAandYouGov.html) | INSA and YouGov | 13 | 13–15 | 13–15 | 13–16 | 12–17 |
-| [6–12 August 2024](2024-08-12-GMS.html) | GMS | 14 | 13–15 | 12–15 | 12–15 | 12–15 |
+| [6–12 August 2024](2024-08-12-GMS.html) | GMS | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [6–12 August 2024](2024-08-12-Forsa.html) | Forsa | 15 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
-| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 16 | 16 | 16 | 14–16 | 14–18 |
+| [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 14 | 14–15 | 14–15 | 14–15 | 13–15 |
+| [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 16 | 15–16 | 14–16 | 14–16 | 14–18 |
 | [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 14 | 14 | 14 | 13–14 | 13–14 |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 15 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 12 | 12–14 | 12–14 | 10–15 | 10–15 |
+| [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 12 | 12–15 | 12–15 | 11–16 | 10–16 |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [26–29 July 2024](2024-07-29-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
 | [23–29 July 2024](2024-07-29-Forsa.html) | Forsa | 14 | 14–15 | 13–15 | 13–15 | 13–16 |
@@ -197,15 +207,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.4% | 100% |  |
-| 12 | 9% | 99.6% |  |
-| 13 | 23% | 91% |  |
-| 14 | 39% | 67% | Median |
-| 15 | 8% | 28% |  |
-| 16 | 19% | 20% |  |
-| 17 | 0.5% | 1.3% |  |
-| 18 | 0.7% | 0.8% |  |
-| 19 | 0% | 0% |  |
+| 10 | 0.5% | 100% |  |
+| 11 | 8% | 99.5% |  |
+| 12 | 6% | 91% |  |
+| 13 | 15% | 86% |  |
+| 14 | 43% | 71% | Median |
+| 15 | 14% | 27% |  |
+| 16 | 9% | 13% |  |
+| 17 | 3% | 4% |  |
+| 18 | 1.2% | 1.3% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
