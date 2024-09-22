@@ -102,12 +102,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1–2 | 0–2 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 2–3 |
@@ -181,10 +181,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 48% | 99.5% |  |
-| 2 | 42% | 51% | Median |
-| 3 | 9% | 9% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 48% | 99.9% |  |
+| 2 | 40% | 52% | Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
 

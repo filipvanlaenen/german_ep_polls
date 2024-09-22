@@ -106,15 +106,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
-| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 3 | 3 | 3 | 3 | 2–4 |
 | [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 3 | 3 | 3 | 3 | 2–3 |
-| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 3 | 3 | 2–4 | 2–5 | 2–5 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -185,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 18% | 100% |  |
-| 2 | 15% | 82% |  |
-| 3 | 48% | 68% | Median |
-| 4 | 16% | 20% |  |
+| 1 | 14% | 100% |  |
+| 2 | 20% | 86% |  |
+| 3 | 47% | 66% | Median |
+| 4 | 16% | 19% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

@@ -105,16 +105,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 4 | 4 | 4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 3 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 4 | 4 | 4 | 4–5 | 3–5 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 3 | 3–5 | 3–5 | 3–5 | 2–7 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 3 | 3 | 3 | 3 | 2–3 |
-| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 4 | 3–5 | 3–5 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -187,11 +187,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 21% | 98% |  |
-| 4 | 65% | 77% | Median |
-| 5 | 11% | 12% |  |
-| 6 | 0.3% | 0.4% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 16% | 98% |  |
+| 4 | 64% | 82% | Median |
+| 5 | 17% | 18% |  |
+| 6 | 0.7% | 0.7% |  |
+| 7 | 0% | 0% |  |
 
 

@@ -103,14 +103,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1 | 1 | 1 | 0–2 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
-| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–1 |
@@ -180,8 +180,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 88% | 93% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 87% | 92% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 

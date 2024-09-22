@@ -121,16 +121,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 19 | 17–19 | 17–20 | 17–21 | 17–21 |
-| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
-| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [11–16 September 2024](2024-09-16-GMS.html) | GMS | 16 | 15–19 | 15–19 | 14–19 | 14–19 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 16 | 16 | 16–18 | 15–18 | 15–18 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 18 | 18–19 | 18–20 | 17–20 | 16–20 |
-| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 16 | 15–17 | 15–18 | 14–19 | 13–19 |
+| [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [6–9 September 2024](2024-09-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [3–9 September 2024](2024-09-09-Forsa.html) | Forsa | 15 | 15–16 | 15–16 | 15–16 | 14–18 |
-| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 15 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [6–7 September 2024](2024-09-07-Ipsos.html) | Ipsos | 16 | 15–19 | 15–20 | 14–20 | 14–21 |
 | [2–6 September 2024](2024-09-06-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 18–20 | 18–20 | 16–20 |
 | [3–5 September 2024](2024-09-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 14–18 | 14–18 | 14–18 | 14–18 |
 | [3–4 September 2024](2024-09-04-Infratestdimap.html) | Infratest dimap | 17 | 16–17 | 15–17 | 15–17 | 15–18 |
@@ -213,15 +213,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 3% | 99.7% |  |
-| 15 | 16% | 96% |  |
-| 16 | 29% | 80% |  |
-| 17 | 27% | 51% | Median |
-| 18 | 15% | 24% |  |
-| 19 | 8% | 9% |  |
-| 20 | 0.6% | 1.0% |  |
-| 21 | 0.4% | 0.4% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 4% | 99.9% |  |
+| 15 | 12% | 96% |  |
+| 16 | 32% | 85% |  |
+| 17 | 27% | 52% | Median |
+| 18 | 18% | 26% |  |
+| 19 | 4% | 8% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 

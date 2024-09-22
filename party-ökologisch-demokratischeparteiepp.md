@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–16 September 2024](2024-09-16-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [9–13 September 2024](2024-09-13-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
 | [11 September 2024](2024-09-11-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–10 September 2024](2024-09-10-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
@@ -179,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 25% | 25% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% |  |
 
 
