@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 16.1–19.5% | 15.7–20.0% | 15.3–20.4% | 14.6–21.2% |
+| N/A | [Poll Average](average.html) | 17.6% | 16.1–19.7% | 15.7–20.3% | 15.3–20.8% | 14.6–21.6% |
+| [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 20.0% | 18.9–21.2% | 18.5–21.5% | 18.3–21.8% | 17.8–22.4% |
+| [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.5% | 15.1–19.0% |
+| [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov | 20.0% | N/A | N/A | N/A | N/A |
 | [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 19.5% | 18.4–20.7% | 18.1–21.0% | 17.8–21.3% | 17.3–21.9% |
 | [11–16 September 2024](2024-09-16-GMS.html) | GMS | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 17.0% | 16.0–18.0% | 15.8–18.3% | 15.6–18.5% | 15.1–19.0% |
@@ -105,11 +108,11 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 4% | 99.6% |  |
 | 15.5–16.5% | 16% | 96% |  |
 | 16.5–17.5% | 29% | 80% |  |
-| 17.5–18.5% | 26% | 51% | Median |
-| 18.5–19.5% | 15% | 24% |  |
-| 19.5–20.5% | 7% | 9% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 25% | 51% | Median |
+| 18.5–19.5% | 14% | 25% |  |
+| 19.5–20.5% | 8% | 11% |  |
+| 20.5–21.5% | 3% | 4% |  |
+| 21.5–22.5% | 0.5% | 0.6% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -121,7 +124,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
+| [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 18 | 18–20 | 18–20 | 18–21 | 17–22 |
+| [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
+| [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [13–16 September 2024](2024-09-16-INSAandYouGov.html) | INSA and YouGov | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [11–16 September 2024](2024-09-16-GMS.html) | GMS | 16 | 15–19 | 15–19 | 14–19 | 14–19 |
 | [10–16 September 2024](2024-09-16-Forsa.html) | Forsa | 16 | 16 | 16–18 | 15–18 | 15–18 |
@@ -214,14 +220,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 4% | 99.9% |  |
-| 15 | 12% | 96% |  |
+| 14 | 3% | 99.9% |  |
+| 15 | 11% | 96% |  |
 | 16 | 32% | 85% |  |
-| 17 | 27% | 52% | Median |
-| 18 | 18% | 26% |  |
-| 19 | 4% | 8% |  |
+| 17 | 27% | 53% | Median |
+| 18 | 17% | 26% |  |
+| 19 | 6% | 9% |  |
 | 20 | 3% | 3% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0.6% | 0.6% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
