@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 16.0–19.7% | 15.6–20.4% | 15.3–21.0% | 14.6–22.0% |
+| N/A | [Poll Average](average.html) | 17.5% | 16.0–19.3% | 15.6–19.8% | 15.3–20.3% | 14.6–21.2% |
+| [7–11 October 2024](2024-10-11-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.8–21.3% | 16.2–22.0% |
+| [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 17.0% | 15.8–18.4% | 15.4–18.8% | 15.1–19.2% | 14.5–19.8% |
+| [4–8 October 2024](2024-10-08-YouGov.html) | YouGov | 18.0% | 16.9–19.2% | 16.5–19.6% | 16.3–19.9% | 15.7–20.5% |
+| [4–7 October 2024](2024-10-07-INSAandYouGov.html) | INSA and YouGov | 20.0% | N/A | N/A | N/A | N/A |
+| [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 17.0% | 15.9–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.3% |
+| [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 20.0% | 18.6–21.5% | 18.2–21.9% | 17.8–22.3% | 17.2–23.0% |
 | [1 October 2024](2024-10-01-Verian.html) | Verian | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.6–19.7% |
 | [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.3–20.8% | 16.8–21.3% |
@@ -113,14 +119,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0.4% | 100% |  |
 | 14.5–15.5% | 4% | 99.6% |  |
 | 15.5–16.5% | 16% | 96% |  |
-| 16.5–17.5% | 29% | 80% |  |
-| 17.5–18.5% | 26% | 50% | Median |
-| 18.5–19.5% | 14% | 25% |  |
-| 19.5–20.5% | 7% | 11% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.9% | 1.1% |  |
-| 22.5–23.5% | 0.2% | 0.2% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 16.5–17.5% | 30% | 79% |  |
+| 17.5–18.5% | 28% | 50% | Median |
+| 18.5–19.5% | 15% | 22% |  |
+| 19.5–20.5% | 5% | 7% |  |
+| 20.5–21.5% | 1.4% | 2% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,7 +136,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–20 | 15–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–20 | 15–20 | 14–20 |
+| [7–11 October 2024](2024-10-11-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
+| [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
+| [4–8 October 2024](2024-10-08-YouGov.html) | YouGov | 18 | 18 | 18 | 18 | 18 |
+| [4–7 October 2024](2024-10-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
+| [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 19 | 15–20 | 15–20 | 15–20 | 15–20 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 18 | 18–21 | 18–21 | 18–22 | 16–22 |
 | [1 October 2024](2024-10-01-Verian.html) | Verian | 16 | 16 | 15–17 | 14–18 | 14–19 |
 | [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 17 | 16–20 | 16–20 | 16–20 | 16–20 |
@@ -233,15 +244,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 16% | 98% |  |
-| 16 | 35% | 82% | Median |
-| 17 | 23% | 47% |  |
-| 18 | 15% | 24% |  |
+| 14 | 1.0% | 99.9% |  |
+| 15 | 10% | 98.8% |  |
+| 16 | 36% | 88% |  |
+| 17 | 11% | 53% | Median |
+| 18 | 32% | 42% |  |
 | 19 | 4% | 10% |  |
-| 20 | 2% | 6% |  |
-| 21 | 4% | 4% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0% | 0% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.2% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 
