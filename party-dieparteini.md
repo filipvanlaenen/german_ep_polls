@@ -124,9 +124,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 1–2 | 1–2 |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [8–14 October 2024](2024-10-14-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [8–14 October 2024](2024-10-14-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 October 2024](2024-10-11-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [11 October 2024](2024-10-11-Allensbach.html) | Allensbach | 1 | 1 | 1 | 0–1 | 0–2 |
 | [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -222,8 +222,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.7% | 100% | Last Result |
-| 1 | 78% | 99.3% | Median |
-| 2 | 21% | 21% |  |
+| 1 | 77% | 99.3% | Median |
+| 2 | 22% | 23% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -142,10 +142,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 14–20 |
-| [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 17 | 16–18 | 16–18 | 16–19 | 16–20 |
-| [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 18 | 16–20 | 16–20 | 16–20 | 16–20 |
+| [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 17–19 | 17–19 | 16–19 | 15–20 |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 20 | 17–20 | 17–20 | 17–20 | 16–20 |
-| [8–14 October 2024](2024-10-14-Forsa.html) | Forsa | 18 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [8–14 October 2024](2024-10-14-Forsa.html) | Forsa | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [7–11 October 2024](2024-10-11-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
 | [11 October 2024](2024-10-11-Allensbach.html) | Allensbach | 15 | 14–15 | 14–15 | 14–17 | 12–17 |
 | [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
@@ -254,13 +254,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 0% | 99.9% |  |
-| 14 | 5% | 99.9% |  |
-| 15 | 14% | 95% |  |
-| 16 | 18% | 81% |  |
-| 17 | 18% | 63% | Median |
-| 18 | 29% | 45% |  |
-| 19 | 10% | 16% |  |
-| 20 | 6% | 6% |  |
+| 14 | 6% | 99.9% |  |
+| 15 | 14% | 94% |  |
+| 16 | 16% | 81% |  |
+| 17 | 18% | 64% | Median |
+| 18 | 32% | 47% |  |
+| 19 | 5% | 15% |  |
+| 20 | 10% | 10% |  |
 | 21 | 0% | 0% |  |
 
 
