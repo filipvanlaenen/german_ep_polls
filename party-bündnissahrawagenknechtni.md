@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.8–9.4% | 6.5–9.9% | 6.3–10.2% | 5.8–10.9% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.8–9.4% | 6.5–9.8% | 6.3–10.1% | 5.8–10.7% |
+| [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
+| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.1–8.1% | 5.8–8.4% |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.0–10.1% | 7.7–10.5% | 7.5–10.7% | 7.1–11.3% |
 | [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -115,11 +117,11 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 6% | 99.9% |  |
 | 6.5–7.5% | 27% | 94% |  |
-| 7.5–8.5% | 36% | 67% | Median |
-| 8.5–9.5% | 23% | 31% |  |
+| 7.5–8.5% | 35% | 67% | Median |
+| 8.5–9.5% | 24% | 32% |  |
 | 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.1% | 1.2% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.8% | 0.8% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -131,14 +133,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–8 | 6–9 | 6–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 10 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
 | [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [8–14 October 2024](2024-10-14-Forsa.html) | Forsa | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [7–11 October 2024](2024-10-11-INSAandYouGov.html) | INSA and YouGov | 9 | 7–9 | 7–10 | 7–10 | 7–11 |
-| [11 October 2024](2024-10-11-Allensbach.html) | Allensbach | 8 | 7–8 | 6–8 | 6–10 | 6–10 |
-| [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 8 | 8 | 8 | 7–9 | 6–9 |
+| [11 October 2024](2024-10-11-Allensbach.html) | Allensbach | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
+| [7–9 October 2024](2024-10-09-Infratestdimap.html) | Infratest dimap | 8 | 8 | 7–8 | 7–9 | 6–9 |
 | [4–8 October 2024](2024-10-08-YouGov.html) | YouGov | 8 | 8 | 8 | 8 | 8 |
 | [4–7 October 2024](2024-10-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -235,13 +239,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 20% | 99.8% |  |
-| 7 | 21% | 80% |  |
-| 8 | 52% | 60% | Median |
-| 9 | 5% | 8% |  |
-| 10 | 2% | 3% |  |
-| 11 | 1.1% | 1.1% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 15% | 99.9% |  |
+| 7 | 22% | 85% |  |
+| 8 | 49% | 63% | Median |
+| 9 | 5% | 14% |  |
+| 10 | 9% | 9% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 
