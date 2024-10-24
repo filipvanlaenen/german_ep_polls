@@ -124,7 +124,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
+| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |

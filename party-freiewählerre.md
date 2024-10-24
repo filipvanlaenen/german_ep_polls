@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 2 | 1–2 | 1–2 |
-| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 2 | 2 | 2 | 2 | 2 |
+| [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 2 | 2 | 2 | 2–3 | 2–3 |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2024](2024-10-17-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [11–14 October 2024](2024-10-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -139,7 +139,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–8 October 2024](2024-10-08-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [4–7 October 2024](2024-10-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1 October 2024](2024-10-01-Verian.html) | Verian | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -229,9 +229,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 23% | 99.9% |  |
-| 2 | 42% | 77% | Median |
-| 3 | 24% | 35% |  |
-| 4 | 10% | 10% |  |
+| 2 | 41% | 77% | Median |
+| 3 | 25% | 36% |  |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 
