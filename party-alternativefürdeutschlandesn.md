@@ -158,11 +158,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
 | [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 17 | 15–20 | 15–20 | 15–21 | 14–21 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 18 | 18–21 | 18–21 | 18–22 | 16–22 |
-| [1 October 2024](2024-10-01-Verian.html) | Verian | 16 | 16 | 15–17 | 14–18 | 14–19 |
+| [1 October 2024](2024-10-01-Verian.html) | Verian | 16 | 16 | 16 | 16–17 | 15–18 |
 | [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 17 | 16–20 | 16–20 | 16–20 | 16–20 |
-| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 16 | 15–17 | 15–17 | 14–17 | 14–19 |
+| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [23–27 September 2024](2024-09-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 18 | 18–20 | 18–20 | 18–21 | 17–22 |
 | [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
 | [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -259,9 +259,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.3% | 99.9% |  |
 | 14 | 6% | 99.6% |  |
-| 15 | 16% | 93% |  |
-| 16 | 14% | 78% |  |
-| 17 | 19% | 64% | Median |
+| 15 | 15% | 94% |  |
+| 16 | 15% | 79% |  |
+| 17 | 19% | 63% | Median |
 | 18 | 25% | 45% |  |
 | 19 | 5% | 20% |  |
 | 20 | 15% | 15% |  |

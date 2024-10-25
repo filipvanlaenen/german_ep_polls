@@ -168,11 +168,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 23 | 22–24 | 22–24 | 22–25 | 21–26 |
 | [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 22 | 20–24 | 20–24 | 20–25 | 20–27 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 25 | 21–25 | 21–25 | 21–26 | 21–27 |
-| [1 October 2024](2024-10-01-Verian.html) | Verian | 22 | 22–23 | 22–24 | 22–24 | 21–25 |
-| [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 26 | 24–26 | 24–27 | 23–27 | 22–27 |
-| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 24 | 22–25 | 22–25 | 21–25 | 21–27 |
+| [1 October 2024](2024-10-01-Verian.html) | Verian | 23 | 23 | 22–23 | 22–24 | 22–24 |
+| [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 25 | 24–26 | 23–27 | 22–27 | 21–27 |
+| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 23 | 22–24 | 22–24 | 22–25 | 21–25 |
 | [23–27 September 2024](2024-09-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 21–27 | 21–27 | 21–27 | 21–27 |
 | [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 25 | 24–26 | 23–26 | 23–26 | 21–27 |
 | [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 23 | 22–25 | 22–25 | 22–25 | 22–26 |
 | [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -276,10 +276,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 4% | 100% |  |
 | 21 | 8% | 96% |  |
-| 22 | 22% | 88% |  |
-| 23 | 24% | 66% | Median |
-| 24 | 15% | 42% |  |
-| 25 | 15% | 28% |  |
+| 22 | 12% | 88% |  |
+| 23 | 34% | 76% | Median |
+| 24 | 14% | 42% |  |
+| 25 | 15% | 27% |  |
 | 26 | 7% | 12% |  |
 | 27 | 0.4% | 5% |  |
 | 28 | 4% | 5% |  |

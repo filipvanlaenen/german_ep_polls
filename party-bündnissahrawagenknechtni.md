@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 10 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [14–18 October 2024](2024-10-18-INSAandYouGov.html) | INSA and YouGov | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
@@ -148,11 +148,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–8 | 6–10 |
-| [1 October 2024](2024-10-01-Verian.html) | Verian | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [1 October 2024](2024-10-01-Verian.html) | Verian | 6 | 6 | 6 | 6–9 | 6–9 |
 | [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [23–27 September 2024](2024-09-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 10 | 9–10 | 8–10 | 8–10 | 7–11 |
 | [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 7 | 7 | 7 | 6–7 | 6–8 |
 | [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -239,11 +239,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 14% | 99.5% |  |
-| 7 | 22% | 85% |  |
-| 8 | 50% | 64% | Median |
-| 9 | 5% | 13% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 16% | 99.6% |  |
+| 7 | 21% | 84% |  |
+| 8 | 49% | 63% | Median |
+| 9 | 6% | 14% |  |
 | 10 | 8% | 8% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

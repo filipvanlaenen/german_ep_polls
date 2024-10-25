@@ -156,11 +156,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–7 October 2024](2024-10-07-Forsa.html) | Forsa | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [2–4 October 2024](2024-10-04-Ipsos.html) | Ipsos | 15 | 12–16 | 12–16 | 12–18 | 12–18 |
 | [4 October 2024](2024-10-04-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–16 | 13–16 | 13–17 |
-| [1 October 2024](2024-10-01-Verian.html) | Verian | 16 | 15–16 | 15–17 | 15–17 | 14–17 |
-| [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 14 | 14–15 | 14–15 | 14–15 | 13–16 |
-| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 16 | 15–18 | 15–18 | 15–18 | 15–18 |
+| [1 October 2024](2024-10-01-Verian.html) | Verian | 16 | 16 | 16 | 13–16 | 13–17 |
+| [27–30 September 2024](2024-09-30-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 13–15 | 13–15 | 13–17 |
+| [24–30 September 2024](2024-09-30-Forsa.html) | Forsa | 15 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [23–27 September 2024](2024-09-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 13–17 | 13–17 | 13–17 | 13–17 |
+| [24–26 September 2024](2024-09-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 16 | 15–16 | 14–17 | 14–17 | 13–17 |
 | [20–23 September 2024](2024-09-23-INSAandYouGov.html) | INSA and YouGov | 15 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [17–23 September 2024](2024-09-23-Forsa.html) | Forsa | 15 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [16–19 September 2024](2024-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -255,11 +255,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 3% | 100% |  |
-| 13 | 6% | 97% |  |
-| 14 | 3% | 91% |  |
-| 15 | 25% | 87% |  |
-| 16 | 49% | 62% | Median |
-| 17 | 5% | 13% |  |
+| 13 | 7% | 97% |  |
+| 14 | 3% | 90% |  |
+| 15 | 23% | 87% |  |
+| 16 | 52% | 64% | Median |
+| 17 | 4% | 12% |  |
 | 18 | 7% | 7% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
