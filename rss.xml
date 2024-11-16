@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Nov 2024 16:51:46 +0100</pubDate>
+    <pubDate>Sat, 16 Nov 2024 18:10:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 8–12 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2024-11-12-YouGov.html#seats</link>
@@ -248,6 +248,66 @@
         type="image/png"/>
       <pubDate>Sat, 16 Nov 2024 16:51:46 +0100</pubDate>
       <dc:date>2024-11-16T16:51:46.95862+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 25–28 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Familienpartei Deutschlands (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 17–19 seats&lt;/li&gt;&lt;li&gt;Partei des Fortschritts (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 8–10 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 22–25 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–11 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov-seats.png"
+        length="395340"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 17:47:48 +0100</pubDate>
+      <dc:date>2024-11-16T17:47:48.932009+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 25–28 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov-coalitions-seats.png"
+        length="189964"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 17:47:48 +0100</pubDate>
+      <dc:date>2024-11-16T17:47:48.932009+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov, 25–28 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Familienpartei Deutschlands (EPP): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.5–16.6%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.8–1.7%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 17.4–20.8%&lt;/li&gt;&lt;li&gt;Partei des Fortschritts (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (EPP): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 1.9–3.3%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 22.7–26.4%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.5–7.7%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9.7–12.5%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1.0–2.1%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-INSAandYouGov.png"
+        length="462976"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 17:47:48 +0100</pubDate>
+      <dc:date>2024-11-16T17:47:48.932009+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 22–28 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Familienpartei Deutschlands (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14–15 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 2 seats&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 15–19 seats&lt;/li&gt;&lt;li&gt;Partei des Fortschritts (*): 0 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 7 seats&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 23–26 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 8 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa-seats.png"
+        length="355705"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 18:10:37 +0100</pubDate>
+      <dc:date>2024-11-16T18:10:37.259201+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 22–28 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa-coalitions-seats.png"
+        length="163174"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 18:10:37 +0100</pubDate>
+      <dc:date>2024-11-16T18:10:37.259201+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa, 22–28 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Familienpartei Deutschlands (EPP): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.4–17.7%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Piratenpartei Deutschland (Greens/EFA): 0.2–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 15.4–18.8%&lt;/li&gt;&lt;li&gt;Partei des Fortschritts (*): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 5.9–8.2%&lt;/li&gt;&lt;li&gt;Ökologisch-Demokratische Partei (EPP): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 23.4–27.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5.7–8.0%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.7–3.0%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1.6–2.9%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2024-10-28-Forsa.png"
+        length="461318"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2024 18:10:37 +0100</pubDate>
+      <dc:date>2024-11-16T18:10:37.259201+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov, 18–21 October 2024 – Seat Projections for the Parties</title>
@@ -1989,6 +2049,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2024-11-16T16:51:46.95862+01:00</dc:date>
+    <dc:date>2024-11-16T18:10:37.259201+01:00</dc:date>
   </channel>
 </rss>
