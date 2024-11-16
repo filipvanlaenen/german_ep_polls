@@ -24,8 +24,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% | 1.1–3.1% |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 2.5% | N/A | N/A | N/A | N/A |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 3.0% | N/A | N/A | N/A | N/A |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.5% |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov | 3.0% | N/A | N/A | N/A | N/A |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.5% |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
@@ -157,8 +157,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 3 | 3 | 3 | 3 | 2–3 |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 2 | 2–3 | 2–4 |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 3 | 3 | 3 | 3 | 2–4 |

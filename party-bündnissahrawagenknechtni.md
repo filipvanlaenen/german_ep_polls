@@ -24,8 +24,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov | 8.0% | N/A | N/A | N/A | N/A |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 8.0% | 7.1–9.0% | 6.9–9.2% | 6.7–9.5% | 6.3–10.0% |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 7.0% | N/A | N/A | N/A | N/A |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov | 9.0% | N/A | N/A | N/A | N/A |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.5–10.8% |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.1–8.1% | 5.8–8.4% |
@@ -162,8 +162,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 7 | 7 | 7 | 7 | 6–7 |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 10 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 7 | 6–7 | 6–7 | 5–7 | 5–7 |

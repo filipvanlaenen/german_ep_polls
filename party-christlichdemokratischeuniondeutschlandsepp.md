@@ -24,8 +24,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov | 25.3% | N/A | N/A | N/A | N/A |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 26.9% | 25.3–28.5% | 24.9–28.9% | 24.5–29.3% | 23.8–30.1% |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 25.3% | 23.9–26.8% | 23.5–27.2% | 23.1–27.6% | 22.4–28.3% |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 24.5% | N/A | N/A | N/A | N/A |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 25.3% | N/A | N/A | N/A | N/A |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 24.5% | 23.3–25.8% | 23.0–26.1% | 22.7–26.4% | 22.1–27.1% |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 25.3% | 24.0–26.6% | 23.7–26.9% | 23.4–27.3% | 22.8–27.9% |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov | 23.7% | N/A | N/A | N/A | N/A |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 23.5% | 22.3–24.7% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 24.5% | 23.4–25.6% | 23.1–25.9% | 22.8–26.2% | 22.3–26.8% |
@@ -182,8 +182,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1 November 2024](2024-11-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 October 2024](2024-10-30-Infratestdimap.html) | Infratest dimap | 26 | 25–26 | 25–27 | 25–27 | 25–27 |
 | [23–29 October 2024](2024-10-29-Verian.html) | Verian | 23 | 22–26 | 20–27 | 20–27 | 20–27 |
-| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [25–28 October 2024](2024-10-28-INSAandYouGov.html) | INSA and YouGov | 24 | 23–24 | 22–24 | 22–25 | 20–26 |
+| [22–28 October 2024](2024-10-28-Forsa.html) | Forsa | 26 | 26 | 24–26 | 23–26 | 23–26 |
 | [21–25 October 2024](2024-10-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–21 October 2024](2024-10-21-INSAandYouGov.html) | INSA and YouGov | 23 | 22–23 | 22–23 | 22–23 | 21–24 |
 | [15–21 October 2024](2024-10-21-Forsa.html) | Forsa | 22 | 21–24 | 21–24 | 21–24 | 21–25 |
