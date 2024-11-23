@@ -156,8 +156,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 10 | 10–11 | 10–11 | 10–12 | 9–13 |
-| [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 11 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [11–15 November 2024](2024-11-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [8–12 November 2024](2024-11-12-YouGov.html) | YouGov | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [8–11 November 2024](2024-11-11-INSAandYouGov.html) | INSA and YouGov | 11 | 11 | 11 | 11 | 11–12 |
@@ -284,11 +284,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 0.7% | 99.9% |  |
-| 9 | 6% | 99.3% |  |
-| 10 | 29% | 94% |  |
-| 11 | 42% | 65% | Median |
+| 9 | 4% | 99.3% |  |
+| 10 | 26% | 95% |  |
+| 11 | 46% | 69% | Median |
 | 12 | 16% | 23% |  |
-| 13 | 7% | 8% |  |
+| 13 | 7% | 7% |  |
 | 14 | 0.6% | 0.7% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |

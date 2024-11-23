@@ -151,9 +151,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 4–8 | 3–9 | 3–9 | 3–10 |
-| [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–9 | 4–9 | 3–10 |
+| [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 7 | 7 | 6–8 |
+| [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11–15 November 2024](2024-11-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [8–12 November 2024](2024-11-12-YouGov.html) | YouGov | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [8–11 November 2024](2024-11-11-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 7 | 7 | 7–8 |
@@ -274,12 +274,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 14% | 92% |  |
-| 5 | 13% | 79% |  |
+| 3 | 2% | 100% |  |
+| 4 | 22% | 98% |  |
+| 5 | 10% | 76% |  |
 | 6 | 13% | 66% |  |
-| 7 | 28% | 53% | Median |
-| 8 | 19% | 25% |  |
+| 7 | 30% | 53% | Median |
+| 8 | 17% | 24% |  |
 | 9 | 6% | 6% |  |
 | 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% |  |
