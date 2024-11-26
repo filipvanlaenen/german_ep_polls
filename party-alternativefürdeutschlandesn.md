@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.2% | 16.5–19.8% | 16.0–20.3% | 15.6–20.7% | 14.8–21.5% |
+| N/A | [Poll Average](average.html) | 18.2% | 16.5–19.9% | 16.0–20.4% | 15.6–20.7% | 14.8–21.5% |
+| [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 19.5% | 18.4–20.7% | 18.1–21.0% | 17.8–21.3% | 17.3–21.9% |
+| [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 18.0% | 17.0–19.0% | 16.8–19.3% | 16.5–19.6% | 16.1–20.1% |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.6% | 17.3–21.0% | 16.9–21.4% | 16.3–22.1% |
-| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18.0% | 16.8–19.4% | 16.4–19.8% | 16.1–20.1% | 15.5–20.8% |
+| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.3–21.0% |
 | [18–20 November 2024](2024-11-20-Infratestdimap.html) | Infratest dimap | 19.0% | 17.6–20.4% | 17.3–20.8% | 16.9–21.2% | 16.3–21.9% |
 | [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.4–20.8% | 16.9–21.4% |
 | [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 18.0% | 17.0–19.0% | 16.8–19.3% | 16.5–19.6% | 16.1–20.1% |
@@ -147,13 +149,13 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 2% | 99.8% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
 | 15.5–16.5% | 9% | 98% |  |
-| 16.5–17.5% | 21% | 89% |  |
-| 17.5–18.5% | 30% | 68% | Median |
-| 18.5–19.5% | 24% | 38% |  |
-| 19.5–20.5% | 11% | 14% |  |
-| 20.5–21.5% | 3% | 3% |  |
+| 16.5–17.5% | 20% | 89% |  |
+| 17.5–18.5% | 29% | 69% | Median |
+| 18.5–19.5% | 25% | 40% |  |
+| 19.5–20.5% | 12% | 16% |  |
+| 20.5–21.5% | 3% | 4% |  |
 | 21.5–22.5% | 0.4% | 0.4% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -166,9 +168,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–19 | 15–19 | 15–19 | 14–19 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 15–20 | 14–20 |
+| [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 20 | 18–20 | 18–20 | 16–20 | 16–20 |
+| [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 16 | 16–17 | 16–18 | 16–18 | 16–19 |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 18 | 18 | 18 | 18 | 16–19 |
-| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 18 | 18 | 18 | 17–19 | 15–19 |
+| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 16–20 | 16–20 | 15–21 | 14–21 |
 | [18–20 November 2024](2024-11-20-Infratestdimap.html) | Infratest dimap | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 17 | 17–18 | 17–19 | 17–20 | 16–20 |
 | [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 19 | 17–19 | 16–19 | 15–19 | 15–19 |
@@ -303,15 +307,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 1.2% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.2% | 99.9% |  |
 | 15 | 15% | 98.7% |  |
-| 16 | 9% | 84% |  |
-| 17 | 13% | 75% |  |
-| 18 | 37% | 62% | Median |
-| 19 | 24% | 24% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
+| 16 | 21% | 84% |  |
+| 17 | 14% | 63% | Median |
+| 18 | 14% | 49% |  |
+| 19 | 19% | 35% |  |
+| 20 | 16% | 16% |  |
+| 21 | 0.4% | 0.4% |  |
 | 22 | 0% | 0% |  |
 
 
