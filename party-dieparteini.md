@@ -153,7 +153,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [18–20 November 2024](2024-11-20-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -276,8 +276,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% | Last Result |
-| 1 | 77% | 96% | Median |
-| 2 | 18% | 18% |  |
+| 1 | 83% | 96% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 

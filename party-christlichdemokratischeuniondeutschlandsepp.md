@@ -180,10 +180,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 22–27 | 22–29 | 21–30 |
-| [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 25 | 25 | 24–25 | 24–26 | 23–26 |
-| [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 24 | 24 | 24 | 23–25 | 23–26 |
+| [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 25 | 24–25 | 24–26 | 24–26 | 23–26 |
+| [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 24 | 23–25 | 23–25 | 23–27 | 22–27 |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 24 | 24 | 24 | 24 | 22–25 |
-| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 21–24 | 21–25 | 20–26 | 20–26 |
+| [19–21 November 2024](2024-11-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [18–20 November 2024](2024-11-20-Infratestdimap.html) | Infratest dimap | 24 | 23–27 | 23–27 | 23–27 | 22–29 |
 | [15–18 November 2024](2024-11-18-INSAandYouGov.html) | INSA and YouGov | 25 | 25 | 24–26 | 23–27 | 21–27 |
 | [12–18 November 2024](2024-11-18-Forsa.html) | Forsa | 26 | 25–26 | 23–26 | 23–26 | 23–27 |
@@ -325,13 +325,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.5% | 100% |  |
-| 21 | 2% | 99.5% |  |
-| 22 | 6% | 98% |  |
-| 23 | 13% | 92% |  |
-| 24 | 28% | 79% |  |
+| 20 | 0.2% | 100% |  |
+| 21 | 1.0% | 99.8% |  |
+| 22 | 4% | 98.8% |  |
+| 23 | 12% | 95% |  |
+| 24 | 33% | 83% |  |
 | 25 | 26% | 50% | Median |
-| 26 | 10% | 25% |  |
+| 26 | 9% | 25% |  |
 | 27 | 11% | 15% |  |
 | 28 | 2% | 4% |  |
 | 29 | 2% | 3% |  |
