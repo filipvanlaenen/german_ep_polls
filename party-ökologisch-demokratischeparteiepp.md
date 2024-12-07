@@ -17,9 +17,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [2 December 2024](2024-12-02-GMS.html) | GMS | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [2 December 2024](2024-12-02-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.3–0.8% | 0.2–1.0% |
-| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
-| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [20–26 November 2024](2024-11-26-Verian.html) | Verian | 0.3% | N/A | N/A | N/A | N/A |
+| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [20–26 November 2024](2024-11-26-Verian.html) | Verian | 0.3% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.3–0.8% | 0.2–1.0% |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -143,8 +143,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 82% | 100% | Last Result, Median |
-| 0.5–1.5% | 18% | 18% |  |
+| 0.0–0.5% | 83% | 100% | Last Result, Median |
+| 0.5–1.5% | 17% | 17% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -163,9 +163,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [2 December 2024](2024-12-02-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2 December 2024](2024-12-02-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [20–26 November 2024](2024-11-26-Verian.html) | Verian |  |  |  |  |  |
+| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–26 November 2024](2024-11-26-Verian.html) | Verian | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
 | [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -291,8 +291,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 28% | 28% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 
