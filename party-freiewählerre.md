@@ -160,13 +160,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [2 December 2024](2024-12-02-GMS.html) | GMS | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
+| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1–2 | 1–2 |
+| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–2 |
+| [2 December 2024](2024-12-02-GMS.html) | GMS | 2 | 2 | 2 | 2 | 1–3 |
+| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–26 November 2024](2024-11-26-Verian.html) | Verian | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -295,10 +295,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 42% | 100% |  |
-| 2 | 30% | 58% | Median |
-| 3 | 27% | 27% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 47% | 99.5% |  |
+| 2 | 34% | 52% | Median |
+| 3 | 18% | 18% |  |
 | 4 | 0.5% | 0.6% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

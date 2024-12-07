@@ -175,13 +175,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 12–18 | 12–18 |
-| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13 | 13–14 | 13–16 | 13–16 | 12–16 |
-| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 14 | 14–17 | 14–17 | 14–17 | 14–17 |
-| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 18 | 17–18 | 16–18 | 16–19 | 15–19 |
-| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 16 | 13–17 | 13–17 | 13–17 | 13–17 |
-| [2 December 2024](2024-12-02-GMS.html) | GMS | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 15 | 15 | 15–16 | 14–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 15 | 15 | 15 | 14–15 | 14–17 |
+| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 16 | 14–17 | 13–17 | 13–17 | 13–18 |
+| [2 December 2024](2024-12-02-GMS.html) | GMS | 13 | 13 | 13 | 13–14 | 13–15 |
+| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 15 | 15 | 14–16 | 14–17 | 13–18 |
 | [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 14 | 14–17 | 14–17 | 13–17 | 12–18 |
 | [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 14 | 13–15 | 13–15 | 13–16 | 13–17 |
 | [20–26 November 2024](2024-11-26-Verian.html) | Verian | 14 | 13–15 | 13–16 | 13–16 | 11–17 |
@@ -322,13 +322,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
-| 12 | 3% | 99.9% |  |
-| 13 | 14% | 97% |  |
-| 14 | 38% | 84% | Median |
-| 15 | 19% | 46% |  |
-| 16 | 5% | 27% |  |
-| 17 | 12% | 21% |  |
-| 18 | 9% | 9% |  |
+| 12 | 2% | 99.9% |  |
+| 13 | 22% | 98% |  |
+| 14 | 22% | 76% |  |
+| 15 | 30% | 53% | Median |
+| 16 | 6% | 23% |  |
+| 17 | 14% | 17% |  |
+| 18 | 2% | 2% |  |
 | 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 

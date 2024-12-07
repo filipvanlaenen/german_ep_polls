@@ -165,12 +165,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
-| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–7 | 6–7 | 6–7 | 6–9 |
-| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6–7 | 6–8 | 5–8 |
-| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
+| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
+| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 6 | 6 | 6 | 6 | 6–7 |
+| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 5–6 | 5–7 | 5–7 |
-| [2 December 2024](2024-12-02-GMS.html) | GMS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [2 December 2024](2024-12-02-GMS.html) | GMS | 7 | 7 | 7 | 7 | 6–8 |
 | [2 December 2024](2024-12-02-Forsa.html) | Forsa | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 6–7 | 5–9 |
@@ -304,11 +304,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 14% | 99.7% |  |
-| 6 | 47% | 86% | Median |
-| 7 | 21% | 39% |  |
-| 8 | 10% | 18% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 9% | 99.9% |  |
+| 6 | 39% | 91% |  |
+| 7 | 35% | 52% | Median |
+| 8 | 9% | 17% |  |
 | 9 | 8% | 8% |  |
 | 10 | 0% | 0% |  |
 

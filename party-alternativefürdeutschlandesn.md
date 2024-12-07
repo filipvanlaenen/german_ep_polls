@@ -178,12 +178,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
-| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 15–17 | 14–17 | 14–19 | 13–19 |
-| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 19 | 18–19 | 17–19 | 17–19 | 16–21 |
-| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
-| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
-| [2 December 2024](2024-12-02-GMS.html) | GMS | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
-| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 16 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 15–17 | 14–18 | 14–19 | 13–19 |
+| [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 19 | 19 | 19 | 18–19 | 17–19 |
+| [3 December 2024](2024-12-03-YouGov.html) | YouGov | 19 | 18–20 | 17–20 | 17–20 | 16–20 |
+| [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 17 | 16–19 | 16–20 | 16–20 | 16–20 |
+| [2 December 2024](2024-12-02-GMS.html) | GMS | 17 | 17 | 17 | 17 | 14–17 |
+| [2 December 2024](2024-12-02-Forsa.html) | Forsa | 16 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 17 | 16–17 | 16–17 | 15–18 | 15–19 |
 | [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 16 | 16–18 | 16–18 | 15–18 | 14–18 |
 | [20–26 November 2024](2024-11-26-Verian.html) | Verian | 19 | 16–20 | 16–20 | 16–20 | 14–20 |
@@ -325,15 +325,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 2% | 99.8% |  |
-| 15 | 12% | 98% |  |
-| 16 | 19% | 87% |  |
-| 17 | 32% | 67% | Median |
-| 18 | 10% | 35% |  |
-| 19 | 22% | 26% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.2% | 0.2% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.7% | 99.9% |  |
+| 15 | 10% | 99.1% |  |
+| 16 | 14% | 89% |  |
+| 17 | 39% | 75% | Median |
+| 18 | 6% | 36% |  |
+| 19 | 25% | 30% |  |
+| 20 | 5% | 5% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
