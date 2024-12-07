@@ -165,16 +165,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–8 | 3–8 | 3–9 | 3–9 |
+| N/A | [Poll Average](average.html) | 6 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–5 December 2024](2024-12-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [2–4 December 2024](2024-12-04-Infratestdimap.html) | Infratest dimap | 4 | 4 | 4 | 4–5 | 4–5 |
 | [3 December 2024](2024-12-03-YouGov.html) | YouGov | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [2 December 2024](2024-12-02-GMS.html) | GMS | 7 | 7 | 7 | 6–7 | 4–7 |
 | [2 December 2024](2024-12-02-Forsa.html) | Forsa | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
-| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [20–26 November 2024](2024-11-26-Verian.html) | Verian | 5 | 5–7 | 5–8 | 4–8 | 4–8 |
+| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 6 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–10 |
+| [20–26 November 2024](2024-11-26-Verian.html) | Verian | 6 | 5–6 | 5–7 | 5–8 | 4–8 |
 | [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 7 | 6–7 | 6–8 |
 | [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [18–21 November 2024](2024-11-21-INSAandYouGov.html) | INSA and YouGov | 8 | 8 | 8 | 7–8 | 6–8 |
@@ -305,11 +305,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 10% | 100% |  |
 | 4 | 21% | 90% |  |
-| 5 | 8% | 69% |  |
-| 6 | 13% | 61% | Median |
-| 7 | 31% | 48% |  |
-| 8 | 12% | 17% |  |
-| 9 | 5% | 5% |  |
+| 5 | 7% | 69% |  |
+| 6 | 20% | 62% | Median |
+| 7 | 30% | 43% |  |
+| 8 | 11% | 13% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 

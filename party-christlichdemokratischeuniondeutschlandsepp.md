@@ -195,8 +195,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 December 2024](2024-12-02-INSAandYouGov.html) | INSA and YouGov | 23 | 23–25 | 23–25 | 23–26 | 22–27 |
 | [2 December 2024](2024-12-02-GMS.html) | GMS | 24 | 24 | 24 | 24–25 | 24–27 |
 | [2 December 2024](2024-12-02-Forsa.html) | Forsa | 24 | 24–25 | 23–25 | 23–25 | 22–26 |
-| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 23 | 22–26 | 22–26 | 21–26 | 21–28 |
-| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 25 | 22–25 | 22–25 | 22–25 | 22–27 |
+| [1 December 2024](2024-12-01-Ipsos.html) | Ipsos | 25 | 22–26 | 22–27 | 21–27 | 21–27 |
+| [25–29 November 2024](2024-11-29-INSAandYouGov.html) | INSA and YouGov | 24 | 22–25 | 22–25 | 22–25 | 21–27 |
 | [20–26 November 2024](2024-11-26-Verian.html) | Verian | 24 | 22–27 | 22–27 | 22–27 | 21–28 |
 | [22–25 November 2024](2024-11-25-INSAandYouGov.html) | INSA and YouGov | 25 | 24–25 | 24–26 | 24–26 | 23–26 |
 | [19–25 November 2024](2024-11-25-Forsa.html) | Forsa | 24 | 23–25 | 23–25 | 23–27 | 22–27 |
@@ -345,12 +345,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.5% | 100% |  |
 | 21 | 7% | 99.4% |  |
-| 22 | 5% | 93% |  |
-| 23 | 23% | 87% |  |
-| 24 | 22% | 64% | Median |
-| 25 | 25% | 43% |  |
-| 26 | 4% | 18% |  |
-| 27 | 9% | 13% |  |
+| 22 | 9% | 92% |  |
+| 23 | 18% | 83% |  |
+| 24 | 21% | 65% | Median |
+| 25 | 24% | 44% |  |
+| 26 | 7% | 21% |  |
+| 27 | 9% | 14% |  |
 | 28 | 2% | 4% |  |
 | 29 | 2% | 2% |  |
 | 30 | 0.8% | 0.9% |  |
