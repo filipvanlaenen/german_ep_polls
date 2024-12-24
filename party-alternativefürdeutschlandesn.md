@@ -190,9 +190,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–20 | 16–21 | 15–21 |
-| [20–23 December 2024](2024-12-23-INSAandYouGov.html) | INSA and YouGov | 18 | 16–19 | 16–19 | 16–19 | 16–21 |
-| [17–20 December 2024](2024-12-20-Forsa.html) | Forsa | 19 | 17–21 | 17–21 | 17–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| [20–23 December 2024](2024-12-23-INSAandYouGov.html) | INSA and YouGov | 18 | 16–19 | 16–20 | 16–20 | 16–22 |
+| [17–20 December 2024](2024-12-20-Forsa.html) | Forsa | 19 | 17–21 | 17–21 | 16–21 | 16–21 |
 | [16–19 December 2024](2024-12-19-INSAandYouGov.html) | INSA and YouGov | 20 | 19–20 | 18–20 | 17–20 | 17–21 |
 | [17–19 December 2024](2024-12-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 17 | 16–19 | 16–19 | 16–20 | 16–20 |
 | [16–18 December 2024](2024-12-18-Infratestdimap.html) | Infratest dimap | 18 | 16–20 | 16–20 | 16–20 | 16–20 |
@@ -354,12 +354,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.2% | 100% |  |
 | 15 | 0.6% | 99.8% |  |
-| 16 | 17% | 99.2% |  |
-| 17 | 35% | 82% | Median |
-| 18 | 15% | 47% |  |
-| 19 | 24% | 32% |  |
-| 20 | 5% | 8% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0% | 0% |  |
+| 16 | 14% | 99.2% |  |
+| 17 | 35% | 85% |  |
+| 18 | 20% | 50% | Median |
+| 19 | 23% | 30% |  |
+| 20 | 5% | 7% |  |
+| 21 | 1.3% | 1.4% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
