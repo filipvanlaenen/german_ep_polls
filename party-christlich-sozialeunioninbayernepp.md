@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.9–7.9% | 5.6–8.3% | 5.4–8.6% | 5.1–9.3% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.9–7.8% | 5.6–8.2% | 5.4–8.6% | 5.1–9.2% |
+| [2 January 2025](2025-01-02-GMS.html) | GMS | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
+| [27–30 December 2024](2024-12-30-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
+| [23–27 December 2024](2024-12-27-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
 | [20–23 December 2024](2024-12-23-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
 | [17–20 December 2024](2024-12-20-Forsa.html) | Forsa | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
 | [16–19 December 2024](2024-12-19-INSAandYouGov.html) | INSA and YouGov | 6.7% | 5.9–7.7% | 5.6–8.0% | 5.4–8.3% | 5.1–8.8% |
@@ -111,7 +114,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 6.7% | 5.9–7.7% | 5.7–8.0% | 5.5–8.2% | 5.1–8.7% |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–8.0% | 5.0–8.4% |
-| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.5% | 5.7–7.1% | 5.5–7.4% | 5.4–7.6% | 5.1–7.9% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.4% | 5.7–7.1% | 5.5–7.4% | 5.4–7.6% | 5.1–7.9% |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 6.3% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.8% |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
@@ -162,10 +165,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 36% | 96% |  |
-| 6.5–7.5% | 43% | 60% | Median |
-| 7.5–8.5% | 15% | 17% |  |
-| 8.5–9.5% | 3% | 3% |  |
+| 5.5–6.5% | 37% | 96% |  |
+| 6.5–7.5% | 43% | 59% | Median |
+| 7.5–8.5% | 14% | 16% |  |
+| 8.5–9.5% | 2% | 3% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -178,7 +181,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–7 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| [2 January 2025](2025-01-02-GMS.html) | GMS | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [27–30 December 2024](2024-12-30-INSAandYouGov.html) | INSA and YouGov | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [23–27 December 2024](2024-12-27-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–23 December 2024](2024-12-23-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [17–20 December 2024](2024-12-20-Forsa.html) | Forsa | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [16–19 December 2024](2024-12-19-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 6–7 | 6–8 | 5–8 |
@@ -332,9 +338,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 12% | 99.9% |  |
-| 6 | 30% | 88% |  |
-| 7 | 48% | 58% | Median |
-| 8 | 7% | 10% |  |
+| 6 | 34% | 88% |  |
+| 7 | 43% | 54% | Median |
+| 8 | 8% | 11% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 
