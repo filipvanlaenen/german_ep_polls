@@ -208,11 +208,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–21 | 14–22 |
-| [13–17 January 2025](2025-01-17-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 20 | 20–21 | 20–21 |
-| [10–14 January 2025](2025-01-14-YouGov.html) | YouGov | 20 | 18–20 | 18–20 | 18–20 | 18–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–21 | 14–23 |
+| [13–17 January 2025](2025-01-17-INSAandYouGov.html) | INSA and YouGov | 20 | 20 | 20 | 20 | 20–21 |
+| [10–14 January 2025](2025-01-14-YouGov.html) | YouGov | 20 | 18–21 | 18–21 | 18–21 | 17–23 |
 | [10–13 January 2025](2025-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [7–13 January 2025](2025-01-13-Forsa.html) | Forsa | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [7–13 January 2025](2025-01-13-Forsa.html) | Forsa | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [6–10 January 2025](2025-01-10-INSAandYouGov.html) | INSA and YouGov | 20 | 20–24 | 19–24 | 18–24 | 18–24 |
 | [7–9 January 2025](2025-01-09-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 18–20 | 18–22 | 18–23 | 17–23 |
 | [6–8 January 2025](2025-01-08-Infratestdimap.html) | Infratest dimap | 18 | 18–20 | 18–20 | 18–21 | 16–21 |
@@ -388,13 +388,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.7% | 100% |  |
 | 15 | 0.9% | 99.3% |  |
 | 16 | 4% | 98% |  |
-| 17 | 11% | 94% |  |
-| 18 | 25% | 84% |  |
-| 19 | 20% | 58% | Median |
-| 20 | 35% | 38% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.5% | 0.9% |  |
-| 23 | 0.4% | 0.4% |  |
+| 17 | 12% | 94% |  |
+| 18 | 22% | 83% |  |
+| 19 | 22% | 61% | Median |
+| 20 | 34% | 38% |  |
+| 21 | 3% | 4% |  |
+| 22 | 0.5% | 1.0% |  |
+| 23 | 0.5% | 0.5% |  |
 | 24 | 0% | 0% |  |
 
 
