@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 13.9–17.8% | 13.4–18.3% | 12.9–18.7% | 12.1–19.5% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.9–17.7% | 13.4–18.3% | 12.9–18.7% | 12.1–19.5% |
+| [17–20 January 2025](2025-01-20-INSAandYouGov.html) | INSA and YouGov | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
 | [13–17 January 2025](2025-01-17-INSAandYouGov.html) | INSA and YouGov | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [10–14 January 2025](2025-01-14-YouGov.html) | YouGov | 17.7% | 16.6–18.9% | 16.2–19.2% | 16.0–19.5% | 15.4–20.1% |
 | [10–13 January 2025](2025-01-13-INSAandYouGov.html) | INSA and YouGov | 15.0% | N/A | N/A | N/A | N/A |
@@ -185,11 +186,11 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 1.1% | 99.9% |  |
 | 12.5–13.5% | 5% | 98.8% |  |
-| 13.5–14.5% | 13% | 94% |  |
-| 14.5–15.5% | 22% | 81% |  |
-| 15.5–16.5% | 27% | 59% | Median |
+| 13.5–14.5% | 12% | 94% |  |
+| 14.5–15.5% | 22% | 82% |  |
+| 15.5–16.5% | 29% | 59% | Median |
 | 16.5–17.5% | 19% | 31% |  |
-| 17.5–18.5% | 9% | 13% |  |
+| 17.5–18.5% | 9% | 12% |  |
 | 18.5–19.5% | 3% | 3% |  |
 | 19.5–20.5% | 0.4% | 0.4% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -204,6 +205,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
+| [17–20 January 2025](2025-01-20-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [13–17 January 2025](2025-01-17-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
 | [10–14 January 2025](2025-01-14-YouGov.html) | YouGov | 17 | 17–18 | 16–19 | 15–19 | 14–19 |
 | [10–13 January 2025](2025-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -379,10 +381,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 0.1% | 99.9% |  |
 | 12 | 1.0% | 99.8% |  |
-| 13 | 23% | 98.8% |  |
-| 14 | 17% | 75% |  |
-| 15 | 24% | 58% | Median |
-| 16 | 10% | 34% |  |
+| 13 | 24% | 98.8% |  |
+| 14 | 14% | 75% |  |
+| 15 | 22% | 61% | Median |
+| 16 | 15% | 39% |  |
 | 17 | 14% | 24% |  |
 | 18 | 7% | 9% |  |
 | 19 | 2% | 2% |  |
