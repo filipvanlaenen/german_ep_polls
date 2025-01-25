@@ -219,12 +219,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 19–26 | 19–27 | 19–28 |
-| [21–23 January 2025](2025-01-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 22–23 | 22–24 | 21–24 | 21–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 19–26 | 19–27 | 19–29 |
+| [21–23 January 2025](2025-01-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23 | 22–24 | 22–24 | 21–24 | 20–26 |
 | [17–20 January 2025](2025-01-20-YouGov.html) | YouGov | 19 | 19–22 | 19–22 | 19–22 | 19–23 |
 | [17–20 January 2025](2025-01-20-INSAandYouGov.html) | INSA and YouGov | 23 | 21–23 | 21–23 | 21–23 | 20–23 |
 | [14–20 January 2025](2025-01-20-Forsa.html) | Forsa | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
-| [7–19 January 2025](2025-01-19-Allensbach.html) | Allensbach | 26 | 23–26 | 23–28 | 23–28 | 22–31 |
+| [7–19 January 2025](2025-01-19-Allensbach.html) | Allensbach | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
 | [13–17 January 2025](2025-01-17-INSAandYouGov.html) | INSA and YouGov | 22 | 22–23 | 22–23 | 21–23 | 20–23 |
 | [10–14 January 2025](2025-01-14-YouGov.html) | YouGov | 23 | 22–23 | 21–23 | 21–23 | 20–24 |
 | [10–13 January 2025](2025-01-13-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -406,19 +406,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 8% | 100% |  |
-| 20 | 1.1% | 92% |  |
-| 21 | 10% | 91% |  |
-| 22 | 11% | 81% |  |
-| 23 | 33% | 70% | Median |
-| 24 | 14% | 37% |  |
-| 25 | 10% | 23% |  |
-| 26 | 9% | 12% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.7% | 1.0% |  |
-| 29 | 0% | 0.3% |  |
-| 30 | 0% | 0.3% |  |
-| 31 | 0.3% | 0.3% |  |
+| 19 | 7% | 100% |  |
+| 20 | 1.1% | 93% |  |
+| 21 | 12% | 91% |  |
+| 22 | 12% | 79% |  |
+| 23 | 28% | 67% | Median |
+| 24 | 18% | 39% |  |
+| 25 | 9% | 21% |  |
+| 26 | 8% | 12% |  |
+| 27 | 2% | 4% |  |
+| 28 | 0.9% | 2% |  |
+| 29 | 0.6% | 0.7% |  |
+| 30 | 0% | 0.1% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
