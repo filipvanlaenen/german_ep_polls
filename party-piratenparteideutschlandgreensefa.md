@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0.1% | 0.1–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.2–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 0.3% | N/A | N/A | N/A | N/A |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian |  |  |  |  |  |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 0 | 0 | 0 | 0 | 0 |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -395,8 +395,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 

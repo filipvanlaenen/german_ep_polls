@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 21.4–25.9% | 20.9–27.0% | 20.6–27.8% | 19.9–29.1% |
+| N/A | [Poll Average](average.html) | 23.4% | 21.5–25.8% | 21.0–26.8% | 20.6–27.7% | 19.9–29.1% |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 23.6% | 22.0–25.4% | 21.5–25.9% | 21.1–26.4% | 20.3–27.2% |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 23.7% | 22.3–25.1% | 21.9–25.5% | 21.6–25.9% | 21.0–26.6% |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 23.7% | 22.3–25.3% | 21.9–25.7% | 21.5–26.1% | 20.8–26.8% |
@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 21.3% | 20.3–22.4% | 20.0–22.7% | 19.7–23.0% | 19.2–23.5% |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 23.7% | 22.2–25.2% | 21.8–25.6% | 21.4–26.0% | 20.8–26.8% |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22.9% | 21.5–24.4% | 21.1–24.8% | 20.8–25.2% | 20.1–25.9% |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 23.7% | N/A | N/A | N/A | N/A |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 23.7% | 22.3–25.2% | 21.9–25.6% | 21.6–25.9% | 20.9–26.7% |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 22.9% | 21.7–24.2% | 21.3–24.6% | 21.0–24.9% | 20.4–25.6% |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 23.7% | 22.5–24.9% | 22.1–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 23.7% | 22.6–24.8% | 22.3–25.1% | 22.1–25.4% | 21.6–25.9% |
@@ -216,18 +216,17 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
 | 19.5–20.5% | 2% | 99.8% |  |
-| 20.5–21.5% | 10% | 98% |  |
-| 21.5–22.5% | 19% | 88% |  |
-| 22.5–23.5% | 23% | 69% | Median |
-| 23.5–24.5% | 21% | 46% |  |
-| 24.5–25.5% | 12% | 25% |  |
-| 25.5–26.5% | 6% | 13% |  |
-| 26.5–27.5% | 4% | 7% |  |
+| 20.5–21.5% | 9% | 98% |  |
+| 21.5–22.5% | 18% | 89% |  |
+| 22.5–23.5% | 24% | 70% | Median |
+| 23.5–24.5% | 22% | 46% |  |
+| 24.5–25.5% | 13% | 25% |  |
+| 25.5–26.5% | 6% | 12% |  |
+| 26.5–27.5% | 3% | 6% |  |
 | 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.8% | 1.1% |  |
-| 29.5–30.5% | 0.2% | 0.3% |  |
+| 28.5–29.5% | 0.8% | 1.0% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
 | 30.5–31.5% | 0% | 0% |  |
-| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -238,7 +237,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–25 | 19–26 | 19–26 | 18–29 |
+| N/A | [Poll Average](average.html) | 23 | 20–25 | 20–26 | 19–26 | 18–29 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 25 | 25 | 21–25 | 20–25 | 19–25 |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 24 | 22–24 | 22–24 | 20–24 | 19–25 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 20–25 | 20–25 | 20–25 | 20–25 |
@@ -252,7 +251,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 23 | 21–23 | 21–24 | 20–24 | 19–26 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 20–22 | 20–22 | 20–23 | 20–25 |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian |  |  |  |  |  |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 23 | 23 | 23 | 23 | 21–23 |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 22 | 21–22 | 21–22 | 21–22 | 21–24 |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 22 | 20–23 | 20–23 | 20–23 | 20–24 |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 23 | 21–24 | 21–24 | 21–24 | 21–24 |
@@ -443,18 +442,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.6% | 100% |  |
-| 19 | 5% | 99.4% |  |
-| 20 | 10% | 95% |  |
-| 21 | 13% | 85% |  |
-| 22 | 17% | 71% |  |
-| 23 | 17% | 54% | Median |
-| 24 | 18% | 38% |  |
-| 25 | 13% | 20% |  |
-| 26 | 6% | 7% |  |
-| 27 | 0.1% | 1.3% |  |
-| 28 | 0.6% | 1.2% |  |
-| 29 | 0.5% | 0.6% |  |
+| 18 | 0.5% | 100% |  |
+| 19 | 4% | 99.5% |  |
+| 20 | 9% | 95% |  |
+| 21 | 12% | 86% |  |
+| 22 | 16% | 74% |  |
+| 23 | 24% | 58% | Median |
+| 24 | 16% | 34% |  |
+| 25 | 12% | 18% |  |
+| 26 | 5% | 6% |  |
+| 27 | 0.1% | 1.2% |  |
+| 28 | 0.6% | 1.1% |  |
+| 29 | 0.4% | 0.5% |  |
 | 30 | 0% | 0.1% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |

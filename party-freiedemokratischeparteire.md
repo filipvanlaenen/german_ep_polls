@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–6.0% | 4.0–6.3% |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 4.0% | 3.4–4.7% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.0% | 3.4–4.7% | 3.2–5.0% | 3.1–5.2% | 2.8–5.5% |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 4.0% | N/A | N/A | N/A | N/A |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.8–5.5% |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 4.0% | 3.5–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
@@ -198,9 +198,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 13% | 99.9% |  |
-| 3.5–4.5% | 59% | 86% | Median |
-| 4.5–5.5% | 25% | 27% |  |
+| 2.5–3.5% | 14% | 99.9% |  |
+| 3.5–4.5% | 60% | 86% | Median |
+| 4.5–5.5% | 24% | 26% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -227,7 +227,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian |  |  |  |  |  |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 4 | 4 | 4 | 4 | 4 |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -402,11 +402,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 19% | 99.8% |  |
-| 4 | 57% | 81% | Median |
-| 5 | 23% | 24% |  |
-| 6 | 1.4% | 1.4% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 17% | 99.9% |  |
+| 4 | 61% | 83% | Median |
+| 5 | 21% | 22% |  |
+| 6 | 1.3% | 1.3% |  |
 | 7 | 0% | 0% |  |
 
 
