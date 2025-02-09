@@ -219,7 +219,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0 | 0 | 0 | 0 | 0–1 |
+| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0 | 0 | 0 | 0 | 0 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 January 2025](2025-01-28-Verian.html) | Verian | 0 | 0 | 0 | 0 | 0 |

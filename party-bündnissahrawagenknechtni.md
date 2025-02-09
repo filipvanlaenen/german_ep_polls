@@ -226,10 +226,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 5 | 5 | 5 | 5 | 5 |
+| [22–28 January 2025](2025-01-28-Verian.html) | Verian | 5 | 5 | 5 | 5 | 4–5 |
 | [24–27 January 2025](2025-01-27-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–27 January 2025](2025-01-27-INSAandYouGov.html) | INSA and YouGov | 7 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [21–27 January 2025](2025-01-27-Forsa.html) | Forsa | 3 | 3 | 3 | 3 | 2–4 |
@@ -407,9 +407,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 100% |  |
 | 3 | 9% | 99.9% |  |
 | 4 | 33% | 90% |  |
-| 5 | 35% | 58% | Median |
-| 6 | 22% | 23% |  |
-| 7 | 1.1% | 1.1% |  |
+| 5 | 37% | 58% | Median |
+| 6 | 21% | 21% |  |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 

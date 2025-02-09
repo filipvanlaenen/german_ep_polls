@@ -237,7 +237,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 19–26 | 19–29 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–29 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 25 | 25 | 21–25 | 20–25 | 19–25 |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 23 | 22–24 | 20–24 | 20–24 | 19–25 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 22 | 20–24 | 20–25 | 20–25 | 20–25 |
@@ -248,7 +248,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 21 | 21–22 | 20–24 | 19–24 | 18–25 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 24 | 22–24 | 22–24 | 21–24 | 20–24 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
+| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 22 | 20–22 | 19–22 | 19–22 | 19–22 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 23 | 21–23 | 21–24 | 20–24 | 19–26 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 20–22 | 20–22 | 20–23 | 20–25 |
 | [22–28 January 2025](2025-01-28-Verian.html) | Verian | 23 | 23 | 23 | 23 | 21–23 |
@@ -443,10 +443,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
-| 19 | 4% | 99.9% |  |
-| 20 | 6% | 96% |  |
-| 21 | 16% | 91% |  |
-| 22 | 19% | 74% |  |
+| 19 | 1.0% | 99.9% |  |
+| 20 | 7% | 98.9% |  |
+| 21 | 14% | 92% |  |
+| 22 | 23% | 78% |  |
 | 23 | 28% | 56% | Median |
 | 24 | 10% | 27% |  |
 | 25 | 11% | 17% |  |

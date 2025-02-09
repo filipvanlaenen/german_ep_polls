@@ -226,7 +226,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–5 | 3–6 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
 | [27–29 January 2025](2025-01-29-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–28 January 2025](2025-01-28-Verian.html) | Verian | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -406,9 +406,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 9% | 99.9% |  |
 | 2 | 0.3% | 91% |  |
 | 3 | 6% | 91% |  |
-| 4 | 22% | 85% |  |
-| 5 | 39% | 63% | Median |
-| 6 | 22% | 24% |  |
+| 4 | 25% | 85% |  |
+| 5 | 38% | 60% | Median |
+| 6 | 20% | 23% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
