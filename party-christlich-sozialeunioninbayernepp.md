@@ -219,14 +219,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 5 | 5 | 5–6 | 5–7 | 5–8 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 4–6 | 4–6 | 4–7 | 4–8 |
-| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 6 | 6–7 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 7 | 7 | 6–7 | 6–7 | 5–8 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–8 | 4–8 | 4–8 | 4–8 |
+| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 6 | 6 | 6 | 6 | 5–7 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 6 | 6 | 5–7 | 5–7 | 5–8 |
@@ -408,11 +408,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 33% | 98% |  |
-| 6 | 51% | 65% | Median |
-| 7 | 13% | 14% |  |
-| 8 | 1.1% | 1.3% |  |
+| 4 | 1.0% | 100% |  |
+| 5 | 29% | 99.0% |  |
+| 6 | 44% | 70% | Median |
+| 7 | 23% | 25% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 

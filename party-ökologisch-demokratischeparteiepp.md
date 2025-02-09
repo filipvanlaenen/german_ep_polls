@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4 February 2025](2025-02-04-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [3 February 2025](2025-02-03-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0 | 0 | 0 | 0 | 0 |
@@ -395,8 +395,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 

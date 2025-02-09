@@ -212,13 +212,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 1–2 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -398,9 +398,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 72% | 97% | Median |
-| 2 | 25% | 25% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 77% | 97% | Median |
+| 2 | 20% | 20% |  |
+| 3 | 0% | 0% |  |
 
 

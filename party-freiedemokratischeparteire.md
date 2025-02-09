@@ -215,14 +215,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 4 | 4 | 4 | 4–5 | 3–5 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 3 | 3–4 | 3–5 | 3–5 | 3–6 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 4 | 4 | 4 | 3–5 | 3–5 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 4 | 4–5 | 4–6 | 3–6 | 2–6 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 3 | 3 | 3–4 | 3–4 | 3–5 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 4 | 4 | 4 | 3–4 | 3–5 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
@@ -403,10 +403,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 17% | 99.9% |  |
-| 4 | 61% | 83% | Median |
-| 5 | 21% | 22% |  |
-| 6 | 1.3% | 1.3% |  |
+| 3 | 16% | 99.9% |  |
+| 4 | 64% | 84% | Median |
+| 5 | 19% | 20% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 

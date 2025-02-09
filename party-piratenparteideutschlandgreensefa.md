@@ -210,14 +210,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 0 | 0 | 0 | 0 | 0–1 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 0 | 0 | 0 | 0–1 | 0–1 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0 | 0–1 |
 | [4 February 2025](2025-02-04-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 0 | 0 | 0 | 0–1 | 0–1 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -395,8 +395,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 

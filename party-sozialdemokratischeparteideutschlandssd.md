@@ -227,16 +227,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 13–19 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 13 | 13 | 13–14 | 13–16 | 13–17 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
-| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
-| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 16 | 15–18 | 15–18 | 15–19 | 15–19 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 15 | 15–18 | 15–19 | 14–19 | 14–19 |
+| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–15 | 13–16 | 13–16 | 12–18 |
+| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 15 | 14–15 | 14–15 | 13–15 | 12–16 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 18 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 14 | 14–16 | 14–16 | 14–16 | 14–18 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 15 | 15 | 14–16 | 14–16 | 14–17 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 14 | 14–16 | 14–17 | 13–17 | 12–17 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 17 | 17 | 16–17 | 15–17 | 13–18 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 17 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 16 | 16–17 | 16–17 | 16–17 | 15–18 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 14 | 14–15 | 13–15 | 13–16 | 13–16 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 15 | 14–15 | 13–15 | 13–15 | 12–16 |
@@ -426,14 +426,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 10% | 99.8% |  |
-| 14 | 38% | 89% |  |
-| 15 | 30% | 51% | Median |
-| 16 | 8% | 22% |  |
-| 17 | 9% | 13% |  |
-| 18 | 2% | 4% |  |
-| 19 | 2% | 2% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 11% | 99.7% |  |
+| 14 | 31% | 88% |  |
+| 15 | 30% | 57% | Median |
+| 16 | 7% | 27% |  |
+| 17 | 13% | 20% |  |
+| 18 | 6% | 7% |  |
+| 19 | 0.7% | 0.7% |  |
 | 20 | 0% | 0% |  |
 
 

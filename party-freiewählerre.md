@@ -210,16 +210,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 2 | 2 | 2 | 1–2 | 1–3 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 1 | 1 | 1 | 1–2 | 0–2 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [3 February 2025](2025-02-03-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–2 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 1 | 1 | 1 | 1 | 0–2 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -397,10 +397,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 74% | 97% | Median |
-| 2 | 23% | 23% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 81% | 99.0% | Median |
+| 2 | 18% | 18% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 

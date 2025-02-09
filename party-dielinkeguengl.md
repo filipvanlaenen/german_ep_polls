@@ -217,14 +217,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–6 | 1–6 | 1–6 | 1–7 |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 5 | 5 | 5 | 4–5 | 4–6 |
-| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [3–5 February 2025](2025-02-05-Infratestdimap.html) | Infratest dimap | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [4 February 2025](2025-02-04-YouGov.html) | YouGov | 6 | 6 | 6 | 6–7 | 5–7 |
 | [3 February 2025](2025-02-03-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5 | 5 | 4–6 |
-| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 3 | 3 | 3 | 3–4 | 3–5 |
+| [3 February 2025](2025-02-03-Forsa.html) | Forsa | 5 | 5 | 4–5 | 4–5 | 3–6 |
+| [30–31 January 2025](2025-01-31-Ipsos.html) | Ipsos | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [30–31 January 2025](2025-01-31-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–5 | 3–6 |
 | [30 January 2025](2025-01-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28–30 January 2025](2025-01-30-DemocracyInstitute.html) | Democracy Institute | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [27–29 January 2025](2025-01-29-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
@@ -405,12 +405,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 9% | 99.9% |  |
 | 2 | 0.3% | 91% |  |
-| 3 | 7% | 91% |  |
-| 4 | 22% | 84% |  |
-| 5 | 39% | 62% | Median |
-| 6 | 21% | 23% |  |
+| 3 | 6% | 91% |  |
+| 4 | 22% | 85% |  |
+| 5 | 39% | 63% | Median |
+| 6 | 22% | 24% |  |
 | 7 | 2% | 2% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
 
 
