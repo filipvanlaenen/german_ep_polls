@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.7–6.1% | 3.5–6.4% | 3.3–6.7% | 2.9–7.1% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.0% | 3.5–6.3% | 3.3–6.5% | 2.9–7.0% |
+| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
+| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
+| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
+| [3–7 February 2025](2025-02-07-INSAandYouGov.html) | INSA and YouGov | 6.0% | N/A | N/A | N/A | N/A |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
@@ -199,12 +203,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 32% | 94% |  |
-| 4.5–5.5% | 34% | 62% | Median |
-| 5.5–6.5% | 24% | 28% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 33% | 94% |  |
+| 4.5–5.5% | 39% | 60% | Median |
+| 5.5–6.5% | 19% | 21% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,7 +218,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 4–5 |
+| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5–6 | 5–6 | 5–7 |
+| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 4 | 4 | 4 | 4 | 3–5 |
+| [3–7 February 2025](2025-02-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 4 | 4 | 4 | 3–5 | 3–5 |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [4–6 February 2025](2025-02-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
@@ -405,11 +412,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 9% | 99.9% |  |
-| 4 | 33% | 90% |  |
-| 5 | 37% | 58% | Median |
-| 6 | 21% | 21% |  |
-| 7 | 0.6% | 0.6% |  |
+| 3 | 8% | 99.9% |  |
+| 4 | 44% | 92% | Median |
+| 5 | 42% | 49% |  |
+| 6 | 6% | 6% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 
