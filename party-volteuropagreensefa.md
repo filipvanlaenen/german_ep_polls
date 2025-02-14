@@ -215,9 +215,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 1–2 |
-| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
+| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
+| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [3–7 February 2025](2025-02-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 1 | 1 | 1 | 1 | 1–2 |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 1 | 1 | 1–2 | 1–2 | 1–2 |

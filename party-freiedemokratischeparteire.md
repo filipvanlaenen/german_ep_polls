@@ -218,8 +218,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 4 |
-| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 4 | 3–5 | 3–5 |
+| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–5 |
+| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [3–7 February 2025](2025-02-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 4 | 4 | 4 | 4–5 | 3–5 |

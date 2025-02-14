@@ -242,9 +242,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–29 |
-| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 22 | 22 | 22 | 22 | 20–23 |
-| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 23 | 22–23 | 22–23 | 21–24 | 20–25 |
-| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 23 | 23 | 22–23 | 22–23 | 21–23 |
+| [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 22 | 22 | 21–22 | 21–22 | 20–24 |
+| [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 23 | 22–23 | 21–23 | 21–23 | 20–24 |
+| [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 23 | 22–23 | 22–23 | 21–23 | 21–24 |
 | [3–7 February 2025](2025-02-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 February 2025](2025-02-07-GMS.html) | GMS | 25 | 25 | 21–25 | 20–25 | 19–25 |
 | [5–6 February 2025](2025-02-06-pollytix.html) | pollytix | 23 | 22–24 | 20–24 | 20–24 | 19–25 |
@@ -453,9 +453,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 1.0% | 99.9% |  |
 | 20 | 5% | 98.9% |  |
-| 21 | 6% | 94% |  |
+| 21 | 7% | 94% |  |
 | 22 | 26% | 87% |  |
-| 23 | 35% | 62% | Median |
+| 23 | 34% | 60% | Median |
 | 24 | 9% | 27% |  |
 | 25 | 11% | 17% |  |
 | 26 | 5% | 6% |  |
