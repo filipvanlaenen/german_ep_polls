@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.9% | 0.6–2.2% | 0.6–2.4% | 0.5–2.9% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.6–2.2% | 0.6–2.4% | 0.5–2.9% |
+| [10–14 February 2025](2025-02-14-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
+| [11–13 February 2025](2025-02-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.9% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 1.1% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
+| [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
+| [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.4–1.4% |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% |
@@ -215,6 +220,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–14 February 2025](2025-02-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–13 February 2025](2025-02-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 1 | 1 | 1 | 1 | 1–2 |
+| [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–1 |
+| [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -407,7 +417,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 82% | 99.7% | Median |
-| 2 | 18% | 18% |  |
+| 2 | 17% | 17% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
