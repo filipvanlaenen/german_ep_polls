@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.5% | 13.9–17.3% | 13.5–17.8% | 13.1–18.2% | 12.5–18.9% |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.0% |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 15.0–19.2% |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 15.0% | 14.0–16.1% | 13.8–16.4% | 13.5–16.7% | 13.1–17.2% |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 16.0% | 15.1–17.0% | 14.8–17.3% | 14.6–17.5% | 14.2–18.0% |
@@ -223,7 +224,7 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 5% | 99.4% |  |
 | 13.5–14.5% | 17% | 95% |  |
 | 14.5–15.5% | 28% | 78% |  |
-| 15.5–16.5% | 26% | 50% | Median |
+| 15.5–16.5% | 26% | 49% | Median |
 | 16.5–17.5% | 16% | 23% |  |
 | 17.5–18.5% | 6% | 7% |  |
 | 18.5–19.5% | 1.1% | 1.2% |  |
@@ -240,6 +241,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 14 | 13–14 | 13–15 | 12–15 | 12–17 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 16 | 15–16 | 15–16 | 14–16 | 14–17 |
@@ -451,8 +453,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
 | 12 | 2% | 99.9% |  |
-| 13 | 21% | 98% |  |
-| 14 | 22% | 77% |  |
+| 13 | 14% | 98% |  |
+| 14 | 29% | 83% |  |
 | 15 | 27% | 54% | Median |
 | 16 | 16% | 27% |  |
 | 17 | 10% | 11% |  |

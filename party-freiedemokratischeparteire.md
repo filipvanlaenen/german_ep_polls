@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.8% | 2.8–6.3% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.2–5.8% | 2.9–6.3% |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 4.0% | 3.3–5.0% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 4.0–6.2% |
@@ -227,6 +228,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -428,9 +430,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 12% | 99.9% |  |
-| 4 | 69% | 87% | Median |
-| 5 | 16% | 19% |  |
+| 3 | 13% | 99.9% |  |
+| 4 | 66% | 87% | Median |
+| 5 | 18% | 21% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

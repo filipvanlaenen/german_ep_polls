@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.4% |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.4–1.4% |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 0.9% | 0.7–1.2% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% |
@@ -223,6 +224,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [16–19 February 2025](2025-02-19-GMS.html) | GMS | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
@@ -421,8 +423,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 85% | 99.0% | Median |
+| 0 | 2% | 100% | Last Result |
+| 1 | 84% | 98% | Median |
 | 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
