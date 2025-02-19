@@ -224,13 +224,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
-| [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
-| [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
+| [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
+| [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
 | [10–14 February 2025](2025-02-14-INSAandYouGov.html) | INSA and YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–13 February 2025](2025-02-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 1 | 1 | 1 | 1 | 1–2 |
+| [11–13 February 2025](2025-02-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 1 | 1 | 1 | 1–2 | 1–2 |
 | [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 1 | 1 | 1 | 1 | 0–1 |
-| [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -422,8 +422,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
-| 1 | 86% | 99.5% | Median |
-| 2 | 13% | 13% |  |
+| 1 | 85% | 99.5% | Median |
+| 2 | 14% | 14% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
