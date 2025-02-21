@@ -230,9 +230,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0 | 0–1 |
-| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0–1 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

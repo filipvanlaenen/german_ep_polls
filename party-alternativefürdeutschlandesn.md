@@ -255,10 +255,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–23 | 17–25 | 17–25 | 16–25 |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 18 | 17–19 | 17–19 | 17–19 | 17–21 |
-| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 20–22 | 17–22 | 17–22 | 17–22 |
-| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 19 | 19–20 | 19–21 | 19–21 | 18–22 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 18 | 18–19 | 17–20 | 17–21 | 16–22 |
-| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–21 | 19–21 | 19–22 | 17–23 |
+| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 20 | 20 | 19–20 | 19–21 | 18–23 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 18 | 17–20 | 17–20 | 17–20 | 16–22 |
+| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 19 | 19 | 19 | 18–20 | 18–20 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–22 | 19–24 | 18–24 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 17 | 17–22 | 17–22 | 17–22 | 16–22 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 20 | 19–21 | 19–21 | 18–21 | 17–21 |
@@ -476,12 +476,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 1.2% | 99.9% |  |
-| 17 | 11% | 98.7% |  |
-| 18 | 17% | 88% |  |
-| 19 | 27% | 71% | Median |
-| 20 | 22% | 44% |  |
-| 21 | 7% | 21% |  |
-| 22 | 4% | 15% |  |
+| 17 | 11% | 98.8% |  |
+| 18 | 12% | 88% |  |
+| 19 | 32% | 76% | Median |
+| 20 | 25% | 44% |  |
+| 21 | 5% | 19% |  |
+| 22 | 4% | 14% |  |
 | 23 | 3% | 10% |  |
 | 24 | 0.6% | 8% |  |
 | 25 | 7% | 7% |  |

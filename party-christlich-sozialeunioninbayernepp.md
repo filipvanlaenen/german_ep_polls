@@ -236,11 +236,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 6 | 6–8 | 6–8 | 5–8 | 4–9 |
-| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–8 |
+| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 7 | 7 | 7 | 6–7 | 6–8 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 5 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -445,12 +445,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.0% | 100% |  |
-| 5 | 25% | 99.0% |  |
-| 6 | 55% | 74% | Median |
-| 7 | 16% | 19% |  |
+| 4 | 0.6% | 100% |  |
+| 5 | 29% | 99.4% |  |
+| 6 | 47% | 70% | Median |
+| 7 | 21% | 23% |  |
 | 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 9 | 0.1% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 

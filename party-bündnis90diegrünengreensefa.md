@@ -243,12 +243,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
-| [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 13 | 11–13 | 11–13 | 11–15 | 11–15 |
-| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 13 | 12–13 | 12–14 | 11–15 | 11–15 |
-| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 12 | 12–13 | 11–14 | 11–14 | 10–14 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
-| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 12 | 11–13 | 11–13 | 11–13 | 11–15 |
+| N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 10–14 | 10–15 |
+| [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 13 | 11–13 | 11–14 | 11–15 | 11–15 |
+| [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 14 | 13–14 | 12–14 | 11–14 | 11–15 |
+| [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 14 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach        . | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
+| [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 12 | 12 | 12 | 12–13 | 11–14 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 13 | 12–14 | 11–14 | 11–14 | 11–17 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 12 | 11–12 | 11–12 | 10–13 | 10–14 |
@@ -458,12 +458,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 2% | 99.7% |  |
-| 11 | 10% | 97% |  |
-| 12 | 25% | 88% |  |
-| 13 | 41% | 62% | Median |
-| 14 | 19% | 21% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 3% | 99.8% |  |
+| 11 | 6% | 97% |  |
+| 12 | 26% | 91% |  |
+| 13 | 34% | 65% | Median |
+| 14 | 29% | 31% |  |
 | 15 | 2% | 2% |  |
 | 16 | 0.2% | 0.3% |  |
 | 17 | 0.1% | 0.1% |  |
