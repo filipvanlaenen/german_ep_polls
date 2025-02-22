@@ -237,11 +237,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 0–1 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [16–18 February 2025](2025-02-18-Cluster17.html) | Cluster17 | 1 | 1 | 1 | 1 | 0–1 |
+| [16–18 February 2025](2025-02-18-Cluster17.html) | Cluster17 | 1 | 1 | 1 | 1 | 0–2 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 0–2 |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -442,7 +442,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 17% | 100% | Last Result |
 | 1 | 83% | 83% | Median |
-| 2 | 0.4% | 0.4% |  |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 

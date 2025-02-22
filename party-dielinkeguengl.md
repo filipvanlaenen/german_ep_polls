@@ -240,12 +240,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 4–8 | 4–8 | 4–8 | 4–9 |
-| [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 6 | 6–7 | 6–7 | 6–8 | 5–9 |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 6 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 7 | 7 | 7 | 6–7 | 6–7 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 8 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 7 | 5–7 | 5–7 | 4–7 | 4–7 |
@@ -454,9 +454,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.3% | 100% |  |
 | 4 | 15% | 99.7% |  |
 | 5 | 9% | 85% |  |
-| 6 | 24% | 76% |  |
-| 7 | 25% | 52% | Median |
-| 8 | 24% | 27% |  |
+| 6 | 23% | 76% |  |
+| 7 | 25% | 53% | Median |
+| 8 | 26% | 28% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 

@@ -257,16 +257,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–23 | 17–25 | 17–25 | 16–25 |
-| [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
+| [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 19 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 22 | 19–22 | 18–22 | 18–22 | 17–22 |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 18 | 17–19 | 17–19 | 17–19 | 17–21 |
 | [19–20 February 2025](2025-02-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–21 | 19–21 | 19–22 | 17–23 |
 | [17–20 February 2025](2025-02-20-Forsa.html) | Forsa | 20 | 20 | 19–20 | 19–21 | 18–23 |
-| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 18 | 18–19 | 17–20 | 17–21 | 16–22 |
+| [9–20 February 2025](2025-02-20-Allensbach.html) | Allensbach | 18 | 17–20 | 17–20 | 17–20 | 16–22 |
 | [12–19 February 2025](2025-02-19-Ipsos.html) | Ipsos | 19 | 19 | 19 | 18–20 | 18–20 |
 | [18–19 February 2025](2025-02-19-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–22 | 19–24 | 18–24 |
 | [16–19 February 2025](2025-02-19-GMS.html) | GMS | 17 | 17–22 | 17–22 | 17–22 | 16–22 |
-| [16–18 February 2025](2025-02-18-Cluster17.html) | Cluster17 | 21 | 18–22 | 18–22 | 18–22 | 17–22 |
+| [16–18 February 2025](2025-02-18-Cluster17.html) | Cluster17 | 21 | 18–22 | 17–22 | 17–22 | 17–22 |
 | [14–17 February 2025](2025-02-17-YouGov.html) | YouGov | 20 | 19–21 | 19–21 | 18–21 | 17–21 |
 | [14–17 February 2025](2025-02-17-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [11–17 February 2025](2025-02-17-Forsa.html) | Forsa | 20 | 19–20 | 19–20 | 19–20 | 18–21 |
@@ -481,13 +481,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 1.1% | 99.9% |  |
-| 17 | 10% | 98.8% |  |
-| 18 | 17% | 88% |  |
-| 19 | 24% | 72% | Median |
-| 20 | 18% | 48% |  |
-| 21 | 7% | 30% |  |
-| 22 | 13% | 23% |  |
+| 16 | 1.0% | 99.9% |  |
+| 17 | 11% | 98.9% |  |
+| 18 | 14% | 88% |  |
+| 19 | 27% | 74% | Median |
+| 20 | 18% | 47% |  |
+| 21 | 7% | 28% |  |
+| 22 | 12% | 22% |  |
 | 23 | 3% | 10% |  |
 | 24 | 0.3% | 7% |  |
 | 25 | 7% | 7% |  |
