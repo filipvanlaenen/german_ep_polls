@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–1.9% |
+| [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
@@ -217,9 +218,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 89% | 96% | Median |
-| 1.5–2.5% | 7% | 7% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 92% | 97% | Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -231,7 +232,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 0–2 |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -441,8 +443,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 79% | 98% | Median |
-| 2 | 19% | 20% |  |
-| 3 | 0% | 0% |  |
+| 1 | 89% | 98% | Median |
+| 2 | 9% | 9% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
