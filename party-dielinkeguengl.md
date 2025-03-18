@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.7–9.8% | 5.4–11.0% | 5.2–11.4% | 4.7–12.1% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.7–10.6% | 5.4–11.2% | 5.2–11.5% | 4.7–12.1% |
+| [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 7.9–12.4% |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.4–12.7% |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -225,11 +226,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 7% | 99.8% |  |
 | 5.5–6.5% | 23% | 93% |  |
-| 6.5–7.5% | 29% | 70% | Median |
-| 7.5–8.5% | 24% | 41% |  |
-| 8.5–9.5% | 6% | 17% |  |
-| 9.5–10.5% | 3% | 10% |  |
-| 10.5–11.5% | 6% | 8% |  |
+| 6.5–7.5% | 25% | 71% | Median |
+| 7.5–8.5% | 20% | 46% |  |
+| 8.5–9.5% | 8% | 26% |  |
+| 9.5–10.5% | 7% | 18% |  |
+| 10.5–11.5% | 8% | 11% |  |
 | 11.5–12.5% | 2% | 2% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -244,6 +245,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–10 | 5–10 | 5–10 | 4–11 |
+| [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 10 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 6 | 6–7 | 6–7 | 6–8 | 5–9 |
@@ -460,10 +462,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 1.2% | 100% |  |
 | 5 | 8% | 98.8% |  |
 | 6 | 27% | 90% |  |
-| 7 | 28% | 64% | Median |
-| 8 | 23% | 35% |  |
-| 9 | 2% | 12% |  |
-| 10 | 8% | 10% |  |
+| 7 | 25% | 64% | Median |
+| 8 | 17% | 38% |  |
+| 9 | 7% | 22% |  |
+| 10 | 12% | 15% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
