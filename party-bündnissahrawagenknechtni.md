@@ -250,11 +250,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
-| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 5 | 3–5 | 3–6 | 3–6 | 2–6 |
+| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 4–6 | 4–6 | 3–7 |
+| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3 | 3 | 3–4 | 2–4 |
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3 | 3 | 2–3 | 2–4 |
+| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
@@ -475,11 +475,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 34% | 95% |  |
-| 4 | 12% | 61% | Median |
-| 5 | 40% | 49% |  |
-| 6 | 9% | 10% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 38% | 99.1% |  |
+| 4 | 11% | 61% |  |
+| 5 | 42% | 50% | Median |
+| 6 | 8% | 9% |  |
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
