@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.4–13.7% | 9.9–14.4% |
+| N/A | [Poll Average](average.html) | 12.2% | 11.1–13.4% | 10.8–13.8% | 10.6–14.2% | 10.1–14.9% |
+| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.8% |
+| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 13.0% | 11.9–14.3% | 11.6–14.6% | 11.4–14.9% | 10.9–15.5% |
 | [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.6% | 10.2–14.1% |
 | [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.0% | 11.1–13.0% | 10.8–13.2% | 10.6–13.5% | 10.2–14.0% |
 | [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.8% |
@@ -26,6 +28,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.3–13.9% | 9.9–14.5% |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov | 11.0% | N/A | N/A | N/A | N/A |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa | 11.0% | N/A | N/A | N/A | N/A |
+| [31–2 March 2025](2025-03-02-Infratestdimap.html) | Infratest dimap <br> ARD | 11.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
 | [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.8% |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 12.5% | N/A | N/A | N/A | N/A |
@@ -46,6 +49,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.3–15.9% | 11.8–16.4% |
 | [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.4% |
 | [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 12.8% | 11.6–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
+| [27–11 February 2025](2025-02-11-Allensbach.html) | Allensbach <br> FAZ | 11.5% | N/A | N/A | N/A | N/A |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.3–13.9% |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.2–15.1% |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 14.0% | 13.1–14.9% | 12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
@@ -243,14 +247,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 4% | 99.8% |  |
-| 10.5–11.5% | 25% | 96% |  |
-| 11.5–12.5% | 46% | 71% | Median |
-| 12.5–13.5% | 22% | 26% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 21% | 98% |  |
+| 11.5–12.5% | 43% | 77% | Median |
+| 12.5–13.5% | 25% | 33% |  |
+| 13.5–14.5% | 7% | 8% |  |
+| 14.5–15.5% | 1.0% | 1.1% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -261,7 +266,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 10–13 | 9–13 |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
+| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–12 | 10–12 | 10–13 | 10–13 |
+| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 12 | 11–12 | 11–12 | 11–12 | 10–13 |
 | [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–13 | 11–13 | 10–13 | 9–13 |
@@ -277,6 +284,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa |  |  |  |  |  |
+| [31–2 March 2025](2025-03-02-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 10 | 9–11 | 9–11 | 9–12 | 8–14 |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -297,6 +305,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
 | [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
+| [27–11 February 2025](2025-02-11-Allensbach.html) | Allensbach <br> FAZ |  |  |  |  |  |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 12 | 12 | 12 | 11–12 | 11–13 |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 11 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 15 | 13–15 | 13–15 | 12–15 | 12–15 |
@@ -496,12 +505,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.7% | 100% |  |
-| 10 | 17% | 99.3% |  |
-| 11 | 29% | 82% |  |
-| 12 | 35% | 54% | Median |
+| 9 | 0.2% | 100% |  |
+| 10 | 10% | 99.8% |  |
+| 11 | 25% | 89% |  |
+| 12 | 46% | 65% | Median |
 | 13 | 18% | 19% |  |
-| 14 | 0.5% | 0.5% |  |
-| 15 | 0% | 0% |  |
+| 14 | 1.2% | 1.4% |  |
+| 15 | 0.2% | 0.3% |  |
+| 16 | 0% | 0% |  |
 
 
