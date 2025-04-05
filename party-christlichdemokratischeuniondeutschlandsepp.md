@@ -276,8 +276,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
-| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 19 | 17–20 | 17–20 | 17–20 | 17–22 |
+| N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 18–23 | 17–24 |
+| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–20 | 17–21 | 17–21 | 17–21 |
 | [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 21 | 19–23 | 19–23 | 18–23 | 18–23 |
 | [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 20 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 19–22 | 19–22 | 19–22 | 18–22 |
@@ -523,11 +523,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 2% | 100% |  |
-| 18 | 8% | 98% |  |
-| 19 | 14% | 90% |  |
-| 20 | 34% | 76% | Median |
-| 21 | 18% | 42% |  |
+| 17 | 1.4% | 100% |  |
+| 18 | 10% | 98.6% |  |
+| 19 | 12% | 89% |  |
+| 20 | 34% | 77% | Median |
+| 21 | 19% | 43% |  |
 | 22 | 12% | 24% |  |
 | 23 | 10% | 12% |  |
 | 24 | 2% | 2% |  |
