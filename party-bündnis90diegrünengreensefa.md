@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 10.2–13.2% | 9.8–13.6% | 9.5–14.0% | 9.0–14.8% |
+| N/A | [Poll Average](average.html) | 11.8% | 10.4–13.2% | 10.0–13.6% | 9.7–14.0% | 9.0–14.8% |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.8% |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.4–13.9% | 9.9–14.5% |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.2–11.9% | 8.9–12.4% |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
@@ -253,11 +255,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 3% | 99.9% |  |
-| 9.5–10.5% | 14% | 97% |  |
-| 10.5–11.5% | 28% | 83% |  |
-| 11.5–12.5% | 32% | 55% | Median |
-| 12.5–13.5% | 17% | 23% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 11% | 98% |  |
+| 10.5–11.5% | 29% | 87% |  |
+| 11.5–12.5% | 34% | 57% | Median |
+| 12.5–13.5% | 18% | 23% |  |
 | 13.5–14.5% | 5% | 6% |  |
 | 14.5–15.5% | 0.8% | 0.9% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
@@ -273,6 +275,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 10–13 | 9–13 | 8–14 |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 9–11 | 9–12 | 9–13 |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 10–11 | 9–11 | 9–11 | 8–12 |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
@@ -516,11 +520,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.7% | 100% |  |
-| 9 | 3% | 99.3% |  |
-| 10 | 31% | 96% |  |
-| 11 | 33% | 65% | Median |
-| 12 | 26% | 32% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 3% | 99.5% |  |
+| 10 | 24% | 96% |  |
+| 11 | 43% | 72% | Median |
+| 12 | 23% | 29% |  |
 | 13 | 5% | 6% |  |
 | 14 | 0.9% | 1.1% |  |
 | 15 | 0.2% | 0.2% |  |

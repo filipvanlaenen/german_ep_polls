@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.3% | 3.2–5.4% | 2.9–5.7% | 2.6–5.9% | 2.3–6.5% |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.5% |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -264,6 +266,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 4 | 4 | 4 | 3–4 | 3–5 |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -502,9 +506,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 6% | 100% |  |
-| 3 | 23% | 94% |  |
-| 4 | 41% | 72% | Median |
-| 5 | 28% | 31% |  |
+| 3 | 21% | 94% |  |
+| 4 | 42% | 73% | Median |
+| 5 | 29% | 31% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |

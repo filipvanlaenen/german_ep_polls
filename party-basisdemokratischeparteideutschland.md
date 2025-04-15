@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
@@ -257,7 +259,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
 | [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
 | [2–7 April 2025](2025-04-07-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
