@@ -298,9 +298,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
-| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 19 | 19–21 | 19–21 | 18–21 | 17–21 |
-| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 19 | 19 | 18–20 | 18–20 | 17–21 |
-| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 19 | 18–19 | 17–19 | 17–19 | 16–20 |
+| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 20 | 19–21 | 19–21 | 18–21 | 17–22 |
+| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 18 | 18–19 | 17–19 | 17–19 | 16–19 |
 | [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [15–22 April 2025](2025-04-22-Verian.html) | Verian | 19 | 19–21 | 18–21 | 18–21 | 18–22 |
 | [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
@@ -565,12 +565,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 1.1% | 99.9% |  |
-| 17 | 8% | 98.8% |  |
-| 18 | 16% | 91% |  |
-| 19 | 37% | 74% | Median |
-| 20 | 22% | 38% |  |
-| 21 | 12% | 16% |  |
+| 16 | 1.0% | 99.9% |  |
+| 17 | 8% | 98.9% |  |
+| 18 | 23% | 91% |  |
+| 19 | 29% | 68% | Median |
+| 20 | 24% | 39% |  |
+| 21 | 11% | 15% |  |
 | 22 | 3% | 4% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0% | 0% |  |

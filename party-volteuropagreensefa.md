@@ -277,7 +277,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 1–2 |
 | [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1–2 | 0–2 |
 | [15–22 April 2025](2025-04-22-Verian.html) | Verian | 1 | 1 | 1 | 1 | 1–2 |
 | [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 0–1 |
@@ -526,8 +526,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 83% | 86% | Median |
+| 0 | 13% | 100% | Last Result |
+| 1 | 85% | 87% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
