@@ -341,7 +341,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
 | [14–17 April 2025](2025-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [15–17 April 2025](2025-04-17-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–19 | 17–20 | 16–21 |
-| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix | 20 | 19–22 | 18–22 | 18–22 | 18–23 |
+| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–22 | 17–22 | 17–22 | 17–22 |
 | [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [7–11 April 2025](2025-04-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
