@@ -332,7 +332,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–5 May 2025](2025-05-05-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [28 April–2 May 2025](2025-05-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [29 April–2 May 2025](2025-05-02-Forsa.html) | Forsa | 19 | 18–21 | 17–21 | 17–21 | 16–21 |
-| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 19–22 | 19–22 | 19–22 | 17–23 |
+| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21 | 19–22 | 18–22 | 18–23 | 17–23 |
 | [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 20 | 19–21 | 19–21 | 18–21 | 17–22 |
 | [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 18 | 18–19 | 17–19 | 17–19 | 16–19 |
