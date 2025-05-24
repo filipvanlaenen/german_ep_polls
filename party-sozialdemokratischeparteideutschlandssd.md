@@ -309,10 +309,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 15 | 14–17 | 13–17 | 13–17 | 12–17 |
 | [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [14–20 May 2025](2025-05-20-Verian.html) | Verian | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [14–20 May 2025](2025-05-20-Verian.html) | Verian | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [16–19 May 2025](2025-05-19-INSAandYouGov.html) | INSA and YouGov | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [14–19 May 2025](2025-05-19-GMS.html) | GMS | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -591,13 +591,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.3% | 100% |  |
-| 12 | 2% | 99.7% |  |
-| 13 | 12% | 98% |  |
-| 14 | 27% | 86% |  |
-| 15 | 38% | 58% | Median |
-| 16 | 14% | 20% |  |
-| 17 | 5% | 6% |  |
-| 18 | 0.3% | 0.4% |  |
+| 12 | 3% | 99.7% |  |
+| 13 | 12% | 97% |  |
+| 14 | 30% | 85% |  |
+| 15 | 37% | 55% | Median |
+| 16 | 13% | 18% |  |
+| 17 | 5% | 5% |  |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 
