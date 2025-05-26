@@ -10,14 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.0% | 2.7–5.4% | 2.5–5.7% | 2.2–6.4% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.0% | 2.7–5.3% | 2.5–5.7% | 2.2–6.3% |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.4% |
+| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [14–20 May 2025](2025-05-20-Verian.html) | Verian | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% |
 | [16–19 May 2025](2025-05-19-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
 | [14–19 May 2025](2025-05-19-GMS.html) | GMS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.3–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.7% |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
@@ -281,10 +282,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 30% | 97% |  |
-| 3.5–4.5% | 47% | 67% | Median |
+| 2.5–3.5% | 28% | 97% |  |
+| 3.5–4.5% | 48% | 69% | Median |
 | 4.5–5.5% | 17% | 21% |  |
-| 5.5–6.5% | 3% | 4% |  |
+| 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -297,7 +298,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [14–20 May 2025](2025-05-20-Verian.html) | Verian | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -305,6 +306,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–19 May 2025](2025-05-19-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -569,11 +571,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 41% | 94% |  |
-| 4 | 37% | 53% | Median |
+| 2 | 3% | 100% |  |
+| 3 | 41% | 97% |  |
+| 4 | 41% | 56% | Median |
 | 5 | 10% | 16% |  |
-| 6 | 5% | 6% |  |
+| 6 | 5% | 5% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

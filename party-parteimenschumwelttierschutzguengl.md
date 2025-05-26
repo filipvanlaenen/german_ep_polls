@@ -10,14 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.9% | 0.6–2.2% | 0.6–2.4% | 0.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–2.1% | 0.6–2.4% | 0.4–2.9% |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.8% |
-| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
+| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.8–2.1% | 0.6–2.3% |
 | [14–20 May 2025](2025-05-20-Verian.html) | Verian | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [16–19 May 2025](2025-05-19-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
 | [14–19 May 2025](2025-05-19-GMS.html) | GMS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 1.2% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 1.5% | 1.2–1.8% | 1.2–1.9% | 1.1–2.0% | 1.0–2.2% |
@@ -279,8 +280,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 76% | 98% | Median |
-| 1.5–2.5% | 20% | 22% |  |
+| 0.5–1.5% | 77% | 98% | Median |
+| 1.5–2.5% | 19% | 20% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -301,6 +302,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–19 May 2025](2025-05-19-GMS.html) | GMS | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1–2 |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1–2 | 0–2 |
 | [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -563,10 +565,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 76% | 99.0% | Median |
-| 2 | 22% | 23% |  |
-| 3 | 1.0% | 1.0% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 78% | 98.9% | Median |
+| 2 | 20% | 21% |  |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
 
