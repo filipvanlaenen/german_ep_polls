@@ -323,7 +323,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
 | [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
-| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–22 | 18–22 | 17–23 |
+| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 19 | 18–20 | 18–20 | 18–21 | 17–22 |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 20 | 20–21 | 19–22 | 18–22 | 18–23 |
