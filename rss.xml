@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Jun 2025 09:53:23 +0200</pubDate>
+    <pubDate>Sat, 21 Jun 2025 17:35:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Verian for FOCUS, 11–17 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 20–24 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–24 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10–13 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian-seats.png"
+        length="369869"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 17:35:05 +0200</pubDate>
+      <dc:date>2025-06-21T17:35:05.055628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for FOCUS, 11–17 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian-coalitions-seats.png"
+        length="219392"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 17:35:05 +0200</pubDate>
+      <dc:date>2025-06-21T17:35:05.055628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for FOCUS, 11–17 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.2–16.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 20.9–25.2%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.6–11.6%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.0–24.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–7.2%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.7–1.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10.4–13.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.2–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-06-17-Verian.png"
+        length="410827"
+        type="image/png"/>
+      <pubDate>Sat, 21 Jun 2025 17:35:05 +0200</pubDate>
+      <dc:date>2025-06-21T17:35:05.055628+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 13–16 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-06-16-YouGov.html#seats</link>
@@ -6309,6 +6339,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2025-06-21T09:53:23.009609+02:00</dc:date>
+    <dc:date>2025-06-21T17:35:05.055628+02:00</dc:date>
   </channel>
 </rss>
