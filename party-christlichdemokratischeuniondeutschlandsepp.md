@@ -10,17 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.8–23.3% | 19.3–23.8% | 18.9–24.3% | 18.1–25.2% |
+| N/A | [Poll Average](average.html) | 21.7% | 20.0–23.4% | 19.5–24.0% | 19.0–24.5% | 18.2–25.4% |
+| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov | 22.1% | 20.9–23.4% | 20.6–23.7% | 20.3–24.1% | 19.8–24.7% |
+| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov | 21.5% | 20.3–22.7% | 20.0–23.0% | 19.7–23.4% | 19.2–23.9% |
+| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv | 22.1% | 21.1–23.2% | 20.8–23.5% | 20.5–23.8% | 20.0–24.3% |
 | [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21.3% | 19.8–22.9% | 19.4–23.3% | 19.1–23.7% | 18.4–24.5% |
+| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 22.9% | 21.3–24.6% | 20.8–25.1% | 20.4–25.5% | 19.7–26.4% |
+| [6–10 June 2025](2025-06-10-INSAandYouGov.html) | INSA and YouGov | 20.5% | N/A | N/A | N/A | N/A |
 | [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov | 21.3% | 19.8–22.9% | 19.4–23.3% | 19.1–23.7% | 18.4–24.5% |
 | [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 21.3% | 20.0–22.7% | 19.7–23.1% | 19.3–23.4% | 18.7–24.1% |
 | [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 21.3% | 19.9–22.9% | 19.5–23.3% | 19.1–23.7% | 18.5–24.5% |
 | [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap | 22.9% | 21.5–24.5% | 21.0–24.9% | 20.7–25.3% | 20.0–26.0% |
 | [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix | 21.3% | 20.0–22.7% | 19.7–23.1% | 19.4–23.4% | 18.8–24.1% |
-| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 20.9% | 19.8–22.1% | 19.5–22.5% | 19.2–22.8% | 18.7–23.4% |
+| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 21.0% | 19.8–22.1% | 19.5–22.5% | 19.2–22.8% | 18.7–23.4% |
 | [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa | 21.3% | 20.1–22.7% | 19.7–23.1% | 19.4–23.4% | 18.8–24.1% |
+| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
 | [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.7–23.7% |
-| [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov | 20.5% | N/A | N/A | N/A | N/A |
+| [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov | 21.0% | N/A | N/A | N/A | N/A |
 | [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 20.5% | 19.4–21.7% | 19.1–22.1% | 18.8–22.4% | 18.3–23.0% |
 | [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 21.3% | 19.8–22.9% | 19.4–23.3% | 19.1–23.7% | 18.4–24.5% |
 | [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.7% |
@@ -245,7 +251,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 24.4% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 25.2% | 23.7–26.8% | 23.3–27.3% | 23.0–27.7% | 22.3–28.5% |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 24.5% | 23.1–26.0% | 22.7–26.4% | 22.3–26.8% | 21.7–27.5% |
-| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 24.0% | 22.9–25.3% | 22.5–25.7% | 22.3–26.0% | 21.7–26.6% |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 24.1% | 22.9–25.3% | 22.5–25.7% | 22.3–26.0% | 21.7–26.6% |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 23.7% | 22.5–25.0% | 22.2–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 24.4% | N/A | N/A | N/A | N/A |
@@ -308,16 +314,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.1% | 99.9% |  |
-| 18.5–19.5% | 6% | 98.8% |  |
-| 19.5–20.5% | 18% | 93% |  |
-| 20.5–21.5% | 29% | 74% | Median |
-| 21.5–22.5% | 25% | 46% |  |
-| 22.5–23.5% | 14% | 21% |  |
-| 23.5–24.5% | 5% | 7% |  |
-| 24.5–25.5% | 1.4% | 2% |  |
-| 25.5–26.5% | 0.2% | 0.3% |  |
+| 17.5–18.5% | 0.9% | 99.9% |  |
+| 18.5–19.5% | 5% | 99.0% |  |
+| 19.5–20.5% | 14% | 94% |  |
+| 20.5–21.5% | 26% | 80% |  |
+| 21.5–22.5% | 29% | 54% | Median |
+| 22.5–23.5% | 17% | 25% |  |
+| 23.5–24.5% | 6% | 9% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
 | 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -328,15 +335,21 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
+| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov | 21 | 20–22 | 20–22 | 19–22 | 19–22 |
+| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
+| [6–10 June 2025](2025-06-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov | 20 | 19–22 | 19–23 | 18–23 | 18–23 |
-| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 20 | 20–21 | 19–21 | 19–22 | 17–23 |
+| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 20 | 20–21 | 19–21 | 18–22 | 18–23 |
 | [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix | 21 | 19–21 | 19–22 | 18–22 | 18–23 |
 | [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 20 | 19–22 | 18–22 | 17–23 | 16–24 |
 | [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -626,16 +639,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 1.0% | 99.9% |  |
-| 18 | 10% | 98.9% |  |
-| 19 | 13% | 89% |  |
-| 20 | 31% | 76% | Median |
-| 21 | 26% | 45% |  |
-| 22 | 11% | 18% |  |
-| 23 | 6% | 7% |  |
-| 24 | 0.8% | 0.9% |  |
-| 25 | 0.1% | 0.1% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.9% | 99.8% |  |
+| 18 | 8% | 98.9% |  |
+| 19 | 11% | 91% |  |
+| 20 | 27% | 80% |  |
+| 21 | 30% | 53% | Median |
+| 22 | 14% | 23% |  |
+| 23 | 7% | 8% |  |
+| 24 | 1.4% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 
