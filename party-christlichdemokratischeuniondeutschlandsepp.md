@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 20.9–24.3% | 20.5–24.9% | 20.1–25.3% | 19.5–26.2% |
+| N/A | [Poll Average](average.html) | 22.5% | 20.9–24.3% | 20.5–24.9% | 20.2–25.3% | 19.5–26.2% |
+| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 22.1% | 20.6–23.7% | 20.2–24.2% | 19.9–24.6% | 19.2–25.3% |
 | [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv | 21.3% | 20.3–22.4% | 20.0–22.7% | 19.8–23.0% | 19.3–23.5% |
 | [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 22.1% | 20.6–23.7% | 20.2–24.1% | 19.8–24.5% | 19.1–25.3% |
 | [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD | 23.7% | 22.2–25.3% | 21.8–25.7% | 21.5–26.1% | 20.8–26.8% |
@@ -329,7 +330,7 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0.5% | 100% |  |
 | 19.5–20.5% | 5% | 99.4% |  |
 | 20.5–21.5% | 18% | 94% |  |
-| 21.5–22.5% | 29% | 76% | Median |
+| 21.5–22.5% | 28% | 76% | Median |
 | 22.5–23.5% | 25% | 48% |  |
 | 23.5–24.5% | 15% | 23% |  |
 | 24.5–25.5% | 6% | 8% |  |
@@ -347,6 +348,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
+| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21 | 21 | 20–22 | 20–23 | 19–23 |
 | [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv | 20 | 20–21 | 19–21 | 18–22 | 18–22 |
 | [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
 | [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 21–23 | 20–25 | 20–25 | 20–25 |
@@ -663,12 +665,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 1.4% | 100% |  |
-| 19 | 3% | 98.6% |  |
-| 20 | 18% | 95% |  |
-| 21 | 35% | 77% | Median |
-| 22 | 23% | 42% |  |
-| 23 | 12% | 19% |  |
+| 18 | 1.3% | 100% |  |
+| 19 | 3% | 98.7% |  |
+| 20 | 18% | 96% |  |
+| 21 | 37% | 78% | Median |
+| 22 | 24% | 42% |  |
+| 23 | 11% | 18% |  |
 | 24 | 5% | 7% |  |
 | 25 | 1.4% | 2% |  |
 | 26 | 0.2% | 0.3% |  |
