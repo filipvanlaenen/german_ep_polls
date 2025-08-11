@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 5.0–6.7% | 4.7–7.0% | 4.6–7.3% | 4.2–7.9% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.6–7.1% | 4.2–7.7% |
+| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 5.7% | 4.9–6.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% |
+| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.3% |
+| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 5.3% | 4.6–6.0% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% |
 | [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.1–7.6% |
 | [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 5.7% | 5.0–6.6% | 4.8–6.8% | 4.6–7.0% | 4.3–7.4% |
 | [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.8–6.9% | 4.6–7.3% |
@@ -329,12 +332,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 34% | 98% |  |
-| 5.5–6.5% | 49% | 63% | Median |
-| 6.5–7.5% | 13% | 15% |  |
-| 7.5–8.5% | 1.3% | 1.3% |  |
+| 4.5–5.5% | 37% | 98% |  |
+| 5.5–6.5% | 50% | 60% | Median |
+| 6.5–7.5% | 10% | 11% |  |
+| 7.5–8.5% | 0.7% | 0.7% |  |
 | 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -346,6 +348,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
+| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -665,11 +670,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 38% | 95% |  |
-| 6 | 46% | 57% | Median |
-| 7 | 11% | 11% |  |
-| 8 | 0.4% | 0.4% |  |
+| 4 | 7% | 100% |  |
+| 5 | 28% | 93% |  |
+| 6 | 53% | 65% | Median |
+| 7 | 12% | 12% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 
