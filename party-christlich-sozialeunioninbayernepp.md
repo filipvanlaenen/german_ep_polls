@@ -360,8 +360,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 6 | 4–6 | 4–7 | 4–8 | 4–8 |
 | [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
@@ -692,10 +692,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 8% | 100% |  |
-| 5 | 36% | 92% |  |
-| 6 | 49% | 56% | Median |
-| 7 | 6% | 7% |  |
+| 4 | 9% | 100% |  |
+| 5 | 41% | 91% |  |
+| 6 | 44% | 50% | Median |
+| 7 | 6% | 6% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 

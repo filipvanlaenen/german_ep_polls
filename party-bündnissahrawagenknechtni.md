@@ -357,10 +357,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
-| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
-| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
+| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 3–4 | 3–5 | 3–6 | 3–6 |
 | [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -689,12 +689,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 14% | 100% |  |
-| 3 | 34% | 86% |  |
-| 4 | 29% | 52% | Median |
-| 5 | 21% | 23% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 2 | 13% | 100% |  |
+| 3 | 35% | 87% |  |
+| 4 | 32% | 52% | Median |
+| 5 | 17% | 20% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 
