@@ -378,7 +378,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 12 | 10–12 | 10–13 | 10–13 | 10–14 |
-| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 10 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 10 | 9–12 | 9–12 | 9–13 | 9–13 |
 | [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
@@ -703,11 +703,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.3% | 100% |  |
 | 8 | 6% | 99.7% |  |
-| 9 | 26% | 94% |  |
-| 10 | 39% | 67% | Median |
-| 11 | 21% | 28% |  |
+| 9 | 27% | 94% |  |
+| 10 | 40% | 67% | Median |
+| 11 | 19% | 27% |  |
 | 12 | 6% | 7% |  |
-| 13 | 1.0% | 1.0% |  |
+| 13 | 0.8% | 0.8% |  |
 | 14 | 0% | 0% |  |
 
 

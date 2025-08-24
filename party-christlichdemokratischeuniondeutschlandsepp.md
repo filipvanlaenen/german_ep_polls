@@ -376,12 +376,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–21 | 18–23 | 18–23 | 17–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–21 | 18–22 | 17–23 | 16–23 |
 | [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 21 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 18–21 | 18–22 | 16–22 |
-| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21 | 19–23 | 19–23 | 19–24 | 18–26 |
+| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 21 | 19–23 | 19–23 | 19–23 | 18–26 |
 | [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 18–22 | 18–23 | 18–23 | 17–24 |
 | [6–12 August 2025](2025-08-12-Verian.html) | Verian <br> FOCUS | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
 | [8–11 August 2025](2025-08-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21 | 19–21 | 19–22 | 19–22 | 18–22 |
@@ -390,7 +390,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–21 | 18–21 | 18–22 | 17–23 |
 | [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 21 | 20–22 | 20–22 | 20–22 | 19–23 |
 | [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
-| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 20 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 19 | 17–20 | 16–20 | 16–20 | 16–21 |
 | [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–21 | 18–21 | 18–22 | 18–22 |
 | [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 21 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 20–21 | 20–22 | 20–22 | 19–23 |
@@ -722,17 +722,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 2% | 99.9% |  |
-| 18 | 13% | 98% |  |
-| 19 | 25% | 85% |  |
-| 20 | 27% | 60% | Median |
-| 21 | 23% | 33% |  |
-| 22 | 3% | 10% |  |
-| 23 | 6% | 7% |  |
-| 24 | 0.2% | 0.5% |  |
-| 25 | 0% | 0.2% |  |
-| 26 | 0.2% | 0.2% |  |
+| 16 | 0.7% | 100% |  |
+| 17 | 2% | 99.3% |  |
+| 18 | 16% | 97% |  |
+| 19 | 25% | 81% |  |
+| 20 | 23% | 56% | Median |
+| 21 | 25% | 33% |  |
+| 22 | 3% | 8% |  |
+| 23 | 4% | 4% |  |
+| 24 | 0.3% | 0.4% |  |
+| 25 | 0% | 0.1% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 
