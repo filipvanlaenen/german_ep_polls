@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Aug 2025 21:28:11 +0200</pubDate>
+    <pubDate>Thu, 04 Sep 2025 21:30:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 25–29 August 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–26 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 10–12 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–12 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov-seats.png"
+        length="360105"
+        type="image/png"/>
+      <pubDate>Thu, 04 Sep 2025 21:30:43 +0200</pubDate>
+      <dc:date>2025-09-04T21:30:43.038201+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 25–29 August 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov-coalitions-seats.png"
+        length="213280"
+        type="image/png"/>
+      <pubDate>Thu, 04 Sep 2025 21:30:43 +0200</pubDate>
+      <dc:date>2025-09-04T21:30:43.038201+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 25–29 August 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.1–17.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22.7–27.6%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.4–22.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.3–6.9%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-08-29-INSAandYouGov.png"
+        length="415661"
+        type="image/png"/>
+      <pubDate>Thu, 04 Sep 2025 21:30:43 +0200</pubDate>
+      <dc:date>2025-09-04T21:30:43.038201+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 22–25 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-08-25-INSAandYouGov.html#seats</link>
@@ -7389,6 +7419,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2025-08-26T21:28:11.316068+02:00</dc:date>
+    <dc:date>2025-09-04T21:30:43.038201+02:00</dc:date>
   </channel>
 </rss>
