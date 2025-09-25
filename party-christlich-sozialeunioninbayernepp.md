@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.7–6.3% | 4.5–6.5% | 4.3–6.8% | 3.9–7.2% |
+| N/A | [Poll Average](average.html) | 5.5% | 4.7–6.3% | 4.5–6.6% | 4.3–6.9% | 3.9–7.4% |
 | [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.1% | 4.6–5.8% | 4.4–6.0% | 4.3–6.2% | 4.0–6.6% |
 | [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 5.3% | 4.7–5.9% | 4.6–6.1% | 4.5–6.2% | 4.2–6.5% |
 | [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
 | [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–6.9% | 4.0–7.4% |
-| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5.7% | N/A | N/A | N/A | N/A |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.5–7.3% | 4.1–7.9% |
 | [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 5.4% | 4.7–6.2% | 4.6–6.4% | 4.4–6.6% | 4.1–7.0% |
 | [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 6.0% | 5.3–6.7% | 5.2–6.9% | 5.0–7.1% | 4.7–7.5% |
 | [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 5.3% | 4.7–5.9% | 4.6–6.1% | 4.5–6.2% | 4.2–6.5% |
@@ -365,11 +365,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 7% | 99.9% |  |
-| 4.5–5.5% | 51% | 93% | Median |
-| 5.5–6.5% | 38% | 42% |  |
-| 6.5–7.5% | 4% | 5% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 6% | 99.9% |  |
+| 4.5–5.5% | 49% | 93% | Median |
+| 5.5–6.5% | 39% | 44% |  |
+| 6.5–7.5% | 6% | 6% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -386,7 +386,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
-| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 5 | 5 | 5 | 4–6 | 4–6 |
@@ -738,10 +738,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 12% | 99.9% |  |
-| 5 | 64% | 88% | Median |
-| 6 | 21% | 24% |  |
+| 4 | 13% | 99.9% |  |
+| 5 | 60% | 86% | Median |
+| 6 | 23% | 26% |  |
 | 7 | 3% | 3% |  |
-| 8 | 0% | 0% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
