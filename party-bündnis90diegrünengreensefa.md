@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.9–12.5% | 9.5–12.9% | 9.2–13.2% | 8.6–14.0% |
+| N/A | [Poll Average](average.html) | 11.0% | 9.9–12.2% | 9.5–12.7% | 9.2–13.1% | 8.6–14.0% |
+| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
+| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.4–12.7% |
 | [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
 | [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 11.0% | N/A | N/A | N/A | N/A |
 | [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 10.9% | 10.0–12.0% | 9.7–12.3% | 9.5–12.5% | 9.1–13.0% |
 | [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 11.5% | 10.6–12.4% | 10.4–12.7% | 10.2–13.0% | 9.7–13.4% |
 | [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.8% |
@@ -366,13 +369,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 0.4% | 100% |  |
 | 8.5–9.5% | 5% | 99.5% |  |
-| 9.5–10.5% | 22% | 94% |  |
-| 10.5–11.5% | 37% | 73% | Median |
-| 11.5–12.5% | 26% | 35% |  |
-| 12.5–13.5% | 8% | 9% |  |
-| 13.5–14.5% | 1.1% | 1.3% |  |
+| 9.5–10.5% | 24% | 95% |  |
+| 10.5–11.5% | 43% | 71% | Median |
+| 11.5–12.5% | 21% | 28% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.0% | 1.1% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -385,9 +388,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 10 | 10–12 | 9–12 | 9–12 | 8–13 |
 | [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
 | [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
@@ -745,10 +751,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 100% |  |
 | 8 | 1.1% | 99.8% |  |
 | 9 | 10% | 98.7% |  |
-| 10 | 31% | 89% |  |
-| 11 | 35% | 58% | Median |
-| 12 | 21% | 23% |  |
-| 13 | 2% | 2% |  |
+| 10 | 40% | 88% | Median |
+| 11 | 34% | 49% |  |
+| 12 | 13% | 14% |  |
+| 13 | 1.4% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
