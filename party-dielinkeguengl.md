@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 8.8–12.1% | 8.5–12.6% | 8.1–13.0% | 7.6–13.9% |
+| N/A | [Poll Average](average.html) | 10.7% | 8.8–12.4% | 8.5–12.9% | 8.1–13.3% | 7.6–14.1% |
+| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.0% | 10.8–13.3% | 10.5–13.6% | 10.2–13.9% | 9.7–14.6% |
 | [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.5–11.8% | 8.1–12.4% |
 | [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.4–12.8% | 8.9–13.4% |
 | [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
@@ -377,12 +378,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.4% | 100% |  |
 | 7.5–8.5% | 6% | 99.6% |  |
 | 8.5–9.5% | 17% | 94% |  |
-| 9.5–10.5% | 25% | 77% |  |
-| 10.5–11.5% | 31% | 52% | Median |
-| 11.5–12.5% | 16% | 21% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.8% | 0.9% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 23% | 77% |  |
+| 10.5–11.5% | 28% | 54% | Median |
+| 11.5–12.5% | 18% | 26% |  |
+| 12.5–13.5% | 6% | 8% |  |
+| 13.5–14.5% | 1.3% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -395,6 +396,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–13 | 7–14 |
+| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 10–11 | 10–11 | 9–12 | 9–13 |
 | [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
@@ -763,11 +765,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.7% | 100% |  |
 | 8 | 15% | 99.3% |  |
 | 9 | 14% | 84% |  |
-| 10 | 26% | 70% | Median |
-| 11 | 29% | 44% |  |
-| 12 | 7% | 15% |  |
-| 13 | 7% | 8% |  |
-| 14 | 0.6% | 0.6% |  |
+| 10 | 25% | 70% | Median |
+| 11 | 23% | 45% |  |
+| 12 | 12% | 21% |  |
+| 13 | 8% | 9% |  |
+| 14 | 1.1% | 1.2% |  |
 | 15 | 0% | 0% |  |
 
 
