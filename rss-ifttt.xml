@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 27 Jun 2025 21:49:52 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Verian, 7 October 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Verian, 7 October 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian-seating-plan.png" length="524155" type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:26:27 +0200</pubDate>
+      <dc:date>2025-10-11T19:26:27.765852117+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 7 October 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Verian, 7 October 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian-seats.png" length="339787" type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:26:27 +0200</pubDate>
+      <dc:date>2025-10-11T19:26:27.765852117+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 7 October 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian, 7 October 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-10-07-Verian.png" length="403077" type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:26:27 +0200</pubDate>
+      <dc:date>2025-10-11T19:26:27.765852117+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 2–6 October 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-10-06-INSAandYouGov.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 2–6 October 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-10-06-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-10-06-INSAandYouGov-seating-plan.png"/>]]></description>
@@ -484,30 +508,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-09-08-Forsa.png" length="401737" type="image/png"/>
       <pubDate>Fri, 12 Sep 2025 16:23:18 +0200</pubDate>
       <dc:date>2025-09-12T16:23:18.250218161+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 5–7 September 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Ipsos, 5–7 September 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos-seating-plan.png" length="531212" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 17:27:07 +0200</pubDate>
-      <dc:date>2025-09-13T17:27:07.60702489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 5–7 September 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Ipsos, 5–7 September 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos-seats.png" length="357283" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 17:27:07 +0200</pubDate>
-      <dc:date>2025-09-13T17:27:07.60702489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 5–7 September 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos, 5–7 September 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-09-07-Ipsos.png" length="411463" type="image/png"/>
-      <pubDate>Sat, 13 Sep 2025 17:27:07 +0200</pubDate>
-      <dc:date>2025-09-13T17:27:07.60702489+02:00</dc:date>
     </item>
   </channel>
 </rss>
