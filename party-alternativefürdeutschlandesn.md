@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.6–27.3% | 23.0–27.8% | 22.5–28.2% | 21.6–29.0% |
+| N/A | [Poll Average](average.html) | 25.5% | 23.6–27.2% | 23.0–27.6% | 22.5–28.0% | 21.6–28.8% |
+| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 26.0% | 24.7–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.7% |
+| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26.5% | 25.3–27.8% | 24.9–28.2% | 24.6–28.5% | 24.0–29.1% |
+| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.7% |
 | [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26.0% | 24.4–27.6% | 24.0–28.1% | 23.6–28.5% | 22.9–29.3% |
 | [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 25.0% | 23.6–26.5% | 23.2–26.9% | 22.9–27.3% | 22.2–28.0% |
 | [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26.5% | 25.3–27.8% | 24.9–28.2% | 24.6–28.5% | 24.0–29.1% |
@@ -397,12 +400,12 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.4% | 100% |  |
 | 21.5–22.5% | 2% | 99.6% |  |
 | 22.5–23.5% | 7% | 97% |  |
-| 23.5–24.5% | 17% | 90% |  |
-| 24.5–25.5% | 25% | 74% | Median |
-| 25.5–26.5% | 26% | 49% |  |
-| 26.5–27.5% | 16% | 23% |  |
-| 27.5–28.5% | 6% | 7% |  |
-| 28.5–29.5% | 1.2% | 1.3% |  |
+| 23.5–24.5% | 16% | 91% |  |
+| 24.5–25.5% | 26% | 74% |  |
+| 25.5–26.5% | 27% | 49% | Median |
+| 26.5–27.5% | 16% | 22% |  |
+| 27.5–28.5% | 5% | 6% |  |
+| 28.5–29.5% | 0.8% | 0.8% |  |
 | 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -415,7 +418,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–26 | 21–27 | 20–27 |
+| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 21–27 | 20–27 |
+| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 25 | 24–26 | 24–26 | 23–26 | 22–27 |
+| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 24–27 | 24–27 | 23–27 | 23–28 |
+| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 24 | 23–25 | 23–26 | 23–27 |
 | [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 24 | 23–24 | 23–26 | 23–26 | 22–26 |
 | [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 24–26 | 24–26 | 24–27 | 23–28 |
@@ -804,10 +810,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 3% | 99.4% |  |
 | 22 | 6% | 97% |  |
 | 23 | 14% | 91% |  |
-| 24 | 45% | 77% | Median |
-| 25 | 18% | 32% |  |
-| 26 | 10% | 15% |  |
-| 27 | 4% | 5% |  |
+| 24 | 38% | 77% | Median |
+| 25 | 17% | 39% |  |
+| 26 | 16% | 21% |  |
+| 27 | 5% | 6% |  |
 | 28 | 0.4% | 0.4% |  |
 | 29 | 0% | 0% |  |
 
