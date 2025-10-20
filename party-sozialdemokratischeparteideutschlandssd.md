@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 13.0–16.1% | 12.6–16.5% | 12.3–16.9% | 11.7–17.7% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.9–16.1% | 12.6–16.5% | 12.2–16.9% | 11.6–17.7% |
+| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14.0% | 12.8–15.4% | 12.4–15.7% | 12.1–16.1% | 11.6–16.8% |
 | [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.6% | 12.0–16.2% |
 | [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 13.0% | 12.0–14.0% | 11.8–14.3% | 11.6–14.6% | 11.1–15.1% |
 | [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14.0% | 12.8–15.3% | 12.4–15.7% | 12.1–16.0% | 11.6–16.7% |
+| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.3% | 12.4–18.1% |
 | [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 15.0% | 13.9–16.3% | 13.6–16.6% | 13.3–16.9% | 12.8–17.6% |
 | [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14.5% | 13.5–15.5% | 13.2–15.8% | 13.0–16.1% | 12.5–16.6% |
 | [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
@@ -387,14 +389,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 4% | 99.7% |  |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 5% | 99.6% |  |
 | 12.5–13.5% | 17% | 95% |  |
-| 13.5–14.5% | 31% | 78% | Median |
-| 14.5–15.5% | 28% | 47% |  |
-| 15.5–16.5% | 14% | 19% |  |
+| 13.5–14.5% | 30% | 78% | Median |
+| 14.5–15.5% | 28% | 48% |  |
+| 15.5–16.5% | 15% | 20% |  |
 | 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 0.6% | 0.7% |  |
+| 17.5–18.5% | 0.7% | 0.7% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -408,10 +410,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
+| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 12–15 | 11–15 | 11–16 |
 | [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
 | [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 14 | 13–14 | 12–15 | 12–16 |
+| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 15 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
@@ -787,12 +791,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 14% | 98% |  |
-| 13 | 27% | 84% |  |
-| 14 | 31% | 57% | Median |
-| 15 | 22% | 26% |  |
-| 16 | 4% | 4% |  |
-| 17 | 0.4% | 0.5% |  |
+| 12 | 12% | 98% |  |
+| 13 | 23% | 85% |  |
+| 14 | 32% | 63% | Median |
+| 15 | 27% | 31% |  |
+| 16 | 3% | 4% |  |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
