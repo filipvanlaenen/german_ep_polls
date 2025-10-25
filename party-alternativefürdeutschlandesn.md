@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.6% | 23.8–27.4% | 23.3–27.8% | 22.9–28.2% | 22.1–29.0% |
+| N/A | [Poll Average](average.html) | 25.5% | 23.7–27.1% | 23.2–27.5% | 22.8–27.9% | 22.0–28.7% |
+| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov | 26.0% | N/A | N/A | N/A | N/A |
+| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25.0% | 23.4–26.7% | 23.0–27.2% | 22.6–27.6% | 21.8–28.5% |
 | [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.7% |
 | [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
@@ -401,15 +403,15 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 1.2% | 99.8% |  |
-| 22.5–23.5% | 6% | 98.6% |  |
-| 23.5–24.5% | 15% | 93% |  |
-| 24.5–25.5% | 25% | 78% |  |
-| 25.5–26.5% | 27% | 52% | Median |
-| 26.5–27.5% | 17% | 25% |  |
-| 27.5–28.5% | 6% | 8% |  |
-| 28.5–29.5% | 1.2% | 1.4% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.4% | 99.8% |  |
+| 22.5–23.5% | 6% | 98% |  |
+| 23.5–24.5% | 17% | 92% |  |
+| 24.5–25.5% | 28% | 75% | Median |
+| 25.5–26.5% | 28% | 47% |  |
+| 26.5–27.5% | 15% | 20% |  |
+| 27.5–28.5% | 4% | 5% |  |
+| 28.5–29.5% | 0.7% | 0.7% |  |
 | 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -422,7 +424,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 22–26 | 22–27 | 20–27 |
+| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–26 | 22–26 | 22–27 | 21–28 |
 | [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–28 | 25–28 | 24–28 | 24–28 |
 | [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv | 24 | 24–26 | 24–26 | 23–26 | 23–27 |
 | [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 23–27 | 23–28 | 23–29 | 22–29 |
@@ -814,15 +818,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.4% | 100% |  |
-| 21 | 1.0% | 99.6% |  |
-| 22 | 9% | 98.5% |  |
-| 23 | 12% | 89% |  |
-| 24 | 39% | 78% | Median |
-| 25 | 16% | 38% |  |
-| 26 | 15% | 22% |  |
-| 27 | 6% | 8% |  |
-| 28 | 2% | 2% |  |
+| 20 | 0.5% | 100% |  |
+| 21 | 1.1% | 99.5% |  |
+| 22 | 13% | 98% |  |
+| 23 | 13% | 86% |  |
+| 24 | 43% | 73% | Median |
+| 25 | 13% | 29% |  |
+| 26 | 12% | 16% |  |
+| 27 | 4% | 5% |  |
+| 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
 
