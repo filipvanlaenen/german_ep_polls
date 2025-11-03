@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
 | [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [24–27 October 2025](2025-10-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
-| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% |
 | [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
@@ -385,8 +385,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 94% | 100% | Last Result, Median |
-| 0.5–1.5% | 6% | 6% |  |
+| 0.0–0.5% | 95% | 100% | Last Result, Median |
+| 0.5–1.5% | 5% | 5% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -401,7 +401,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
 | [24–27 October 2025](2025-10-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
 | [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
