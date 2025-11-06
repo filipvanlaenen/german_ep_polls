@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 18.7–22.2% | 18.3–22.6% | 17.9–23.1% | 17.4–23.9% |
-| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 21.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.5% | 18.8–22.3% | 18.3–22.8% | 18.0–23.2% | 17.4–24.0% |
+| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 21.3% | 19.9–22.8% | 19.5–23.3% | 19.2–23.6% | 18.5–24.4% |
 | [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.1% | 19.0–21.3% | 18.7–21.7% | 18.4–21.9% | 17.9–22.5% |
 | [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv | 19.0% | 18.0–20.0% | 17.7–20.3% | 17.5–20.5% | 17.0–21.1% |
 | [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.7% | 18.3–21.3% | 17.9–21.7% | 17.6–22.1% | 16.9–22.8% |
@@ -405,15 +405,15 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.8% | 100% |  |
-| 17.5–18.5% | 7% | 99.1% |  |
-| 18.5–19.5% | 21% | 92% |  |
-| 19.5–20.5% | 27% | 71% | Median |
-| 20.5–21.5% | 24% | 44% |  |
-| 21.5–22.5% | 14% | 20% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 0.9% | 1.1% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0.7% | 100% |  |
+| 17.5–18.5% | 6% | 99.3% |  |
+| 18.5–19.5% | 18% | 93% |  |
+| 19.5–20.5% | 26% | 74% | Median |
+| 20.5–21.5% | 26% | 49% |  |
+| 21.5–22.5% | 16% | 23% |  |
+| 22.5–23.5% | 6% | 7% |  |
+| 23.5–24.5% | 1.2% | 1.3% |  |
+| 24.5–25.5% | 0.1% | 0.2% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -425,13 +425,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–22 | 17–23 |
-| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–22 | 17–23 |
+| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 18–22 | 18–22 | 18–22 | 18–24 |
 | [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–20 | 17–20 | 17–21 | 16–22 |
 | [24–27 October 2025](2025-10-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 17–20 | 17–21 | 17–22 |
@@ -823,12 +823,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.4% | 100% |  |
 | 17 | 5% | 99.6% |  |
-| 18 | 22% | 94% |  |
-| 19 | 24% | 72% | Median |
-| 20 | 22% | 48% |  |
-| 21 | 22% | 26% |  |
-| 22 | 4% | 4% |  |
-| 23 | 0.6% | 0.7% |  |
+| 18 | 22% | 95% |  |
+| 19 | 23% | 73% | Median |
+| 20 | 21% | 50% |  |
+| 21 | 23% | 29% |  |
+| 22 | 4% | 5% |  |
+| 23 | 0.7% | 0.8% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
