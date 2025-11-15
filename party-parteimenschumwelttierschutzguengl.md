@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.7% | 0.6–1.8% | 0.5–1.9% | 0.4–2.2% |
+| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.9% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% |
+| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.4–1.8% |
 | [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% |
 | [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -393,10 +396,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.4% | 100% | Last Result |
-| 0.5–1.5% | 85% | 98.6% | Median |
-| 1.5–2.5% | 14% | 14% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 82% | 97% | Median |
+| 1.5–2.5% | 15% | 15% |  |
 | 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -407,11 +411,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 1 |
 | [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 1–2 |
@@ -792,9 +799,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 83% | 96% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 77% | 92% | Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
 
