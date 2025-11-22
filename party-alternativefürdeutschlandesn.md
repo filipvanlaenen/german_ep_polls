@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 23.8–27.5% | 23.3–28.1% | 22.8–28.6% | 21.8–29.5% |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
+| N/A | [Poll Average](average.html) | 25.7% | 23.8–27.6% | 23.3–28.1% | 22.8–28.6% | 21.8–29.6% |
+| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26.0% | 24.4–27.7% | 24.0–28.1% | 23.6–28.5% | 22.8–29.4% |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
 | [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 24.7% | 23.5–26.0% | 23.2–26.4% | 22.9–26.7% | 22.3–27.3% |
 | [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.6–28.6% |
 | [11–17 November 2025](2025-11-17-GMS.html) | GMS | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
@@ -424,12 +425,12 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.3% | 100% |  |
 | 21.5–22.5% | 1.5% | 99.7% |  |
-| 22.5–23.5% | 5% | 98% |  |
-| 23.5–24.5% | 14% | 93% |  |
-| 24.5–25.5% | 25% | 78% |  |
-| 25.5–26.5% | 27% | 54% | Median |
-| 26.5–27.5% | 17% | 27% |  |
-| 27.5–28.5% | 7% | 10% |  |
+| 22.5–23.5% | 6% | 98% |  |
+| 23.5–24.5% | 15% | 93% |  |
+| 24.5–25.5% | 24% | 78% |  |
+| 25.5–26.5% | 26% | 53% | Median |
+| 26.5–27.5% | 17% | 28% |  |
+| 27.5–28.5% | 8% | 10% |  |
 | 28.5–29.5% | 2% | 3% |  |
 | 29.5–30.5% | 0.4% | 0.5% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
@@ -444,8 +445,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–27 | 21–28 | 20–28 |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 27 | 26–28 | 25–28 | 24–28 | 23–30 |
+| N/A | [Poll Average](average.html) | 24 | 22–27 | 22–27 | 21–28 | 20–28 |
+| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 22–26 | 22–26 | 22–26 | 22–27 |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27 | 26–28 | 25–28 | 24–28 | 23–30 |
 | [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 24 | 23–24 | 22–25 | 22–25 | 21–26 |
 | [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 24–25 | 23–25 | 23–26 | 23–27 |
 | [11–17 November 2025](2025-11-17-GMS.html) | GMS | 26 | 23–27 | 23–27 | 22–27 | 21–27 |
@@ -859,11 +861,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.1% | 100% |  |
 | 20 | 0.4% | 99.9% |  |
 | 21 | 2% | 99.5% |  |
-| 22 | 8% | 97% |  |
-| 23 | 12% | 90% |  |
-| 24 | 25% | 78% |  |
-| 25 | 25% | 53% | Median |
-| 26 | 14% | 28% |  |
+| 22 | 9% | 97% |  |
+| 23 | 12% | 88% |  |
+| 24 | 27% | 76% | Median |
+| 25 | 20% | 50% |  |
+| 26 | 15% | 29% |  |
 | 27 | 11% | 14% |  |
 | 28 | 3% | 3% |  |
 | 29 | 0.1% | 0.2% |  |
