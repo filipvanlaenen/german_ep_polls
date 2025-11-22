@@ -419,8 +419,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -808,8 +808,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 53% | 53% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 

@@ -420,10 +420,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4 | 4 | 3–5 | 3–5 |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -813,11 +813,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 36% | 94% |  |
-| 4 | 49% | 59% | Median |
-| 5 | 9% | 10% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 9% | 99.9% |  |
+| 3 | 36% | 91% |  |
+| 4 | 49% | 55% | Median |
+| 5 | 6% | 7% |  |
 | 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 

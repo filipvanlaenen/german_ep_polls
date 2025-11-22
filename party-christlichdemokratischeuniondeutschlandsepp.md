@@ -438,12 +438,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–20 | 19–20 | 19–21 | 18–22 |
-| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 19 | 19–20 | 19–20 | 19–21 | 18–22 |
-| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 17–20 | 16–20 | 16–20 |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 18 | 18–20 | 18–20 | 17–22 | 15–22 |
-| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 19 | 17–20 | 17–21 | 16–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 19 | 19–21 | 19–21 | 19–22 | 18–22 |
+| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 19 | 19–20 | 19–21 | 19–22 | 18–23 |
+| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–19 | 18–19 | 18–20 | 16–20 |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 17 | 17–20 | 17–21 | 16–21 | 15–22 |
+| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–21 | 17–21 | 16–21 | 16–21 |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -847,14 +847,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 1.1% | 99.8% |  |
-| 17 | 5% | 98.6% |  |
-| 18 | 18% | 93% |  |
-| 19 | 42% | 75% | Median |
-| 20 | 19% | 34% |  |
-| 21 | 11% | 15% |  |
+| 16 | 0.8% | 99.8% |  |
+| 17 | 10% | 99.0% |  |
+| 18 | 19% | 89% |  |
+| 19 | 38% | 70% | Median |
+| 20 | 16% | 32% |  |
+| 21 | 13% | 16% |  |
 | 22 | 3% | 3% |  |
-| 23 | 0.3% | 0.4% |  |
+| 23 | 0.4% | 0.5% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 

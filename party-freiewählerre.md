@@ -419,10 +419,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 2 | 2 | 2 | 1–2 | 1–2 |
-| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -811,10 +811,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 61% | 64% | Median |
-| 3 | 3% | 4% |  |
-| 4 | 0.5% | 0.5% |  |
+| 1 | 31% | 100% |  |
+| 2 | 66% | 69% | Median |
+| 3 | 3% | 3% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 
