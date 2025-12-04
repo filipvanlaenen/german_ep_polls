@@ -429,7 +429,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 6 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -831,8 +831,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 13% | 99.9% |  |
-| 5 | 42% | 87% | Median |
-| 6 | 39% | 45% |  |
+| 5 | 45% | 87% | Median |
+| 6 | 36% | 42% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

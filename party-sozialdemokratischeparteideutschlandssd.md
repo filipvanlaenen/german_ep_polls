@@ -440,8 +440,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 13 | 12–13 | 12–14 | 11–15 | 11–15 |
-| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 13–16 | 13–16 | 12–16 |
+| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
+| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -848,11 +848,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.9% | 100% |  |
-| 12 | 9% | 99.1% |  |
-| 13 | 23% | 90% |  |
-| 14 | 37% | 67% | Median |
-| 15 | 22% | 30% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 11% | 99.1% |  |
+| 13 | 20% | 89% |  |
+| 14 | 39% | 69% | Median |
+| 15 | 21% | 30% |  |
 | 16 | 7% | 9% |  |
 | 17 | 1.1% | 1.5% |  |
 | 18 | 0.4% | 0.4% |  |
