@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 27 Jun 2025 21:49:52 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 1–3 December 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Infratest dimap for ARD, 1–3 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap-seating-plan.png" length="533812" type="image/png"/>
+      <pubDate>Fri, 5 Dec 2025 22:09:00 +0100</pubDate>
+      <dc:date>2025-12-05T22:09:00.188218071+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 1–3 December 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Infratest dimap for ARD, 1–3 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap-seats.png" length="348493" type="image/png"/>
+      <pubDate>Fri, 5 Dec 2025 22:09:00 +0100</pubDate>
+      <dc:date>2025-12-05T22:09:00.188218071+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Infratest dimap for ARD, 1–3 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Infratest dimap for ARD, 1–3 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-03-Infratestdimap.png" length="412803" type="image/png"/>
+      <pubDate>Fri, 5 Dec 2025 22:09:00 +0100</pubDate>
+      <dc:date>2025-12-05T22:09:00.188218071+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Forsa, 1 December 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-01-Forsa.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Forsa, 1 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-01-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-01-Forsa-seating-plan.png"/>]]></description>
@@ -484,54 +508,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-04-Verian.png" length="408219" type="image/png"/>
       <pubDate>Sun, 9 Nov 2025 16:56:22 +0100</pubDate>
       <dc:date>2025-11-09T16:56:22.064261597+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov for BILD, 30 October–3 November 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 30 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov-seating-plan.png" length="538311" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 21:45:48 +0100</pubDate>
-      <dc:date>2025-11-05T21:45:48.828446844+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov for BILD, 30 October–3 November 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 30 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov-seats.png" length="357419" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 21:45:48 +0100</pubDate>
-      <dc:date>2025-11-05T21:45:48.828446844+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSA and YouGov for BILD, 30 October–3 November 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSA and YouGov for BILD, 30 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-INSAandYouGov.png" length="403391" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 21:45:48 +0100</pubDate>
-      <dc:date>2025-11-05T21:45:48.828446844+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa for RTL n-tv, 28 October–3 November 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Forsa for RTL n-tv, 28 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa-seating-plan.png" length="532896" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 22:06:02 +0100</pubDate>
-      <dc:date>2025-11-05T22:06:02.797691759+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa for RTL n-tv, 28 October–3 November 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Forsa for RTL n-tv, 28 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa-seats.png" length="341107" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 22:06:02 +0100</pubDate>
-      <dc:date>2025-11-05T22:06:02.797691759+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Forsa for RTL n-tv, 28 October–3 November 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Forsa for RTL n-tv, 28 October–3 November 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-11-03-Forsa.png" length="392831" type="image/png"/>
-      <pubDate>Wed, 5 Nov 2025 22:06:02 +0100</pubDate>
-      <dc:date>2025-11-05T22:06:02.797691759+01:00</dc:date>
     </item>
   </channel>
 </rss>
