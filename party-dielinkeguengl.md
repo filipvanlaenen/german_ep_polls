@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 9.0–11.7% | 8.6–12.1% | 8.3–12.4% | 7.7–13.1% |
+| N/A | [Poll Average](average.html) | 10.4% | 9.1–11.7% | 8.6–12.1% | 8.3–12.4% | 7.7–13.0% |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.2–12.0% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
+| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 11.0% | 10.1–12.0% | 9.9–12.3% | 9.7–12.5% | 9.3–13.0% |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 9.9–12.3% | 9.6–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.5–11.8% | 8.1–12.4% |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
@@ -420,12 +422,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.3% | 100% |  |
 | 7.5–8.5% | 4% | 99.7% |  |
-| 8.5–9.5% | 17% | 96% |  |
-| 9.5–10.5% | 35% | 79% | Median |
-| 10.5–11.5% | 31% | 44% |  |
-| 11.5–12.5% | 11% | 13% |  |
+| 8.5–9.5% | 16% | 96% |  |
+| 9.5–10.5% | 34% | 80% | Median |
+| 10.5–11.5% | 33% | 46% |  |
+| 11.5–12.5% | 12% | 13% |  |
 | 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -437,7 +439,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
+| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 11 | 11 | 10–11 | 10–11 | 9–12 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 9–11 | 9–12 | 9–12 | 9–13 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 8–10 | 8–10 | 8–11 | 8–12 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
@@ -848,13 +852,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
-| 8 | 8% | 98% |  |
-| 9 | 23% | 90% |  |
-| 10 | 42% | 67% | Median |
-| 11 | 23% | 25% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.4% | 0.5% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 8 | 5% | 98% |  |
+| 9 | 22% | 93% |  |
+| 10 | 39% | 71% | Median |
+| 11 | 31% | 33% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.3% | 0.3% |  |
+| 14 | 0% | 0% |  |
 
 
