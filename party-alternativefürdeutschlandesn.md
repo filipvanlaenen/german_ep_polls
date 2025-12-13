@@ -457,7 +457,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 22–27 | 22–28 | 21–28 |
-| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 23–27 | 23–27 | 23–27 | 23–29 |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 25 | 23–25 | 23–26 | 23–26 | 22–27 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 23–26 | 22–26 | 22–27 | 22–28 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 23 | 22–25 | 22–26 | 22–27 | 21–27 |
@@ -884,13 +884,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.1% | 100% |  |
 | 21 | 0.7% | 99.9% |  |
 | 22 | 5% | 99.3% |  |
-| 23 | 16% | 94% |  |
-| 24 | 17% | 78% |  |
-| 25 | 33% | 61% | Median |
-| 26 | 11% | 28% |  |
+| 23 | 15% | 94% |  |
+| 24 | 18% | 79% |  |
+| 25 | 27% | 61% | Median |
+| 26 | 17% | 34% |  |
 | 27 | 14% | 17% |  |
 | 28 | 3% | 3% |  |
-| 29 | 0.3% | 0.4% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

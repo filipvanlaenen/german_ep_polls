@@ -451,8 +451,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 15–22 |
-| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–19 | 17–19 | 17–20 | 16–20 |
-| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–19 | 17–19 | 17–19 | 16–19 |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–19 | 17–19 | 17–19 | 17–20 |
+| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–19 | 17–19 | 16–19 | 16–21 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–20 | 17–21 | 17–22 | 16–22 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 19–21 | 19–21 | 18–22 | 17–23 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 19 | 18–20 | 18–21 | 18–21 | 18–22 |
@@ -871,12 +871,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.2% | 100% |  |
 | 15 | 2% | 99.7% |  |
-| 16 | 4% | 98% |  |
+| 16 | 5% | 98% |  |
 | 17 | 10% | 94% |  |
-| 18 | 17% | 84% |  |
-| 19 | 42% | 67% | Median |
+| 18 | 12% | 84% |  |
+| 19 | 46% | 71% | Median |
 | 20 | 15% | 25% |  |
-| 21 | 9% | 10% |  |
+| 21 | 9% | 11% |  |
 | 22 | 1.1% | 2% |  |
 | 23 | 0.4% | 0.4% |  |
 | 24 | 0% | 0% |  |
