@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.8% | 1.1–3.1% | 1.0–3.4% | 0.9–3.8% |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.5% | 1.2–2.0% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.7–3.1% | 1.6–3.4% |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 1.4% | 1.1–1.7% | 1.1–1.8% | 1.0–1.8% | 0.9–2.0% |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
@@ -414,10 +417,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 37% | 100% |  |
-| 1.5–2.5% | 56% | 63% | Median |
-| 2.5–3.5% | 7% | 7% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 32% | 100% |  |
+| 1.5–2.5% | 53% | 68% | Median |
+| 2.5–3.5% | 14% | 15% |  |
+| 3.5–4.5% | 1.4% | 1.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -429,10 +432,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -835,10 +841,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 31% | 100% |  |
-| 2 | 65% | 69% | Median |
-| 3 | 4% | 4% |  |
-| 4 | 0.2% | 0.2% |  |
+| 1 | 28% | 100% |  |
+| 2 | 59% | 72% | Median |
+| 3 | 10% | 13% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 

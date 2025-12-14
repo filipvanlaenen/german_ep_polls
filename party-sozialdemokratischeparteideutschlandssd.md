@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 13.1–15.7% | 12.7–16.1% | 12.4–16.5% | 11.8–17.2% |
+| N/A | [Poll Average](average.html) | 14.3% | 13.0–15.7% | 12.7–16.1% | 12.4–16.4% | 11.8–17.2% |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 14.0% | 12.9–15.2% | 12.6–15.6% | 12.3–15.9% | 11.8–16.5% |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.6% | 13.0–17.2% |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15.0% | 13.7–16.4% | 13.4–16.8% | 13.1–17.1% | 12.5–17.8% |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.7–16.7% |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 15.0% | 14.2–15.9% | 14.0–16.1% | 13.8–16.3% | 13.4–16.8% |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14.5% | 13.5–15.5% | 13.2–15.8% | 13.0–16.1% | 12.6–16.6% |
@@ -425,13 +428,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 3% | 99.8% |  |
-| 12.5–13.5% | 17% | 97% |  |
-| 13.5–14.5% | 35% | 79% | Median |
-| 14.5–15.5% | 31% | 44% |  |
-| 15.5–16.5% | 11% | 13% |  |
+| 11.5–12.5% | 4% | 99.7% |  |
+| 12.5–13.5% | 19% | 96% |  |
+| 13.5–14.5% | 36% | 77% | Median |
+| 14.5–15.5% | 29% | 41% |  |
+| 15.5–16.5% | 10% | 12% |  |
 | 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.3% |  |
+| 17.5–18.5% | 0.2% | 0.2% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -443,10 +446,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–16 | 10–17 |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 14–15 | 14–16 | 13–16 | 13–16 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 12 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14 | 11–14 | 10–15 | 10–15 | 10–16 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -858,14 +864,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.6% | 100% |  |
-| 12 | 18% | 99.4% |  |
-| 13 | 15% | 82% |  |
-| 14 | 40% | 67% | Median |
-| 15 | 21% | 26% |  |
-| 16 | 4% | 5% |  |
-| 17 | 0.6% | 0.7% |  |
+| 10 | 0.8% | 100% |  |
+| 11 | 1.2% | 99.2% |  |
+| 12 | 18% | 98% |  |
+| 13 | 25% | 80% |  |
+| 14 | 38% | 55% | Median |
+| 15 | 13% | 18% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0.5% | 0.6% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
