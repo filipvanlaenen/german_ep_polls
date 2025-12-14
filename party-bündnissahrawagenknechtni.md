@@ -434,9 +434,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
-| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -845,8 +845,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 5% | 99.9% |  |
-| 3 | 41% | 94% |  |
-| 4 | 47% | 54% | Median |
+| 3 | 38% | 95% |  |
+| 4 | 50% | 57% | Median |
 | 5 | 7% | 7% |  |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |

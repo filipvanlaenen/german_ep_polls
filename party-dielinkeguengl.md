@@ -442,13 +442,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 7–12 | 7–12 |
-| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 10–12 | 9–12 | 9–12 | 8–13 |
-| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 9–11 | 9–12 | 9–12 | 9–13 |
-| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 8–10 | 8–10 | 8–11 | 8–12 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -857,13 +857,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 7% | 97% |  |
-| 9 | 17% | 91% |  |
-| 10 | 39% | 74% | Median |
-| 11 | 28% | 35% |  |
-| 12 | 6% | 7% |  |
-| 13 | 0.3% | 0.3% |  |
+| 7 | 1.1% | 100% |  |
+| 8 | 8% | 98.9% |  |
+| 9 | 14% | 91% |  |
+| 10 | 41% | 77% | Median |
+| 11 | 31% | 36% |  |
+| 12 | 5% | 5% |  |
+| 13 | 0.3% | 0.4% |  |
 | 14 | 0% | 0% |  |
 
 

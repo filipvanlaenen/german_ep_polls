@@ -446,13 +446,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–16 | 10–17 |
-| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 13 | 12–15 | 12–16 | 11–16 | 11–16 |
 | [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 14–15 | 14–16 | 13–16 | 13–16 |
 | [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 12 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
-| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 14 | 11–14 | 10–15 | 10–15 | 10–16 |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 13 | 13–14 | 12–15 | 11–15 | 10–16 |
 | [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
 | [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -864,14 +864,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.8% | 100% |  |
-| 11 | 1.2% | 99.2% |  |
-| 12 | 18% | 98% |  |
-| 13 | 25% | 80% |  |
-| 14 | 38% | 55% | Median |
+| 10 | 0.2% | 100% |  |
+| 11 | 1.3% | 99.8% |  |
+| 12 | 16% | 98% |  |
+| 13 | 28% | 82% |  |
+| 14 | 37% | 55% | Median |
 | 15 | 13% | 18% |  |
-| 16 | 4% | 4% |  |
-| 17 | 0.5% | 0.6% |  |
+| 16 | 4% | 5% |  |
+| 17 | 0.5% | 0.5% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
