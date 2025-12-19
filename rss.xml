@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 16 Dec 2025 22:31:08 +0100</pubDate>
+    <pubDate>Thu, 18 Dec 2025 22:54:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov, 12–15 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–26 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10–13 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov-seats.png"
+        length="353519"
+        type="image/png"/>
+      <pubDate>Thu, 18 Dec 2025 22:54:18 +0100</pubDate>
+      <dc:date>2025-12-18T22:54:18.924521+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 12–15 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov-coalitions-seats.png"
+        length="210022"
+        type="image/png"/>
+      <pubDate>Thu, 18 Dec 2025 22:54:18 +0100</pubDate>
+      <dc:date>2025-12-18T22:54:18.924521+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 12–15 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.3–15.6%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 23.8–27.9%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.6–11.4%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.5–22.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.4–6.6%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.7–1.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10.4–13.5%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.2–2.4%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.3%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.1–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-YouGov.png"
+        length="400863"
+        type="image/png"/>
+      <pubDate>Thu, 18 Dec 2025 22:54:18 +0100</pubDate>
+      <dc:date>2025-12-18T22:54:18.924521+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 12–15 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-15-INSAandYouGov.html#seats</link>
@@ -9639,6 +9669,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2025-12-16T22:31:08.215291+01:00</dc:date>
+    <dc:date>2025-12-18T22:54:18.924521+01:00</dc:date>
   </channel>
 </rss>
