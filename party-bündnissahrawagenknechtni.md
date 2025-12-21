@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.8–4.8% | 2.6–5.0% | 2.4–5.2% | 2.1–5.6% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.9–4.7% | 2.7–5.0% | 2.5–5.2% | 2.2–5.6% |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.1–5.0% | 2.9–5.3% |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
@@ -210,7 +211,6 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.7% |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa | 3.0% | N/A | N/A | N/A | N/A |
-| [31–2 March 2025](2025-03-02-Infratestdimap.html) | Infratest dimap <br> ARD | 4.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 5.0% | N/A | N/A | N/A | N/A |
@@ -231,7 +231,6 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 4.5% | 3.9–5.2% | 3.7–5.5% | 3.6–5.6% | 3.3–6.0% |
 | [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [27–11 February 2025](2025-02-11-Allensbach.html) | Allensbach <br> FAZ | 4.0% | N/A | N/A | N/A | N/A |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–6.9% |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
@@ -422,10 +421,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 29% | 96% |  |
-| 3.5–4.5% | 50% | 67% | Median |
-| 4.5–5.5% | 16% | 16% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 27% | 97% |  |
+| 3.5–4.5% | 55% | 70% | Median |
+| 4.5–5.5% | 14% | 15% |  |
 | 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -438,7 +437,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -638,7 +638,6 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 5 | 4–5 | 4–5 | 4–6 | 3–7 |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa |  |  |  |  |  |
-| [31–2 March 2025](2025-03-02-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -659,7 +658,6 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–12 February 2025](2025-02-12-pollytix.html) | pollytix | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [10–12 February 2025](2025-02-12-Infratestdimap.html) | Infratest dimap | 4 | 4–5 | 3–5 | 3–5 | 3–7 |
 | [12 February 2025](2025-02-12-Allensbach.html) | Allensbach | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [27–11 February 2025](2025-02-11-Allensbach.html) | Allensbach <br> FAZ |  |  |  |  |  |
 | [7–10 February 2025](2025-02-10-YouGov.html) | YouGov | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [7–10 February 2025](2025-02-10-INSAandYouGov.html) | INSA and YouGov | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [4–10 February 2025](2025-02-10-Forsa.html) | Forsa | 4 | 4 | 4 | 4 | 3–5 |
@@ -851,12 +849,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 7% | 99.9% |  |
-| 3 | 34% | 93% |  |
-| 4 | 48% | 59% | Median |
-| 5 | 11% | 11% |  |
-| 6 | 0.4% | 0.4% |  |
+| 1 | 0% | 100% |  |
+| 2 | 4% | 100% |  |
+| 3 | 34% | 96% |  |
+| 4 | 54% | 62% | Median |
+| 5 | 8% | 9% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 
