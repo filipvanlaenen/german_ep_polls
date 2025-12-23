@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.1–21.9% | 17.5–22.4% | 17.1–22.9% | 16.2–23.8% |
-| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.1% |
+| N/A | [Poll Average](average.html) | 20.1% | 18.2–21.9% | 17.6–22.4% | 17.2–22.9% | 16.2–23.8% |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov | 19.3% | 18.2–20.5% | 17.9–20.8% | 17.6–21.1% | 17.1–21.7% |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.1% |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa | 19.0% | 17.7–20.3% | 17.3–20.7% | 17.0–21.0% | 16.4–21.7% |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 20.3% | 19.1–21.6% | 18.8–21.9% | 18.5–22.3% | 17.9–22.9% |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.7% | 18.6–20.9% | 18.3–21.3% | 18.0–21.6% | 17.5–22.1% |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 18.9% | 17.8–20.1% | 17.5–20.5% | 17.2–20.8% | 16.6–21.4% |
@@ -435,13 +437,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.9% | 99.9% |  |
-| 16.5–17.5% | 4% | 99.0% |  |
-| 17.5–18.5% | 11% | 95% |  |
-| 18.5–19.5% | 20% | 84% |  |
-| 19.5–20.5% | 27% | 63% | Median |
-| 20.5–21.5% | 22% | 37% |  |
-| 21.5–22.5% | 10% | 15% |  |
+| 15.5–16.5% | 0.8% | 99.9% |  |
+| 16.5–17.5% | 3% | 99.0% |  |
+| 17.5–18.5% | 10% | 96% |  |
+| 18.5–19.5% | 21% | 85% |  |
+| 19.5–20.5% | 28% | 65% | Median |
+| 20.5–21.5% | 23% | 37% |  |
+| 21.5–22.5% | 10% | 14% |  |
 | 22.5–23.5% | 3% | 4% |  |
 | 23.5–24.5% | 0.7% | 0.9% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
@@ -457,7 +459,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 15–23 |
-| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov | 18 | 17–19 | 17–20 | 17–21 | 16–21 |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–19 | 17–20 | 17–21 | 16–21 |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
@@ -884,9 +888,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.2% | 100% |  |
 | 15 | 1.4% | 99.8% |  |
 | 16 | 4% | 98% |  |
-| 17 | 6% | 94% |  |
-| 18 | 28% | 88% |  |
-| 19 | 24% | 61% | Median |
+| 17 | 9% | 94% |  |
+| 18 | 22% | 85% |  |
+| 19 | 26% | 63% | Median |
 | 20 | 25% | 37% |  |
 | 21 | 10% | 12% |  |
 | 22 | 2% | 2% |  |
