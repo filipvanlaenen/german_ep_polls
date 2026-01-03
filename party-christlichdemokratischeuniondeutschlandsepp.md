@@ -11,9 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 18.2–21.9% | 17.6–22.4% | 17.2–22.9% | 16.2–23.8% |
-| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov | 19.3% | 18.2–20.5% | 17.9–20.8% | 17.6–21.1% | 17.1–21.7% |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.3% | 18.2–20.5% | 17.9–20.8% | 17.6–21.1% | 17.1–21.7% |
 | [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.1% |
-| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa | 19.0% | 17.7–20.3% | 17.3–20.7% | 17.0–21.0% | 16.4–21.7% |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv | 19.0% | 17.7–20.3% | 17.3–20.7% | 17.0–21.0% | 16.4–21.7% |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 20.3% | 19.1–21.6% | 18.8–21.9% | 18.5–22.3% | 17.9–22.9% |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.7% | 18.6–20.9% | 18.3–21.3% | 18.0–21.6% | 17.5–22.1% |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 18.9% | 17.8–20.1% | 17.5–20.5% | 17.2–20.8% | 16.6–21.4% |
@@ -459,9 +459,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 15–23 |
-| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
 | [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–19 | 17–20 | 17–21 | 16–21 |
-| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
