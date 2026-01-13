@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 27 Jun 2025 21:49:52 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 5–9 January 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 5–9 January 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov-seating-plan.png" length="527821" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 22:29:14 +0100</pubDate>
+      <dc:date>2026-01-12T22:29:14.136250704+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 5–9 January 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 5–9 January 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov-seats.png" length="336705" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 22:29:14 +0100</pubDate>
+      <dc:date>2026-01-12T22:29:14.136250704+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 5–9 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSA and YouGov for BILD, 5–9 January 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-01-09-INSAandYouGov.png" length="411476" type="image/png"/>
+      <pubDate>Mon, 12 Jan 2026 22:29:14 +0100</pubDate>
+      <dc:date>2026-01-12T22:29:14.136250704+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Infratest dimap for ARD, 5–7 January 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-01-07-Infratestdimap.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Infratest dimap for ARD, 5–7 January 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-01-07-Infratestdimap.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-01-07-Infratestdimap-seating-plan.png"/>]]></description>
@@ -268,30 +292,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-11-ForschungsgruppeWahlen.png" length="416022" type="image/png"/>
       <pubDate>Sun, 14 Dec 2025 19:49:16 +0100</pubDate>
       <dc:date>2025-12-14T19:49:16.06055685+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for FOCUS, 3–9 December 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Verian for FOCUS, 3–9 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian-seating-plan.png" length="530273" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:04:29 +0100</pubDate>
-      <dc:date>2025-12-14T20:04:29.568149145+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for FOCUS, 3–9 December 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Verian for FOCUS, 3–9 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian-seats.png" length="364022" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:04:29 +0100</pubDate>
-      <dc:date>2025-12-14T20:04:29.568149145+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Verian for FOCUS, 3–9 December 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian for FOCUS, 3–9 December 2025<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-12-09-Verian.png" length="408460" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:04:29 +0100</pubDate>
-      <dc:date>2025-12-14T20:04:29.568149145+01:00</dc:date>
     </item>
   </channel>
 </rss>
