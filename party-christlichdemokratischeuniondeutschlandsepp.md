@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.0–22.2% | 17.6–22.8% | 17.2–23.3% | 16.5–24.3% |
+| N/A | [Poll Average](average.html) | 19.6% | 18.2–21.9% | 17.8–22.7% | 17.4–23.3% | 16.7–24.3% |
+| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 19.8% | 18.5–21.1% | 18.2–21.5% | 17.9–21.8% | 17.3–22.5% |
+| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov | 19.7% | 18.5–21.0% | 18.2–21.4% | 17.9–21.7% | 17.3–22.3% |
+| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.4% | 18.3–20.5% | 17.9–20.9% | 17.7–21.1% | 17.2–21.7% |
+| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv | 18.9% | 17.9–20.0% | 17.6–20.4% | 17.4–20.6% | 16.9–21.2% |
 | [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18.9% | 17.5–20.4% | 17.1–20.9% | 16.8–21.2% | 16.2–22.0% |
 | [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD | 22.1% | 20.7–23.6% | 20.3–24.0% | 19.9–24.4% | 19.3–25.1% |
 | [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.7% | 18.6–20.9% | 18.3–21.2% | 18.0–21.5% | 17.5–22.1% |
@@ -442,15 +446,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.6% | 100% |  |
-| 16.5–17.5% | 4% | 99.4% |  |
-| 17.5–18.5% | 14% | 95% |  |
-| 18.5–19.5% | 23% | 82% |  |
-| 19.5–20.5% | 24% | 59% | Median |
-| 20.5–21.5% | 18% | 35% |  |
-| 21.5–22.5% | 10% | 17% |  |
-| 22.5–23.5% | 5% | 7% |  |
-| 23.5–24.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 3% | 99.7% |  |
+| 17.5–18.5% | 14% | 97% |  |
+| 18.5–19.5% | 30% | 83% |  |
+| 19.5–20.5% | 26% | 53% | Median |
+| 20.5–21.5% | 13% | 27% |  |
+| 21.5–22.5% | 7% | 13% |  |
+| 22.5–23.5% | 4% | 6% |  |
+| 23.5–24.5% | 1.5% | 2% |  |
 | 24.5–25.5% | 0.3% | 0.3% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -463,7 +467,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–21 | 16–21 | 16–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
+| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
+| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov | 19 | 18–19 | 18–20 | 17–20 | 17–22 |
+| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–20 | 17–20 | 17–20 | 16–20 |
+| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
 | [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD | 21 | 20–21 | 20–22 | 19–22 | 18–25 |
 | [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–20 | 17–20 | 17–20 | 17–22 |
@@ -896,14 +904,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 13% | 99.9% |  |
-| 17 | 5% | 87% |  |
-| 18 | 27% | 82% |  |
-| 19 | 17% | 56% | Median |
-| 20 | 23% | 39% |  |
-| 21 | 14% | 16% |  |
-| 22 | 2% | 2% |  |
+| 15 | 0% | 100% |  |
+| 16 | 8% | 100% |  |
+| 17 | 11% | 91% |  |
+| 18 | 22% | 80% |  |
+| 19 | 36% | 58% | Median |
+| 20 | 8% | 22% |  |
+| 21 | 12% | 14% |  |
+| 22 | 1.2% | 2% |  |
 | 23 | 0.1% | 0.4% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
