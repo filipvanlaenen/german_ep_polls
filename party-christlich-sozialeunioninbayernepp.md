@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 5.5% | 4.9–6.1% | 4.8–6.3% | 4.6–6.4% | 4.4–6.8% |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–6.9% | 4.0–7.4% |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 5.5% | N/A | N/A | N/A | N/A |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 5.5% | 4.9–6.2% | 4.7–6.5% | 4.5–6.7% | 4.2–7.0% |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.6% | 3.8–7.1% |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.1–6.7% |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 5.2% | 4.6–6.0% | 4.5–6.2% | 4.3–6.4% | 4.0–6.7% |
@@ -470,7 +470,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

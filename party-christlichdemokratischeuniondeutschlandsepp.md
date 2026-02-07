@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 20.5% | 19.5–21.6% | 19.2–21.9% | 19.0–22.2% | 18.5–22.7% |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.7% |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 20.5% | N/A | N/A | N/A | N/A |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 20.5% | 19.4–21.8% | 19.0–22.2% | 18.7–22.5% | 18.2–23.1% |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.8% | 18.4–21.3% | 18.0–21.7% | 17.6–22.1% | 16.9–22.9% |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.8% | 18.7–20.9% | 18.3–21.3% | 18.1–21.6% | 17.5–22.1% |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 19.7% | 18.6–21.0% | 18.2–21.3% | 18.0–21.6% | 17.4–22.2% |
@@ -486,7 +486,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 19 | 19–20 | 19–21 | 18–22 | 18–22 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 19–20 | 19–20 | 19–20 | 17–21 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 18–20 | 17–20 | 16–22 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 20 | 18–20 | 18–21 | 17–21 | 16–21 |
