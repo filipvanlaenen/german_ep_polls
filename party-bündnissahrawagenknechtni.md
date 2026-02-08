@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 1.3–4.4% | 0.2–4.7% | 0.1–5.0% | 0.0–5.6% |
+| N/A | [Poll Average](average.html) | 3.1% | 0.4–4.3% | 0.1–4.7% | 0.1–5.0% | 0.0–5.6% |
+| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.5% |
 | [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
@@ -444,13 +446,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 90% |  |
-| 1.5–2.5% | 7% | 90% |  |
-| 2.5–3.5% | 49% | 83% | Median |
-| 3.5–4.5% | 27% | 34% |  |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 11% | 100% | Last Result |
+| 0.5–1.5% | 0.2% | 89% |  |
+| 1.5–2.5% | 8% | 89% |  |
+| 2.5–3.5% | 53% | 81% | Median |
+| 3.5–4.5% | 22% | 29% |  |
+| 4.5–5.5% | 6% | 7% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -462,9 +464,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–4 | 0–5 | 0–5 | 0–6 |
-| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
@@ -898,13 +902,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 0.1% | 90% |  |
-| 2 | 10% | 90% |  |
-| 3 | 59% | 80% | Median |
-| 4 | 16% | 21% |  |
-| 5 | 4% | 5% |  |
-| 6 | 0.6% | 0.6% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 0.1% | 89% |  |
+| 2 | 8% | 89% |  |
+| 3 | 58% | 81% | Median |
+| 4 | 19% | 23% |  |
+| 5 | 3% | 4% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
