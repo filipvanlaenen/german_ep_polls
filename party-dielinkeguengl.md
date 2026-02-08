@@ -480,11 +480,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 9 | 9–10 | 8–10 | 8–11 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 8–10 | 8–10 | 8–11 | 8–12 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
-| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 9–11 | 9–11 | 8–11 | 8–11 |
+| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [12–16 January 2026](2026-01-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 8–11 | 8–11 | 8–11 | 8–12 |
 | [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -919,9 +919,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.3% | 100% |  |
 | 8 | 5% | 99.7% |  |
-| 9 | 34% | 95% |  |
-| 10 | 32% | 61% | Median |
-| 11 | 27% | 28% |  |
+| 9 | 35% | 95% |  |
+| 10 | 33% | 60% | Median |
+| 11 | 26% | 28% |  |
 | 12 | 1.3% | 2% |  |
 | 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |

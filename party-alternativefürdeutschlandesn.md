@@ -496,11 +496,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 24 | 22–24 | 22–24 | 22–24 | 21–25 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–26 | 24–27 | 23–27 | 22–28 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 24 | 23–27 | 22–28 | 22–28 | 22–28 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 22 | 21–25 | 21–25 | 21–25 | 21–25 |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 26 | 24–26 | 23–26 | 23–27 | 22–27 |
-| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 23–24 | 23–25 | 22–25 | 22–26 |
+| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24 | 23–25 | 23–25 | 22–25 | 22–27 |
 | [12–16 January 2026](2026-01-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 23–26 | 22–26 | 22–28 | 21–28 |
 | [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 25 | 24–26 | 23–26 | 23–26 | 22–27 |
@@ -948,13 +948,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.4% | 100% |  |
 | 21 | 3% | 99.6% |  |
-| 22 | 15% | 97% |  |
-| 23 | 18% | 81% |  |
-| 24 | 30% | 64% | Median |
-| 25 | 17% | 34% |  |
+| 22 | 16% | 97% |  |
+| 23 | 17% | 81% |  |
+| 24 | 28% | 64% | Median |
+| 25 | 19% | 36% |  |
 | 26 | 13% | 17% |  |
 | 27 | 4% | 4% |  |
-| 28 | 0.1% | 0.2% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 

@@ -472,7 +472,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–4 | 2–4 | 2–4 |

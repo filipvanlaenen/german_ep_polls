@@ -477,7 +477,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 13–15 | 12–16 | 12–16 | 11–18 |
 | [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 14 | 14–15 | 13–16 | 12–16 | 12–17 |
@@ -485,11 +485,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–15 | 13–16 | 13–17 | 13–18 |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov | 15 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 14 | 12–15 | 12–15 | 12–15 | 11–15 |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 15 | 14–17 | 14–17 | 13–17 | 12–17 |
+| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 15 | 14–17 | 13–17 | 13–17 | 12–17 |
 | [12–16 January 2026](2026-01-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
 | [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
@@ -928,11 +928,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.3% | 100% |  |
 | 12 | 3% | 99.7% |  |
-| 13 | 20% | 97% |  |
-| 14 | 26% | 76% |  |
-| 15 | 24% | 51% | Median |
-| 16 | 17% | 26% |  |
-| 17 | 9% | 9% |  |
+| 13 | 21% | 97% |  |
+| 14 | 26% | 76% | Median |
+| 15 | 24% | 50% |  |
+| 16 | 17% | 25% |  |
+| 17 | 8% | 8% |  |
 | 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
