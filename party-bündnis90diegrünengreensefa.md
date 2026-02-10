@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 10.8–13.7% | 10.4–14.1% | 10.1–14.5% | 9.4–15.3% |
+| N/A | [Poll Average](average.html) | 12.3% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.3% |
+| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
+| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 13.0% | 12.1–14.1% | 11.8–14.4% | 11.6–14.7% | 11.1–15.2% |
 | [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
 | [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.1% | 10.6–15.8% |
 | [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 12.0% | 10.9–13.2% | 10.6–13.5% | 10.3–13.9% | 9.8–14.4% |
@@ -455,13 +457,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.7% | 100% |  |
-| 9.5–10.5% | 6% | 99.3% |  |
-| 10.5–11.5% | 21% | 94% |  |
-| 11.5–12.5% | 36% | 73% | Median |
-| 12.5–13.5% | 25% | 37% |  |
-| 13.5–14.5% | 9% | 12% |  |
-| 14.5–15.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 5% | 99.6% |  |
+| 10.5–11.5% | 20% | 94% |  |
+| 11.5–12.5% | 32% | 74% | Median |
+| 12.5–13.5% | 28% | 43% |  |
+| 13.5–14.5% | 12% | 15% |  |
+| 14.5–15.5% | 2% | 3% |  |
 | 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -474,7 +476,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–13 | 10–14 | 10–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
+| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 11 | 10–11 | 10–11 | 9–12 |
+| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 12 | 12 | 12 | 11–13 | 11–14 |
 | [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 9–11 | 9–12 | 9–13 |
 | [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 10–14 | 10–14 | 10–14 | 10–15 |
 | [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11–12 | 10–12 | 10–13 | 9–13 |
@@ -921,11 +925,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 1.5% | 100% |  |
-| 10 | 7% | 98.5% |  |
-| 11 | 49% | 91% | Median |
-| 12 | 22% | 42% |  |
-| 13 | 13% | 20% |  |
+| 9 | 0.8% | 100% |  |
+| 10 | 6% | 99.2% |  |
+| 11 | 43% | 93% |  |
+| 12 | 31% | 50% | Median |
+| 13 | 12% | 20% |  |
 | 14 | 7% | 7% |  |
 | 15 | 0.4% | 0.6% |  |
 | 16 | 0.1% | 0.1% |  |
