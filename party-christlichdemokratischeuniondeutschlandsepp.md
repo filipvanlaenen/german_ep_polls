@@ -485,9 +485,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–22 | 16–22 |
-| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 20 | 19–20 | 18–20 | 17–21 |
-| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 18 | 18–19 | 18–21 | 18–21 | 18–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
+| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 20–21 | 19–21 | 18–21 | 17–21 |
+| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 18 | 18–20 | 18–20 | 18–21 | 18–21 |
 | [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 18–20 | 17–20 | 16–21 | 16–22 |
 | [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 18–22 | 17–22 | 17–22 | 17–22 |
 | [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 20 | 18–20 | 18–21 | 18–21 | 16–22 |
@@ -943,10 +943,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.4% | 100% |  |
 | 16 | 4% | 99.5% |  |
 | 17 | 8% | 95% |  |
-| 18 | 24% | 88% |  |
-| 19 | 28% | 64% | Median |
-| 20 | 26% | 36% |  |
-| 21 | 7% | 10% |  |
+| 18 | 21% | 88% |  |
+| 19 | 29% | 67% | Median |
+| 20 | 26% | 38% |  |
+| 21 | 8% | 12% |  |
 | 22 | 3% | 3% |  |
 | 23 | 0.2% | 0.3% |  |
 | 24 | 0% | 0% |  |
