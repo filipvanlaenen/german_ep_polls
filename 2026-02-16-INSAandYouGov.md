@@ -11,11 +11,11 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Alternative für Deutschland (ESN) | 0.0% | 25.5% | 24.3–26.8% |24.0–27.2% |23.7–27.5% |23.1–28.1% |
-| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 20.1% | 19.0–21.3% |18.7–21.7% |18.4–21.9% |17.9–22.5% |
+| Christlich Demokratische Union Deutschlands (EPP) | 0.0% | 19.0% | 17.9–20.1% |17.6–20.5% |17.3–20.8% |16.8–21.3% |
 | Sozialdemokratische Partei Deutschlands (S&D) | 0.0% | 15.5% | 14.5–16.6% |14.2–16.9% |14.0–17.1% |13.5–17.7% |
 | Bündnis 90/Die Grünen (Greens/EFA) | 0.0% | 11.0% | 10.1–11.9% |9.9–12.2% |9.7–12.4% |9.3–12.9% |
 | Die Linke (GUE/NGL) | 0.0% | 10.0% | 9.2–10.9% |8.9–11.2% |8.7–11.4% |8.4–11.8% |
-| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 5.3% | 4.7–6.1% |4.6–6.2% |4.4–6.4% |4.2–6.8% |
+| Christlich-Soziale Union in Bayern (EPP) | 0.0% | 6.5% | 5.8–7.3% |5.6–7.5% |5.5–7.7% |5.2–8.0% |
 | Bündnis Sahra Wagenknecht (NI) | 0.0% | 4.0% | 3.5–4.6% |3.3–4.8% |3.2–5.0% |3.0–5.3% |
 | Freie Demokratische Partei (RE) | 0.0% | 3.0% | 2.6–3.6% |2.4–3.7% |2.3–3.8% |2.1–4.1% |
 | Freie Wähler (RE) | 0.0% | 1.9% | 1.6–2.4% |1.5–2.5% |1.4–2.6% |1.2–2.8% |
@@ -36,19 +36,19 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#alternative-für-deutschland-(esn)">Alternative für Deutschland (ESN)</a> | 0 | 23 | 23–26 |23–26 |23–26 |22–27 |
-| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0 | 19 | 18–20 |18–20 |18–20 |17–21 |
-| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0 | 14 | 14–15 |13–16 |13–16 |13–17 |
-| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0 | 11 | 10–11 |10–11 |9–11 |9–12 |
-| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0 | 10 | 9–11 |9–11 |9–11 |8–11 |
-| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
-| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 0 | 4 | 4 |3–4 |3–5 |3–5 |
-| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0 | 3 | 3 |2–4 |2–4 |2–4 |
-| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0 | 2 | 2 |2–3 |1–3 |1–3 |
-| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#alternative-für-deutschland-(esn)">Alternative für Deutschland (ESN)</a> | 0 | 24 | 23–25 |23–26 |23–26 |21–28 |
+| <a href="#christlich-demokratische-union-deutschlands-(epp)">Christlich Demokratische Union Deutschlands (EPP)</a> | 0 | 18 | 17–19 |17–20 |16–20 |16–21 |
+| <a href="#sozialdemokratische-partei-deutschlands-(s&d)">Sozialdemokratische Partei Deutschlands (S&D)</a> | 0 | 15 | 14–16 |14–16 |13–16 |13–17 |
+| <a href="#bündnis-90/die-grünen-(greens/efa)">Bündnis 90/Die Grünen (Greens/EFA)</a> | 0 | 11 | 10–12 |10–12 |9–12 |9–12 |
+| <a href="#die-linke-(gue/ngl)">Die Linke (GUE/NGL)</a> | 0 | 10 | 9–10 |9–11 |8–11 |8–11 |
+| <a href="#christlich-soziale-union-in-bayern-(epp)">Christlich-Soziale Union in Bayern (EPP)</a> | 0 | 6 | 6–7 |6–7 |5–7 |5–8 |
+| <a href="#bündnis-sahra-wagenknecht-(ni)">Bündnis Sahra Wagenknecht (NI)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
+| <a href="#freie-demokratische-partei-(re)">Freie Demokratische Partei (RE)</a> | 0 | 3 | 2–3 |2–4 |2–4 |2–4 |
+| <a href="#freie-wähler-(re)">Freie Wähler (RE)</a> | 0 | 2 | 2 |1–2 |1–2 |1–3 |
+| <a href="#partei-mensch-umwelt-tierschutz-(gue/ngl)">Partei Mensch Umwelt Tierschutz (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#die-partei-(ni)">Die PARTEI (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#basisdemokratische-partei-deutschland-(*)">Basisdemokratische Partei Deutschland (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#basisdemokratische-partei-deutschland-(*)">Basisdemokratische Partei Deutschland (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Alternative für Deutschland (ESN)
 
@@ -79,14 +79,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 2% | 100% |  |
-| 23 | 51% | 98% | Median |
-| 24 | 25% | 46% |  |
-| 25 | 11% | 21% |  |
-| 26 | 9% | 10% |  |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.2% | 0.3% |  |
+| 21 | 1.0% | 100% |  |
+| 22 | 1.3% | 99.0% |  |
+| 23 | 26% | 98% |  |
+| 24 | 38% | 72% | Median |
+| 25 | 29% | 34% |  |
+| 26 | 4% | 5% |  |
+| 27 | 0.4% | 0.9% |  |
+| 28 | 0.5% | 0.5% |  |
 | 29 | 0% | 0% |  |
 
 ### Christlich Demokratische Union Deutschlands (EPP)
@@ -112,15 +112,14 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 0.9% | 99.9% |  |
-| 18 | 26% | 99.0% |  |
-| 19 | 57% | 73% | Median |
-| 20 | 13% | 15% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.4% | 0.4% |  |
-| 23 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 3% | 99.9% |  |
+| 17 | 41% | 97% |  |
+| 18 | 37% | 56% | Median |
+| 19 | 15% | 20% |  |
+| 20 | 5% | 5% |  |
+| 21 | 0.5% | 0.5% |  |
+| 22 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
 
@@ -143,11 +142,11 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 5% | 99.9% |  |
-| 14 | 51% | 95% | Median |
-| 15 | 35% | 43% |  |
-| 16 | 7% | 9% |  |
-| 17 | 1.4% | 1.5% |  |
+| 13 | 4% | 99.9% |  |
+| 14 | 23% | 96% |  |
+| 15 | 44% | 72% | Median |
+| 16 | 27% | 28% |  |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
 
 ### Bündnis 90/Die Grünen (Greens/EFA)
@@ -167,10 +166,10 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 5% | 100% |  |
-| 10 | 33% | 95% |  |
-| 11 | 61% | 62% | Median |
-| 12 | 1.2% | 1.2% |  |
+| 9 | 3% | 100% |  |
+| 10 | 17% | 97% |  |
+| 11 | 53% | 80% | Median |
+| 12 | 27% | 27% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
@@ -190,10 +189,10 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.4% | 100% |  |
-| 9 | 16% | 98.6% |  |
-| 10 | 41% | 82% | Median |
-| 11 | 40% | 41% |  |
+| 8 | 3% | 100% |  |
+| 9 | 43% | 97% |  |
+| 10 | 46% | 54% | Median |
+| 11 | 8% | 8% |  |
 | 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 
@@ -209,11 +208,12 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 12% | 100% |  |
-| 5 | 61% | 88% | Median |
-| 6 | 27% | 27% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 5% | 100% |  |
+| 6 | 78% | 95% | Median |
+| 7 | 16% | 17% |  |
+| 8 | 0.7% | 0.7% |  |
+| 9 | 0% | 0% |  |
 
 ### Bündnis Sahra Wagenknecht (NI)
 
@@ -226,10 +226,11 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 87% | 92% | Median |
-| 5 | 5% | 5% |  |
-| 6 | 0% | 0% |  |
+| 3 | 46% | 100% |  |
+| 4 | 45% | 54% | Median |
+| 5 | 9% | 9% |  |
+| 6 | 0.4% | 0.4% |  |
+| 7 | 0% | 0% |  |
 
 ### Freie Demokratische Partei (RE)
 
@@ -241,9 +242,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 8% | 100% |  |
-| 3 | 85% | 92% | Median |
-| 4 | 7% | 7% |  |
+| 2 | 16% | 100% |  |
+| 3 | 79% | 84% | Median |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
 ### Freie Wähler (RE)
@@ -255,9 +256,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 90% | 97% | Median |
-| 3 | 7% | 7% |  |
+| 1 | 7% | 100% |  |
+| 2 | 91% | 93% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Partei Mensch Umwelt Tierschutz (GUE/NGL)
@@ -269,8 +270,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
@@ -281,9 +282,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 99.3% | 99.7% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.3% | 99.5% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 ### Die PARTEI (NI)
@@ -294,8 +295,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 85% | 85% | Median |
+| 0 | 34% | 100% | Last Result |
+| 1 | 66% | 66% | Median |
 | 2 | 0% | 0% |  |
 
 ### Basisdemokratische Partei Deutschland (*)
@@ -306,8 +307,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -319,10 +320,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alternative für Deutschland (ESN) | 0 | 23 | 0% | 23–26 | 23–26 | 23–26 | 22–27 |
-| Sozialdemokratische Partei Deutschlands (S&D) | 0 | 14 | 0% | 14–15 | 13–16 | 13–16 | 13–17 |
-| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 5 | 0% | 5–6 | 4–6 | 4–6 | 3–6 |
-| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 5 | 0% | 4–5 | 4–5 | 4–5 | 3–6 |
+| Alternative für Deutschland (ESN) | 0 | 24 | 0% | 23–25 | 23–26 | 23–26 | 21–28 |
+| Sozialdemokratische Partei Deutschlands (S&D) | 0 | 15 | 0% | 14–16 | 14–16 | 13–16 | 13–17 |
+| Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 4 | 0% | 3–5 | 3–6 | 3–6 | 3–6 |
+| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 5 | 0% | 4–5 | 4–6 | 3–6 | 3–6 |
 
 ### Alternative für Deutschland (ESN)
 
@@ -351,14 +352,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 2% | 100% |  |
-| 23 | 51% | 98% | Median |
-| 24 | 25% | 46% |  |
-| 25 | 11% | 21% |  |
-| 26 | 9% | 10% |  |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.2% | 0.3% |  |
+| 21 | 1.0% | 100% |  |
+| 22 | 1.3% | 99.0% |  |
+| 23 | 26% | 98% |  |
+| 24 | 38% | 72% | Median |
+| 25 | 29% | 34% |  |
+| 26 | 4% | 5% |  |
+| 27 | 0.4% | 0.9% |  |
+| 28 | 0.5% | 0.5% |  |
 | 29 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Deutschlands (S&D)
@@ -380,27 +381,12 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 5% | 99.9% |  |
-| 14 | 51% | 95% | Median |
-| 15 | 35% | 43% |  |
-| 16 | 7% | 9% |  |
-| 17 | 1.4% | 1.5% |  |
+| 13 | 4% | 99.9% |  |
+| 14 | 23% | 96% |  |
+| 15 | 44% | 72% | Median |
+| 16 | 27% | 28% |  |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
-
-### Freie Demokratische Partei (RE) – Freie Wähler (RE)
-
-![Graph with seats probability mass function not yet produced](2026-02-16-INSAandYouGov-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 1.1% | 100% |  |
-| 4 | 8% | 98.9% |  |
-| 5 | 77% | 90% | Median |
-| 6 | 14% | 14% |  |
-| 7 | 0% | 0% |  |
 
 ### Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI)
 
@@ -411,11 +397,28 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.6% | 100% |  |
-| 4 | 19% | 99.4% |  |
-| 5 | 78% | 80% | Median |
-| 6 | 2% | 2% |  |
-| 7 | 0% | 0% |  |
+| 3 | 22% | 100% |  |
+| 4 | 35% | 78% |  |
+| 5 | 36% | 43% | Median |
+| 6 | 7% | 8% |  |
+| 7 | 0.4% | 0.4% |  |
+| 8 | 0% | 0% |  |
+
+### Freie Demokratische Partei (RE) – Freie Wähler (RE)
+
+![Graph with seats probability mass function not yet produced](2026-02-16-INSAandYouGov-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 4% | 100% |  |
+| 4 | 15% | 96% |  |
+| 5 | 75% | 81% | Median |
+| 6 | 6% | 6% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -430,5 +433,5 @@
 
 + **Sample size:** 2002
 + **Simulations done:** 2,097,152
-+ **Error estimate:** 1.16%
++ **Error estimate:** 1.72%
 

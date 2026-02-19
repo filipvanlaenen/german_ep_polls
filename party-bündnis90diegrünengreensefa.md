@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 10.6–13.7% | 10.2–14.2% | 9.9–14.6% | 9.4–15.4% |
-| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | N/A | N/A | N/A | N/A |
-| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 11.9% | 10.5–13.5% | 10.2–14.0% | 9.9–14.4% | 9.4–15.3% |
+| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
+| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.6% | 10.1–14.1% |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
 | [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.5–13.8% | 10.0–14.4% |
 | [6–9 February 2026](2026-02-09-YouGov.html) | YouGov | 10.9% | 9.9–11.9% | 9.7–12.2% | 9.4–12.5% | 9.0–13.0% |
@@ -463,14 +463,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.9% | 100% |  |
-| 9.5–10.5% | 8% | 99.1% |  |
-| 10.5–11.5% | 24% | 91% |  |
-| 11.5–12.5% | 31% | 67% | Median |
-| 12.5–13.5% | 23% | 35% |  |
-| 13.5–14.5% | 10% | 12% |  |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.3% | 0.4% |  |
+| 8.5–9.5% | 0.8% | 100% |  |
+| 9.5–10.5% | 9% | 99.2% |  |
+| 10.5–11.5% | 28% | 90% |  |
+| 11.5–12.5% | 32% | 62% | Median |
+| 12.5–13.5% | 20% | 30% |  |
+| 13.5–14.5% | 8% | 10% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -482,9 +482,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 9–14 |
-| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 9–14 |
+| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
+| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
 | [6–9 February 2026](2026-02-09-YouGov.html) | YouGov | 10 | 9–11 | 9–11 | 9–11 | 9–13 |
@@ -937,13 +937,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 6% | 100% |  |
-| 10 | 15% | 94% |  |
-| 11 | 41% | 79% | Median |
-| 12 | 16% | 38% |  |
-| 13 | 13% | 22% |  |
-| 14 | 9% | 10% |  |
-| 15 | 0.2% | 0.3% |  |
+| 9 | 5% | 100% |  |
+| 10 | 14% | 95% |  |
+| 11 | 43% | 81% | Median |
+| 12 | 20% | 38% |  |
+| 13 | 11% | 18% |  |
+| 14 | 7% | 7% |  |
+| 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
 
