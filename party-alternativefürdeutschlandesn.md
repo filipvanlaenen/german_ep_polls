@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 22.6–26.3% | 22.1–26.9% | 21.6–27.5% | 20.8–28.6% |
+| N/A | [Poll Average](average.html) | 24.3% | 22.5–26.1% | 22.0–26.7% | 21.6–27.3% | 20.8–28.5% |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 22.9% | 21.5–24.5% | 21.1–24.9% | 20.7–25.3% | 20.1–26.0% |
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | 23.8–26.3% | 23.5–26.7% | 23.2–27.0% | 22.6–27.6% |
 | [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 24.0% | 22.7–25.3% | 22.4–25.7% | 22.1–26.0% | 21.5–26.6% |
-| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | N/A | N/A | N/A | N/A |
-| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.0% | N/A | N/A | N/A | N/A |
+| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | 23.5–26.7% | 23.0–27.1% | 22.6–27.6% | 21.9–28.4% |
+| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 24.0% | 22.5–25.6% | 22.1–26.1% | 21.7–26.4% | 21.0–27.2% |
 | [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | 23.8–26.3% | 23.5–26.7% | 23.2–27.0% | 22.6–27.6% |
 | [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 24.0% | 22.8–25.3% | 22.4–25.7% | 22.1–26.0% | 21.5–26.7% |
 | [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.0% | N/A | N/A | N/A | N/A |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 24.0% | 22.3–25.7% | 21.9–26.2% | 21.5–26.6% | 20.7–27.5% |
 | [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.5% | 24.3–26.8% | 24.0–27.2% | 23.7–27.5% | 23.1–28.1% |
 | [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 25.0% | 23.7–26.3% | 23.4–26.7% | 23.1–27.0% | 22.5–27.7% |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25.0% | 23.5–26.7% | 23.0–27.2% | 22.7–27.6% | 21.9–28.4% |
@@ -487,13 +487,13 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0.3% | 100% |  |
 | 20.5–21.5% | 2% | 99.7% |  |
 | 21.5–22.5% | 8% | 98% |  |
-| 22.5–23.5% | 18% | 90% |  |
-| 23.5–24.5% | 27% | 72% | Median |
-| 24.5–25.5% | 24% | 45% |  |
-| 25.5–26.5% | 14% | 21% |  |
-| 26.5–27.5% | 5% | 7% |  |
-| 27.5–28.5% | 2% | 2% |  |
-| 28.5–29.5% | 0.5% | 0.6% |  |
+| 22.5–23.5% | 19% | 90% |  |
+| 23.5–24.5% | 28% | 71% | Median |
+| 24.5–25.5% | 24% | 43% |  |
+| 25.5–26.5% | 13% | 19% |  |
+| 26.5–27.5% | 5% | 6% |  |
+| 27.5–28.5% | 1.4% | 2% |  |
+| 28.5–29.5% | 0.4% | 0.4% |  |
 | 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -511,12 +511,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 22 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 22 | 22–25 | 21–26 | 21–26 | 21–26 |
-| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 23 | 22–23 | 22–24 | 21–24 | 20–25 |
 | [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 23 | 23 | 23 | 22–23 | 21–24 |
 | [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–26 | 22–27 | 21–27 | 21–27 |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 23 | 21–24 | 21–24 | 20–25 | 20–26 |
 | [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–25 | 23–26 | 23–26 | 21–28 |
 | [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 24 | 23–25 | 22–26 | 22–26 | 22–26 |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 23–25 | 23–26 | 22–26 | 21–26 |
@@ -982,15 +982,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
-| 20 | 1.2% | 99.9% |  |
-| 21 | 12% | 98.7% |  |
-| 22 | 25% | 87% |  |
-| 23 | 29% | 61% | Median |
-| 24 | 20% | 32% |  |
-| 25 | 8% | 12% |  |
-| 26 | 3% | 5% |  |
-| 27 | 0.6% | 1.4% |  |
-| 28 | 0.7% | 0.7% |  |
+| 20 | 1.3% | 99.8% |  |
+| 21 | 11% | 98.6% |  |
+| 22 | 25% | 88% |  |
+| 23 | 33% | 63% | Median |
+| 24 | 20% | 30% |  |
+| 25 | 6% | 10% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.5% | 1.1% |  |
+| 28 | 0.6% | 0.6% |  |
 | 29 | 0% | 0% |  |
 
 
