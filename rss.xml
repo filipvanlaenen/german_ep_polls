@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Mar 2026 21:22:31 +0100</pubDate>
+    <pubDate>Sat, 07 Mar 2026 11:41:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Infratest dimap for SWR, 2–4 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-03-04-Infratestdimap.html#seats</link>
@@ -130,6 +130,66 @@
       <dc:date>2026-03-06T21:22:31.590141+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 23–27 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–26 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–12 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov-seats.png"
+        length="364147"
+        type="image/png"/>
+      <pubDate>Fri, 06 Mar 2026 22:51:58 +0100</pubDate>
+      <dc:date>2026-03-06T22:51:58.426626+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 23–27 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov-coalitions-seats.png"
+        length="212247"
+        type="image/png"/>
+      <pubDate>Fri, 06 Mar 2026 22:51:58 +0100</pubDate>
+      <dc:date>2026-03-06T22:51:58.426626+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 23–27 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.0–18.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22.6–27.6%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.4–11.8%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.3–22.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.3–6.9%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.4–3.1%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-27-INSAandYouGov.png"
+        length="415616"
+        type="image/png"/>
+      <pubDate>Fri, 06 Mar 2026 22:51:58 +0100</pubDate>
+      <dc:date>2026-03-06T22:51:58.426626+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 24–26 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 21–24 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10–13 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen-seats.png"
+        length="363135"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 08:59:06 +0100</pubDate>
+      <dc:date>2026-03-07T08:59:06.882477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 24–26 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen-coalitions-seats.png"
+        length="205570"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 08:59:06 +0100</pubDate>
+      <dc:date>2026-03-07T08:59:06.882477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 24–26 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.1–17.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 21.7–26.4%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.4–5.6%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9.4–12.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.4–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.3–6.9%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10.3–13.9%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.8–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-26-ForschungsgruppeWahlen.png"
+        length="418121"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 08:59:06 +0100</pubDate>
+      <dc:date>2026-03-07T08:59:06.882477+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 20–23 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-23-INSAandYouGov.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–25 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 8–12 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -218,6 +278,36 @@
         type="image/png"/>
       <pubDate>Sun, 22 Feb 2026 16:47:34 +0100</pubDate>
       <dc:date>2026-02-22T16:47:34.1316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 6–19 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–18 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 20–25 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 16–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–15 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach-seats.png"
+        length="395320"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 11:41:46 +0100</pubDate>
+      <dc:date>2026-03-07T11:41:46.54752+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 6–19 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach-coalitions-seats.png"
+        length="237252"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 11:41:46 +0100</pubDate>
+      <dc:date>2026-03-07T11:41:46.54752+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 6–19 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.9–18.3%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.5%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 21.5–26.6%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.9–23.9%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10.2–14.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-02-19-Allensbach.png"
+        length="424567"
+        type="image/png"/>
+      <pubDate>Sat, 07 Mar 2026 11:41:46 +0100</pubDate>
+      <dc:date>2026-03-07T11:41:46.54752+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 13–16 February 2026 – Seat Projections for the Parties</title>
@@ -10869,6 +10959,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2026-03-06T21:22:31.590141+01:00</dc:date>
+    <dc:date>2026-03-07T11:41:46.54752+01:00</dc:date>
   </channel>
 </rss>
