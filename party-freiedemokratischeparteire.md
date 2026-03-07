@@ -484,9 +484,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–4 | 0–5 | 0–5 | 0–5 |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3 | 3 | 2–4 | 2–4 |
+| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
@@ -939,10 +939,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 10% | 100% | Last Result |
-| 1 | 1.2% | 90% |  |
-| 2 | 4% | 89% |  |
-| 3 | 36% | 84% | Median |
-| 4 | 41% | 49% |  |
+| 1 | 1.1% | 90% |  |
+| 2 | 5% | 89% |  |
+| 3 | 37% | 84% | Median |
+| 4 | 39% | 47% |  |
 | 5 | 8% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
