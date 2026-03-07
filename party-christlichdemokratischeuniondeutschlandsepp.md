@@ -501,7 +501,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–24 | 16–24 |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
@@ -511,7 +511,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–20 | 17–20 | 17–21 | 17–21 |
 | [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 21 | 21 | 20–21 | 19–21 | 18–22 |
 | [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–20 | 17–20 | 17–21 | 16–22 |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 17–21 | 17–22 | 16–23 | 16–23 |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 20 | 17–24 | 17–24 | 17–24 | 16–24 |
 | [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
@@ -973,15 +973,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 5% | 99.8% |  |
-| 17 | 7% | 95% |  |
-| 18 | 19% | 88% |  |
-| 19 | 29% | 69% | Median |
-| 20 | 26% | 40% |  |
-| 21 | 11% | 14% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.7% | 0.8% |  |
-| 24 | 0.1% | 0.1% |  |
+| 16 | 4% | 99.8% |  |
+| 17 | 6% | 95% |  |
+| 18 | 19% | 89% |  |
+| 19 | 29% | 71% | Median |
+| 20 | 26% | 42% |  |
+| 21 | 10% | 16% |  |
+| 22 | 3% | 7% |  |
+| 23 | 0.7% | 3% |  |
+| 24 | 3% | 3% |  |
 | 25 | 0% | 0% |  |
 
 

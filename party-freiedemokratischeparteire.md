@@ -492,7 +492,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3 | 3 | 3 | 2–4 |
 | [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -941,9 +941,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 10% | 100% | Last Result |
 | 1 | 1.1% | 90% |  |
 | 2 | 5% | 89% |  |
-| 3 | 40% | 84% | Median |
-| 4 | 37% | 44% |  |
-| 5 | 7% | 8% |  |
+| 3 | 41% | 84% | Median |
+| 4 | 37% | 43% |  |
+| 5 | 6% | 6% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
