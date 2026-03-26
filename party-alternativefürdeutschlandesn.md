@@ -518,15 +518,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 24–26 | 24–27 | 24–27 | 23–27 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 23 | 22–24 | 22–25 | 22–25 | 21–27 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–27 | 19–27 |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 24–27 | 24–27 | 23–27 | 23–27 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 22 | 22–24 | 22–26 | 22–26 | 21–27 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 22 | 20–24 | 20–24 | 20–24 | 19–24 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 22 | 20–24 | 19–24 | 19–25 | 19–26 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 22 | 21–23 | 20–24 | 20–24 | 19–24 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 24 | 22–25 | 21–25 | 21–25 | 21–26 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
@@ -1005,17 +1005,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 0.4% | 99.9% |  |
-| 20 | 3% | 99.5% |  |
-| 21 | 9% | 97% |  |
-| 22 | 23% | 87% |  |
-| 23 | 22% | 64% | Median |
-| 24 | 25% | 42% |  |
-| 25 | 10% | 18% |  |
-| 26 | 6% | 8% |  |
-| 27 | 1.4% | 1.4% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.9% | 100% |  |
+| 20 | 3% | 99.0% |  |
+| 21 | 9% | 96% |  |
+| 22 | 22% | 87% |  |
+| 23 | 20% | 65% | Median |
+| 24 | 27% | 45% |  |
+| 25 | 9% | 18% |  |
+| 26 | 7% | 9% |  |
+| 27 | 3% | 3% |  |
+| 28 | 0% | 0% |  |
 
 

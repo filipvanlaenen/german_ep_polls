@@ -492,15 +492,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 1–2 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 1 | 1 | 1 | 1–2 | 0–2 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 1–2 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 1–2 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -961,8 +961,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 77% | 95% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 78% | 96% | Median |
 | 2 | 18% | 18% |  |
 | 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |

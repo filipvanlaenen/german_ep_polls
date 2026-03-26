@@ -504,14 +504,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–12 |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 10 | 9–10 | 9–11 | 9–11 | 8–12 |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–10 | 9–11 | 9–11 | 8–12 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 10 | 9–10 | 8–11 | 7–11 | 7–12 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -979,12 +979,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.8% | 100% |  |
-| 8 | 8% | 99.2% |  |
-| 9 | 32% | 91% |  |
-| 10 | 37% | 59% | Median |
-| 11 | 15% | 23% |  |
-| 12 | 7% | 7% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 8% | 99.3% |  |
+| 9 | 36% | 91% |  |
+| 10 | 30% | 55% | Median |
+| 11 | 17% | 25% |  |
+| 12 | 7% | 8% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 

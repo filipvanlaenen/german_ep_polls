@@ -499,13 +499,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 5 | 5–6 | 4–6 | 4–7 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -972,8 +972,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 6% | 99.9% |  |
 | 5 | 53% | 94% | Median |
-| 6 | 33% | 40% |  |
-| 7 | 7% | 7% |  |
+| 6 | 35% | 41% |  |
+| 7 | 6% | 6% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 

@@ -495,15 +495,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -966,11 +966,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 14% | 100% |  |
-| 3 | 55% | 86% | Median |
+| 2 | 11% | 100% |  |
+| 3 | 57% | 89% | Median |
 | 4 | 27% | 32% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0.1% | 0.1% |  |
+| 5 | 5% | 5% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

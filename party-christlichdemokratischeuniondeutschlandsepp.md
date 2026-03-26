@@ -516,14 +516,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–21 | 18–21 | 18–21 | 18–22 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 20 | 18–22 | 18–22 | 18–22 | 18–22 |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 20 | 18–20 | 18–20 | 18–21 | 17–22 |
 | [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 19–21 | 18–21 | 18–21 | 17–21 |
 | [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 21 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
-| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
+| [12 March 2026](2026-03-12-Allensbach.html) | Allensbach | 21 | 20–23 | 19–23 | 18–23 | 18–24 |
 | [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–21 | 17–21 | 17–21 | 17–22 |
 | [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 19 | 19–21 | 18–21 | 18–21 | 17–22 |
@@ -1003,11 +1003,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.3% | 100% |  |
 | 17 | 3% | 99.7% |  |
 | 18 | 13% | 97% |  |
-| 19 | 29% | 83% |  |
-| 20 | 33% | 54% | Median |
-| 21 | 14% | 21% |  |
-| 22 | 6% | 8% |  |
-| 23 | 2% | 2% |  |
+| 19 | 32% | 84% |  |
+| 20 | 33% | 52% | Median |
+| 21 | 13% | 19% |  |
+| 22 | 5% | 7% |  |
+| 23 | 1.5% | 2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
