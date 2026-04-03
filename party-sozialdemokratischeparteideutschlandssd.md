@@ -520,7 +520,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 12 | 10–12 | 10–12 | 10–13 | 10–14 |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–14 | 11–14 | 11–14 | 11–15 |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 11–15 | 11–15 | 11–15 | 10–15 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 12 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1000,11 +1000,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.7% | 100% |  |
 | 10 | 8% | 99.3% |  |
-| 11 | 13% | 91% |  |
-| 12 | 11% | 78% |  |
-| 13 | 13% | 67% |  |
-| 14 | 29% | 54% | Median |
-| 15 | 14% | 25% |  |
+| 11 | 12% | 91% |  |
+| 12 | 12% | 79% |  |
+| 13 | 13% | 68% |  |
+| 14 | 28% | 55% | Median |
+| 15 | 15% | 26% |  |
 | 16 | 9% | 11% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.4% | 0.4% |  |
