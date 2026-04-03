@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 18.9–22.3% | 18.4–22.8% | 17.9–23.4% | 16.9–24.5% |
+| N/A | [Poll Average](average.html) | 20.6% | 19.0–22.2% | 18.4–22.8% | 17.9–23.3% | 17.0–24.4% |
 | [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 20.5% | 19.1–22.0% | 18.7–22.4% | 18.4–22.8% | 17.8–23.5% |
 | [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.5% | 19.4–21.7% | 19.1–22.1% | 18.8–22.4% | 18.3–23.0% |
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 20.5% | 19.4–21.8% | 19.1–22.1% | 18.8–22.4% | 18.2–23.0% |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.5% | N/A | N/A | N/A | N/A |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20.6% | N/A | N/A | N/A | N/A |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–22.9% | 17.7–23.7% |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.5% | 19.4–21.7% | 19.1–22.1% | 18.8–22.4% | 18.3–23.0% |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 20.5% | 19.4–21.8% | 19.0–22.1% | 18.7–22.4% | 18.2–23.0% |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20.5% | N/A | N/A | N/A | N/A |
@@ -500,15 +500,15 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.3% | 99.8% |  |
-| 17.5–18.5% | 5% | 98.5% |  |
+| 16.5–17.5% | 1.1% | 99.8% |  |
+| 17.5–18.5% | 4% | 98.6% |  |
 | 18.5–19.5% | 14% | 94% |  |
 | 19.5–20.5% | 29% | 80% |  |
 | 20.5–21.5% | 29% | 51% | Median |
-| 21.5–22.5% | 15% | 22% |  |
+| 21.5–22.5% | 15% | 21% |  |
 | 22.5–23.5% | 5% | 7% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.4% | 0.4% |  |
+| 23.5–24.5% | 1.5% | 2% |  |
+| 24.5–25.5% | 0.3% | 0.4% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -527,7 +527,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 20 | 19–20 | 19–20 | 18–21 | 18–21 |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 19 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–21 | 19–21 | 19–22 | 17–23 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1013,13 +1013,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 0.5% | 99.9% |  |
-| 17 | 3% | 99.4% |  |
-| 18 | 12% | 97% |  |
-| 19 | 42% | 85% | Median |
-| 20 | 28% | 44% |  |
-| 21 | 11% | 16% |  |
+| 17 | 2% | 99.5% |  |
+| 18 | 10% | 97% |  |
+| 19 | 39% | 87% | Median |
+| 20 | 25% | 48% |  |
+| 21 | 18% | 23% |  |
 | 22 | 3% | 5% |  |
-| 23 | 1.4% | 2% |  |
+| 23 | 1.5% | 2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
