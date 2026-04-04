@@ -513,13 +513,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
 | [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 13 | 13–15 | 12–15 | 12–15 | 11–15 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 13–15 | 13–16 | 13–18 | 13–18 |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 15 | 13–15 | 13–16 | 13–16 | 13–18 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 14 | 13–15 | 13–16 | 13–17 | 13–17 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1002,11 +1002,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 20% | 92% |  |
 | 12 | 21% | 72% |  |
 | 13 | 18% | 51% | Median |
-| 14 | 17% | 33% |  |
-| 15 | 13% | 17% |  |
+| 14 | 18% | 33% |  |
+| 15 | 12% | 15% |  |
 | 16 | 3% | 3% |  |
-| 17 | 0.2% | 0.6% |  |
-| 18 | 0.4% | 0.4% |  |
+| 17 | 0.2% | 0.4% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

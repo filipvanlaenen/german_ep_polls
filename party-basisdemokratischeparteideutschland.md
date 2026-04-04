@@ -502,7 +502,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0–1 |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |

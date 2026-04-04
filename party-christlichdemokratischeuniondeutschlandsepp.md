@@ -521,13 +521,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 18–21 | 18–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19 | 18–21 | 18–21 | 18–21 | 18–21 |
 | [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 20 | 19–20 | 18–21 | 18–21 | 17–22 |
 | [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 21 | 19–21 | 18–21 | 18–22 | 17–23 |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1014,11 +1014,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.6% | 100% |  |
 | 17 | 2% | 99.4% |  |
-| 18 | 16% | 98% |  |
-| 19 | 33% | 81% | Median |
-| 20 | 28% | 48% |  |
-| 21 | 15% | 20% |  |
-| 22 | 3% | 5% |  |
+| 18 | 19% | 97% |  |
+| 19 | 33% | 78% | Median |
+| 20 | 27% | 45% |  |
+| 21 | 13% | 18% |  |
+| 22 | 4% | 5% |  |
 | 23 | 1.4% | 2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
