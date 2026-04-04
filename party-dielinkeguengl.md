@@ -510,10 +510,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
-| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
-| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
-| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 10 | 10–12 | 9–12 | 9–12 | 9–13 |
+| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
+| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 10 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 10 | 9–10 | 9–10 | 8–10 | 7–11 |
 | [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 9 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -994,10 +994,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.7% | 100% |  |
 | 8 | 7% | 99.3% |  |
 | 9 | 24% | 92% |  |
-| 10 | 51% | 69% | Median |
-| 11 | 15% | 17% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.3% | 0.3% |  |
+| 10 | 53% | 68% | Median |
+| 11 | 13% | 15% |  |
+| 12 | 1.4% | 2% |  |
+| 13 | 0.2% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
