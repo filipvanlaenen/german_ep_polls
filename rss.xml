@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 Apr 2026 12:22:51 +0200</pubDate>
+    <pubDate>Sun, 19 Apr 2026 16:04:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 13–17 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 23–30 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 16–20 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov-seats.png"
+        length="361888"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 14:20:30 +0200</pubDate>
+      <dc:date>2026-04-19T14:20:30.836759+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 13–17 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov-coalitions-seats.png"
+        length="218231"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 14:20:30 +0200</pubDate>
+      <dc:date>2026-04-19T14:20:30.836759+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 13–17 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.1–16.1%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 24.5–29.6%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 16.9–21.3%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.0–6.5%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-17-INSAandYouGov.png"
+        length="408131"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 14:20:30 +0200</pubDate>
+      <dc:date>2026-04-19T14:20:30.836759+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 10–13 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-13-YouGov.html#seats</link>
@@ -128,6 +158,36 @@
         type="image/png"/>
       <pubDate>Mon, 13 Apr 2026 22:00:33 +0200</pubDate>
       <dc:date>2026-04-13T22:00:33.50566+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 23 March–9 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–26 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 10–14 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach-seats.png"
+        length="368068"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 16:04:43 +0200</pubDate>
+      <dc:date>2026-04-19T16:04:43.506161+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 23 March–9 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach-coalitions-seats.png"
+        length="223579"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 16:04:43 +0200</pubDate>
+      <dc:date>2026-04-19T16:04:43.506161+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Allensbach for Frankfurter Allgemeine Zeitung, 23 March–9 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 12.0–16.2%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22.5–27.7%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.4–12.0%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.2–23.1%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.3–7.0%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 11.1–15.1%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-04-09-Allensbach.png"
+        length="424946"
+        type="image/png"/>
+      <pubDate>Sun, 19 Apr 2026 16:04:43 +0200</pubDate>
+      <dc:date>2026-04-19T16:04:43.506161+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for FOCUS, 30 March–7 April 2026 – Seat Projections for the Parties</title>
@@ -6850,7 +6910,7 @@
       <dc:date>2025-04-08T22:56:30.498397+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Infratest dimap for ARD, 31 March–2 April 2025 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Infratest dimap, 2 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 21–26 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–13 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap-seats.png"
@@ -6860,7 +6920,7 @@
       <dc:date>2025-04-20T21:54:02.285656+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Infratest dimap for ARD, 31 March–2 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Infratest dimap, 2 April 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap-coalitions-seats.png"
@@ -6870,7 +6930,7 @@
       <dc:date>2025-04-20T21:54:02.285656+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Infratest dimap for ARD, 31 March–2 April 2025 – Voting Intentions</title>
+      <title>Opinion Poll by Infratest dimap, 2 April 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 14.1–18.0%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 21.8–26.4%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.5–11.7%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 18.5–22.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.4–6.8%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9.4–12.8%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.5–1.5%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.0–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-04-02-Infratestdimap.png"
@@ -7150,7 +7210,7 @@
       <dc:date>2025-03-22T23:23:57.910608+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Allensbach for FAZ, 27 February–11 March 2025 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Allensbach, 11 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13–18 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 17–23 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9–14 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach-seats.png"
@@ -7160,7 +7220,7 @@
       <dc:date>2025-04-20T22:59:50.320991+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Allensbach for FAZ, 27 February–11 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Allensbach, 11 March 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach-coalitions-seats.png"
@@ -7170,7 +7230,7 @@
       <dc:date>2025-04-20T22:59:50.320991+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Allensbach for FAZ, 27 February–11 March 2025 – Voting Intentions</title>
+      <title>Opinion Poll by Allensbach, 11 March 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 13.9–18.4%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.0–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 18.7–23.7%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 20.4–25.6%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Partei Mensch Umwelt Tierschutz (GUE/NGL): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 9.7–13.6%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2025-03-11-Allensbach.png"
@@ -11679,6 +11739,6 @@
       <pubDate>Sun, 04 Aug 2024 15:15:52 +0200</pubDate>
       <dc:date>2024-08-04T15:15:52.029433+02:00</dc:date>
     </item>
-    <dc:date>2026-04-18T12:22:51.932217+02:00</dc:date>
+    <dc:date>2026-04-19T16:04:43.506161+02:00</dc:date>
   </channel>
 </rss>
