@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.9–21.4% | 17.4–22.0% | 17.1–22.4% | 16.4–23.3% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.8–21.4% | 17.4–22.0% | 17.0–22.4% | 16.3–23.3% |
+| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.8–21.3% | 16.2–22.0% |
 | [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.3–20.8% | 16.8–21.3% |
 | [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv | 19.0% | 17.8–20.2% | 17.5–20.5% | 17.2–20.8% | 16.7–21.4% |
 | [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | 17.6–20.5% | 17.2–20.9% | 16.9–21.3% | 16.2–22.1% |
@@ -511,11 +512,11 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.7% | 100% |  |
-| 16.5–17.5% | 5% | 99.3% |  |
-| 17.5–18.5% | 17% | 94% |  |
-| 18.5–19.5% | 27% | 77% |  |
-| 19.5–20.5% | 25% | 49% | Median |
+| 15.5–16.5% | 0.8% | 100% |  |
+| 16.5–17.5% | 6% | 99.1% |  |
+| 17.5–18.5% | 17% | 93% |  |
+| 18.5–19.5% | 26% | 76% |  |
+| 19.5–20.5% | 25% | 50% | Median |
 | 20.5–21.5% | 16% | 25% |  |
 | 21.5–22.5% | 7% | 9% |  |
 | 22.5–23.5% | 2% | 2% |  |
@@ -532,6 +533,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov | 19 | 18–19 | 17–19 | 16–19 | 16–21 |
 | [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
 | [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv | 18 | 17–19 | 17–19 | 16–20 | 16–21 |
 | [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
@@ -1035,10 +1037,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
 | 16 | 2% | 99.8% |  |
-| 17 | 18% | 98% |  |
-| 18 | 26% | 80% |  |
-| 19 | 30% | 54% | Median |
-| 20 | 15% | 24% |  |
+| 17 | 14% | 98% |  |
+| 18 | 27% | 84% |  |
+| 19 | 34% | 56% | Median |
+| 20 | 14% | 23% |  |
 | 21 | 7% | 9% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.4% | 0.5% |  |
