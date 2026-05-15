@@ -11,8 +11,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.2% | 24.0–28.4% | 23.5–29.0% | 23.1–29.5% | 22.2–30.5% |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 28.0% | 26.6–29.4% | 26.3–29.8% | 25.9–30.1% | 25.3–30.8% |
+| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
+| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 27.0% | 25.9–28.2% | 25.5–28.5% | 25.3–28.8% | 24.8–29.3% |
+| [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.9–30.4% |
 | [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 27.0% | 25.5–28.6% | 25.0–29.1% | 24.7–29.5% | 23.9–30.3% |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 25.0% | 23.6–26.5% | 23.2–26.9% | 22.8–27.3% | 22.2–28.0% |
 | [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27.5% | 26.2–28.8% | 25.9–29.2% | 25.6–29.5% | 25.0–30.1% |
 | [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | 26.4–29.7% | 25.9–30.2% | 25.5–30.6% | 24.8–31.4% |
@@ -548,8 +553,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–28 | 21–28 |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 27 | 25–29 | 25–29 | 25–29 | 24–29 |
+| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 26–27 | 25–28 | 25–28 | 24–29 |
+| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 26 | 25–27 | 24–27 | 24–27 | 23–28 |
+| [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 25 | 24–27 | 24–28 | 23–28 | 23–28 |
 | [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 24–28 | 24–28 | 24–28 | 22–30 |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 25 | 23–26 | 23–26 | 23–26 | 22–26 |
 | [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27 | 25–28 | 24–28 | 24–28 | 24–29 |
 | [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 26 | 26 | 25–26 | 24–27 | 24–28 |
 | [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–27 | 25–27 | 24–28 | 24–29 |
