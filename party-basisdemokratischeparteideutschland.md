@@ -14,311 +14,312 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
+| [1 June 2026](2026-06-01-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [27 May–1 June 2026](2026-06-01-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [26 May–1 June 2026](2026-06-01-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [26–29 May 2026](2026-05-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [26 May–1 June 2026](2026-06-01-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.0–0.4% | 0.0–0.4% | 0.0–0.4% | 0.0–0.8% |
+| [26–29 May 2026](2026-05-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
 | [22–26 May 2026](2026-05-26-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.1% | 0.1–0.4% | 0.1–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.1% | N/A | N/A | N/A | N/A |
+| [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [11–15 May 2026](2026-05-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% |
-| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
-| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
 | [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [14–16 April 2026](2026-04-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.1% | 0.1–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [10–13 April 2026](2026-04-13-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% |
-| [10–13 April 2026](2026-04-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [7–13 April 2026](2026-04-13-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
-| [7–10 April 2026](2026-04-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [23 March–9 April 2026](2026-04-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [30 March–7 April 2026](2026-04-07-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [2–7 April 2026](2026-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [30 March–2 April 2026](2026-04-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [31 March–2 April 2026](2026-04-02-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% |
-| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 0.1% | N/A | N/A | N/A | N/A |
+| [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | N/A | N/A | N/A | N/A |
+| [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [14–16 April 2026](2026-04-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.1% | N/A | N/A | N/A | N/A |
+| [10–13 April 2026](2026-04-13-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [10–13 April 2026](2026-04-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [7–13 April 2026](2026-04-13-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [7–10 April 2026](2026-04-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [23 March–9 April 2026](2026-04-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [30 March–7 April 2026](2026-04-07-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [2–7 April 2026](2026-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [30 March–2 April 2026](2026-04-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.3% | N/A | N/A | N/A | N/A |
+| [31 March–2 April 2026](2026-04-02-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 0.2% | N/A | N/A | N/A | N/A |
+| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.1% | N/A | N/A | N/A | N/A |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 0.4% | 0.2–0.6% | 0.2–0.7% | 0.2–0.7% | 0.1–0.9% |
-| [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [27 February–12 March 2026](2026-03-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
+| [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 0.4% | N/A | N/A | N/A | N/A |
+| [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [27 February–12 March 2026](2026-03-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | N/A | N/A | N/A | N/A |
+| [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
 | [2–6 March 2026](2026-03-06-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
-| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [6–9 February 2026](2026-02-09-YouGov.html) | YouGov | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [6–8 February 2026](2026-02-08-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% |
-| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 0.3% | N/A | N/A | N/A | N/A |
+| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 0.2% | N/A | N/A | N/A | N/A |
+| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.1% | N/A | N/A | N/A | N/A |
+| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [6–9 February 2026](2026-02-09-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [6–8 February 2026](2026-02-08-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.3% | N/A | N/A | N/A | N/A |
 | [12–16 January 2026](2026-01-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [7–13 January 2026](2026-01-13-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [9–11 January 2026](2026-01-11-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [23 December 2025–5 January 2026](2026-01-05-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 0.1% | N/A | N/A | N/A | N/A |
+| [7–13 January 2026](2026-01-13-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [9–11 January 2026](2026-01-11-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [23 December 2025–5 January 2026](2026-01-05-GMS.html) | GMS | 0.2% | N/A | N/A | N/A | N/A |
 | [30 December 2025–2 January 2026](2026-01-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
-| [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [8–12 December 2025](2025-12-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
-| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
-| [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [28–30 November 2025](2025-11-30-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.7% |
-| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [8–12 December 2025](2025-12-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 0.1% | N/A | N/A | N/A | N/A |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 0.2% | N/A | N/A | N/A | N/A |
+| [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 0.2% | N/A | N/A | N/A | N/A |
+| [28–30 November 2025](2025-11-30-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 0.2% | N/A | N/A | N/A | N/A |
+| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
 | [24–27 October 2025](2025-10-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
-| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% |
-| [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [2–3 October 2025](2025-10-03-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [24–29 September 2025](2025-09-29-GMS.html) | GMS | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [23–29 September 2025](2025-09-29-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
+| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [2–3 October 2025](2025-10-03-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [24–29 September 2025](2025-09-29-GMS.html) | GMS | 0.3% | N/A | N/A | N/A | N/A |
+| [23–29 September 2025](2025-09-29-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [22–26 September 2025](2025-09-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.6% |
-| [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [8–12 September 2025](2025-09-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [3–9 September 2025](2025-09-09-Verian.html) | Verian | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [5–8 September 2025](2025-09-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [2–8 September 2025](2025-09-08-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [5–7 September 2025](2025-09-07-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | N/A | N/A | N/A | N/A |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 0.1% | N/A | N/A | N/A | N/A |
+| [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [8–12 September 2025](2025-09-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [3–9 September 2025](2025-09-09-Verian.html) | Verian | 0.2% | N/A | N/A | N/A | N/A |
+| [5–8 September 2025](2025-09-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [2–8 September 2025](2025-09-08-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [5–7 September 2025](2025-09-07-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
 | [1–5 September 2025](2025-09-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [2–4 September 2025](2025-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [2 September 2025](2025-09-02-pollytix.html) | pollytix | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [1–2 September 2025](2025-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [29 August–1 September 2025](2025-09-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [26 August–1 September 2025](2025-09-01-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [25–29 August 2025](2025-08-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [22–25 August 2025](2025-08-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [19–25 August 2025](2025-08-25-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [2–4 September 2025](2025-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [2 September 2025](2025-09-02-pollytix.html) | pollytix | 0.1% | N/A | N/A | N/A | N/A |
+| [1–2 September 2025](2025-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [29 August–1 September 2025](2025-09-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [26 August–1 September 2025](2025-09-01-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [25–29 August 2025](2025-08-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [22–25 August 2025](2025-08-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [19–25 August 2025](2025-08-25-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
 | [18–22 August 2025](2025-08-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–0.9% |
-| [6–12 August 2025](2025-08-12-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [8–11 August 2025](2025-08-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [5–11 August 2025](2025-08-11-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
+| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | N/A | N/A | N/A | N/A |
+| [6–12 August 2025](2025-08-12-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [8–11 August 2025](2025-08-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [5–11 August 2025](2025-08-11-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [3–8 August 2025](2025-08-08-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [22–28 July 2025](2025-07-28-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [21–25 July 2025](2025-07-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [22–24 July 2025](2025-07-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [22–28 July 2025](2025-07-28-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [21–25 July 2025](2025-07-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [22–24 July 2025](2025-07-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
 | [18–21 July 2025](2025-07-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [15–21 July 2025](2025-07-21-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [15–21 July 2025](2025-07-21-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [14–18 July 2025](2025-07-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [4–16 July 2025](2025-07-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [11–14 July 2025](2025-07-14-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [4–16 July 2025](2025-07-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
+| [11–14 July 2025](2025-07-14-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [11–14 July 2025](2025-07-14-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
 | [8–14 July 2025](2025-07-14-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
-| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
 | [4–7 July 2025](2025-07-07-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
-| [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [4–5 July 2025](2025-07-05-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [27–30 June 2025](2025-06-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [26–30 June 2025](2025-06-30-GMS.html) | GMS | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [24–30 June 2025](2025-06-30-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [23–27 June 2025](2025-06-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [24–26 June 2025](2025-06-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
+| [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [4–5 July 2025](2025-07-05-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0.2% | N/A | N/A | N/A | N/A |
+| [27–30 June 2025](2025-06-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [26–30 June 2025](2025-06-30-GMS.html) | GMS | 0.3% | N/A | N/A | N/A | N/A |
+| [24–30 June 2025](2025-06-30-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [23–27 June 2025](2025-06-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [24–26 June 2025](2025-06-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | N/A | N/A | N/A | N/A |
 | [20–23 June 2025](2025-06-23-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
-| [16–20 June 2025](2025-06-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [17–20 June 2025](2025-06-20-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [11–17 June 2025](2025-06-17-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [16–20 June 2025](2025-06-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [17–20 June 2025](2025-06-20-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
+| [11–17 June 2025](2025-06-17-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov | 0.3% | N/A | N/A | N/A | N/A |
+| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
+| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0.2% | N/A | N/A | N/A | N/A |
 | [6–10 June 2025](2025-06-10-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
-| [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
-| [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
-| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
+| [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 0.3% | N/A | N/A | N/A | N/A |
+| [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.2% | N/A | N/A | N/A | N/A |
+| [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap | 0.2% | N/A | N/A | N/A | N/A |
+| [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix | 0.2% | N/A | N/A | N/A | N/A |
+| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
+| [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa | 0.2% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
-| [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [14–20 May 2025](2025-05-20-Verian.html) | Verian | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 0.2% | N/A | N/A | N/A | N/A |
+| [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | N/A | N/A | N/A | N/A |
+| [14–20 May 2025](2025-05-20-Verian.html) | Verian | 0.2% | N/A | N/A | N/A | N/A |
 | [16–19 May 2025](2025-05-19-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [14–19 May 2025](2025-05-19-GMS.html) | GMS | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
-| [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
-| [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [9–10 May 2025](2025-05-10-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [14–19 May 2025](2025-05-19-GMS.html) | GMS | 0.4% | N/A | N/A | N/A | N/A |
+| [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 0.2% | N/A | N/A | N/A | N/A |
+| [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 0.2% | N/A | N/A | N/A | N/A |
+| [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 0.3% | N/A | N/A | N/A | N/A |
+| [9–10 May 2025](2025-05-10-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
 | [5–9 May 2025](2025-05-09-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [5–6 May 2025](2025-05-06-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [2–5 May 2025](2025-05-05-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [5–6 May 2025](2025-05-06-Infratestdimap.html) | Infratest dimap | 0.2% | N/A | N/A | N/A | N/A |
+| [2–5 May 2025](2025-05-05-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [28 April–2 May 2025](2025-05-02-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [29 April–2 May 2025](2025-05-02-Forsa.html) | Forsa | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
-| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
-| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [15–22 April 2025](2025-04-22-Verian.html) | Verian | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [14–17 April 2025](2025-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [15–17 April 2025](2025-04-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
-| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [29 April–2 May 2025](2025-05-02-Forsa.html) | Forsa | 0.3% | N/A | N/A | N/A | N/A |
+| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | N/A | N/A | N/A | N/A |
+| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 0.1% | N/A | N/A | N/A | N/A |
+| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 0.3% | N/A | N/A | N/A | N/A |
+| [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [15–22 April 2025](2025-04-22-Verian.html) | Verian | 0.2% | N/A | N/A | N/A | N/A |
+| [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [14–17 April 2025](2025-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [15–17 April 2025](2025-04-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix | 0.1% | N/A | N/A | N/A | N/A |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 0.3% | N/A | N/A | N/A | N/A |
 | [7–11 April 2025](2025-04-11-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [28 March–9 April 2025](2025-04-09-Allensbach.html) | Allensbach | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
-| [2–7 April 2025](2025-04-07-GMS.html) | GMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
-| [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
-| [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.2% | N/A | N/A | N/A | N/A |
+| [28 March–9 April 2025](2025-04-09-Allensbach.html) | Allensbach | 0.2% | N/A | N/A | N/A | N/A |
+| [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [2–7 April 2025](2025-04-07-GMS.html) | GMS | 0.2% | N/A | N/A | N/A | N/A |
+| [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
+| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap | 0.2% | N/A | N/A | N/A | N/A |
+| [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
+| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
-| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
-| [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% |
-| [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
-| [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
-| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
-| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–0.9% |
+| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 0.2% | N/A | N/A | N/A | N/A |
+| [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
+| [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
+| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
+| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.3% | N/A | N/A | N/A | N/A |
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.1% | N/A | N/A | N/A | N/A |
-| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | N/A | N/A | N/A | N/A |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach | 0.2% | N/A | N/A | N/A | N/A |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | N/A | N/A | N/A | N/A |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [4–6 March 2025](2025-03-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0.3% | N/A | N/A | N/A | N/A |
-| [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
+| [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 0.2% | N/A | N/A | N/A | N/A |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov | 0.1% | N/A | N/A | N/A | N/A |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa | 0.2% | N/A | N/A | N/A | N/A |
-| [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 0.2% | N/A | N/A | N/A | N/A |
+| [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 0.2% | N/A | N/A | N/A | N/A |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
@@ -542,311 +543,312 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0 | 0–1 |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [27 May–1 June 2026](2026-06-01-GMS.html) | GMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [26 May–1 June 2026](2026-06-01-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
-| [26–29 May 2026](2026-05-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1 June 2026](2026-06-01-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [27 May–1 June 2026](2026-06-01-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 May–1 June 2026](2026-06-01-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [26–29 May 2026](2026-05-29-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [22–26 May 2026](2026-05-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0–1 |
-| [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
+| [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [11–15 May 2026](2026-05-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov |  |  |  |  |  |
+| [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
-| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
-| [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0 | 0 | 0–1 |
-| [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–16 April 2026](2026-04-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0 | 0–1 | 0–1 |
-| [10–13 April 2026](2026-04-13-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [10–13 April 2026](2026-04-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [7–13 April 2026](2026-04-13-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
-| [7–10 April 2026](2026-04-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [23 March–9 April 2026](2026-04-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0 | 0–1 | 0–1 |
-| [30 March–7 April 2026](2026-04-07-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [2–7 April 2026](2026-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 March–2 April 2026](2026-04-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 March–2 April 2026](2026-04-02-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
+| [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [17–20 April 2026](2026-04-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [14–20 April 2026](2026-04-20-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [13–17 April 2026](2026-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [14–16 April 2026](2026-04-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [10–13 April 2026](2026-04-13-YouGov.html) | YouGov |  |  |  |  |  |
+| [10–13 April 2026](2026-04-13-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [7–13 April 2026](2026-04-13-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [7–10 April 2026](2026-04-10-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [23 March–9 April 2026](2026-04-09-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [30 March–7 April 2026](2026-04-07-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [2–7 April 2026](2026-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [30 March–2 April 2026](2026-04-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [31 March–2 April 2026](2026-04-02-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [30–31 March 2026](2026-03-31-Infratestdimap.html) | Infratest dimap <br> SWR |  |  |  |  |  |
+| [27–30 March 2026](2026-03-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [24–30 March 2026](2026-03-30-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [27–29 March 2026](2026-03-29-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [23–27 March 2026](2026-03-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
-| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
+| [24–26 March 2026](2026-03-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [20–23 March 2026](2026-03-23-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [17–23 March 2026](2026-03-23-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [16–20 March 2026](2026-03-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [13–16 March 2026](2026-03-16-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27 February–12 March 2026](2026-03-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0 | 0–1 | 0–1 |
-| [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [13–16 March 2026](2026-03-16-YouGov.html) | YouGov |  |  |  |  |  |
+| [13–16 March 2026](2026-03-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [10–16 March 2026](2026-03-16-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [9–13 March 2026](2026-03-13-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [27 February–12 March 2026](2026-03-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [4–10 March 2026](2026-03-10-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [6–9 March 2026](2026-03-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–9 March 2026](2026-03-09-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [2–6 March 2026](2026-03-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0 |
-| [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0 | 0 | 0–1 |
-| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [6–9 February 2026](2026-02-09-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [6–8 February 2026](2026-02-08-Ipsos.html) | Ipsos | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
+| [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR |  |  |  |  |  |
+| [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS |  |  |  |  |  |
+| [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [24–26 February 2026](2026-02-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [20–23 February 2026](2026-02-23-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [17–23 February 2026](2026-02-23-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [16–20 February 2026](2026-02-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [6–19 February 2026](2026-02-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [13–16 February 2026](2026-02-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [10–16 February 2026](2026-02-16-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [9–13 February 2026](2026-02-13-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [4–10 February 2026](2026-02-10-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [6–9 February 2026](2026-02-09-YouGov.html) | YouGov |  |  |  |  |  |
+| [6–9 February 2026](2026-02-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–9 February 2026](2026-02-09-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [6–8 February 2026](2026-02-08-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [2–6 February 2026](2026-02-06-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–5 February 2026](2026-02-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [2–4 February 2026](2026-02-04-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [30 January–2 February 2026](2026-02-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [27 January–2 February 2026](2026-02-02-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [26–30 January 2026](2026-01-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [23–26 January 2026](2026-01-26-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–26 January 2026](2026-01-26-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [19–23 January 2026](2026-01-23-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [16–19 January 2026](2026-01-19-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [13–19 January 2026](2026-01-19-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [6–19 January 2026](2026-01-19-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
 | [12–16 January 2026](2026-01-16-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix | 0 | 0 | 0 | 0 | 0–1 |
-| [7–13 January 2026](2026-01-13-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [9–11 January 2026](2026-01-11-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [23 December 2025–5 January 2026](2026-01-05-GMS.html) | GMS | 0 | 0 | 0 | 0 | 0–1 |
+| [13–15 January 2026](2026-01-15-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [7–13 January 2026](2026-01-13-pollytix.html) | pollytix |  |  |  |  |  |
+| [7–13 January 2026](2026-01-13-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [9–12 January 2026](2026-01-12-YouGov.html) | YouGov |  |  |  |  |  |
+| [9–12 January 2026](2026-01-12-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [5–12 January 2026](2026-01-12-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [9–11 January 2026](2026-01-11-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [5–9 January 2026](2026-01-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [5–7 January 2026](2026-01-07-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [2–5 January 2026](2026-01-05-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [23 December 2025–5 January 2026](2026-01-05-GMS.html) | GMS |  |  |  |  |  |
 | [30 December 2025–2 January 2026](2026-01-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–15 December 2025](2025-12-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–12 December 2025](2025-12-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0–1 |
-| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0 | 0 | 0–1 |
-| [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix | 0 | 0 | 0 | 0 | 0 |
-| [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [1 December 2025](2025-12-01-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28–30 November 2025](2025-11-30-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [11–17 November 2025](2025-11-17-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
-| [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0–1 |
-| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
+| [19–22 December 2025](2025-12-22-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [15–19 December 2025](2025-12-19-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [16–19 December 2025](2025-12-19-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [12–15 December 2025](2025-12-15-YouGov.html) | YouGov |  |  |  |  |  |
+| [12–15 December 2025](2025-12-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [9–15 December 2025](2025-12-15-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [8–12 December 2025](2025-12-12-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [9–11 December 2025](2025-12-11-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [3–9 December 2025](2025-12-09-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [5–8 December 2025](2025-12-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [2–8 December 2025](2025-12-08-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [1–5 December 2025](2025-12-05-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [22 November–4 December 2025](2025-12-04-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [1–3 December 2025](2025-12-03-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [26 November–2 December 2025](2025-12-02-pollytix.html) | pollytix |  |  |  |  |  |
+| [28 November–1 December 2025](2025-12-01-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [1 December 2025](2025-12-01-Forsa.html) | Forsa |  |  |  |  |  |
+| [28–30 November 2025](2025-11-30-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [24–28 November 2025](2025-11-28-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [21–24 November 2025](2025-11-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [18–24 November 2025](2025-11-24-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [17–21 November 2025](2025-11-21-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [18–20 November 2025](2025-11-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [14–17 November 2025](2025-11-17-YouGov.html) | YouGov |  |  |  |  |  |
+| [14–17 November 2025](2025-11-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [11–17 November 2025](2025-11-17-GMS.html) | GMS |  |  |  |  |  |
+| [11–17 November 2025](2025-11-17-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [10–14 November 2025](2025-11-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [7–10 November 2025](2025-11-10-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [4–10 November 2025](2025-11-10-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [7–9 November 2025](2025-11-09-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [3–7 November 2025](2025-11-07-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [4–6 November 2025](2025-11-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [23 October–6 November 2025](2025-11-06-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [3–5 November 2025](2025-11-05-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [28 October–4 November 2025](2025-11-04-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [30 October–3 November 2025](2025-11-03-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28 October–3 November 2025](2025-11-03-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [27–30 October 2025](2025-10-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [24–27 October 2025](2025-10-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0 | 0–1 |
-| [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–3 October 2025](2025-10-03-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0 | 0 | 0–1 |
-| [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
-| [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [24–29 September 2025](2025-09-29-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–29 September 2025](2025-09-29-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
+| [21–27 October 2025](2025-10-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [20–24 October 2025](2025-10-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [21–23 October 2025](2025-10-23-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [17–20 October 2025](2025-10-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [14–20 October 2025](2025-10-20-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [13–17 October 2025](2025-10-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [10–13 October 2025](2025-10-13-YouGov.html) | YouGov |  |  |  |  |  |
+| [10–13 October 2025](2025-10-13-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [7–13 October 2025](2025-10-13-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [6–10 October 2025](2025-10-10-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [26 September–10 October 2025](2025-10-10-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [7 October 2025](2025-10-07-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [2–6 October 2025](2025-10-06-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [30 September–6 October 2025](2025-10-06-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [2–3 October 2025](2025-10-03-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [29 September–2 October 2025](2025-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [29 September–1 October 2025](2025-10-01-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [29 September–1 October 2025](2025-10-01-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [26–29 September 2025](2025-09-29-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [24–29 September 2025](2025-09-29-GMS.html) | GMS |  |  |  |  |  |
+| [23–29 September 2025](2025-09-29-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [22–26 September 2025](2025-09-26-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–15 September 2025](2025-09-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–12 September 2025](2025-09-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–9 September 2025](2025-09-09-Verian.html) | Verian | 0 | 0 | 0 | 0–1 | 0–1 |
-| [5–8 September 2025](2025-09-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [2–8 September 2025](2025-09-08-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–7 September 2025](2025-09-07-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
+| [19–22 September 2025](2025-09-22-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [16–22 September 2025](2025-09-22-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [16–18 September 2025](2025-09-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [5–17 September 2025](2025-09-17-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [12–15 September 2025](2025-09-15-YouGov.html) | YouGov |  |  |  |  |  |
+| [12–15 September 2025](2025-09-15-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [9–15 September 2025](2025-09-15-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [8–12 September 2025](2025-09-12-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–9 September 2025](2025-09-09-Verian.html) | Verian |  |  |  |  |  |
+| [5–8 September 2025](2025-09-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [2–8 September 2025](2025-09-08-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [5–7 September 2025](2025-09-07-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–5 September 2025](2025-09-05-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [2–4 September 2025](2025-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [2 September 2025](2025-09-02-pollytix.html) | pollytix | 0 | 0 | 0 | 0 | 0–1 |
-| [1–2 September 2025](2025-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [29 August–1 September 2025](2025-09-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [26 August–1 September 2025](2025-09-01-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [25–29 August 2025](2025-08-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [22–25 August 2025](2025-08-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [19–25 August 2025](2025-08-25-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
+| [2–4 September 2025](2025-09-04-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [2 September 2025](2025-09-02-pollytix.html) | pollytix |  |  |  |  |  |
+| [1–2 September 2025](2025-09-02-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [29 August–1 September 2025](2025-09-01-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [26 August–1 September 2025](2025-09-01-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [25–29 August 2025](2025-08-29-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [22–25 August 2025](2025-08-25-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [19–25 August 2025](2025-08-25-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [18–22 August 2025](2025-08-22-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–12 August 2025](2025-08-12-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [8–11 August 2025](2025-08-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [5–11 August 2025](2025-08-11-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
+| [15–18 August 2025](2025-08-18-YouGov.html) | YouGov |  |  |  |  |  |
+| [15–18 August 2025](2025-08-18-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [12–18 August 2025](2025-08-18-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [11–15 August 2025](2025-08-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [1–14 August 2025](2025-08-14-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [11–13 August 2025](2025-08-13-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [6–12 August 2025](2025-08-12-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [8–11 August 2025](2025-08-11-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [5–11 August 2025](2025-08-11-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [3–8 August 2025](2025-08-08-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–1 |
-| [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [22–28 July 2025](2025-07-28-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [21–25 July 2025](2025-07-25-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–24 July 2025](2025-07-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–6 August 2025](2025-08-06-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [1–4 August 2025](2025-08-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [29 July–4 August 2025](2025-08-04-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [1–3 August 2025](2025-08-03-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [28 July–1 August 2025](2025-08-01-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [23–29 July 2025](2025-07-29-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [25–28 July 2025](2025-07-28-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [22–28 July 2025](2025-07-28-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [21–25 July 2025](2025-07-25-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [22–24 July 2025](2025-07-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [18–21 July 2025](2025-07-21-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [15–21 July 2025](2025-07-21-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
+| [15–21 July 2025](2025-07-21-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [14–18 July 2025](2025-07-18-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [4–16 July 2025](2025-07-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [11–14 July 2025](2025-07-14-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
+| [4–16 July 2025](2025-07-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [11–14 July 2025](2025-07-14-YouGov.html) | YouGov |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [8–14 July 2025](2025-07-14-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
-| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
+| [7–11 July 2025](2025-07-11-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [4–7 July 2025](2025-07-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0 |
-| [4–5 July 2025](2025-07-05-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD | 0 | 0 | 0 | 0 | 0–1 |
-| [27–30 June 2025](2025-06-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0 |
-| [26–30 June 2025](2025-06-30-GMS.html) | GMS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [24–30 June 2025](2025-06-30-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [23–27 June 2025](2025-06-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [24–26 June 2025](2025-06-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 July 2025](2025-07-07-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [4–5 July 2025](2025-07-05-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [30 June–4 July 2025](2025-07-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [30 June–2 July 2025](2025-07-02-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
+| [27–30 June 2025](2025-06-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [26–30 June 2025](2025-06-30-GMS.html) | GMS |  |  |  |  |  |
+| [24–30 June 2025](2025-06-30-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [23–27 June 2025](2025-06-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [24–26 June 2025](2025-06-26-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [20–23 June 2025](2025-06-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [16–20 June 2025](2025-06-20-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [17–20 June 2025](2025-06-20-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [11–17 June 2025](2025-06-17-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–20 June 2025](2025-06-20-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [17–20 June 2025](2025-06-20-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [11–17 June 2025](2025-06-17-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [13–16 June 2025](2025-06-16-YouGov.html) | YouGov |  |  |  |  |  |
+| [13–16 June 2025](2025-06-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [10–16 June 2025](2025-06-16-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [10–13 June 2025](2025-06-13-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [1–12 June 2025](2025-06-12-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
 | [6–10 June 2025](2025-06-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0–1 | 0–1 |
-| [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0 |
-| [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
+| [2–6 June 2025](2025-06-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–6 June 2025](2025-06-06-Forsa.html) | Forsa |  |  |  |  |  |
+| [3–5 June 2025](2025-06-05-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [2–3 June 2025](2025-06-03-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [28 May–2 June 2025](2025-06-02-pollytix.html) | pollytix |  |  |  |  |  |
+| [30 May–2 June 2025](2025-06-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [27 May–2 June 2025](2025-06-02-Forsa.html) | Forsa |  |  |  |  |  |
+| [30 May–1 June 2025](2025-06-01-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [26–30 May 2025](2025-05-30-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [23–26 May 2025](2025-05-26-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [20–26 May 2025](2025-05-26-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
-| [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–20 May 2025](2025-05-20-Verian.html) | Verian | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [20–26 May 2025](2025-05-26-Forsa.html) | Forsa |  |  |  |  |  |
+| [19–23 May 2025](2025-05-23-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [20–22 May 2025](2025-05-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [14–20 May 2025](2025-05-20-Verian.html) | Verian |  |  |  |  |  |
 | [16–19 May 2025](2025-05-19-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [14–19 May 2025](2025-05-19-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–19 May 2025](2025-05-19-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–12 May 2025](2025-05-12-YouGov.html) | YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [5–12 May 2025](2025-05-12-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
-| [9–10 May 2025](2025-05-10-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–19 May 2025](2025-05-19-GMS.html) | GMS |  |  |  |  |  |
+| [13–19 May 2025](2025-05-19-Forsa.html) | Forsa |  |  |  |  |  |
+| [12–16 May 2025](2025-05-16-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [3–14 May 2025](2025-05-14-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [9–12 May 2025](2025-05-12-YouGov.html) | YouGov |  |  |  |  |  |
+| [9–12 May 2025](2025-05-12-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [5–12 May 2025](2025-05-12-Forsa.html) | Forsa |  |  |  |  |  |
+| [9–10 May 2025](2025-05-10-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [5–9 May 2025](2025-05-09-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [5–6 May 2025](2025-05-06-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0–1 | 0–1 |
-| [2–5 May 2025](2025-05-05-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
+| [5–6 May 2025](2025-05-06-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [2–5 May 2025](2025-05-05-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [28 April–2 May 2025](2025-05-02-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [29 April–2 May 2025](2025-05-02-Forsa.html) | Forsa | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa | 0 | 0 | 0 | 0–1 | 0–1 |
-| [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–22 April 2025](2025-04-22-Verian.html) | Verian | 0 | 0 | 0 | 0–1 | 0–1 |
-| [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [14–17 April 2025](2025-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–17 April 2025](2025-04-17-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
-| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix | 0 | 0 | 0 | 0 | 0–1 |
-| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0–1 | 0–1 |
-| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
+| [29 April–2 May 2025](2025-05-02-Forsa.html) | Forsa |  |  |  |  |  |
+| [28–30 April 2025](2025-04-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
+| [25–28 April 2025](2025-04-28-YouGov.html) | YouGov |  |  |  |  |  |
+| [25–28 April 2025](2025-04-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [22–28 April 2025](2025-04-28-Forsa.html) | Forsa |  |  |  |  |  |
+| [22–25 April 2025](2025-04-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [15–22 April 2025](2025-04-22-Verian.html) | Verian |  |  |  |  |  |
+| [17–22 April 2025](2025-04-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [14–17 April 2025](2025-04-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [15–17 April 2025](2025-04-17-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [13–15 April 2025](2025-04-15-pollytix.html) | pollytix |  |  |  |  |  |
+| [11–14 April 2025](2025-04-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [8–14 April 2025](2025-04-14-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [7–11 April 2025](2025-04-11-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28 March–9 April 2025](2025-04-09-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [2–7 April 2025](2025-04-07-GMS.html) | GMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap | 0 | 0 | 0 | 0–1 | 0–1 |
-| [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0 | 0–1 |
-| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
+| [8–10 April 2025](2025-04-10-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [28 March–9 April 2025](2025-04-09-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [4–7 April 2025](2025-04-07-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [2–7 April 2025](2025-04-07-GMS.html) | GMS |  |  |  |  |  |
+| [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
-| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [21–24 March 2025](2025-03-24-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
-| [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0–1 | 0–1 |
-| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0 | 0–1 | 0–1 |
-| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–25 March 2025](2025-03-25-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [21–24 March 2025](2025-03-24-YouGov.html) | YouGov |  |  |  |  |  |
+| [21–24 March 2025](2025-03-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [18–24 March 2025](2025-03-24-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [17–21 March 2025](2025-03-21-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
+| [18–20 March 2025](2025-03-20-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
+| [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach |  |  |  |  |  |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–6 March 2025](2025-03-06-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen |  |  |  |  |  |
-| [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–5 March 2025](2025-03-05-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
 | [28 February–3 March 2025](2025-03-03-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [24 February–3 March 2025](2025-03-03-Forsa.html) | Forsa |  |  |  |  |  |
-| [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 February–1 March 2025](2025-03-01-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [24–28 February 2025](2025-02-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [21–22 February 2025](2025-02-22-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [17–20 February 2025](2025-02-20-YouGov.html) | YouGov |  |  |  |  |  |
@@ -1055,8 +1057,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
