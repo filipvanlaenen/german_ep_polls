@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 16.3–20.0% | 15.9–20.6% | 15.6–21.1% | 15.1–22.0% |
+| N/A | [Poll Average](average.html) | 18.0% | 16.4–20.0% | 16.0–20.5% | 15.7–21.0% | 15.1–21.9% |
+| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16.6% | N/A | N/A | N/A | N/A |
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.7% | 18.3–21.2% | 17.9–21.7% | 17.6–22.0% | 17.0–22.8% |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 18.2% | 16.9–19.5% | 16.6–19.9% | 16.2–20.2% | 15.7–20.9% |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 18.2% | 16.9–19.6% | 16.5–20.0% | 16.2–20.3% | 15.6–21.0% |
@@ -22,22 +23,22 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov | 17.4% | N/A | N/A | N/A | N/A |
 | [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 17.4% | N/A | N/A | N/A | N/A |
 | [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv | 17.4% | 16.2–18.7% | 15.8–19.1% | 15.5–19.4% | 15.0–20.0% |
-| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.0% | N/A | N/A | N/A | N/A |
+| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.0% | 17.6–20.4% | 17.3–20.8% | 16.9–21.2% | 16.3–21.9% |
 | [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16.6% | N/A | N/A | N/A | N/A |
 | [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv | 17.4% | N/A | N/A | N/A | N/A |
 | [11–15 May 2026](2026-05-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 17.4% | N/A | N/A | N/A | N/A |
-| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 17.4% | N/A | N/A | N/A | N/A |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 17.4% | 16.3–18.6% | 16.0–18.9% | 15.7–19.2% | 15.2–19.8% |
 | [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18.1% | N/A | N/A | N/A | N/A |
 | [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv | 17.4% | N/A | N/A | N/A | N/A |
-| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 18.2% | N/A | N/A | N/A | N/A |
+| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18.2% | N/A | N/A | N/A | N/A |
 | [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19.8% | N/A | N/A | N/A | N/A |
-| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 19.0% | N/A | N/A | N/A | N/A |
-| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 18.9% | N/A | N/A | N/A | N/A |
+| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 19.0% | 17.6–20.4% | 17.2–20.8% | 16.9–21.2% | 16.3–21.9% |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 18.9% | 17.6–20.3% | 17.3–20.7% | 17.0–21.0% | 16.4–21.7% |
 | [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | N/A | N/A | N/A | N/A |
 | [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv | 17.4% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | N/A | N/A | N/A | N/A |
-| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19.7% | N/A | N/A | N/A | N/A |
+| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.4–22.3% | 16.7–23.1% |
 | [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 18.6% | N/A | N/A | N/A | N/A |
 | [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv | 17.4% | N/A | N/A | N/A | N/A |
 | [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | N/A | N/A | N/A | N/A |
@@ -297,7 +298,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv | 19.7% | N/A | N/A | N/A | N/A |
 | [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos | 19.0% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 19.0% | N/A | N/A | N/A | N/A |
-| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap | 20.5% | N/A | N/A | N/A | N/A |
+| [31 March–2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap <br> ARD | 20.5% | N/A | N/A | N/A | N/A |
 | [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov | 21.0% | N/A | N/A | N/A | N/A |
 | [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv | 19.7% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-INSAandYouGov.html) | INSA and YouGov | 20.5% | N/A | N/A | N/A | N/A |
@@ -310,7 +311,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 23.5% | N/A | N/A | N/A | N/A |
 | [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 21.3% | N/A | N/A | N/A | N/A |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 22.1% | N/A | N/A | N/A | N/A |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach | 22.9% | N/A | N/A | N/A | N/A |
+| [27 February–11 March 2025](2025-03-11-Allensbach.html) | Allensbach <br> FAZ | 23.3% | N/A | N/A | N/A | N/A |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov | 22.5% | N/A | N/A | N/A | N/A |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 22.1% | N/A | N/A | N/A | N/A |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov | 22.4% | N/A | N/A | N/A | N/A |
@@ -481,7 +482,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 24.4% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 25.2% | N/A | N/A | N/A | N/A |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 24.5% | N/A | N/A | N/A | N/A |
-| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 24.0% | N/A | N/A | N/A | N/A |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 24.1% | N/A | N/A | N/A | N/A |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 23.7% | N/A | N/A | N/A | N/A |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 23.7% | N/A | N/A | N/A | N/A |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 24.4% | N/A | N/A | N/A | N/A |
@@ -542,13 +543,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.1% | 100% |  |
 | 14.5–15.5% | 2% | 99.9% |  |
-| 15.5–16.5% | 14% | 98% |  |
-| 16.5–17.5% | 25% | 84% |  |
-| 17.5–18.5% | 25% | 59% | Median |
-| 18.5–19.5% | 19% | 34% |  |
+| 15.5–16.5% | 11% | 98% |  |
+| 16.5–17.5% | 24% | 87% |  |
+| 17.5–18.5% | 28% | 63% | Median |
+| 18.5–19.5% | 21% | 36% |  |
 | 19.5–20.5% | 10% | 15% |  |
 | 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 1.0% | 1.1% |  |
+| 21.5–22.5% | 0.9% | 1.0% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -561,7 +562,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 15–21 |
+| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 18 | 16–18 | 16–19 | 15–20 | 14–21 |
@@ -573,22 +575,22 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–25 May 2026](2026-05-25-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [18–22 May 2026](2026-05-22-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [19–22 May 2026](2026-05-22-Forsa.html) | Forsa <br> RTL n-tv | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
-| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [19–21 May 2026](2026-05-21-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [11–15 May 2026](2026-05-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov |  |  |  |  |  |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
-| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 18 | 17–18 | 16–19 | 15–19 | 15–20 |
 | [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
-| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
 | [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung |  |  |  |  |  |
+| [18–30 April 2026](2026-04-30-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 19 | 18–19 | 18–19 | 16–19 | 15–20 |
 | [24–27 April 2026](2026-04-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [21–27 April 2026](2026-04-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [20–24 April 2026](2026-04-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -848,7 +850,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–7 April 2025](2025-04-07-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [4–5 April 2025](2025-04-05-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [31 March–4 April 2025](2025-04-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap |  |  |  |  |  |
+| [31 March–2 April 2025](2025-04-02-Infratestdimap.html) | Infratest dimap <br> ARD |  |  |  |  |  |
 | [28–31 March 2025](2025-03-31-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [25–31 March 2025](2025-03-31-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -861,7 +863,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [27 February–11 March 2025](2025-03-11-Allensbach.html) | Allensbach <br> FAZ |  |  |  |  |  |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1093,14 +1095,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.7% | 100% |  |
-| 15 | 4% | 99.3% |  |
-| 16 | 30% | 96% |  |
-| 17 | 26% | 66% | Median |
-| 18 | 25% | 40% |  |
-| 19 | 10% | 15% |  |
-| 20 | 3% | 4% |  |
-| 21 | 2% | 2% |  |
+| 14 | 0.4% | 100% |  |
+| 15 | 8% | 99.6% |  |
+| 16 | 21% | 91% |  |
+| 17 | 23% | 70% | Median |
+| 18 | 34% | 47% |  |
+| 19 | 10% | 14% |  |
+| 20 | 2% | 4% |  |
+| 21 | 1.3% | 1.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 

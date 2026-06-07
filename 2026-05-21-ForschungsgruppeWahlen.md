@@ -325,7 +325,6 @@
 | Alternative für Deutschland (ESN) | 0 | 25 | 0% | 23–26 | 23–27 | 22–27 | 22–28 |
 | Sozialdemokratische Partei Deutschlands (S&D) | 0 | 12 | 0% | 11–13 | 10–13 | 10–13 | 10–14 |
 | Bündnis Sahra Wagenknecht (NI) – Die PARTEI (NI) | 0 | 4 | 0% | 4–5 | 4–6 | 3–6 | 3–6 |
-| Freie Demokratische Partei (RE) – Freie Wähler (RE) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–6 |
 
 ### Alternative für Deutschland (ESN)
 
@@ -402,21 +401,6 @@
 | 6 | 5% | 6% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
-
-### Freie Demokratische Partei (RE) – Freie Wähler (RE)
-
-![Graph with seats probability mass function not yet produced](2026-05-21-ForschungsgruppeWahlen-coalitions-seats-pmf-fdp–fw.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 36% | 100% |  |
-| 4 | 25% | 64% | Median |
-| 5 | 37% | 38% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0% | 0% |  |
 
 
 ## Technical Information
