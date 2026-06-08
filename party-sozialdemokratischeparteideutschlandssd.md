@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.5% | 11.0–13.9% | 10.6–14.3% | 10.1–14.7% | 9.4–15.4% |
-| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 12.4% | 11.0–13.9% | 10.6–14.3% | 10.2–14.6% | 9.4–15.3% |
+| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.0% | 10.9–13.3% | 10.6–13.7% | 10.3–14.0% | 9.8–14.6% |
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12.0% | 10.9–13.3% | 10.6–13.6% | 10.3–14.0% | 9.8–14.6% |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 13.0% | 11.8–14.2% | 11.5–14.6% | 11.3–14.9% | 10.7–15.5% |
@@ -537,11 +537,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.7% | 100% |  |
-| 9.5–10.5% | 4% | 99.2% |  |
-| 10.5–11.5% | 15% | 95% |  |
-| 11.5–12.5% | 31% | 80% |  |
-| 12.5–13.5% | 31% | 49% | Median |
-| 13.5–14.5% | 14% | 18% |  |
+| 9.5–10.5% | 4% | 99.3% |  |
+| 10.5–11.5% | 16% | 95% |  |
+| 11.5–12.5% | 32% | 79% | Median |
+| 12.5–13.5% | 30% | 47% |  |
+| 13.5–14.5% | 13% | 16% |  |
 | 14.5–15.5% | 3% | 3% |  |
 | 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -556,7 +556,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
-| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [1–5 June 2026](2026-06-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 10–13 | 10–13 | 10–13 | 9–13 |
 | [1–3 June 2026](2026-06-03-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 10–12 | 9–13 | 9–14 | 9–14 |
 | [27 May–2 June 2026](2026-06-02-Verian.html) | Verian <br> FOCUS | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–2 June 2026](2026-06-02-Infratestdimap.html) | Infratest dimap | 13 | 12–13 | 11–14 | 11–14 | 10–15 |
@@ -1082,13 +1082,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.5% | 100% |  |
-| 9 | 3% | 99.5% |  |
-| 10 | 8% | 97% |  |
-| 11 | 37% | 89% |  |
-| 12 | 32% | 52% | Median |
-| 13 | 15% | 20% |  |
-| 14 | 4% | 4% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 2% | 99.6% |  |
+| 10 | 9% | 97% |  |
+| 11 | 35% | 88% |  |
+| 12 | 32% | 53% | Median |
+| 13 | 17% | 21% |  |
+| 14 | 3% | 4% |  |
 | 15 | 0.4% | 0.4% |  |
 | 16 | 0% | 0% |  |
 
