@@ -575,14 +575,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–18 May 2026](2026-05-18-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [12–18 May 2026](2026-05-18-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [11–15 May 2026](2026-05-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
+| [8–11 May 2026](2026-05-11-YouGov.html) | YouGov | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [8–11 May 2026](2026-05-11-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–11 May 2026](2026-05-11-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
-| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 12 | 11–12 | 10–13 | 10–13 | 9–15 |
+| [8–10 May 2026](2026-05-10-Ipsos.html) | Ipsos | 12 | 10–12 | 10–13 | 10–13 | 9–15 |
 | [4–8 May 2026](2026-05-08-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
-| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [4–6 May 2026](2026-05-06-Infratestdimap.html) | Infratest dimap <br> ARD | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [28 April–5 May 2026](2026-05-05-Verian.html) | Verian <br> FOCUS | 10 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [30 April–4 May 2026](2026-05-04-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [28 April–4 May 2026](2026-05-04-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -623,7 +623,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 March 2026](2026-03-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR |  |  |  |  |  |
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 9 | 9–10 | 9–10 | 8–11 | 7–12 |
+| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1088,9 +1088,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 2% | 99.9% |  |
 | 9 | 23% | 98% |  |
 | 10 | 26% | 75% | Median |
-| 11 | 36% | 50% |  |
+| 11 | 36% | 49% |  |
 | 12 | 12% | 13% |  |
-| 13 | 0.9% | 1.3% |  |
+| 13 | 1.0% | 1.3% |  |
 | 14 | 0.2% | 0.3% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
