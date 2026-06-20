@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 27 Jun 2025 21:49:52 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Forschungsgruppe Wahlen for ZDF, 16–18 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-06-18-ForschungsgruppeWahlen.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Forschungsgruppe Wahlen for ZDF, 16–18 June 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-06-18-ForschungsgruppeWahlen.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-06-18-ForschungsgruppeWahlen.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-06-18-ForschungsgruppeWahlen.png" length="413355" type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 19:00:11 +0200</pubDate>
+      <dc:date>2026-06-20T19:00:11.050281095+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 5–8 June 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-06-08-INSAandYouGov.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by INSA and YouGov for BILD, 5–8 June 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-06-08-INSAandYouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-06-08-INSAandYouGov-seating-plan.png"/>]]></description>
@@ -292,54 +300,6 @@
       <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-21-ForschungsgruppeWahlen.png" length="409767" type="image/png"/>
       <pubDate>Sun, 7 Jun 2026 20:35:24 +0200</pubDate>
       <dc:date>2026-06-07T20:35:24.119080335+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov, 8–11 May 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by YouGov, 8–11 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov-seating-plan.png" length="529241" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 21:57:46 +0200</pubDate>
-      <dc:date>2026-06-13T21:57:46.325881562+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov, 8–11 May 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by YouGov, 8–11 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov-seats.png" length="343583" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 21:57:46 +0200</pubDate>
-      <dc:date>2026-06-13T21:57:46.325881562+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov, 8–11 May 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by YouGov, 8–11 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-11-YouGov.png" length="395094" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 21:57:46 +0200</pubDate>
-      <dc:date>2026-06-13T21:57:46.325881562+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 8–10 May 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Ipsos, 8–10 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos-seating-plan.png" length="538306" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 22:13:43 +0200</pubDate>
-      <dc:date>2026-06-13T22:13:43.201336802+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 8–10 May 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>49 seats needed for a majority<br/>Opinion poll by Ipsos, 8–10 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos-seats.png" length="366284" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 22:13:43 +0200</pubDate>
-      <dc:date>2026-06-13T22:13:43.201336802+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos, 8–10 May 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos, 8–10 May 2026<br/>Details on https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-05-10-Ipsos.png" length="414110" type="image/png"/>
-      <pubDate>Sat, 13 Jun 2026 22:13:43 +0200</pubDate>
-      <dc:date>2026-06-13T22:13:43.201336802+02:00</dc:date>
     </item>
   </channel>
 </rss>
