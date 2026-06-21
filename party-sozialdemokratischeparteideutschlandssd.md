@@ -562,10 +562,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [16–18 June 2026](2026-06-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 11–14 | 10–14 | 10–15 | 10–15 |
-| [12–15 June 2026](2026-06-15-YouGov.html) | YouGov | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
-| [12–15 June 2026](2026-06-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [12–15 June 2026](2026-06-15-YouGov.html) | YouGov | 12 | 10–13 | 9–13 | 9–14 | 9–14 |
+| [12–15 June 2026](2026-06-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [9–15 June 2026](2026-06-15-Forsa.html) | Forsa <br> RTL n-tv | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [8–12 June 2026](2026-06-12-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [5–8 June 2026](2026-06-08-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
@@ -1097,13 +1097,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.5% | 100% |  |
-| 9 | 2% | 99.5% |  |
-| 10 | 12% | 98% |  |
-| 11 | 31% | 86% |  |
-| 12 | 25% | 55% | Median |
-| 13 | 23% | 30% |  |
-| 14 | 6% | 7% |  |
-| 15 | 0.7% | 0.8% |  |
+| 9 | 3% | 99.5% |  |
+| 10 | 9% | 96% |  |
+| 11 | 28% | 87% |  |
+| 12 | 30% | 59% | Median |
+| 13 | 23% | 29% |  |
+| 14 | 5% | 6% |  |
+| 15 | 0.9% | 0.9% |  |
 | 16 | 0% | 0% |  |
 
 
