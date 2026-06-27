@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 0.6% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
 | [15–19 June 2026](2026-06-19-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.7% | N/A | N/A | N/A | N/A |
 | [16–18 June 2026](2026-06-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| [11–17 June 2026](2026-06-17-pollytix.html) | pollytix | 0.4% | 0.3–0.7% | 0.3–0.8% | 0.2–0.8% | 0.2–1.0% |
 | [5–17 June 2026](2026-06-17-Allensbach.html) | Allensbach | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [12–15 June 2026](2026-06-15-YouGov.html) | YouGov | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [12–15 June 2026](2026-06-15-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.5% | N/A | N/A | N/A | N/A |
@@ -87,7 +88,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–6 March 2026](2026-03-06-INSAandYouGov.html) | INSA and YouGov | 0.5% | N/A | N/A | N/A | N/A |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR | 1.0% | N/A | N/A | N/A | N/A |
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.6% | N/A | N/A | N/A | N/A |
-| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 0.6% | N/A | N/A | N/A | N/A |
+| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv | 0.8% | N/A | N/A | N/A | N/A |
 | [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos | 0.4% | N/A | N/A | N/A | N/A |
 | [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.7% | N/A | N/A | N/A | N/A |
@@ -539,8 +540,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 42% | 100% | Last Result |
-| 0.5–1.5% | 58% | 58% | Median |
+| 0.0–0.5% | 45% | 100% | Last Result |
+| 0.5–1.5% | 55% | 55% | Median |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -558,6 +559,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–19 June 2026](2026-06-19-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [16–18 June 2026](2026-06-18-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–17 June 2026](2026-06-17-pollytix.html) | pollytix | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–17 June 2026](2026-06-17-Allensbach.html) | Allensbach | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 June 2026](2026-06-15-YouGov.html) | YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 June 2026](2026-06-15-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -630,7 +632,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 March 2026](2026-03-06-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [2–4 March 2026](2026-03-04-Infratestdimap.html) | Infratest dimap <br> SWR |  |  |  |  |  |
 | [27 February–2 March 2026](2026-03-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS |  |  |  |  |  |
+| [25 February–2 March 2026](2026-03-02-GMS.html) | GMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24 February–2 March 2026](2026-03-02-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [23–27 February 2026](2026-02-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1084,8 +1086,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 67% | 67% | Median |
+| 0 | 35% | 100% | Last Result |
+| 1 | 65% | 65% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
