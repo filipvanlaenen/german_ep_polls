@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.2% | 3.3–6.7% |
 | [29 June–1 July 2026](2026-07-01-Infratestdimap.html) | Infratest dimap | 4.6% | 4.0–5.5% | 3.8–5.7% | 3.6–5.9% | 3.3–6.3% |
 | [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.6–6.0% |
-| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 4.6% | N/A | N/A | N/A | N/A |
+| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.5–6.1% |
 | [22–26 June 2026](2026-06-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.7% | N/A | N/A | N/A | N/A |
 | [19–22 June 2026](2026-06-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | 3.8–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.5–6.0% |
@@ -549,9 +549,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
 | 3.5–4.5% | 38% | 98% |  |
-| 4.5–5.5% | 48% | 61% | Median |
-| 5.5–6.5% | 11% | 12% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 4.5–5.5% | 49% | 60% | Median |
+| 5.5–6.5% | 11% | 11% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -566,7 +566,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [29 June–1 July 2026](2026-07-01-Infratestdimap.html) | Infratest dimap | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
+| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [22–26 June 2026](2026-06-26-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [19–22 June 2026](2026-06-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4 | 4 | 4–5 | 3–5 |
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -1102,11 +1102,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 42% | 97% |  |
-| 5 | 42% | 54% | Median |
-| 6 | 11% | 12% |  |
-| 7 | 0.8% | 0.8% |  |
+| 3 | 4% | 100% |  |
+| 4 | 41% | 96% |  |
+| 5 | 42% | 56% | Median |
+| 6 | 13% | 13% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 
