@@ -561,8 +561,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [29 June–1 July 2026](2026-07-01-Infratestdimap.html) | Infratest dimap | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [22–26 June 2026](2026-06-26-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [19–22 June 2026](2026-06-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -1096,9 +1096,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 40% | 99.9% |  |
-| 2 | 54% | 59% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 42% | 99.9% |  |
+| 2 | 51% | 58% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 

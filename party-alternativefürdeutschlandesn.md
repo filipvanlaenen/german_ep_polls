@@ -589,9 +589,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
-| [29 June–1 July 2026](2026-07-01-Infratestdimap.html) | Infratest dimap | 25 | 24–26 | 24–27 | 24–28 | 23–29 |
-| [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
-| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 25 | 24–26 | 23–26 | 23–27 | 22–28 |
+| [29 June–1 July 2026](2026-07-01-Infratestdimap.html) | Infratest dimap | 25 | 24–27 | 24–28 | 23–28 | 23–29 |
+| [26–29 June 2026](2026-06-29-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 26–29 | 26–29 | 26–29 | 25–30 |
+| [23–29 June 2026](2026-06-29-Forsa.html) | Forsa <br> RTL n-tv | 25 | 22–26 | 22–26 | 22–27 | 22–28 |
 | [22–26 June 2026](2026-06-26-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [19–22 June 2026](2026-06-22-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–29 | 27–29 | 26–29 | 26–29 |
 | [16–22 June 2026](2026-06-22-Forsa.html) | Forsa | 26 | 25–27 | 24–27 | 24–28 | 23–28 |
@@ -1146,16 +1146,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 100% |  |
-| 22 | 0.5% | 99.9% |  |
-| 23 | 2% | 99.4% |  |
-| 24 | 14% | 97% |  |
-| 25 | 18% | 83% |  |
+| 22 | 1.4% | 99.9% |  |
+| 23 | 3% | 98% |  |
+| 24 | 13% | 96% |  |
+| 25 | 17% | 83% |  |
 | 26 | 20% | 65% | Median |
-| 27 | 26% | 45% |  |
+| 27 | 26% | 46% |  |
 | 28 | 14% | 20% |  |
 | 29 | 5% | 6% |  |
-| 30 | 1.0% | 1.0% |  |
-| 31 | 0% | 0.1% |  |
+| 30 | 0.8% | 0.9% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
