@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 08 Jul 2026 18:29:43 +0200</pubDate>
+    <pubDate>Fri, 10 Jul 2026 23:01:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 3–6 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-INSAandYouGov.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 08 Jul 2026 18:29:43 +0200</pubDate>
       <dc:date>2026-07-08T18:29:43.754178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa for RTL n-tv, 30 June–6 July 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Klima Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 22–27 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 15–19 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 13–16 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa-seats.png"
+        length="355029"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2026 23:01:48 +0200</pubDate>
+      <dc:date>2026-07-10T23:01:48.383405+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa for RTL n-tv, 30 June–6 July 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa-coalitions-seats.png"
+        length="210046"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2026 23:01:48 +0200</pubDate>
+      <dc:date>2026-07-10T23:01:48.383405+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Forsa for RTL n-tv, 30 June–6 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.6–13.6%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Partei Mensch Klima Tierschutz (GUE/NGL): 0.8–1.9%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 24.1–28.1%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 10.6–13.6%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 15.7–19.2%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3.8–5.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 13.4–16.7%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.5–2.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-07-06-Forsa.png"
+        length="396988"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jul 2026 23:01:48 +0200</pubDate>
+      <dc:date>2026-07-10T23:01:48.383405+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSA and YouGov for BILD, 29 June–3 July 2026 – Seat Projections for the Parties</title>
@@ -729,6 +759,6 @@
       <pubDate>Sat, 27 Jun 2026 16:04:19 +0200</pubDate>
       <dc:date>2026-06-27T16:04:19.050491+02:00</dc:date>
     </item>
-    <dc:date>2026-07-08T18:29:43.754178+02:00</dc:date>
+    <dc:date>2026-07-10T23:01:48.383405+02:00</dc:date>
   </channel>
 </rss>
