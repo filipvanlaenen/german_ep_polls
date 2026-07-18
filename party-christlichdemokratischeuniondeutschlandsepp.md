@@ -591,9 +591,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–20 | 13–22 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 16 | 16–17 | 16–17 | 16–17 | 16–18 |
+| [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 16 | 16–17 | 16–17 | 16–18 | 15–18 |
 | [6–10 July 2026](2026-07-10-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [4–6 July 2026](2026-07-06-Ipsos.html) | Ipsos | 15 | 13–18 | 13–18 | 13–19 | 13–20 |
+| [4–6 July 2026](2026-07-06-Ipsos.html) | Ipsos | 16 | 14–18 | 13–18 | 13–19 | 13–20 |
 | [3–6 July 2026](2026-07-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 16–17 | 16–18 | 15–18 | 15–19 |
 | [30 June–6 July 2026](2026-07-06-Forsa.html) | Forsa <br> RTL n-tv | 17 | 16–18 | 15–19 | 15–19 | 14–19 |
 | [29 June–3 July 2026](2026-07-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 15–17 | 14–18 | 14–18 | 13–18 |
@@ -1146,11 +1146,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 2% | 100% |  |
+| 13 | 1.5% | 100% |  |
 | 14 | 4% | 98% |  |
-| 15 | 18% | 94% |  |
-| 16 | 38% | 76% | Median |
-| 17 | 19% | 38% |  |
+| 15 | 16% | 94% |  |
+| 16 | 37% | 78% | Median |
+| 17 | 22% | 41% |  |
 | 18 | 11% | 19% |  |
 | 19 | 5% | 8% |  |
 | 20 | 2% | 3% |  |
