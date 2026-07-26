@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.8–2.4% | 0.8–2.5% | 0.6–2.8% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.9–2.2% | 0.8–2.4% | 0.7–2.6% | 0.5–3.0% |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
+| [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 2.0% | 1.7–2.5% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–2.0% | 0.8–2.2% |
+| [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 2.0% | 1.7–2.5% | 1.6–2.7% | 1.5–2.8% | 1.3–3.0% |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.7–2.1% |
@@ -553,10 +560,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 54% | 99.6% |  |
-| 1.5–2.5% | 44% | 46% | Median |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 56% | 99.4% | Median |
+| 1.5–2.5% | 40% | 43% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -569,6 +576,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1 | 1–2 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 2 | 2 | 1–2 | 1–3 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1113,9 +1127,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 55% | 99.6% | Median |
-| 2 | 42% | 45% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 51% | 99.7% | Median |
+| 2 | 46% | 48% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
