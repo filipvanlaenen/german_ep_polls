@@ -604,14 +604,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 24–28 | 24–28 | 23–29 | 23–29 |
-| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 25 | 25–28 | 25–28 | 25–29 | 24–30 |
+| N/A | [Poll Average](average.html) | 25 | 24–28 | 24–29 | 23–29 | 23–29 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–28 | 25–29 | 25–29 | 24–29 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 26–29 | 26–29 | 25–30 |
-| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 26 | 25–28 | 24–28 | 23–29 | 23–30 |
-| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 24 | 24–25 | 23–26 | 23–26 | 23–26 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 26 | 23–28 | 23–29 | 23–29 | 23–30 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 25 | 24–25 | 24–26 | 23–26 | 23–27 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27 | 26–29 | 25–29 | 24–29 | 24–31 |
 | [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 25–28 | 24–28 | 24–28 | 23–28 |
-| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 24 | 24 | 24 | 24–25 | 23–26 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 24 | 24 | 24–25 | 24–26 | 23–27 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 26 | 24–27 | 23–27 | 23–28 | 23–28 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 24 | 23–26 | 23–26 | 23–27 | 23–27 |
@@ -1178,15 +1178,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.1% | 100% |  |
-| 23 | 2% | 99.9% |  |
-| 24 | 23% | 97% |  |
-| 25 | 33% | 74% | Median |
-| 26 | 17% | 41% |  |
-| 27 | 11% | 24% |  |
-| 28 | 8% | 13% |  |
-| 29 | 4% | 5% |  |
-| 30 | 0.3% | 0.4% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 3% | 99.8% |  |
+| 24 | 21% | 96% |  |
+| 25 | 31% | 76% | Median |
+| 26 | 19% | 45% |  |
+| 27 | 13% | 26% |  |
+| 28 | 7% | 12% |  |
+| 29 | 5% | 5% |  |
+| 30 | 0.2% | 0.3% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 

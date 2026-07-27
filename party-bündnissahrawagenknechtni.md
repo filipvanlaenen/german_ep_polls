@@ -579,13 +579,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 1–6 |
-| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 3–5 | 3–5 | 3–5 | 2–5 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 4 | 4 | 4 | 4–5 | 3–5 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 4 | 4 | 4 | 4–5 | 3–5 |
+| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 4 | 4 | 4 | 3–5 | 3–5 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -1131,12 +1131,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 16% | 99.0% |  |
-| 3 | 24% | 83% |  |
-| 4 | 43% | 59% | Median |
-| 5 | 16% | 16% |  |
-| 6 | 0.6% | 0.7% |  |
+| 1 | 2% | 100% |  |
+| 2 | 14% | 98% |  |
+| 3 | 27% | 83% |  |
+| 4 | 43% | 56% | Median |
+| 5 | 13% | 13% |  |
+| 6 | 0.6% | 0.8% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

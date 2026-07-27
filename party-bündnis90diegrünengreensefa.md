@@ -590,14 +590,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
-| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 12–15 | 12–15 | 11–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
-| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 13 | 12–13 | 11–14 | 10–15 | 10–16 |
-| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 16 | 16–17 | 15–17 | 14–17 | 14–17 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
-| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 12 | 12 | 12 | 12–13 | 12–14 |
+| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 12 | 12 | 12–13 | 12–13 | 11–14 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 13 | 13–15 | 12–15 | 12–15 | 11–15 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 15 | 15–16 | 15–17 | 15–17 | 14–17 |
@@ -1152,15 +1152,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.4% | 100% |  |
-| 11 | 1.4% | 99.6% |  |
-| 12 | 17% | 98% |  |
-| 13 | 28% | 81% |  |
-| 14 | 20% | 53% | Median |
-| 15 | 16% | 34% |  |
-| 16 | 14% | 17% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 3% | 99.7% |  |
+| 12 | 19% | 97% |  |
+| 13 | 24% | 78% |  |
+| 14 | 23% | 55% | Median |
+| 15 | 18% | 31% |  |
+| 16 | 11% | 14% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0% | 0% |  |
 
 

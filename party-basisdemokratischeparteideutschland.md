@@ -580,7 +580,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 0 | 0 | 0 | 0 | 0–1 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0–1 | 0–1 |
-| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 0 | 0 | 0 | 0 | 0 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 0 | 0 | 0 | 0 | 0–1 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
@@ -1125,8 +1125,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 

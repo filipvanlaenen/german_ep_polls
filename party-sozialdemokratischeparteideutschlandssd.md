@@ -589,13 +589,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 10–14 | 9–15 |
-| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
-| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 10 | 10–12 | 10–12 | 10–13 | 10–13 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
-| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 12 | 10–13 | 10–13 | 10–13 | 10–13 |
-| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 12 | 12 | 12 | 12–13 | 11–14 |
+| [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
+| [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 12 | 12 | 12–13 | 12–13 | 11–14 |
 | [10–13 July 2026](2026-07-13-YouGov.html) | YouGov | 12 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [10–13 July 2026](2026-07-13-INSAandYouGov.html) | INSA and YouGov <br> BILD | 11 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [7–13 July 2026](2026-07-13-Forsa.html) | Forsa <br> RTL n-tv | 13 | 10–13 | 10–13 | 10–13 | 10–13 |
@@ -1150,10 +1150,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
 | 9 | 2% | 99.9% |  |
-| 10 | 15% | 98% |  |
-| 11 | 32% | 82% |  |
-| 12 | 33% | 50% | Median |
-| 13 | 14% | 17% |  |
+| 10 | 14% | 98% |  |
+| 11 | 32% | 84% |  |
+| 12 | 34% | 53% | Median |
+| 13 | 15% | 19% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.7% | 0.7% |  |
 | 16 | 0% | 0% |  |

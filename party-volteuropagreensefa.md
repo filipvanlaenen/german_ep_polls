@@ -576,10 +576,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 0–2 |
+| [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1–2 | 1–2 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
-| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 1 | 1 | 1 | 1 | 0–1 |
+| [15–20 July 2026](2026-07-20-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [14–20 July 2026](2026-07-20-Forsa.html) | Forsa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 July 2026](2026-07-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [14–16 July 2026](2026-07-16-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–16 July 2026](2026-07-16-Allensbach.html) | Allensbach | 1 | 1 | 1 | 1 | 0–1 |
@@ -1127,10 +1127,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 76% | 82% | Median |
-| 2 | 6% | 6% |  |
-| 3 | 0.4% | 0.4% |  |
+| 0 | 19% | 100% | Last Result |
+| 1 | 74% | 81% | Median |
+| 2 | 7% | 7% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 
