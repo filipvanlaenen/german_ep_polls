@@ -610,11 +610,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
-| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 24–27 | 24–27 | 24–28 | 24–30 |
-| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 26–29 | 24–30 | 24–30 | 24–30 |
-| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 25 | 25–27 | 25–27 | 25–27 | 24–28 |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 24–28 | 24–28 | 24–28 | 24–30 |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 25–28 | 25–29 | 24–30 | 24–30 |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 25 | 25–26 | 25–27 | 25–27 | 23–28 |
 | [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 26 | 24–28 | 24–28 | 24–28 | 23–29 |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–28 | 25–29 | 25–29 | 24–29 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 26–29 | 26–29 | 25–30 |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 26 | 23–28 | 23–29 | 23–29 | 23–30 |
@@ -1190,13 +1190,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.1% | 100% |  |
 | 23 | 3% | 99.9% |  |
-| 24 | 19% | 97% |  |
-| 25 | 25% | 78% |  |
-| 26 | 25% | 53% | Median |
-| 27 | 14% | 28% |  |
-| 28 | 8% | 14% |  |
-| 29 | 5% | 6% |  |
-| 30 | 0.9% | 1.0% |  |
+| 24 | 18% | 97% |  |
+| 25 | 28% | 79% |  |
+| 26 | 24% | 51% | Median |
+| 27 | 13% | 27% |  |
+| 28 | 9% | 14% |  |
+| 29 | 5% | 5% |  |
+| 30 | 0.5% | 0.7% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 

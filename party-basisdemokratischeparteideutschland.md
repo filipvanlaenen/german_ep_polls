@@ -579,9 +579,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0 | 0–1 |
 | [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0–1 | 0–1 | 0–1 |

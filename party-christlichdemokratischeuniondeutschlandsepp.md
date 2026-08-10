@@ -599,12 +599,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 16–19 | 16–19 | 14–19 | 14–20 |
-| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 16 | 16 | 16 | 14–16 | 14–17 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 17 | 16–19 | 16–19 | 15–19 | 14–20 |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 16 | 16 | 15–16 | 14–16 | 14–17 |
 | [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 17 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -1171,11 +1171,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 2% | 100% |  |
 | 14 | 4% | 98% |  |
-| 15 | 19% | 95% |  |
-| 16 | 30% | 75% | Median |
-| 17 | 24% | 45% |  |
-| 18 | 16% | 22% |  |
-| 19 | 5% | 6% |  |
+| 15 | 18% | 95% |  |
+| 16 | 31% | 77% | Median |
+| 17 | 25% | 46% |  |
+| 18 | 17% | 21% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0.5% | 0.6% |  |
 | 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |

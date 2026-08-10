@@ -583,7 +583,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 2 | 2 | 2 | 2 | 1–2 |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -1138,8 +1138,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 52% | 99.6% | Median |
-| 2 | 46% | 48% |  |
+| 1 | 53% | 99.6% | Median |
+| 2 | 44% | 47% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
