@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.4–1.7% | 0.3–2.0% | 0.2–2.4% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.7% | 0.4–1.9% | 0.3–2.2% | 0.2–2.6% |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.8% | N/A | N/A | N/A | N/A |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.6% | N/A | N/A | N/A | N/A |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 0.8% | N/A | N/A | N/A | N/A |
+| [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.9% | N/A | N/A | N/A | N/A |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 0.5% | N/A | N/A | N/A | N/A |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 0.9% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -561,9 +566,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 21% | 100% | Last Result |
-| 0.5–1.5% | 72% | 79% | Median |
-| 1.5–2.5% | 7% | 7% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 67% | 79% | Median |
+| 1.5–2.5% | 12% | 12% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -575,7 +580,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1–2 | 1–2 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 1 | 1 | 1 | 1 | 1 |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -1127,10 +1137,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 74% | 81% | Median |
-| 2 | 7% | 7% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 76% | 89% | Median |
+| 2 | 12% | 12% |  |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 

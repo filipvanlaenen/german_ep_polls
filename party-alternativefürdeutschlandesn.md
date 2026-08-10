@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.2% | 25.4–29.0% | 25.0–29.6% | 24.6–30.1% | 23.8–31.1% |
+| N/A | [Poll Average](average.html) | 27.3% | 25.6–29.2% | 25.1–29.8% | 24.7–30.3% | 23.8–31.3% |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | N/A | N/A | N/A | N/A |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28.0% | N/A | N/A | N/A | N/A |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 27.0% | N/A | N/A | N/A | N/A |
+| [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | N/A | N/A | N/A | N/A |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv | 27.0% | N/A | N/A | N/A | N/A |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | 26.4–29.7% | 25.9–30.2% | 25.5–30.6% | 24.8–31.4% |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 29.0% | 27.7–30.3% | 27.3–30.7% | 27.0–31.0% | 26.4–31.7% |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 28.0% | 26.2–29.8% | 25.7–30.4% | 25.3–30.8% | 24.4–31.7% |
@@ -585,14 +590,14 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.3% | 100% |  |
 | 23.5–24.5% | 2% | 99.7% |  |
-| 24.5–25.5% | 9% | 98% |  |
-| 25.5–26.5% | 21% | 88% |  |
-| 26.5–27.5% | 28% | 67% | Median |
-| 27.5–28.5% | 22% | 39% |  |
-| 28.5–29.5% | 12% | 17% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.3% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 8% | 98% |  |
+| 25.5–26.5% | 20% | 90% |  |
+| 26.5–27.5% | 28% | 71% | Median |
+| 27.5–28.5% | 23% | 43% |  |
+| 28.5–29.5% | 13% | 19% |  |
+| 29.5–30.5% | 5% | 7% |  |
+| 30.5–31.5% | 1.4% | 2% |  |
+| 31.5–32.5% | 0.3% | 0.3% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -605,6 +610,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 24–28 | 24–29 | 23–29 | 23–29 |
+| [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF |  |  |  |  |  |
+| [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS |  |  |  |  |  |
+| [24–27 July 2026](2026-07-27-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [21–27 July 2026](2026-07-27-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [20–24 July 2026](2026-07-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 25–28 | 25–29 | 25–29 | 24–29 |
 | [17–20 July 2026](2026-07-20-INSAandYouGov.html) | INSA and YouGov | 27 | 26–28 | 26–29 | 26–29 | 25–30 |
 | [15–20 July 2026](2026-07-20-GMS.html) | GMS | 26 | 23–28 | 23–29 | 23–29 | 23–30 |
@@ -1179,14 +1189,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 100% |  |
-| 23 | 3% | 99.8% |  |
-| 24 | 21% | 96% |  |
-| 25 | 31% | 76% | Median |
-| 26 | 19% | 45% |  |
-| 27 | 13% | 26% |  |
-| 28 | 7% | 12% |  |
-| 29 | 5% | 5% |  |
-| 30 | 0.2% | 0.3% |  |
+| 23 | 5% | 99.8% |  |
+| 24 | 23% | 95% |  |
+| 25 | 23% | 72% | Median |
+| 26 | 21% | 49% |  |
+| 27 | 13% | 28% |  |
+| 28 | 7% | 15% |  |
+| 29 | 8% | 8% |  |
+| 30 | 0.3% | 0.4% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
