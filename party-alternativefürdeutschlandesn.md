@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 25.7–29.2% | 25.2–29.8% | 24.8–30.2% | 24.0–31.2% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.9–29.4% | 25.4–29.9% | 25.0–30.4% | 24.1–31.2% |
+| [7–10 August 2026](2026-08-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.5% | 27.2–29.8% | 26.9–30.2% | 26.6–30.5% | 26.0–31.2% |
+| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | N/A | N/A | N/A | N/A |
+| [3–5 August 2026](2026-08-05-Infratestdimap.html) | Infratest dimap | 28.0% | 26.4–29.6% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
+| [31 July–3 August 2026](2026-08-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | N/A | N/A | N/A | N/A |
+| [28 July–3 August 2026](2026-08-03-Forsa.html) | Forsa <br> RTL n-tv | 28.0% | 26.7–29.4% | 26.3–29.8% | 26.0–30.1% | 25.3–30.8% |
+| [31 July–2 August 2026](2026-08-02-Ipsos.html) | Ipsos | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | 26.4–29.7% | 25.9–30.2% | 25.5–30.6% | 24.7–31.4% |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28.0% | 26.4–29.7% | 25.9–30.2% | 25.5–30.6% | 24.7–31.4% |
 | [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 27.0% | 25.5–28.5% | 25.1–29.0% | 24.8–29.3% | 24.1–30.1% |
@@ -588,15 +594,15 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.3% | 99.8% |  |
-| 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 19% | 92% |  |
-| 26.5–27.5% | 29% | 73% | Median |
-| 27.5–28.5% | 25% | 45% |  |
-| 28.5–29.5% | 14% | 20% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 1.3% | 2% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 1.0% | 99.8% |  |
+| 24.5–25.5% | 5% | 98.8% |  |
+| 25.5–26.5% | 14% | 94% |  |
+| 26.5–27.5% | 26% | 80% |  |
+| 27.5–28.5% | 27% | 54% | Median |
+| 28.5–29.5% | 18% | 27% |  |
+| 29.5–30.5% | 7% | 9% |  |
+| 30.5–31.5% | 2% | 2% |  |
 | 31.5–32.5% | 0.2% | 0.3% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -609,7 +615,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
+| [7–10 August 2026](2026-08-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 26–29 | 26–29 | 26–29 | 25–30 |
+| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–5 August 2026](2026-08-05-Infratestdimap.html) | Infratest dimap | 27 | 26–28 | 26–28 | 25–29 | 24–29 |
+| [31 July–3 August 2026](2026-08-03-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28 July–3 August 2026](2026-08-03-Forsa.html) | Forsa <br> RTL n-tv | 27 | 26–27 | 25–28 | 24–29 | 24–30 |
+| [31 July–2 August 2026](2026-08-02-Ipsos.html) | Ipsos | 27 | 25–27 | 25–28 | 24–29 | 23–29 |
 | [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 26 | 24–28 | 24–28 | 24–28 | 24–30 |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 25–28 | 25–29 | 24–30 | 24–30 |
 | [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 25 | 25–26 | 25–27 | 25–27 | 23–28 |
@@ -1189,14 +1201,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.1% | 100% |  |
-| 23 | 3% | 99.9% |  |
-| 24 | 18% | 97% |  |
-| 25 | 28% | 79% |  |
-| 26 | 24% | 51% | Median |
-| 27 | 13% | 27% |  |
-| 28 | 9% | 14% |  |
-| 29 | 5% | 5% |  |
-| 30 | 0.5% | 0.7% |  |
+| 23 | 2% | 99.9% |  |
+| 24 | 13% | 98% |  |
+| 25 | 21% | 85% |  |
+| 26 | 22% | 64% | Median |
+| 27 | 26% | 42% |  |
+| 28 | 11% | 16% |  |
+| 29 | 5% | 6% |  |
+| 30 | 0.8% | 0.9% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 

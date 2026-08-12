@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.5–6.1% | 3.2–6.7% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.5% | 3.7–5.8% | 3.5–6.1% | 3.2–6.6% |
+| [7–10 August 2026](2026-08-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.3% | 3.8–5.0% | 3.6–5.2% | 3.5–5.3% | 3.3–5.6% |
+| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | N/A | N/A | N/A | N/A |
+| [3–5 August 2026](2026-08-05-Infratestdimap.html) | Infratest dimap | 4.4% | 3.7–5.2% | 3.6–5.5% | 3.4–5.7% | 3.1–6.1% |
+| [31 July–3 August 2026](2026-08-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | N/A | N/A | N/A | N/A |
+| [28 July–3 August 2026](2026-08-03-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.8% |
+| [31 July–2 August 2026](2026-08-02-Ipsos.html) | Ipsos | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | 3.7–5.3% | 3.6–5.5% | 3.4–5.7% | 3.1–6.2% |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4.9% | 4.1–5.8% | 3.9–6.0% | 3.8–6.2% | 3.5–6.7% |
 | [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 4.4% | 3.8–5.2% | 3.6–5.4% | 3.4–5.6% | 3.2–6.0% |
@@ -569,10 +575,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 42% | 97% |  |
-| 4.5–5.5% | 45% | 55% | Median |
-| 5.5–6.5% | 10% | 10% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
+| 3.5–4.5% | 46% | 97% |  |
+| 4.5–5.5% | 42% | 51% | Median |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -584,7 +590,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [7–10 August 2026](2026-08-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [3–5 August 2026](2026-08-05-Infratestdimap.html) | Infratest dimap | 4 | 4 | 4–5 | 4–5 | 3–6 |
+| [31 July–3 August 2026](2026-08-03-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [28 July–3 August 2026](2026-08-03-Forsa.html) | Forsa <br> RTL n-tv | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [31 July–2 August 2026](2026-08-02-Ipsos.html) | Ipsos | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [27–31 July 2026](2026-07-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [28–30 July 2026](2026-07-30-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 4 | 4–5 | 3–5 | 3–6 | 3–7 |
 | [22–28 July 2026](2026-07-28-Verian.html) | Verian <br> FOCUS | 4 | 4 | 3–5 | 3–5 | 3–5 |
@@ -1144,11 +1156,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 54% | 95% | Median |
-| 5 | 28% | 41% |  |
-| 6 | 13% | 13% |  |
-| 7 | 0.4% | 0.4% |  |
+| 3 | 6% | 100% |  |
+| 4 | 60% | 94% | Median |
+| 5 | 21% | 34% |  |
+| 6 | 12% | 13% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 
