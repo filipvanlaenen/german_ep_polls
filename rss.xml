@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/german_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Aug 2026 11:47:55 +0200</pubDate>
+    <pubDate>Wed, 26 Aug 2026 18:02:02 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 17–21 August 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Partei Mensch Klima Tierschutz (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 26–29 seats&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2–4 seats&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 11–14 seats&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov-seats.png"
+        length="349518"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 18:02:02 +0200</pubDate>
+      <dc:date>2026-08-26T18:02:02.857804+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 17–21 August 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov-coalitions-seats.png"
+        length="208594"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 18:02:02 +0200</pubDate>
+      <dc:date>2026-08-26T18:02:02.857804+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSA and YouGov for BILD, 17–21 August 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sozialdemokratische Partei Deutschlands (S&amp;amp;D): 10.3–13.9%&lt;/li&gt;&lt;li&gt;Die PARTEI (NI): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Partei Mensch Klima Tierschutz (GUE/NGL): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Basisdemokratische Partei Deutschland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Alternative für Deutschland (ESN): 26.5–31.6%&lt;/li&gt;&lt;li&gt;Bündnis Sahra Wagenknecht (NI): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Die Linke (GUE/NGL): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Christlich Demokratische Union Deutschlands (EPP): 14.5–18.8%&lt;/li&gt;&lt;li&gt;Christlich-Soziale Union in Bayern (EPP): 3.4–5.7%&lt;/li&gt;&lt;li&gt;Bündnis 90/Die Grünen (Greens/EFA): 11.2–15.0%&lt;/li&gt;&lt;li&gt;Freie Wähler (RE): 1.4–3.1%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Freie Demokratische Partei (RE): 3.9–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/german_ep_polls/2026-08-21-INSAandYouGov.png"
+        length="406791"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 18:02:02 +0200</pubDate>
+      <dc:date>2026-08-26T18:02:02.857804+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Forschungsgruppe Wahlen, 17–19 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/german_ep_polls/2026-08-19-ForschungsgruppeWahlen.html#seats</link>
@@ -1539,6 +1569,6 @@
       <pubDate>Sat, 27 Jun 2026 16:04:19 +0200</pubDate>
       <dc:date>2026-06-27T16:04:19.050491+02:00</dc:date>
     </item>
-    <dc:date>2026-08-22T11:47:55.469335+02:00</dc:date>
+    <dc:date>2026-08-26T18:02:02.857804+02:00</dc:date>
   </channel>
 </rss>
