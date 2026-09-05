@@ -627,7 +627,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [25–31 August 2026](2026-08-31-Forsa.html) | Forsa <br> RTL n-tv | 18 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [24–28 August 2026](2026-08-28-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [19–25 August 2026](2026-08-25-Verian.html) | Verian <br> FOCUS | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [19–25 August 2026](2026-08-25-Verian.html) | Verian <br> FOCUS | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [21–24 August 2026](2026-08-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [18–24 August 2026](2026-08-24-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [17–21 August 2026](2026-08-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 14–17 | 14–17 | 13–19 |
@@ -1215,10 +1215,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 3% | 99.9% |  |
-| 14 | 10% | 97% |  |
-| 15 | 33% | 88% |  |
-| 16 | 26% | 55% | Median |
-| 17 | 17% | 29% |  |
+| 14 | 11% | 97% |  |
+| 15 | 31% | 86% |  |
+| 16 | 27% | 55% | Median |
+| 17 | 17% | 28% |  |
 | 18 | 11% | 11% |  |
 | 19 | 0.5% | 0.6% |  |
 | 20 | 0.1% | 0.1% |  |
