@@ -611,8 +611,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
-| [25–31 August 2026](2026-08-31-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [25–31 August 2026](2026-08-31-Forsa.html) | Forsa <br> RTL n-tv | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [24–28 August 2026](2026-08-28-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [19–25 August 2026](2026-08-25-Verian.html) | Verian <br> FOCUS | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [21–24 August 2026](2026-08-24-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1190,11 +1190,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 20% | 99.9% |  |
-| 4 | 36% | 80% | Median |
-| 5 | 29% | 44% |  |
-| 6 | 10% | 15% |  |
+| 2 | 0% | 100% |  |
+| 3 | 18% | 100% |  |
+| 4 | 39% | 81% | Median |
+| 5 | 30% | 43% |  |
+| 6 | 8% | 13% |  |
 | 7 | 5% | 5% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |

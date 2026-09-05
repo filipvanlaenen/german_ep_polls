@@ -616,8 +616,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
-| [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
-| [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
+| [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 11 | 11–12 | 10–13 | 10–13 | 9–14 |
+| [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 12 | 12–14 | 11–14 | 11–14 | 11–14 |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [25–31 August 2026](2026-08-31-Forsa.html) | Forsa <br> RTL n-tv | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [24–28 August 2026](2026-08-28-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1204,12 +1204,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
-| 9 | 8% | 99.8% |  |
-| 10 | 13% | 92% |  |
-| 11 | 38% | 79% | Median |
-| 12 | 30% | 41% |  |
-| 13 | 10% | 11% |  |
-| 14 | 1.1% | 1.1% |  |
-| 15 | 0% | 0% |  |
+| 9 | 7% | 99.8% |  |
+| 10 | 14% | 93% |  |
+| 11 | 39% | 78% | Median |
+| 12 | 28% | 39% |  |
+| 13 | 10% | 12% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
