@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 26.0–29.5% | 25.6–29.9% | 25.1–30.4% | 24.3–31.1% |
+| N/A | [Poll Average](average.html) | 27.6% | 26.0–29.3% | 25.5–29.8% | 25.1–30.2% | 24.3–31.0% |
+| [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28.0% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.5% |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 27.0% | 25.5–28.6% | 25.0–29.1% | 24.7–29.5% | 23.9–30.2% |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 27.0% | 25.8–28.3% | 25.4–28.6% | 25.1–28.9% | 24.6–29.5% |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.1% | 26.5–31.7% |
@@ -613,14 +614,14 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
 | 23.5–24.5% | 0.8% | 99.9% |  |
-| 24.5–25.5% | 4% | 99.2% |  |
-| 25.5–26.5% | 14% | 95% |  |
-| 26.5–27.5% | 26% | 81% |  |
-| 27.5–28.5% | 28% | 56% | Median |
-| 28.5–29.5% | 19% | 28% |  |
-| 29.5–30.5% | 7% | 9% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 4% | 99.1% |  |
+| 25.5–26.5% | 15% | 95% |  |
+| 26.5–27.5% | 28% | 80% |  |
+| 27.5–28.5% | 28% | 52% | Median |
+| 28.5–29.5% | 17% | 24% |  |
+| 29.5–30.5% | 6% | 7% |  |
+| 30.5–31.5% | 1.1% | 1.3% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -632,7 +633,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–29 | 24–29 | 22–30 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 24–29 | 22–30 |
+| [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27 | 24–28 | 24–29 | 24–29 | 24–30 |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 25 | 24–29 | 23–29 | 23–29 | 22–29 |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–29 | 26–30 | 26–30 | 25–31 |
@@ -1235,15 +1237,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.8% | 100% |  |
-| 23 | 1.5% | 99.2% |  |
-| 24 | 7% | 98% |  |
-| 25 | 19% | 91% |  |
-| 26 | 20% | 72% |  |
-| 27 | 28% | 52% | Median |
-| 28 | 12% | 24% |  |
-| 29 | 11% | 12% |  |
-| 30 | 1.1% | 1.4% |  |
-| 31 | 0.3% | 0.3% |  |
-| 32 | 0% | 0% |  |
+| 23 | 2% | 99.2% |  |
+| 24 | 8% | 98% |  |
+| 25 | 20% | 90% |  |
+| 26 | 22% | 70% | Median |
+| 27 | 31% | 48% |  |
+| 28 | 8% | 17% |  |
+| 29 | 8% | 8% |  |
+| 30 | 0.5% | 0.6% |  |
+| 31 | 0% | 0% |  |
 
 

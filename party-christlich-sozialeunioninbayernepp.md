@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.8–5.2% | 3.6–5.4% | 3.4–5.7% | 3.1–6.2% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.7–5.2% | 3.5–5.5% | 3.4–5.7% | 3.1–6.2% |
+| [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 2.9–6.0% |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 4.4% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% | 3.1–6.1% |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 4.4% | 3.9–5.1% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.3% | 3.8–4.9% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
@@ -608,6 +609,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -1191,8 +1193,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 10% | 100% |  |
-| 4 | 56% | 90% | Median |
-| 5 | 30% | 34% |  |
+| 4 | 55% | 90% | Median |
+| 5 | 31% | 35% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
