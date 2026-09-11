@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 15.0–18.1% | 14.6–18.7% | 14.3–19.2% | 13.6–20.1% |
+| N/A | [Poll Average](average.html) | 16.4% | 15.0–18.2% | 14.6–18.8% | 14.3–19.2% | 13.8–20.2% |
+| [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15.4% | 14.4–16.5% | 14.1–16.8% | 13.9–17.0% | 13.4–17.6% |
+| [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 16.6% | 15.5–17.7% | 15.2–18.1% | 14.9–18.4% | 14.4–18.9% |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
+| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix | 15.8% | N/A | N/A | N/A | N/A |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 16.6% | 15.3–18.0% | 15.0–18.4% | 14.7–18.7% | 14.1–19.4% |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 16.6% | 15.6–17.7% | 15.3–18.0% | 15.0–18.2% | 14.6–18.8% |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16.2% | 15.2–17.3% | 14.9–17.6% | 14.6–17.9% | 14.2–18.4% |
@@ -602,14 +605,14 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.4% | 100% |  |
-| 13.5–14.5% | 4% | 99.6% |  |
-| 14.5–15.5% | 17% | 95% |  |
-| 15.5–16.5% | 32% | 78% | Median |
-| 16.5–17.5% | 27% | 46% |  |
-| 17.5–18.5% | 13% | 19% |  |
-| 18.5–19.5% | 5% | 6% |  |
-| 19.5–20.5% | 1.2% | 1.4% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 4% | 99.7% |  |
+| 14.5–15.5% | 18% | 96% |  |
+| 15.5–16.5% | 31% | 78% | Median |
+| 16.5–17.5% | 26% | 46% |  |
+| 17.5–18.5% | 14% | 20% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 1.3% | 2% |  |
 | 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -622,8 +625,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
+| [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 17 | 15–17 | 14–17 | 13–17 | 13–17 |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix |  |  |  |  |  |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 16 | 15–18 | 15–18 | 14–18 | 14–18 |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 16 | 15–17 | 15–17 | 14–17 | 14–17 |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -1216,12 +1222,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 3% | 99.9% |  |
-| 14 | 12% | 97% |  |
-| 15 | 27% | 85% |  |
-| 16 | 29% | 58% | Median |
-| 17 | 18% | 29% |  |
-| 18 | 10% | 11% |  |
+| 13 | 4% | 99.9% |  |
+| 14 | 13% | 96% |  |
+| 15 | 26% | 84% |  |
+| 16 | 30% | 58% | Median |
+| 17 | 23% | 27% |  |
+| 18 | 4% | 5% |  |
 | 19 | 0.5% | 0.6% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
