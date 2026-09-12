@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.1–15.3% |
+| N/A | [Poll Average](average.html) | 12.6% | 11.3–14.1% | 11.0–14.5% | 10.7–14.8% | 10.2–15.4% |
 | [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.5% | 11.6–13.5% | 11.3–13.8% | 11.1–14.0% | 10.7–14.5% |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 12.0% | 11.1–13.0% | 10.8–13.3% | 10.6–13.6% | 10.1–14.1% |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
-| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix | 14.0% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix | 14.0% | 13.2–14.8% | 13.0–15.1% | 12.8–15.3% | 12.4–15.7% |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 13.0% | 11.8–14.2% | 11.5–14.6% | 11.2–14.9% | 10.7–15.5% |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.3–14.0% |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.6–13.5% | 10.2–14.0% |
@@ -602,13 +602,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 2% | 99.9% |  |
-| 10.5–11.5% | 15% | 98% |  |
-| 11.5–12.5% | 38% | 83% | Median |
-| 12.5–13.5% | 31% | 45% |  |
-| 13.5–14.5% | 11% | 14% |  |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 1.5% | 99.9% |  |
+| 10.5–11.5% | 14% | 98% |  |
+| 11.5–12.5% | 34% | 85% |  |
+| 12.5–13.5% | 30% | 51% | Median |
+| 13.5–14.5% | 17% | 21% |  |
+| 14.5–15.5% | 4% | 4% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -624,7 +624,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
-| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix |  |  |  |  |  |
+| [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 10–12 | 10–13 | 10–13 | 10–14 |
@@ -1213,12 +1213,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.4% | 100% |  |
-| 10 | 11% | 99.6% |  |
-| 11 | 30% | 88% |  |
-| 12 | 38% | 59% | Median |
-| 13 | 15% | 21% |  |
-| 14 | 4% | 6% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 10% | 99.7% |  |
+| 11 | 26% | 90% |  |
+| 12 | 34% | 63% | Median |
+| 13 | 21% | 29% |  |
+| 14 | 7% | 8% |  |
 | 15 | 1.3% | 1.4% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
