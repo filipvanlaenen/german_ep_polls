@@ -10,35 +10,37 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.6–5.0% | 3.4–5.3% | 3.3–5.5% | 3.0–6.0% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.6–5.0% | 3.4–5.3% | 3.3–5.5% | 3.0–6.0% |
+| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 2.9–6.0% |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.3–4.7% | 3.2–5.0% |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 3.8% | 3.3–4.5% | 3.1–4.6% | 3.0–4.8% | 2.8–5.1% |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | 3.8–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.1% |
 | [8–14 September 2026](2026-09-14-Forsa.html) | Forsa <br> RTL n-tv and Stern | 4.2% | 3.7–4.9% | 3.5–5.1% | 3.4–5.2% | 3.1–5.6% |
-| [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.4% |
+| [7–10 September 2026](2026-09-10-INSAandYouGov.html) | INSA and YouGov | 4.2% | N/A | N/A | N/A | N/A |
+| [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.9% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.4% |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 2.9–6.0% |
 | [27 August–3 September 2026](2026-09-03-pollytix.html) | pollytix | 4.2% | 3.8–4.7% | 3.6–4.9% | 3.5–5.0% | 3.3–5.2% |
 | [31 August–2 September 2026](2026-09-02-Infratestdimap.html) | Infratest dimap <br> ARD | 4.4% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% | 3.1–6.1% |
 | [26–31 August 2026](2026-08-31-Ipsos.html) | Ipsos | 4.4% | 3.9–5.1% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% |
-| [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.3% | 3.8–4.9% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
+| [28–31 August 2026](2026-08-31-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.4% | 3.8–4.9% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
 | [25–31 August 2026](2026-08-31-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.9% |
 | [24–28 August 2026](2026-08-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.2% | N/A | N/A | N/A | N/A |
 | [19–25 August 2026](2026-08-25-Verian.html) | Verian <br> FOCUS | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.4% | 3.0–5.8% |
-| [21–24 August 2026](2026-08-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.3% | N/A | N/A | N/A | N/A |
+| [21–24 August 2026](2026-08-24-INSAandYouGov.html) | INSA and YouGov <br> BILD | 6.1% | N/A | N/A | N/A | N/A |
 | [18–24 August 2026](2026-08-24-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | N/A | N/A | N/A | N/A |
 | [17–21 August 2026](2026-08-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.4–5.7% | 3.1–6.2% |
 | [17–19 August 2026](2026-08-19-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen | 4.6% | 3.9–5.5% | 3.7–5.8% | 3.5–6.0% | 3.2–6.5% |
 | [12–17 August 2026](2026-08-17-pollytix.html) | pollytix | 4.2% | 3.6–5.0% | 3.4–5.3% | 3.2–5.5% | 3.0–5.9% |
 | [14–17 August 2026](2026-08-17-YouGov.html) | YouGov | 4.2% | 3.6–4.9% | 3.5–5.1% | 3.3–5.2% | 3.1–5.6% |
-| [14–17 August 2026](2026-08-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.3% | 3.8–5.0% | 3.7–5.2% | 3.5–5.3% | 3.3–5.7% |
+| [14–17 August 2026](2026-08-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.0% | 3.8–5.0% | 3.7–5.2% | 3.5–5.3% | 3.3–5.7% |
 | [11–17 August 2026](2026-08-17-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.9% |
 | [10–14 August 2026](2026-08-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.2% | N/A | N/A | N/A | N/A |
 | [1–13 August 2026](2026-08-13-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 4.7% | 4.0–5.7% | 3.8–5.9% | 3.6–6.2% | 3.2–6.7% |
 | [7–10 August 2026](2026-08-10-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.3% | 3.8–5.0% | 3.6–5.2% | 3.5–5.3% | 3.3–5.6% |
 | [4–10 August 2026](2026-08-10-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% |
-| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.4% | N/A | N/A | N/A | N/A |
+| [3–7 August 2026](2026-08-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.3% | N/A | N/A | N/A | N/A |
 | [3–5 August 2026](2026-08-05-Infratestdimap.html) | Infratest dimap | 4.4% | 3.7–5.2% | 3.6–5.5% | 3.4–5.7% | 3.1–6.1% |
 | [31 July–3 August 2026](2026-08-03-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.4% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2026](2026-08-03-Forsa.html) | Forsa <br> RTL n-tv | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.8% |
@@ -552,7 +554,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 August 2024](2024-08-09-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
 | [5–7 August 2024](2024-08-07-Infratestdimap.html) | Infratest dimap | 6.7% | N/A | N/A | N/A | N/A |
 | [31 July–6 August 2024](2024-08-06-Verian.html) | Verian | 6.6% | N/A | N/A | N/A | N/A |
-| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
+| [2–5 August 2024](2024-08-05-INSAandYouGov.html) | INSA and YouGov | 6.4% | N/A | N/A | N/A | N/A |
 | [5 August 2024](2024-08-05-Forsa.html) | Forsa | 6.3% | N/A | N/A | N/A | N/A |
 | [2–4 August 2024](2024-08-04-Ipsos.html) | Ipsos | 6.3% | N/A | N/A | N/A | N/A |
 | [2 August 2024](2024-08-02-INSAandYouGov.html) | INSA and YouGov | 6.5% | N/A | N/A | N/A | N/A |
@@ -600,8 +602,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 8% | 100% |  |
-| 3.5–4.5% | 61% | 92% | Median |
+| 2.5–3.5% | 9% | 100% |  |
+| 3.5–4.5% | 61% | 91% | Median |
 | 4.5–5.5% | 28% | 30% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -617,11 +619,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 4 | 4 | 4–5 | 3–5 | 3–6 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 4 | 4 | 4 | 3–5 | 3–5 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [8–14 September 2026](2026-09-14-Forsa.html) | Forsa <br> RTL n-tv and Stern | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [7–10 September 2026](2026-09-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -1209,8 +1213,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 9% | 100% |  |
-| 4 | 66% | 91% | Median |
-| 5 | 24% | 25% |  |
+| 4 | 68% | 91% | Median |
+| 5 | 22% | 23% |  |
 | 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 

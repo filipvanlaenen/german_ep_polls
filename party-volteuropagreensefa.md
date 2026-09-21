@@ -11,11 +11,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.6% | 0.4–1.9% | 0.3–2.3% |
+| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 0.6% | 0.5–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [8–14 September 2026](2026-09-14-Forsa.html) | Forsa <br> RTL n-tv and Stern | 0.6% | 0.5–1.0% | 0.4–1.1% | 0.4–1.1% | 0.3–1.3% |
+| [7–10 September 2026](2026-09-10-INSAandYouGov.html) | INSA and YouGov | 1.1% | N/A | N/A | N/A | N/A |
 | [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
@@ -597,8 +599,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 17% | 100% | Last Result |
-| 0.5–1.5% | 77% | 83% | Median |
+| 0.0–0.5% | 18% | 100% | Last Result |
+| 0.5–1.5% | 76% | 82% | Median |
 | 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -613,11 +615,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 0–1 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1 | 1 | 1 | 0–2 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [8–14 September 2026](2026-09-14-Forsa.html) | Forsa <br> RTL n-tv and Stern | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [7–10 September 2026](2026-09-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–7 September 2026](2026-09-07-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–7 September 2026](2026-09-07-Forsa.html) | Forsa <br> RTL n-tv | 1 | 1 | 1 | 1 | 0–1 |
 | [31 August–4 September 2026](2026-09-04-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1201,8 +1205,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 80% | 87% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 78% | 85% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
