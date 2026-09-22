@@ -619,7 +619,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
-| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–5 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -1211,8 +1211,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.7% | 100% |  |
-| 2 | 23% | 99.3% |  |
-| 3 | 31% | 76% | Median |
+| 2 | 19% | 99.3% |  |
+| 3 | 34% | 80% | Median |
 | 4 | 28% | 46% |  |
 | 5 | 16% | 18% |  |
 | 6 | 2% | 2% |  |
