@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 26.1–30.2% | 25.7–30.9% | 25.3–31.4% | 24.6–32.6% |
+| N/A | [Poll Average](average.html) | 27.9% | 26.2–30.2% | 25.7–30.8% | 25.4–31.4% | 24.6–32.5% |
+| [22–24 September 2026](2026-09-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 28.0% | 26.5–29.6% | 26.0–30.1% | 25.7–30.5% | 25.0–31.2% |
+| [16–22 September 2026](2026-09-22-Verian.html) | Verian <br> FOCUS | 28.0% | 26.5–29.6% | 26.1–30.0% | 25.8–30.4% | 25.1–31.1% |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 27.0% | 25.7–28.3% | 25.3–28.7% | 25.0–29.1% | 24.4–29.7% |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 29.5% | 28.2–30.8% | 27.8–31.2% | 27.5–31.5% | 26.9–32.2% |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 29.0% | 27.4–30.8% | 26.9–31.2% | 26.5–31.7% | 25.8–32.5% |
@@ -629,12 +631,12 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.4% | 100% |  |
 | 24.5–25.5% | 3% | 99.6% |  |
 | 25.5–26.5% | 13% | 96% |  |
-| 26.5–27.5% | 24% | 83% |  |
-| 27.5–28.5% | 22% | 59% | Median |
+| 26.5–27.5% | 24% | 84% |  |
+| 27.5–28.5% | 23% | 59% | Median |
 | 28.5–29.5% | 18% | 36% |  |
-| 29.5–30.5% | 11% | 19% |  |
+| 29.5–30.5% | 11% | 18% |  |
 | 30.5–31.5% | 5% | 7% |  |
-| 31.5–32.5% | 2% | 2% |  |
+| 31.5–32.5% | 1.5% | 2% |  |
 | 32.5–33.5% | 0.4% | 0.5% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
@@ -648,7 +650,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 25–29 | 24–30 | 24–31 | 23–31 |
+| N/A | [Poll Average](average.html) | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
+| [22–24 September 2026](2026-09-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 26 | 26 | 26–28 | 25–29 |
+| [16–22 September 2026](2026-09-22-Verian.html) | Verian <br> FOCUS | 26 | 26–28 | 26–28 | 25–28 | 24–29 |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 26 | 26 | 25–26 | 25–26 | 24–27 |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–30 | 26–30 | 26–31 | 26–31 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 26 | 26–29 | 25–29 | 25–30 | 25–30 |
@@ -1265,16 +1269,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.4% | 100% |  |
-| 23 | 0.7% | 99.6% |  |
-| 24 | 6% | 98.8% |  |
-| 25 | 15% | 93% |  |
-| 26 | 28% | 78% | Median |
-| 27 | 25% | 50% |  |
-| 28 | 11% | 25% |  |
-| 29 | 9% | 14% |  |
+| 23 | 0.6% | 99.6% |  |
+| 24 | 5% | 99.0% |  |
+| 25 | 12% | 94% |  |
+| 26 | 38% | 82% | Median |
+| 27 | 20% | 44% |  |
+| 28 | 11% | 24% |  |
+| 29 | 8% | 13% |  |
 | 30 | 3% | 5% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.1% | 0.2% |  |
+| 31 | 2% | 2% |  |
+| 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.9% |
+| [22–24 September 2026](2026-09-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0.1% | 0.1–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
+| [16–22 September 2026](2026-09-22-Verian.html) | Verian <br> FOCUS | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
@@ -616,6 +618,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–24 September 2026](2026-09-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 0 | 0 | 0 | 0 | 0 |
+| [16–22 September 2026](2026-09-22-Verian.html) | Verian <br> FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 0 | 0 | 0 | 0 | 0–1 |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 0 | 0 | 0 | 0 | 0–1 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0 | 0–1 | 0–1 | 0–1 |
