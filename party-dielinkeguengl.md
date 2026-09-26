@@ -634,7 +634,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 12 | 11–12 | 10–12 | 10–13 | 10–13 |
-| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 9–11 | 8–11 | 7–11 | 7–12 |
+| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
@@ -1230,11 +1230,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.3% | 100% |  |
-| 8 | 0.7% | 99.7% |  |
-| 9 | 14% | 99.0% |  |
-| 10 | 24% | 85% |  |
-| 11 | 29% | 61% | Median |
+| 7 | 0.2% | 100% |  |
+| 8 | 1.4% | 99.8% |  |
+| 9 | 13% | 98% |  |
+| 10 | 24% | 86% |  |
+| 11 | 30% | 62% | Median |
 | 12 | 24% | 32% |  |
 | 13 | 6% | 8% |  |
 | 14 | 2% | 2% |  |

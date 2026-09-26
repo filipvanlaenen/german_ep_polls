@@ -648,12 +648,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–30 | 24–31 | 22–31 |
+| N/A | [Poll Average](average.html) | 26 | 25–29 | 24–30 | 24–31 | 23–31 |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 26 | 26 | 25–26 | 25–26 | 24–27 |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–30 | 26–30 | 26–31 | 26–31 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 26 | 26–29 | 25–29 | 25–30 | 25–30 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 26 | 25–26 | 25–27 | 25–28 | 24–28 |
-| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 27 | 24–29 | 23–30 | 22–30 | 22–30 |
+| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 27 | 25–29 | 24–30 | 23–30 | 22–30 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 27 | 27–28 | 27–29 | 27–29 | 26–30 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–30 | 26–30 | 26–30 | 25–30 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 29 | 26–31 | 26–31 | 26–31 | 25–32 |
@@ -1264,15 +1264,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.7% | 100% |  |
-| 23 | 0.6% | 99.3% |  |
-| 24 | 6% | 98.7% |  |
-| 25 | 16% | 93% |  |
-| 26 | 26% | 76% |  |
-| 27 | 24% | 51% | Median |
-| 28 | 12% | 26% |  |
-| 29 | 9% | 15% |  |
-| 30 | 3% | 6% |  |
+| 22 | 0.4% | 100% |  |
+| 23 | 0.7% | 99.6% |  |
+| 24 | 6% | 98.8% |  |
+| 25 | 15% | 93% |  |
+| 26 | 28% | 78% | Median |
+| 27 | 25% | 50% |  |
+| 28 | 11% | 25% |  |
+| 29 | 9% | 14% |  |
+| 30 | 3% | 5% |  |
 | 31 | 2% | 3% |  |
 | 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0% |  |

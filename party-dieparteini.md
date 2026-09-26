@@ -621,7 +621,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 1 | 1 | 1–2 | 1–2 | 0–2 |

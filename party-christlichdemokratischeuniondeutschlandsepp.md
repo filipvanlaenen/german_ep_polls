@@ -635,12 +635,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 12–20 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–19 | 13–19 | 12–19 |
 | [15–22 September 2026](2026-09-22-Forsa.html) | Forsa <br> RTL n-tv | 14 | 14 | 14–15 | 14–15 | 14–16 |
 | [18–21 September 2026](2026-09-21-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [14–18 September 2026](2026-09-18-INSAandYouGov.html) | INSA and YouGov | 15 | 14–15 | 14–15 | 13–16 | 12–18 |
 | [14–16 September 2026](2026-09-16-pollytix.html) | pollytix <br> Campact | 14 | 14–15 | 14–15 | 14–16 | 13–16 |
-| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| [4–16 September 2026](2026-09-16-Allensbach.html) | Allensbach <br> Frankfurter Allgemeine Zeitung | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
 | [11–14 September 2026](2026-09-14-YouGov.html) | YouGov | 13 | 13 | 13–14 | 13–14 | 12–15 |
 | [11–14 September 2026](2026-09-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [9–14 September 2026](2026-09-14-GMS.html) | GMS | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
@@ -1245,11 +1245,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 14% | 99.3% |  |
 | 14 | 28% | 85% |  |
 | 15 | 25% | 57% | Median |
-| 16 | 15% | 32% |  |
-| 17 | 10% | 17% |  |
-| 18 | 5% | 7% |  |
-| 19 | 1.4% | 2% |  |
-| 20 | 0.5% | 0.5% |  |
-| 21 | 0% | 0% |  |
+| 16 | 16% | 33% |  |
+| 17 | 9% | 17% |  |
+| 18 | 3% | 8% |  |
+| 19 | 5% | 5% |  |
+| 20 | 0.4% | 0.5% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
