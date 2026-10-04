@@ -654,8 +654,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
-| [25–28 September 2026](2026-09-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–29 | 26–30 | 26–30 | 26–30 |
-| [22–28 September 2026](2026-09-28-Forsa.html) | Forsa <br> RTL n-tv | 25 | 25–26 | 24–26 | 24–26 | 23–27 |
+| [25–28 September 2026](2026-09-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–29 | 27–30 | 26–30 | 26–30 |
+| [22–28 September 2026](2026-09-28-Forsa.html) | Forsa <br> RTL n-tv | 25 | 25–26 | 24–26 | 23–27 | 23–27 |
 | [21–25 September 2026](2026-09-25-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [22–24 September 2026](2026-09-24-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 26 | 26 | 26 | 26–28 | 25–29 |
 | [16–22 September 2026](2026-09-22-Verian.html) | Verian <br> FOCUS | 26 | 26–28 | 26–28 | 25–28 | 24–29 |
@@ -1276,13 +1276,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.4% | 100% |  |
 | 23 | 0.8% | 99.6% |  |
-| 24 | 5% | 98.8% |  |
+| 24 | 6% | 98.7% |  |
 | 25 | 19% | 93% |  |
-| 26 | 31% | 75% | Median |
+| 26 | 30% | 74% | Median |
 | 27 | 18% | 44% |  |
-| 28 | 14% | 26% |  |
-| 29 | 7% | 12% |  |
-| 30 | 2% | 4% |  |
+| 28 | 12% | 26% |  |
+| 29 | 9% | 14% |  |
+| 30 | 3% | 5% |  |
 | 31 | 2% | 2% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
