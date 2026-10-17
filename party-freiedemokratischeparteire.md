@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.3–5.4% | 2.9–5.6% | 2.7–5.9% | 2.3–6.4% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.3–5.3% | 3.0–5.6% | 2.7–5.8% | 2.3–6.4% |
+| [9–12 October 2026](2026-10-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
+| [6–12 October 2026](2026-10-12-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [5–9 October 2026](2026-10-09-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.0% | N/A | N/A | N/A | N/A |
+| [5–7 October 2026](2026-10-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [2–5 October 2026](2026-10-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [29 September–5 October 2026](2026-10-05-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [30 September–4 October 2026](2026-10-04-Ipsos.html) | Ipsos <br> DER SPIEGEL | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [28 September–2 October 2026](2026-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.0% | N/A | N/A | N/A | N/A |
 | [28–30 September 2026](2026-09-30-Infratestdimap.html) | Infratest dimap <br> ARD | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [25–28 September 2026](2026-09-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -613,11 +618,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.4% | 100% |  |
-| 2.5–3.5% | 16% | 98.6% |  |
-| 3.5–4.5% | 42% | 83% | Median |
-| 4.5–5.5% | 35% | 41% |  |
-| 5.5–6.5% | 6% | 6% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 15% | 98% |  |
+| 3.5–4.5% | 46% | 84% | Median |
+| 4.5–5.5% | 32% | 38% |  |
+| 5.5–6.5% | 5% | 6% |  |
 | 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -630,9 +635,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [9–12 October 2026](2026-10-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [6–12 October 2026](2026-10-12-Forsa.html) | Forsa <br> RTL n-tv | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [5–9 October 2026](2026-10-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
+| [5–7 October 2026](2026-10-07-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [2–5 October 2026](2026-10-05-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [29 September–5 October 2026](2026-10-05-Forsa.html) | Forsa <br> RTL n-tv | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [30 September–4 October 2026](2026-10-04-Ipsos.html) | Ipsos <br> DER SPIEGEL | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [28 September–2 October 2026](2026-10-02-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [28–30 September 2026](2026-09-30-Infratestdimap.html) | Infratest dimap <br> ARD | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [25–28 September 2026](2026-09-28-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -1235,11 +1245,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 23% | 99.7% |  |
-| 4 | 34% | 77% | Median |
-| 5 | 39% | 43% |  |
-| 6 | 4% | 4% |  |
+| 2 | 1.0% | 100% |  |
+| 3 | 24% | 99.0% |  |
+| 4 | 40% | 75% | Median |
+| 5 | 31% | 35% |  |
+| 6 | 3% | 3% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
