@@ -665,7 +665,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–19 October 2026](2026-10-19-GMS.html) | GMS | 15 | 13–15 | 13–17 | 12–17 | 12–17 |
 | [13–19 October 2026](2026-10-19-Forsa.html) | Forsa <br> RTL n-tv | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [12–16 October 2026](2026-10-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 14 | 13–14 | 12–15 | 12–15 | 11–16 |
-| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 14 | 13–14 | 12–14 | 12–15 | 12–15 |
+| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 14 | 13–14 | 12–14 | 12–15 | 12–16 |
 | [9–12 October 2026](2026-10-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 12 | 12–13 | 12–14 | 12–15 | 12–15 |
 | [6–12 October 2026](2026-10-12-Forsa.html) | Forsa <br> RTL n-tv | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [5–9 October 2026](2026-10-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1286,8 +1286,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 0.8% | 99.9% |  |
 | 12 | 8% | 99.1% |  |
-| 13 | 13% | 91% |  |
-| 14 | 30% | 78% | Median |
+| 13 | 14% | 91% |  |
+| 14 | 29% | 77% | Median |
 | 15 | 30% | 48% |  |
 | 16 | 13% | 18% |  |
 | 17 | 3% | 5% |  |

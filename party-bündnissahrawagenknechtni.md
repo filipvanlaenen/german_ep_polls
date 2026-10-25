@@ -644,7 +644,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
 | [20–22 October 2026](2026-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [14–20 October 2026](2026-10-20-Verian.html) | Verian <br> FOCUS | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [16–19 October 2026](2026-10-19-pollytix.html) | pollytix | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -653,7 +653,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–19 October 2026](2026-10-19-GMS.html) | GMS | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [13–19 October 2026](2026-10-19-Forsa.html) | Forsa <br> RTL n-tv | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [12–16 October 2026](2026-10-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [9–12 October 2026](2026-10-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [6–12 October 2026](2026-10-12-Forsa.html) | Forsa <br> RTL n-tv | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [5–9 October 2026](2026-10-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1263,9 +1263,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 10% | 100% |  |
-| 3 | 39% | 90% |  |
-| 4 | 32% | 51% | Median |
+| 2 | 11% | 100% |  |
+| 3 | 39% | 89% | Median |
+| 4 | 31% | 50% |  |
 | 5 | 14% | 19% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.2% | 0.2% |  |

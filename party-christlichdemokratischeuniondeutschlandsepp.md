@@ -659,7 +659,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–20 | 12–20 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–19 | 12–20 | 12–20 |
 | [20–22 October 2026](2026-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 18 | 16–20 | 16–20 | 15–20 | 15–20 |
 | [14–20 October 2026](2026-10-20-Verian.html) | Verian <br> FOCUS | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [16–19 October 2026](2026-10-19-pollytix.html) | pollytix | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
@@ -668,7 +668,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–19 October 2026](2026-10-19-GMS.html) | GMS | 15 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [13–19 October 2026](2026-10-19-Forsa.html) | Forsa <br> RTL n-tv | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [12–16 October 2026](2026-10-16-INSAandYouGov.html) | INSA and YouGov <br> BILD | 13 | 13–15 | 12–16 | 12–16 | 11–16 |
-| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 16 | 16–17 | 16–17 | 16–18 | 15–20 |
+| [2–16 October 2026](2026-10-16-Allensbach.html) | Allensbach | 16 | 16–18 | 16–19 | 15–20 | 14–20 |
 | [9–12 October 2026](2026-10-12-INSAandYouGov.html) | INSA and YouGov <br> BILD | 15 | 14–15 | 13–15 | 13–15 | 12–16 |
 | [6–12 October 2026](2026-10-12-Forsa.html) | Forsa <br> RTL n-tv | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [5–9 October 2026](2026-10-09-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
@@ -1292,10 +1292,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 12% | 96% |  |
 | 14 | 20% | 84% |  |
 | 15 | 23% | 63% | Median |
-| 16 | 24% | 41% |  |
+| 16 | 23% | 41% |  |
 | 17 | 11% | 17% |  |
-| 18 | 1.2% | 6% |  |
-| 19 | 1.3% | 4% |  |
+| 18 | 1.5% | 7% |  |
+| 19 | 2% | 5% |  |
 | 20 | 3% | 3% |  |
 | 21 | 0% | 0% |  |
 
