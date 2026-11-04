@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 2.8–5.3% | 2.6–5.6% | 2.4–5.8% | 2.1–6.3% |
+| [23–26 October 2026](2026-10-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [20–26 October 2026](2026-10-26-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [20–22 October 2026](2026-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [14–20 October 2026](2026-10-20-Verian.html) | Verian <br> FOCUS | 3.0% | 2.5–3.7% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [16–19 October 2026](2026-10-19-pollytix.html) | pollytix | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.9–6.2% | 3.6–6.7% |
@@ -409,7 +411,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3.0% | N/A | N/A | N/A | N/A |
 | [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | N/A | N/A | N/A | N/A |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD | 3.0% | N/A | N/A | N/A | N/A |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach | 3.0% | N/A | N/A | N/A | N/A |
+| [27 February–11 March 2025](2025-03-11-Allensbach.html) | Allensbach <br> FAZ | 3.0% | N/A | N/A | N/A | N/A |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov | 3.5% | N/A | N/A | N/A | N/A |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv | 4.0% | N/A | N/A | N/A | N/A |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov | 4.0% | N/A | N/A | N/A | N/A |
@@ -629,7 +631,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
 | 2.5–3.5% | 27% | 96% |  |
-| 3.5–4.5% | 38% | 69% | Median |
+| 3.5–4.5% | 37% | 69% | Median |
 | 4.5–5.5% | 26% | 31% |  |
 | 5.5–6.5% | 5% | 5% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -645,6 +647,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| [23–26 October 2026](2026-10-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [20–26 October 2026](2026-10-26-Forsa.html) | Forsa <br> RTL n-tv | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [20–22 October 2026](2026-10-22-ForschungsgruppeWahlen.html) | Forschungsgruppe Wahlen <br> ZDF | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [14–20 October 2026](2026-10-20-Verian.html) | Verian <br> FOCUS | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [16–19 October 2026](2026-10-19-pollytix.html) | pollytix | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
@@ -1043,7 +1047,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–17 March 2025](2025-03-17-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
 | [11–17 March 2025](2025-03-17-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [10–14 March 2025](2025-03-14-INSAandYouGov.html) | INSA and YouGov <br> BILD |  |  |  |  |  |
-| [11 March 2025](2025-03-11-Allensbach.html) | Allensbach |  |  |  |  |  |
+| [27 February–11 March 2025](2025-03-11-Allensbach.html) | Allensbach <br> FAZ |  |  |  |  |  |
 | [7–10 March 2025](2025-03-10-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
 | [4–10 March 2025](2025-03-10-Forsa.html) | Forsa <br> RTL n-tv |  |  |  |  |  |
 | [3–7 March 2025](2025-03-07-INSAandYouGov.html) | INSA and YouGov |  |  |  |  |  |
@@ -1264,9 +1268,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 10% | 100% |  |
-| 3 | 28% | 90% |  |
-| 4 | 35% | 62% | Median |
-| 5 | 25% | 28% |  |
+| 3 | 30% | 90% |  |
+| 4 | 34% | 60% | Median |
+| 5 | 25% | 26% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
