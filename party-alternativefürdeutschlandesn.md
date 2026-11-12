@@ -677,9 +677,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–28 | 23–29 | 23–30 | 22–31 |
-| [2–6 November 2026](2026-11-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 27 | 26–29 | 25–29 | 25–30 | 25–31 |
-| [2–4 November 2026](2026-11-04-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 24–27 | 24–27 | 22–28 | 22–29 |
+| N/A | [Poll Average](average.html) | 27 | 24–29 | 23–29 | 23–30 | 22–31 |
+| [2–6 November 2026](2026-11-06-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 26–29 | 26–29 | 25–29 | 25–31 |
+| [2–4 November 2026](2026-11-04-Infratestdimap.html) | Infratest dimap <br> ARD | 26 | 24–27 | 23–28 | 23–28 | 22–28 |
 | [30 October–2 November 2026](2026-11-02-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 26–28 | 26–28 | 25–28 | 24–29 |
 | [27 October–2 November 2026](2026-11-02-Forsa.html) | Forsa <br> RTL n-tv | 27 | 24–27 | 24–27 | 22–27 | 22–27 |
 | [23–26 October 2026](2026-10-26-INSAandYouGov.html) | INSA and YouGov <br> BILD | 28 | 27–29 | 26–29 | 26–30 | 26–30 |
@@ -1322,16 +1322,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.9% | 100% |  |
-| 23 | 8% | 99.1% |  |
-| 24 | 7% | 91% |  |
-| 25 | 14% | 84% |  |
-| 26 | 17% | 70% |  |
-| 27 | 28% | 53% | Median |
-| 28 | 15% | 25% |  |
-| 29 | 7% | 10% |  |
+| 22 | 0.8% | 100% |  |
+| 23 | 9% | 99.2% |  |
+| 24 | 7% | 90% |  |
+| 25 | 13% | 84% |  |
+| 26 | 17% | 71% |  |
+| 27 | 27% | 54% | Median |
+| 28 | 15% | 28% |  |
+| 29 | 9% | 12% |  |
 | 30 | 2% | 3% |  |
-| 31 | 1.0% | 1.5% |  |
+| 31 | 0.9% | 1.4% |  |
 | 32 | 0.4% | 0.5% |  |
 | 33 | 0% | 0% |  |
 
